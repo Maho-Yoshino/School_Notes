@@ -1,0 +1,31 @@
+1. Feladat
+Írj egy programot, amely 5 darab véletlenszámot generál [1;7] intervallumon, és ezeket eltárolja egy listában. Kérjen be a felhasználótól egy számot, és vizsgálja meg, hogy ez előfordul-e a listában! Az eredményről tájékoztassa a felhasználót, és írja ki a lista elemeit a képernyőre!
+
+2. Feladat
+A program tároljon el egy szót egy változóban, majd írja ki egymás alá a szóban található betűket.
+Próbáld ki!
+
+3. Feladat
+A program tároljon el egy szót egy változóban. A felhasználó adjon meg egy betűt, amiről a program döntse el, hogy előfordul-e a szóban! Az eredményről tájékoztassa a felhasználót, és írja ki a tárolt szót is!
+
+4. Feladat
+Fejlesszük tovább a 3. programot úgy, hogy a felhasználónak többször is legyen lehetősége újabb tippet megadnia. A bekérés addig folytatódjon, amíg a felhasználó nem ad meg betűt, csupán egy ENTER-t üt!
+
+Igyekezz minél felhasználóbarátabbá tenni a programot! A programnak lehetnek egyéb hasznos funkciói, például gyűjtheti és kiírhatja a jó és a rossz tippeket (betűket).
+
+5. Feladat
+Fejlesszük tovább a 4. programot úgy, hogy a program egy listában tároljon öt darab szót, és abból véletlenszerűen válasszon egyet, aminek kapcsán a felhasználó megpróbálja kitalálni a betűit.
+
+6.  Feladat
+Torpedó játék egyszerűsített változata. A játéktér legyen egy 3x3-as négyzetalakú rács, amiben az oszlopokat betűk (A, B, C), a sorokat számok (1, 2, 3) jelölik. A program helyezzen el egy darab egy egység kiterjedésű hajót a játéktérben véletlenszerűen (Pl: B2). A játékos próbálja meg kitalálni a hajó pozícióját újabb és újabb tippek megadásával. A játék végén a program azt is írja ki a képernyőre, hogy hány próbálkozásból tudta a játékos kitalálni a pozíciót!
+
+7. Feladat
+A program kérjen be egy szöveget!
+
+Határozza meg és írja ki a képernyőre, hogy
+- az adott szövegben volt-e,
+- ha igen akkor hány darab,
+- és hányadik helyen / helyeken (a legelső hely az egyes számú)
+”a”, ”e”, ”i” , ”o” vagy ”u” magánhangzó!
+
+Mindegyik magánhangzóra külön-külön adja meg az információkat!

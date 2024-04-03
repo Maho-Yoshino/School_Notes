@@ -1,0 +1,22 @@
+másodfokú függvények
+EWlemzés: ért.tart, ért.készlet, zérushely, monoton le/fel, szélsőértékek, páros/nem páros
+
+1. f(x)=(y-2)²+3
+ért.t:R
+ért.k:y>=3
+zérushely:-
+monoton le:x<=2
+monoton fel:x>=2
+max:-
+min:(2,3)
+páros:nem
+
+2. f(y)=x²-5x+6
+ért.t:R
+ért.k:y>=-0.25
+zérushely:2,3
+monoton le:x<=2.5
+monoton fel:x>=2.5
+max:-
+min:(2.5, -0.25)
+páros:nem
