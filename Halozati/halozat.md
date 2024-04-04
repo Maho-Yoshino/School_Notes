@@ -175,3 +175,39 @@ Szerver oldal:
 4. A .com névkiszolgálójától lekéri a keresett IP címet
 5. Megkérdezi a google.com névkiszolgálójától a keresett IP címet
 Output: 142.251.39.14
+
+# További alkalmazási réteg-beli protokollok
+## Email
+1. Levélküldés protokollja: SMTP (Simple Mail Transfer Protocol)
+Feladata: Levél -> címzett postaládája
+TCP 25
+2. Levél letöltés/fogadás: Postaláda -> Címzett 
+   - PoP3
+	TCP 110
+	Csak letölt és töröl a postaládából
+   - IMAP
+	TCP 143
+	Rendezési lehetőségek és letöltés
+## Fájlátviteli protokolok
+### FTP (File Transfer Protocol)
+- Bejelentkezés másik számítógépbe és onnan fájlok le/feltöltése
+- TCP 21 (Parancsok), TCP 20 (Adatátvitel)
+### TFTP (Trivial FTP)
+- Egyszerűsített FTP
+- Nincs bejelentkezés
+- Csak letölt, feltölt
+- Közeli helyekre fájlátvitel
+- Hálózati Boot konfig fájlok átvitele (UDP 69)
+## Távoli bejelentkezés
+- Egy másik számítógépre bejelentkezés, és ott parancsok végrehajtása
+  - Telnet (Nem titkosított, TCP 23)
+  - SSH (Titkosított, TCP 22)
+  - Távoli asztal (Windows, TCP 3389)
+- SMB (Server message block)
+  - Windows fájlelérési protokolja
+  - TCP 139, 445
+## Hálózat felügyeleti protokolok
+### SNMP (Simple Network Management Protocol)
+- UDP 161, 162
+### Syslog
+- UDP 512
