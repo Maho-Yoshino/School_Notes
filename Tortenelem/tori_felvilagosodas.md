@@ -1,8 +1,8 @@
 # Felvilágosodás
 ### C:\Users\user\Documents\Iskola\2023-2024\Tortenelem\Felvilágosodás feladatlap.docx
 ## Fogalmak
-- Empirizmus: Emberi ésszel való megismerése a világnak
-- Racionalizmus: tapasztalatból megismerni a világot
+- Empirizmus: tapasztalatból megismerni a világot
+- Racionalizmus: Emberi ésszel való megismerése a világnak
 - Scholasztika: Az ókori filozófikus irányzat utódja, célja kereszténység hitelvek támogatása
 - Mechanikus világkép: A világ matematikailag megfogalmazható 
 - A felvilágosodás lényege:
