@@ -30,15 +30,12 @@ A felvilágosodás előzményei:
 - Humanizmus
 - Új filozófiai eszmék (Empirizmus, Racionalizmus, Mechanikus világkép)
 - Tudományos fejlődés
-A felvilágosodás definíciója: A felvilágosodás egy eszmeáramlatnak tekinthető, amely kiterjedt a vallási, gazdasági, államberendezkedési, társadalmi és kulturális terültekre is, és ezeken belül sem egy egységes program jelent meg, hanem különféle elképzelések. 
-Kiindulási pont: Anglia, 18. sz
-Elterjedési pont: a franciák átvették, és mivel a francia kultúra volt a divat, ezért majdnem mindenhova eljutott
-Társadalmi elterjedtség: A polgárságban (akik változásra hajlandóak voltak)
--||- segítő dolgok: szalonok, a szabadkőművészet, analfabétizmus csökkenése, francia kultúra népszerűsége, újságok és könyvek szélesebb körbe jutása és polgárság megerősödése
-### Hf: Jellemzők:
-Nevelés, Oktatás, Racionalizmus, természettudomány fejlődése, tolerancia, szabadság
-
-2024.04.04 Doga
+# A felvilágosodás definíciója: A felvilágosodás egy eszmeáramlatnak tekinthető, amely kiterjedt a vallási, gazdasági, államberendezkedési, társadalmi és kulturális terültekre is, és ezeken belül sem egy egységes program jelent meg, hanem különféle elképzelések. 
+- Kiindulási pont: Anglia, 18. sz
+- Elterjedési pont: a franciák átvették, és mivel a francia kultúra volt a divat, ezért majdnem mindenhova eljutott
+- Társadalmi elterjedtség: A polgárságban (akik változásra hajlandóak voltak)
+- -||- segítő dolgok: szalonok, a szabadkőművészet, analfabétizmus csökkenése, francia kultúra népszerűsége, újságok és könyvek szélesebb körbe jutása és polgárság megerősödése
+- Jellemzők: Nevelés, Oktatás, Racionalizmus, természettudomány fejlődése, tolerancia, szabadság
 
 Vallási elképzelések: Deizmus, Atheizmus
 Társadalmi elképzelések: Utópia, Disztópia, Társadalmi szerződés tana
@@ -49,4 +46,4 @@ Politikai elképzelések: Szólásszabadság, nevelés
 3 dolog Rousseauról:
 1. Képviseleti rendszer elvetése
 2. Magántulajdon a problémája az emberiségnek
-3. 
+3. -
