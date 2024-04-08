@@ -8,3 +8,18 @@ A szabadságharc 1711ben ér véget, először lengyel, majd francia földön re
 3. Mikes Kelemen irodalmi levél műfajában örökíti meg a száműzöttek ls a fejedelem rodostói életét
 Mikes fiktív irodalmi leveleket írt, melyet Törökországi levelek címen ismerünk ma
 207 levelet írt, a levelek címzettje egy fiktív személy, P.E. monogrammal 
+"Édes néném!" P.E. monogrammal jelzett fiktív személy
+a levelek témái változatosak:
+pl. 
+- Utazás körülményei, 1. levél
+- Rosotó társadalma, népessége, kultúrája, vallási sokszínűség (örmény keresztény, iszlám hitű a török lakosság)
+- Szórakozás vendéglátás, szokások
+- A száműzöttek és fejedelem hétköznapjai
+1. levél:
+Szgy 76
+Keletkezés a levelek elején van
+Gallipoliból írta az első levelet
+Anno (év) 1717
+10.octobris = október 10.
+
+kéd = kend maga = kegyelemed szóból ered, jelentése: maga
