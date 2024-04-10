@@ -23,3 +23,16 @@ Anno (év) 1717
 10.octobris = október 10.
 
 kéd = kend maga = kegyelemed szóból ered, jelentése: maga
+37.levél (szgy. 77)
+1. bekezdés:
+	a, első mondat ironikus megjegyzést tartalmaz "... úgy szeretem Rodostót, hogy el nem felejthezem Zágont" tehát valójában nem szereti és honvágya van
+	b, a bekezdés további része kultúrtörténeti érdekesség: a környék mezőgazdasági adottságáról ls tevékenységéről szól: szőlőtermesztés és gyapottermesztés
+2. bekezdés:
+	a, a városrük, a közbiztonságról és először
+    - A házakon nincs ablak (az utcára nézőből) -> a nők nem nézhettek ki az utcára
+    - Janicsárok vigyáztak a magyarokra ->javult a közbiztonság
+    - Bercsényi Miklósról Rákóczi harcostársáról tesz említést, akit ritkán látogatnak meg
+3. Bekezdés
+a fejedelem háza, annak rendtartása
+hatodfél = negyed óra
+3 fertály 5 = 3 negyed 5
