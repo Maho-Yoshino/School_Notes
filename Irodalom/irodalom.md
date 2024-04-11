@@ -36,3 +36,19 @@ kéd = kend maga = kegyelemed szóból ered, jelentése: maga
 a fejedelem háza, annak rendtartása
 hatodfél = negyed óra
 3 fertály 5 = 3 negyed 5
+4. Bekezdés: "Rendtartás"
+	Mikes részletesen leírja, hogyan zajlik a fejedelem és a száműzöttek egy napja reggeltől estig
+	pl. 
+		- Misére, imádkozni mikoir megy Rákóczi
+		- Dobolnak reggeli, ebéd ls vacsora előtt
+	Mikes, mint Komornyikja is a fejedelemnek, segíti urát a mindennapi dolgokban
+5. Bekezdés
+	- Hetente kétszer lóra ül és vadászik (nyúl, fogoly)
+	- Sokat írt Rákóczi 
+	pl. megírja emlékiratait latinul, Vallomások címmel
+	Nincs kivel társalogni (nyelvi, kulturális okok miatt)
+	Mikes humorán a példa:
+		gyakran látohatják Bercsényit és családját, ahol hölgyek is élnek. Mikes meghallgatja az asszonyok beszédét, de soha nem emlékszik miről is volt szó
+	Mikes Szívesen olvasta Nagy Sándor históriáját
+6. Bekezdés (Levél zárása)
+	Magáról röviden ír, inkább urát sajnálja a köszvény miatt

@@ -211,3 +211,19 @@ TCP 25
 - UDP 161, 162
 ### Syslog
 - UDP 512
+
+# Alapvizsga fogalmak
+## Elektronikai fogalmak (1 kérdés)
+P=UI
+U=RI
+P = W
+I = A
+U = V
+R = Ω
+
+- Soros kapcsolás (Re=P1+P2)
+- Párhuzamos kapcsolás (Re=(R1 * R2)/(R2 + R1))
+(ellenállások)
+
+1 kérdés lesz ezekből
+## Operációs rendszer telepítése, frissítése (3 kérdés)
