@@ -31,4 +31,8 @@ A szövegkohézió lehet:
 - Globális, vagyis a szöveg egészére vonatkozó pl. téma,cím
 - Lineáris, egyenes vonalú kohézió, amikor a szöveg kisebb egységet vizsgáljuk, pl. bekezdés, versszak, fejezetek, jelenetek
 A jelentésben kapcsolóelemek:
-- Téma-Réma (Téma -> Ismert információ a szövegben, Réma -> Egy új információ a szövegben)
+- Téma-Réma (
+  - Téma -> Ismert információ a szövegben
+  - Réma -> Egy új információ a szövegben
+)
+- 
