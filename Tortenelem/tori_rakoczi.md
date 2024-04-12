@@ -17,8 +17,13 @@
 	A spanyol örökösödési háború (1701-1714) miatt volt lehetséges a habsburg elleni mozgalmak, mivel az országból kivonták a császári hadsereg jelentős részét. Emiatt fogadta el Rákóczi a Tisza-vidéki felkelők kérését, hogy térjen vissza. Haza is tért, majd a felkelés élére állt.
 4. Hogyan tört ki a szabadságharc? (1703-1711)
 	Egy kiállítványt adott ki Brezánba, mellyel elkezdődött az egész
-5. Plusz shit (majd lesz probably)
-	A független magyarország megalakításához szükséges volt egy táborban összegyűjteni a nemeseket és jobbágyokat. A kiállítványaival sikerült megállítani a parasztok túlkapsait és a nemességet meggyőzni, hogy nem parasztfelkelés. A katonának álló parasztoknak hajdúszabadságot ígért, nemeseknek pedig azzal nyerte meg, hogy a rendi sérelmek orvoslatát a mozgalom zászlajára kitűzte. A nemesség csatlakozást követően a kuruc hadak a nagyobb várak kivételével elfoglalták a felvidéket és a tiszántúlt. A magyar nemesek jelentős része a kuruc mozgalom mögé álltak. 
-
+5. Mit értünk érdekegyesítés alatt? 
+	Két félnek érdekeit egyesítük
+6. Az érdekegyesítés Rákóczinál
+	A független magyarország megalakításához szükséges volt egy táborban összegyűjteni a nemeseket és jobbágyokat. A kiállítványaival sikerült megállítani a parasztok túlkapásait és a nemességet meggyőzni, hogy ez nem parasztfelkelés. A katonának álló parasztoknak hajdúszabadságot ígért, a nemeseket pedig azzal nyerte meg, hogy a rendi sérelmek orvoslatát a mozgalom zászlajára kitűzte. Mentességet ígért a parasztoknak a földesúri szolgáltatások alól (Vetési pátens, 1703)
+7. Mi jellemzi a kuruc és labanc hadsereget?
+	Kuruc: Kb. 75000 fős hadsereg, Portyákban,rajtaütésekben ellenállhatatlanok voltak, viszont kevésbé voltak nagy csaták megvívására alkalmasak. Jelentős volt a nagy mennyiségű lovasság, kevés tüzérség és közepesen sok gyalogosság.  
+	Labanc: Az udvarhoz hű főnemesek és nemesek, a császári sereg.
+HF: 102. o 10.ábra elemzése
+	
 ## Április 18. Random füzet ellenőrzés (téltől való jegyzet)
-HF: Tanulni 
