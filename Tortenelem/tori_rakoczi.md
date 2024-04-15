@@ -25,5 +25,7 @@
 	Kuruc: Kb. 75000 fős hadsereg, Portyákban,rajtaütésekben ellenállhatatlanok voltak, viszont kevésbé voltak nagy csaták megvívására alkalmasak. Jelentős volt a nagy mennyiségű lovasság, kevés tüzérség és közepesen sok gyalogosság.  
 	Labanc: Az udvarhoz hű főnemesek és nemesek, a császári sereg.
 HF: 102. o 10.ábra elemzése
+	A kuruc hadierő megjelent 1703-ban, majd jelentősen növekedett 1707-ig, 1704-ben Nagyszombaton, majd 1705-ben Zsibóba csatákban vettek részt, de ennek ellenére még mindig növekedett a létszámuk. Majd viszont 1706-ban elkezdődött a létszámuk csökkenni, közel 80-82ezer főről.
+	Eközben a császári haderő az csökkenésben volt egészen Höchstädti csatáig, 1704. Höchstädt-i csata után jelentősen felerősödött a császári haderő, felment majdnem 40ezer főre 1705-ben, viszont ezután elkezdett megint fogyni a létszám. Lement a császári sereg létszáma egészen 30ezer főre, majd Malplaqueti csata (~1707-1709) után a sereg megint elkezdett nőni, fel is ment a létszám egészen majdnem 70ezer főre, 1711-re. Eddigre a kuruc haderő már épphogy alighogy meghaladta a 10ezret.
 	
 ## Április 18. Random füzet ellenőrzés (téltől való jegyzet)
