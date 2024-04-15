@@ -35,4 +35,3 @@ A jelentésben kapcsolóelemek:
   - Téma -> Ismert információ a szövegben
   - Réma -> Egy új információ a szövegben
 )
-- 

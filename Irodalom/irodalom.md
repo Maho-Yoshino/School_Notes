@@ -52,3 +52,9 @@ hatodfél = negyed óra
 	Mikes Szívesen olvasta Nagy Sándor históriáját
 6. Bekezdés (Levél zárása)
 	Magáról röviden ír, inkább urát sajnálja a köszvény miatt
+
+Feladat: A szöveget (112. levél, szgy.81) tagold gondolati egységekre, ! Írj kb. 4-5 tételmondatot a szöveg tartalma alapján
+Részek:
+1. Fejedelem halálának részletei
+2. A holtnak síratása 
+3. A fejedelem tevékenységei halála előtt
