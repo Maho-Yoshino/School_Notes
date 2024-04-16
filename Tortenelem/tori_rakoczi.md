@@ -27,4 +27,15 @@
 HF: 102. o 10.ábra elemzése  
 	A kuruc hadierő megjelent 1703-ban, majd jelentősen növekedett 1707-ig, 1704-ben Nagyszombaton, majd 1705-ben Zsibóba csatákban vettek részt, de ennek ellenére még mindig növekedett a létszámuk. Majd viszont 1706-ban elkezdődött a létszámuk csökkenni, közel 80-82ezer főről.  
 	Eközben a császári haderő az csökkenésben volt egészen Höchstädti csatáig, 1704. Höchstädt-i csata után jelentősen felerősödött a császári haderő, felment majdnem 40ezer főre 1705-ben, viszont ezután elkezdett megint fogyni a létszám. Lement a császári sereg létszáma egészen 30ezer főre, majd Malplaqueti csata (~1707-1709) után a sereg megint elkezdett nőni, fel is ment a létszám egészen majdnem 70ezer főre, 1711-re. Eddigre a kuruc haderő már épphogy alighogy meghaladta a 10ezret.  
+8. Mik történtek a kuruc országgyűléseken?
+	Az első országos gyűlést Szécsényben tartották, 1705-ben. Mivel a béketárgyalások nem vezettek eredményre, ezért ki kellett alakítani a felkelés szervezeti kereteit. 
+	- Lengyel példára rendi szövetséget (konföderációt) kötöttek 
+	- Vezérlő fejedelemmé választották Rákóczi Ferencet  
+	Majd:  
+	- Felállították a kancelláriát
+	- Létrehozták a gazdasági tanácsot
+	- Szenátust választottak  
+	Rákóczi, az Ónodi országgyűlésen (1707), a nehézségeket a Habsburg-dinasztia trónfosztásával akarta megoldani, abban a reményben, hogy XIV. Lajos elismeri őt és a kurucokat szövetségesének. Viszont csak annyit értek el, hogy a Lipótnál kompromisszumképesebb I. Józseffel megszakadtak a tárgyalások  
+A jelmondata a szabadságharcnak: "Cum Deo pro Patria et Libertate!"
+ 
 ## Április 18. Random füzet ellenőrzés (téltől való jegyzet)

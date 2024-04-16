@@ -32,6 +32,33 @@ A szövegkohézió lehet:
 - Lineáris, egyenes vonalú kohézió, amikor a szöveg kisebb egységet vizsgáljuk, pl. bekezdés, versszak, fejezetek, jelenetek
 A jelentésben kapcsolóelemek:
 - Téma-Réma (
-  - Téma -> Ismert információ a szövegben
+  - Téma -> Ismert információ a szövegben  
   - Réma -> Egy új információ a szövegben
 )
+## Jelentésbeli kapcsolóelemek a szövegben
+1. Globális
+   1. cím
+   2. téma
+2. Lineáris
+3. Jelentésbeli kapcsolóelemek fajtái:
+   1. Téma(ismert)-Réma(új) (információ a szövegben)
+   2. Tartalmi-logikai kapcsolódások
+   3. Kulcsszavak szerepe
+      "Kulcsfontosságú" szavak a témában
+   4. Ismétlések a szövegben (szavak, gondolatok)
+   5. Rokonértelmű szavak (Szinonímák)
+   6. Körülírás (pl. Jellezés tulajdonságok alapján)
+   7. Többjelentésű szavak (Pl. ég)
+      - Ez a lap jár önnek?
+      - Mert jár önnek! 
+   8. Azonos alakú szavak
+      Van kapcsolat a jelentések között, pl. Körte - Villany|Körte|
+   9. Felsorolások
+   10. Fokozás
+      Lép, megy, kocog, rohan
+   11. Halmozás
+      Szép, okos, jól főz  
+        valaki
+   12. Ellentétek
+   13. Szövegfókusz
+      A szöveg legfontosabb gondolata, mondata a téma kapcsán
