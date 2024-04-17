@@ -35,7 +35,19 @@ HF: 102. o 10.ábra elemzése
 	- Felállították a kancelláriát
 	- Létrehozták a gazdasági tanácsot
 	- Szenátust választottak  
-	Rákóczi, az Ónodi országgyűlésen (1707), a nehézségeket a Habsburg-dinasztia trónfosztásával akarta megoldani, abban a reményben, hogy XIV. Lajos elismeri őt és a kurucokat szövetségesének. Viszont csak annyit értek el, hogy a Lipótnál kompromisszumképesebb I. Józseffel megszakadtak a tárgyalások  
+	Rákóczi, az Ónodi országgyűlésen (1707), a nehézségeket a Habsburg-dinasztia trónfosztásával akarta megoldani, abban a reményben, hogy XIV. Lajos elismeri őt és a kurucokat szövetségesének. Viszont csak annyit értek el, hogy a Lipótnál kompromisszumképesebb I. Józseffel megszakadtak a tárgyalások. Adókat bevezettek, melyet a nemesek és jobbágyok is fizetnek
 A jelmondata a szabadságharcnak: "Cum Deo pro Patria et Libertate!"
+
+Trencsén, 1708
+Sárospataki gyűlés (1708): Hajdúszabadságot ígért a jobbágyaknak
+
+9. Hogyan jött létre a Szatmári béke (1711)?
+	Pálffy János labanc főurat megválasztották a császári haderő élére és meg lett bízva a tárgyalások újboli megindításával, mivel a habsburgoknak meg kellett nyernie a magyar népet, mert különben akárhányszor konfliktusba kerül a birodalom, akkor a magyar rendek felkelésével kell megküzdenie. Hosszú tárgyalások után eljutottak a Károlyinak adott kegyelemtől az amnesztiáig és rendi jogok visszaállításáig.  
+10. Mit tartalmaz a Szatmári béke?
+	A császár ígéretet tett a 
+	- rendi jogok visszaállítására
+	- szabad vallásgyakorlásra
+	- Újszerzeményi Bizottság megszüntetésére
+	Kompromisszumos béke
  
 ## Április 18. Random füzet ellenőrzés (téltől való jegyzet)

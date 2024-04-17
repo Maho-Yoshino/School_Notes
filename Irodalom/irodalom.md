@@ -58,3 +58,28 @@ Részek:
 1. Fejedelem halálának részletei  
 2. A holtnak síratása   
 3. A fejedelem tevékenységei halála előtt  
+
+# 112. levél (Szgy.81)
+Témája: A fejedelem halála
+2 részből áll:
+1. Az első bekezdés:
+	Mikes megfogalmazza az elképzelt Nagynénjének, hogy a fejedelem mely napon hunyt el:
+		nagypénteken, mely Mikes számára égi jel, hogy Jézus halála napján történik mindez
+	Továbbá érzelmekben teli mondatokban fejezi, milyen nagy árvaságra jutottak a száműzőttek
+2. Második bekezdés:
+	Felidézi Rákóczi utolsó hetét, pl. Virágvasárnap, "Hetfün", kedd, "szereda", nagycsütörtök
+	Írói eszköz a párhuzam, jézus szenvedése és fejedelem utolsó napjai között
+Mikes leveleinek nyelvi, barokkos és népies jellemzői:
+1. Közvetlen, vallomásos hangnem: illik a levél műfajához
+2. Irodalmi és a köznyelvi stílus igényes keveredését láthatjuk
+3. Barokkos elemek:
+   - Vallomásos stílus
+   - Gazdag képi világ
+4. Humora irónikus vagy éppen kedveskedő
+5. Székely nyelvjárása is gazdadítja a leveleket
+	"Jobbácskán volt"
+	"Hetfün"
+Fogalmak
+	Fiktív = Kitalált
+	Emigráció = Kényszerből kivándorol 
+	Anekdota = Rövid,kicsi történet
