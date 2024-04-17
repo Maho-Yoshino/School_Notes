@@ -16,11 +16,11 @@ def add_newline(text:list, file_dir:str):
 	with open(file_dir, "w", encoding="utf-8") as file:
 		file.write(new_content)
 		print("Done.\n")
-		_init_()
 def _init_():
-	folders = []
-	files = []
-	def thing():
+	
+	def get_dir():
+		folders = []
+		files = []
 		for i in os.listdir(os.getcwd()):
 			if i.split(".")[-1] == i:
 				folders.append(i)
@@ -28,13 +28,25 @@ def _init_():
 				files.append(i.split(".")[0])
 			else:
 				continue 
+		return folders,files
+	def thing():
+		folders, files = get_dir()		
 		print(f"Current directory:{os.getcwd()}")
 		if len(folders)!=0:
-			print(f"\n\nFolders:\n{'\n'.join(folders)}")
+			print(f"\nFolders:\n\t{'\n\t'.join(folders)}")
+		else:
+			print("\nNo folders")
 		if len(files)!=0:
-			print(f"\n\nFiles:{'\n'.join(files)}")
+			print(f"\nFiles:\n\t{'\n\t'.join(files)}")
+		else:
+			print("\nNo files")
 		file_dir = input("Enter filename/folder name: ")
-		if file_dir in folders:
+		if file_dir == ".":
+			os.chdir("\\".join(os.getcwd().split("\\")[0:-1]))
+			print("\\".join(os.getcwd().split("\\")[0:-1]))
+		elif file_dir.lower() == "exit":
+			os._exit(0)
+		elif file_dir in folders:
 			os.chdir(os.getcwd()+f"\\{file_dir}")
 			return thing()
 		elif file_dir in files:
@@ -45,4 +57,5 @@ def _init_():
 	file_path = thing()
 	if file_path:
 		open_file(file_path)
-_init_()
+while True:
+	_init_()
