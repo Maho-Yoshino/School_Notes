@@ -55,3 +55,4 @@ Sárospataki gyűlés (1708): Hajdúszabadságot ígért a jobbágyaknak
 	- Lepusztult országot újra lehet építeni  
 11. Mi lett Rákóczival?  
 	Rákóczi nem kért kegyelmet, ezért elvesztette hatalmas birtokait. a mellette tartózkodó kis csoporttal franciaországba mentek, de rájöttek, hogy a franciák nem akarnak a habsburgokkal háborút. A kirobbanó Osztrák-Török háború hírére elmentek Törökországba, de mire odaértek, addigra már béke volt. A Porta Rodostóban jelölte ki a kuruc emigránsok lakhelyét, életükről Mikes Kelemen írt leveleket. Rákóczi 1735-ben halt meg, hamvait a 20.század elején hazahozták és a kassai dóm altemplomában elhelyezték.   
+Hf: 5-ös témakör gyakorló rákóczis feladatok
