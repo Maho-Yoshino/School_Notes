@@ -87,3 +87,14 @@ Fogalmak
 ### Mikes Kelemen dolgozat jövő szerda (2024.04.24)  
 1., 37. és 112. levél értelmezése, bemutatása  
 forrás: füzet, szgy., tk64-67  
+
+# Kuruc költészet (XVIII. Század eleje)
+1. A kurucnóták: Gyűjtőneve a Rákóczi szabadságharc és az azt követő évtizedek verses-énekek műfajának
+Fajtái:
+   1. Keservesek
+   2. Panaszénekek
+   3. Bújdosóénekek
+   4. Jeremiádok (Siratóénekek)
+   5. Katonadalok
+   6. Táncdalok
+2. 
