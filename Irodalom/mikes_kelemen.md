@@ -86,3 +86,42 @@ Fogalmak
 ### Mikes Kelemen dolgozat jövő szerda (2024.04.24)    
 1., 37. és 112. levél értelmezése, bemutatása    
 forrás: füzet, szgy., tk64-67    
+
+# Dolgozat tartalma:
+1.	Röviden:
+	1.	Ki volt: 
+	2.	Hogyan kapcsolódott Rákóczihoz: Rákóczinak személyes kamarása, titkára volt
+	3.	Hol született: Zágon
+2.	A törökországi levelek: 
+	1.	Keletkezése: 
+	2.	Hány levelet tartalmaz: 207
+	3.	A fiktív levél fogalma: A levél formai jegyei
+		1.	Keletkezés
+		2.	Megszólítás, búcsúzás
+		3.	Személyes, közvetlen hangnem
+	4.	Ki a megszólított rokon:
+	5.	Általánosságban miről szólnak a levelek:  
+3.	Az 1. levél
+	1.	Hol íródott: Gallipoli
+	2.	Az utazás körülményei: 
+	3.	A fejedelem ajándéka: 
+4.	A 37. levél 
+	A levél:	
+	1.	A levél szerkezete (A 3 fő rész miről szól):
+       1. 
+       2. 
+	   3.   
+	2.	A levél formai jegyei: 
+	3.	Személyes hangnem, megszólító
+	4.	Stílus: Barokkos (Jelzőkkel díszített, összetett mondatok (1. rész))
+	5.	Ízes, székelyes beszéd és humor, pl. „Úgy szeretem Rodostót, hogy el nem felejthetem Zágont” Irónikus humor
+	„Kéd” = kegyelmed
+	„Micsodás város” = milyen csodás
+	„Hatodfél óra” = Fél 6
+	„3 fertály” = háromnegyed
+5.	112. levél
+	1.	„Tudósítás” a fejedelem haláláról
+	2.	A levél felépítése:
+		Közli a hírt, majd beszámol Rákóczi utolsó hetéről, amely a húsvét előtti nagyhét: Párhuzam Krisztus szenvedéstörténetével napokra lebontva, főleg nagypéntek, a fejedelem és krisztus halála
+
+Tk. 64-67+szgy+füzet
