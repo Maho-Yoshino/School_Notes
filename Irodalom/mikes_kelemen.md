@@ -12,23 +12,22 @@ Mikes fiktív irodalmi leveleket írt, melyet Törökországi levelek címen ism
 a levelek témái változatosak:      
 pl.       
 - Utazás körülményei, 1. levél      
-- Rosotó társadalma, népessége, kultúrája, vallási sokszínűség (örmény keresztény, iszlám hitű a török lakosság)      
+- Rodostó társadalma, népessége, kultúrája, vallási sokszínűség (örmény keresztény, iszlám hitű a török lakosság)      
 - Szórakozás vendéglátás, szokások      
 - A száműzöttek és fejedelem hétköznapjai      
-1. levél:      
-Szgy 76      
+## 1. levél (Szgy 76)        
 Keletkezés a levelek elején van      
 Gallipoliból írta az első levelet      
 Anno (év) 1717      
 10.octobris = október 10.      
       
-kéd = kend maga = kegyelemed szóból ered, jelentése: maga      
-37.levél (szgy. 77)      
+kéd = kend, maga = kegyelemed szóból ered, jelentése: maga      
+## 37.levél (szgy. 77)      
 1. bekezdés:      
 	a, első mondat ironikus megjegyzést tartalmaz "... úgy szeretem Rodostót, hogy el nem felejthezem Zágont" tehát valójában nem szereti és honvágya van      
-	b, a bekezdés további része kultúrtörténeti érdekesség: a környék mezőgazdasági adottságáról ls tevékenységéről szól: szőlőtermesztés és gyapottermesztés      
+	b, a bekezdés további része kultúrtörténeti érdekesség: a környék mezőgazdasági adottságáról és tevékenységéről szól: szőlőtermesztés és gyapottermesztés      
 2. bekezdés:      
-	a, a városrük, a közbiztonságról és először      
+	a, a városról, a közbiztonságról és először      
     - A házakon nincs ablak (az utcára nézőből) -> a nők nem nézhettek ki az utcára      
     - Janicsárok vigyáztak a magyarokra ->javult a közbiztonság      
     - Bercsényi Miklósról Rákóczi harcostársáról tesz említést, akit ritkán látogatnak meg      
