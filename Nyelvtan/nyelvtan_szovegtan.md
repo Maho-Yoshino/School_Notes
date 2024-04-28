@@ -62,3 +62,28 @@ A jelentésben kapcsolóelemek:
    12. Ellentétek
    13. Szövegfókusz
       A szöveg legfontosabb gondolata, mondata a téma kapcsán
+# Nyelvtani kapcsolóelemek a szövegben
+## Mi tartja össze a szöveget nyelvtanilag?
+1. A névmások elengedhetetlen használata
+   1. Szerepe: Főnevet, melléknevet, számnevet helyettesíthetünk általuk, ezáltal mindig van utaló szerepük. Vissza- és előre utalhatnak egy-egy információra
+   2. IsmétléS: néhány névmásfajta:
+      - Személyes: én,te,ő,mi,ti,ők
+      - Birtokos: enyém,tiéd...
+      - Mutató: ez/az,ilyen/olyan,ide/oda,itt/ott
+      - Ragozott alakúak
+        - Ez -> (er)ről
+        - akkor, annak, stb.
+      - Kérdő: ki?,mi?,milyen?
+      - Vonatkozó: ahol, aki, ami, amerre
+      - Kölcsönös: egymás
+      - Visszaható: Magam,magad,maga, stb.
+      - Általános: bárki, senki
+      - Határozatlan: valaki,valami, valahol, valamikor
+Tk.35
+1. mondat:
+"...__Valamilyen__(->) nyakatekert fordulatot..."
+"__Melyet__(<-) (Visszautal az előző infóra) magunk is..."
+"__Valahogy__(<-) beleszerettünk..."
+További visszautaló névmások a szövegben:
+Hozzá(<-), ilyesmit(<-), reá(<-), nélküle(<-), vele(<-)
+ 
