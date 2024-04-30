@@ -86,4 +86,18 @@ Tk.35
 "__Valahogy__(<-) beleszerettünk..."
 További visszautaló névmások a szövegben:
 Hozzá(<-), ilyesmit(<-), reá(<-), nélküle(<-), vele(<-)
- 
+
+## Névmások a szövegben
+pl. Mitől döglik a légy? ebben(mutató n.m., <-) a mondatban kétféle jelentést találunk
+A következő bekezdésben ez(<=>, vissza- és előreutaló) lesz a témája
+"De az(->) is előfordult nemegyszer..."
+2. A kötőszó mint nyelvtani összetartó elem
+   1. szerepe:
+      Szavak, tagmondatok, bekezdések között teremt meg valamilyen logikai tartalmú kapcsolatot
+   2. Fajtái:
+      1. Kapcsolatos: és, is, is-is
+      2. Ellentétes: de, viszont, ellenben, azonban, habár
+      3. Következtető: ezért, tehát
+      4. Magyarázó: mivel, mert, ugyanis
+      5. Választó: vagy, vagy-vagy 
+   3. 
