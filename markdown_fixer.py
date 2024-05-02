@@ -7,17 +7,14 @@ def open_file(file_dir:str):
 def add_newline(text:list, file_dir:str):
 	new_content = ""
 	for i in text:
-		i=str(i)
-		if i[-1:-2]!="  ":
-			new_content += i.removesuffix("\n")+"  \n"
-		else:
-			print(i[-1:-2])
-			new_content += i
+		i=str(i).removesuffix("\n")
+		while i[-2:]!="  ":
+			i += " "
+		new_content += i+"\n"
 	with open(file_dir, "w", encoding="utf-8") as file:
 		file.write(new_content)
 		print("Done.\n")
 def _init_():
-	
 	def get_dir():
 		folders = []
 		files = []
@@ -46,7 +43,7 @@ def _init_():
 			print("\\".join(os.getcwd().split("\\")[0:-1]))
 		elif file_dir.lower() == "exit":
 			os._exit(0)
-		elif file_dir in folders:
+		elif file_dir.capitalize() in folders:
 			os.chdir(os.getcwd()+f"\\{file_dir}")
 			return thing()
 		elif file_dir in files:
@@ -57,5 +54,6 @@ def _init_():
 	file_path = thing()
 	if file_path:
 		open_file(file_path)
-while True:
-	_init_()
+if __name__ == "__main__":
+	while True:
+		_init_()
