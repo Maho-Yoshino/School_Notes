@@ -100,4 +100,14 @@ A következő bekezdésben ez(<=>, vissza- és előreutaló) lesz a témája
       3. Következtető: ezért, tehát
       4. Magyarázó: mivel, mert, ugyanis
       5. Választó: vagy, vagy-vagy 
-   3. 
+## Intertextualitás
+1. Fogalma: 
+   1. Szó szerint: "szövegköziség", "szövegköztiség"
+   2. Kifejtve: Szövegek közötti kapcsolódás, "párbeszéd"
+      1. pl. halotti beszéd: nyelvemlék, XII.század, temetési beszéd
+      A szöveg megihletett későbbi alkotókat:
+      pl. Kosztolányi Dezső: Halotti beszéd c. verse
+         - Cím azonos
+         - Az első 2 szót átveszi: "Látjátok felem"
+           - Téma: Egy barát levesztése, az ember egyedisége
+      Márai Sándor: Halotti beszéd
