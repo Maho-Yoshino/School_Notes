@@ -16,3 +16,18 @@
             - Mérték  
             - Érzelemmentesség  
             - Tanítással szebbé tenni az emberi társadalmat  
+         3. Jellemzői a művészetben:  
+            - Építészet  
+              - Letisztultság  
+              - Kevés díszítés  
+              - Ókori görög-római stílus, pl. Nemzeti Múzeum (Bp.)  
+            - Zene  
+              - Bécsi klasszikusok (Mozart, Beethoven, Haydn)  
+            - Festészet  
+              - Görög-római mitlógiai témák  
+              - Allegorikus témák, pl. A szabadság, igazság  
+              - Statikus (állókép) ábrázolás  
+         4. Klasszicizmus az irodalomban  
+            1. a francia klasszicizmus születik meg először az irodalomban is, pl.:  
+               - Klasszicista drámák, főleg tragédiák  
+         5.  
