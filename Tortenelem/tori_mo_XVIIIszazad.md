@@ -11,3 +11,7 @@ Mi az a Pragmatica Sanctium?
 	1754-es Kettős Vámrendelet: Mária Terézia nem tudta a magyar nemeseket adóztatni az alkotmány miatt, és nem akart még egy szabadságharcot, ezért új rendeleteket kellett kivetnie. Mária Terézia engedte tanácsadóinak, hogy ötletekkel jöjjenek fel, reformba kezdett, célja az állam működését olcsóbbá tenni. Később a nemesekre kivetettek adót a habsburgok, csak a nem-magyar területekre. Ezek a rendeletek nem ellenkeztek a magyar alkotmánynak, ezért kettős vámhatár jött létre, mely azt jelentette, hogy egy magas vámmal lehet csak behozni iparcikkeket és kivinni nyersanyagokat a birodalomból, eközben a magyar királyság határán is volt egy ~3%-os vám kivetve, mely azt jelentette, hogy még több vámot kellett fizetni a magyaroknak, ha a birodalomból vásároltak valamilyen iparcikket.  
 	Védővám: A birodalmi termelést védi  
 	Magyarország Agrár állammá válik    
+2. Mi az a 1767-es Urbárium?
+	Avagy Urbéli rendelet/jobbágy rendelet, ez szerint heti egy nap igás (állatokkal végzett) robottal, vagy két nap gyalogrobottal tartozott földesurának. Ez rögzítette a majorsági és úrbéres földek arányát, gátat szabott a jobbágyi terhek emelkedésének és az adóalapot csökkentette. Kiadásának oka a robotoltatás, földekből elvétel limitálása és a nagyobb állami bevétel. 
+3. 1777 Ratio educationis
+	Ez a rendelet az, mely behozta az egységes oktatást segítő, a népiskolától az egyetemig terjedő iskolarendszert, államilag előírt tanterveket hoztak be 
