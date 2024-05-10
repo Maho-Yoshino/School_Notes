@@ -46,7 +46,7 @@ Sárospataki gyűlés (1708): Hajdúszabadságot ígért a jobbágyaknak
 10. Mit tartalmaz a Szatmári béke?    
 	A császár ígéretet tett a     
 	- rendi jogok visszaállítására    
-	- szabad vallásgyakorlásra    
+	- szabad (bevett) vallásgyakorlásra    
 	- Újszerzeményi Bizottság megszüntetésére    
 	Kompromisszumos béke    
 	A habsburgoknak jó volt, mert:    
