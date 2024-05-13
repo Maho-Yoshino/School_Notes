@@ -30,4 +30,18 @@
          4. Klasszicizmus az irodalomban  
             1. a francia klasszicizmus születik meg először az irodalomban is, pl.:  
                - Klasszicista drámák, főleg tragédiák  
-         5.  
+## Klasszicizmus az irodalomban
+1. Szerzők és művek az európai irodalomban
+   1. Az angol irodalom:
+      - Jonathan Swift: Gulliver Utazásai (1726), Műfaja:
+        - Utazásregény
+        - Mesés alapokon nyugvó társadalomkritika
+   2. Francia irodalom:
+      - Voltaire (Andide vagy az Optimizmus, 1759), Műfaja:
+        - Nevelési regény
+        - Utaztató/Pikareszk regény
+   3. Johan Wolfgang Goethe: Faust
+      - Műfaja:
+        - Emberiség dráma
+        - kétszintes drámái
+        - drámai költemény
