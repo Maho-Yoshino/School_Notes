@@ -32,20 +32,20 @@ Mi az a Pragmatica Sanctium?
     - Oktatásban megnyitotta a lehetőséget nekik az értelmességi pályák felé.  
     - Beilleszkedésükhöz német nevet kellett felvenniük (1787)  
 3. Mi az a 1785-ös Urbárium (vagy jobbágyrendelet/urbéli rendelet)?  
-   - Megszüntette a jobbágyak röghözkötését
-   - A parasztok mesterséget tanulhattak földesúri engedély nélkül
-		Ezzel II. József az iparfejlődésre próbált munkaerőt biztosítani
-   - Szabad házasságkötés a jobbágyaknak
-4. Mi az az 1784-es nyelvrendelet?
-   - Latinról német lett az államnyelv/közigazgatás nyelve
-5. Miért akart népszámlálást és birtokösszeírást?
-   - Felkészült a magyar nemesség adóztatására
-6. Hogyan szervezte át a közigazgatást (1785)?
-   - Vármegyéket megszünteti
-   - 10 kerületre osztja fel a megyéket
-7. Mi történt II. József halálos ágyán (Nevezetes tollvonás)?
-   - Visszavonta a rendeleteit (5000ből elment 4997(megmaradt Türelmi rendelet, Jobbágyrendelet, Alsó pappságot érintő rendelet))
-(Fordított Canossa járás)
-### Abszolutizmus definíciója: -  
+   - Megszüntette a jobbágyak röghözkötését  
+   - A parasztok mesterséget tanulhattak földesúri engedély nélkül  
+		Ezzel II. József az iparfejlődésre próbált munkaerőt biztosítani  
+   - Szabad házasságkötés a jobbágyaknak  
+4. Mi az az 1784-es nyelvrendelet?  
+   - Latinról német lett az államnyelv/közigazgatás nyelve  
+5. Miért akart népszámlálást és birtokösszeírást?  
+   - Felkészült a magyar nemesség adóztatására  
+6. Hogyan szervezte át a közigazgatást (1785)?  
+   - Vármegyéket megszünteti  
+   - 10 kerületre osztja fel a megyéket  
+7. Mi történt II. József halálos ágyán (Nevezetes tollvonás)?  
+   - Visszavonta a rendeleteit (5000ből elment 4997(megmaradt Türelmi rendelet, Jobbágyrendelet, Alsó pappságot érintő rendelet))  
+(Fordított Canossa járás)  
+### Abszolutizmus definíciója: egyszemélyi uralom, ahol a Bírói, Végrehajtói és Törvényhozói hatalom egy kézre esik  
 Hétfőre füzet kell (füzetellenőrzés)  
-## 
+##  
