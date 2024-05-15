@@ -47,5 +47,4 @@ Mi az a Pragmatica Sanctium?
    - Visszavonta a rendeleteit (5000ből elment 4997(megmaradt Türelmi rendelet, Jobbágyrendelet, Alsó pappságot érintő rendelet))  
 (Fordított Canossa járás)  
 ### Abszolutizmus definíciója: egyszemélyi uralom, ahol a Bírói, Végrehajtói és Törvényhozói hatalom egy kézre esik  
-Hétfőre füzet kell (füzetellenőrzés)  
-##  
+Házi: 5. feladat, 6. feladat (2023-2024\Tortenelem\k_tort_24maj_fl.docx)
