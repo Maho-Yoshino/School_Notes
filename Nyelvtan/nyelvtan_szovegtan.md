@@ -111,3 +111,9 @@ A következő bekezdésben ez(<=>, vissza- és előreutaló) lesz a témája
          - Az első 2 szót átveszi: "Látjátok felem"
            - Téma: Egy barát levesztése, az ember egyedisége
       Márai Sándor: Halotti beszéd
+## Intertextualitás v2
+   Szövegek közötti kapcsolat, pl. halotti beszéd, 1200-temetési beszéd, pl. Kosztolányi Dezső: Halotti beszéd
+   - Egy barátja halála kapcsán írta
+   - az ember egyediségéről
+   Márai Sándor: Halotti Beszéd c. verse
+   - Az emigráns(-> Kényszerből el kell hagynia hazáját) magyar sorsról szól

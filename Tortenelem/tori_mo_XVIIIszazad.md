@@ -55,3 +55,5 @@ Házi: 5. feladat, 6. feladat (2023-2024\Tortenelem\k_tort_24maj_fl.docx)
 1777, Ratio Educationis
 
 Feladat ("2023-2024\Tortenelem\5ös téma gyakorló teljes.docx"): 7.,8. 
+
+Szerda (2024.05.22) doga, hf: tanulni meg magyarul
