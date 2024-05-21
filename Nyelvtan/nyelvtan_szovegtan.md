@@ -117,3 +117,24 @@ A következő bekezdésben ez(<=>, vissza- és előreutaló) lesz a témája
    - az ember egyediségéről
    Márai Sándor: Halotti Beszéd c. verse
    - Az emigráns(-> Kényszerből el kell hagynia hazáját) magyar sorsról szól
+## Intertextualitás v3
+1. Adaptáció ("átültetés")
+   1. Idegen nyelvi irodalmi szöveg magyarra fordítása
+      pl. versek, drámai művek, stb. fordítása, egyfajta újraalkotás, újjáértelmezés
+      Irodalmi művek filmes adaptációja:
+         - Gyűrűk ura
+         - Harry Potter
+         - Rómeó és Júlia feldolgozása
+         - Musical
+         - Balett
+         - Filmek:
+           - Zefirella
+           - gengszterfilm verzió
+   2. Médiaszöveg
+      - Tömegkommunikációs célú "szövegek":
+        - Kép,hang,film,reklámszöveg, plakát, hirdetés, honlap
+      - Ezen tartalmak folyamatosan keverednek, újra felhasználásra kerülnek
+   3. Mémek
+      - Gyorsan terjed
+      - Népszerű
+      - pl. dallam,gondolat,jelszó kép, hang
