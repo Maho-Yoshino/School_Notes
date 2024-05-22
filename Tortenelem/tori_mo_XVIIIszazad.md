@@ -12,7 +12,7 @@ Mi az a Pragmatica Sanctium?
 	Védővám: A birodalmi termelést védi  
 	Magyarország Agrár állammá válik, jobbágyaktól elvettek földet a nemesek, hogy többet termelhessenek    
 2. Mi az a 1767-es Urbárium?  
-	Avagy Urbéli rendelet/jobbágy rendelet, ez szerint heti egy nap igás (állatokkal végzett) robottal, vagy két nap gyalogrobottal tartozott földesurának. Ez rögzítette a majorsági és úrbéres földek arányát, gátat szabott a jobbágyi terhek emelkedésének és az adóalapot csökkentette. Kiadásának oka a robotoltatás, földekből elvétel limitálása és a nagyobb állami bevétel.  
+	Avagy Urbéli rendelet/jobbágy rendelet, ez szerint heti egy nap igás (állatokkal végzett) robottal, vagy két nap gyalogrobottal tartozott földesurának. Ez rögzítette a majorsági és úrbéres földek arányát, gátat szabott a jobbágyi terhek emelkedésének és az adóalapot csökkentette. Kiadásának oka a robotoltatás, földekből elvétel limitálása és a nagyobb állami bevétel.  	
 3. 1777 Ratio educationis  
 	Ez a rendelet az, mely behozta az egységes oktatást segítő, a népiskolától az egyetemig terjedő iskolarendszert, államilag előírt tanterveket hoztak be. A célja az államhoz hűséges és hasznos állampolgárok nevelése. Előkerültek a korszaknak modernnek tartható tantárgyak, mint Történelem, Földrajz és gyakorlati ismeretek. Az oktatás viszont a reformok után is jórészt az egyház kezében maradt, de az állam is beleavatkozott. A rendelet nem mondhatta ki az általános tankötelezettséget, de elősegítette, hogy minnél több fiatal gyerek járhasson iskolába.  
 	Fontos pontok:  
