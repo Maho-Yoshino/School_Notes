@@ -31,3 +31,26 @@
       napló és levélregény -> napló: személyes hangvételű, regény: az elbeszélő Fanni (levélforma)
 2. Kazinczy Ferenc
 hf: készíts vázlatot ,Tk.111-113, holnapra  
+# Házi (credit: ChatGPT)
+## Kazinczy Ferenc
+1. Élete és irodalmi tevékenyége
+   - 1759–1831
+   - Jelentős szerepe volt a magyar irodalomban
+   - Első magyar folyóirat, a Magyar Museum és az Orpheus szerkesztője volt
+   - Széles körű irodalmi és politikai kapcsolatrendszere alakult ki
+   - Csatlakozott a Martinovics-összeesküvéshez, raboskodott Kufstein várában
+      - Fogságom naplója című műve fontos irodalmi és korrajzi alkotás
+      - Szabadulása után feleségül vette Török Sophie-t, Bányácskára (Széphalom) költöztek
+         - Innen irányította a magyar irodalmi életet, intenzív levelezést folytatott
+2. Nyelvújítás
+   - A nyelvújítás legjelentősebb alakja
+   - 1811-ben kezdődött, A "Tövisek és virágok" c. epigrammasorozatával
+   - Neológusok(nyelvújítók) és ortológusok(hagyománymegőrzők) vitája: a nyelv átalakíthatósága
+   - 1819-ben zárja a vitát az Orthologus és neologus nálunk és más nemzeteknél című művével
+3. Kazinczy és a nyelvújítás
+   - Tövisek és virágok: nyelvújításhoz kapcsolható epigrammagyűjtemény
+   - Gúnyrajzok az ortológus irodalmi szereplőkről
+   - A nyelvújítási alapelvei: nyelv átalakítása, új szavak alkotása
+4. Irodalmi viták kazinczy korában
+   - Irodalmi nyilvánosság megerősödése: folyóiratok, könyvkiadás, Kazinczy levelezése
+   - Iliászi pör: Kölcsey Ferenc és Kazinczy közötti szerzői jogi vita (Kölcsey az Iliász fordításán dolgozott, Vályi Nagy Ferenc sokat átvett az ő kéziratából, a vita az eredetiségről/plágiumról szólt)
