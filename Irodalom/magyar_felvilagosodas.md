@@ -51,6 +51,8 @@ hf: készíts vázlatot ,Tk.111-113, holnapra
    - Tövisek és virágok: nyelvújításhoz kapcsolható epigrammagyűjtemény
    - Gúnyrajzok az ortológus irodalmi szereplőkről
    - A nyelvújítási alapelvei: nyelv átalakítása, új szavak alkotása
-4. Irodalmi viták kazinczy korában
+4. Irodalmi viták kazinczy korában 
    - Irodalmi nyilvánosság megerősödése: folyóiratok, könyvkiadás, Kazinczy levelezése
-   - Iliászi pör: Kölcsey Ferenc és Kazinczy közötti szerzői jogi vita (Kölcsey az Iliász fordításán dolgozott, Vályi Nagy Ferenc sokat átvett az ő kéziratából, a vita az eredetiségről/plágiumról szólt)
+   - Iliászi pör: Kölcsey Ferenc és Kazinczy közötti szerzői jogi vita (Kölcsey az Iliász fordításán dolgozott, Vályi Nagy Ferenc sokat átvett az ő kéziratából, a vita az eredetiségről/plágiumról szólt)  
+## Csokonai Vitéz Mihály
+ 
