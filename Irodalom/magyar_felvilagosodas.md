@@ -54,5 +54,19 @@ hf: készíts vázlatot ,Tk.111-113, holnapra
 4. Irodalmi viták kazinczy korában 
    - Irodalmi nyilvánosság megerősödése: folyóiratok, könyvkiadás, Kazinczy levelezése
    - Iliászi pör: Kölcsey Ferenc és Kazinczy közötti szerzői jogi vita (Kölcsey az Iliász fordításán dolgozott, Vályi Nagy Ferenc sokat átvett az ő kéziratából, a vita az eredetiségről/plágiumról szólt)  
-## Csokonai Vitéz Mihály
- 
+# Csokonai Vitéz Mihály
+1. Élete
+   1. Debrecenben elszegényedett
+   2. Kisnemesi család
+   3. A híre Debreceni Református Kollégium tanulója (poéta osztály), későbbi tanára
+   4. Őstehetség magas szinten verselt már gyerekkorában, öt nyelven tudott
+   5. 1795 Martinovics Ignác-féle nemesi felkelés vezetőit kivégzik a Vérmezőn, ezt megtekinthette költőnk: emiatt eltanácsolták az iskolából
+   6. Becenevei:
+      1. Cimbalom
+      2. Poeta Doctus (Tudós költő)
+   7. 1797: Komárom
+      - Megismerri Vajda Juliannát, szerelmét, akit verseiben Lillának nevez 
+      - Pozsonyba látogat az ott ülésező országgyűlésre, kiadja tudósítását, "Diétai Magyar Múzsa"
+   9. Lilla Apja elutasítja a költő lánykérését.
+   10. Csurgóra kerül, somogyba, ahol a Református gimnázium tanára lesz
+   11. 1800-ban hazatér Debrecenbe, szülői háza leég
