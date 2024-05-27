@@ -138,3 +138,18 @@ A következő bekezdésben ez(<=>, vissza- és előreutaló) lesz a témája
       - Gyorsan terjed
       - Népszerű
       - pl. dallam,gondolat,jelszó kép, hang
+# Szövegtani gyakorlás
+## Kohézió
+1. Jelentésbeli kapcsolóelemek
+   - Globális
+     - Cím: Mi az összefüggés és a szöveg között: A stonehengeről szól
+     - Adj egy frappáns címet a bekezdéseknek
+       1. A helyszín
+       2. Feltételezések
+       3. Az építése és kinézete
+       4. A feltételezett célja
+2. Lineáris kohézió
+   - gyűjts a szövegből:
+     - Kulcsszavakat: Stonehenge, bronzkor, patkó alakban, oltárkő, kőtömb, 
+     - Rokonértelmű szavakat: 
+     - ismétlődő szavakat: Stonehenge, kőtömb
