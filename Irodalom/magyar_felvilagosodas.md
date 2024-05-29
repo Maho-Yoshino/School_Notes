@@ -70,3 +70,27 @@ hf: készíts vázlatot ,Tk.111-113, holnapra
    9. Lilla Apja elutasítja a költő lánykérését.  
    10. Csurgóra kerül, somogyba, ahol a Református gimnázium tanára lesz  
    11. 1800-ban hazatér Debrecenbe, szülői háza leég  
+## Csokonai Költészete  
+1. A nagy stílusművész  
+   1. Stílusirányzatok költészetében  
+      - Klasszicizmus  
+        - Ódái (Görög, dicsőítő/magasztaló):  
+          - Az Estve  
+          - Konstancinápoly  
+          (Tanító célzatú versek -> A felvilágosodás eszméit hirdetik pl. racionalizmus)  
+        - Szentimentalizmus "érzékenység" hátterében az empirizmus áll, tapasztalatelvűség  
+          - Elégia (Görög, szomorú hangvételű):  
+            - A magánossághoz  
+            - A tihanyi Ekhóhoz  
+        - Rokokó  
+          - Barokk stílus lecsengése  
+          - Jellemzői:  
+            - Témája: szerelem,erotika  
+            - Játékosság  
+            - Formai gazdagság  
+              - pl. Lilla- dalok a reményhez  
+            - Népies hangvétel  
+              - pl.  
+              Tartózkodó kérelem  
+              Szerelemdal a Csikóbőrös kulacshoz  
+            -  
