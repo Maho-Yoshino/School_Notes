@@ -93,4 +93,25 @@ hf: készíts vázlatot ,Tk.111-113, holnapra
               - pl.  
               Tartózkodó kérelem  
               Szerelemdal a Csikóbőrös kulacshoz  
-            -  
+## Csokonai V.M.: Lilla-dalok  
+1. Recap  
+- Komárom  
+- Vajda Julianna  
+- múzsa neve: Lilla  
+- Viszonzott szerelem, de a házasság meghíúsul Lilla apja miatt  
+2. Csokonai halála után jelenik meg a Lilla c. verskötet  
+3. A kötet még Csokonai szerkeszti meg: A versek egy szerelem "történetét" mutatják meg, sorrendjükkel  
+4. A versek egy része korábbi szerelmekhez szóltak, átírta őket  
+5. Ilyen pl.:  
+- Tartózkodó kérelem, korábbi címe "Egy tulipánthoz"  
+6. Tartózkodó kérelem:  
+   1.  
+   - Népies egyszerűség  
+   - Rokokó játékosság  
+   - Mitológiai jelkép  
+   2. 3 vsz.  
+      1. vsz képei  
+      "Szerelemnek tüze bánt" metafora (tűz = képi elem, szerelem = fogalmi elem)  
+      metafora = összevont hasonlat/azonosítás  
+      "... Tüze bánt" megszemélyesítés  
+      2. vsz  
