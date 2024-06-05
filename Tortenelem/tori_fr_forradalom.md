@@ -37,52 +37,52 @@ feladat: Írj egy oldalt a francia forradalomról (tk. 87 )
      - A néhány fős őrség tárgyalt a hangadókkal, majd belelőttek a tömegbe  
      - Erre a tömeg megostromolta az erődöt, védőket lemészárolta, és fejüket lándzsára tűzték, egyre több katonai sereg csatlakozott, ezzel kitört a forradalom.  
 ## A forradalom kitörése  
-1. A kitörés hatására engedett XVI. Lajos:  
-    - Párizsba ment  
-    - Visszarendelte a csapatokat  
-    - Elismerte az új hatalmat és vezetőiket  
-2. A parasztság félt  
-    - hatalom megtorlásától féltek, a forradalom miatt  
-    - rémhírek a nemesség bosszújáról  
-    - A félelem erőszakhoz vezetett  
-    - 1789, "a nagy félelem időszaka"  
-3. A helyzet miatt az alkotmányos monarchiát támogató nemesek támogatták a  
+### A kitörés hatására engedett XVI. Lajos:  
+- Párizsba ment  
+- Visszarendelte a csapatokat  
+- Elismerte az új hatalmat és vezetőiket  
+### A parasztság félt  
+- hatalom megtorlásától féltek, a forradalom miatt  
+- rémhírek a nemesség bosszújáról  
+- A félelem erőszakhoz vezetett  
+- 1789, "a nagy félelem időszaka"  
+### A helyzet miatt az alkotmányos monarchiát támogató nemesek támogatták a  
 - Közteherviselés bevezetését  
 - Hűbéri terhek megválthatóságát  
 - Minden személyi szolgáltatás eltörlését indítványozták  
-4. Az Emberi és polgári jogok nyilatkozatában fogalták össze a Törvényhozás céljait és elveit:  
+### Az Emberi és polgári jogok nyilatkozatában fogalták össze a Törvényhozás céljait és elveit:  
 - Polgári szabadságjogok  
 - Jogegyenlőség  
 - Tulajdon sérthetetlensége  
 - Népfelség  
 - Képviseleti rendszer  
 Ez az új alkotmány előkészítésének fontos lépéseit jelentette  
-5. Az 1791-es alkotmány  
-    1. Az alkotmányozó o.gy. megalkotta az új alkotmányt, melyben érvényesültek a korszak alkotmányos elvárásai  
-    - Polgári szabadságjogok biztosítása  
-    - Hatalmi ágak megosztása  
-    - Cenzusos választási rendszer  
-    2. A törvényhozó testület megbízatását két évben állapították meg  
-    3. Választott bíróságokat hoztak létre  
-    4. A végrehajtói hatalom felelős volt a törvényhozásnak  
-    5. Az államfő király maradt  
-    - Ő nevezte ki a minisztereket  
-    - De rendelkezései csak miniszteri ellenjegyzéssel voltak törvényesek  
-    - Korlátozott vétójogot kapott  
-    - A törvényhozást nem oszlathatta fel, a képviselők sértetlenséget élveznek (mentelmi jog)  
-    6. Új, egységes közigazgatást vezettek be: az önkormányzat rendelkező megyéket  
-    7. Az államot nem választották el az egyháztól, az egyház vagyonának kiárusitásával viszont szorosabb lett  
-    8. Az egyház és az új hatalom viszonya romlott:  
-    - Nem tudta az állam a finanszírozást kötelezettségét teljesíteni  
-    - Feloszlatták a szerzetesrendeket  
-    9. Az egyházi hierarchiát hozzáigazították a megyerendszerhez  
-    - A választópolgárok választották a  
-      - Plébánosokat  
-      - Püspököket  
-    10. Minden egyházi személyt köteleztek arra, hogy felesküdjön az új alkotmányra  
-    - A papság jelentős része ellenállt  
+### Az 1791-es alkotmány  
+1. Az alkotmányozó o.gy. megalkotta az új alkotmányt, melyben érvényesültek a korszak alkotmányos elvárásai  
+- Polgári szabadságjogok biztosítása  
+- Hatalmi ágak megosztása  
+- Cenzusos választási rendszer  
+2. A törvényhozó testület megbízatását két évben állapították meg  
+3. Választott bíróságokat hoztak létre  
+4. A végrehajtói hatalom felelős volt a törvényhozásnak  
+5. Az államfő király maradt  
+- Ő nevezte ki a minisztereket  
+- De rendelkezései csak miniszteri ellenjegyzéssel voltak törvényesek  
+- Korlátozott vétójogot kapott  
+- A törvényhozást nem oszlathatta fel, a képviselők sértetlenséget élveznek (mentelmi jog)  
+6. Új, egységes közigazgatást vezettek be: az önkormányzat rendelkező megyéket  
+7. Az államot nem választották el az egyháztól, az egyház vagyonának kiárusitásával viszont szorosabb lett  
+8. Az egyház és az új hatalom viszonya romlott:  
+- Nem tudta az állam a finanszírozást kötelezettségét teljesíteni  
+- Feloszlatták a szerzetesrendeket  
+9. Az egyházi hierarchiát hozzáigazították a megyerendszerhez  
+- A választópolgárok választották a  
+  - Plébánosokat  
+  - Püspököket  
+10. Minden egyházi személyt köteleztek arra, hogy felesküdjön az új alkotmányra  
+- A papság jelentős része ellenállt  
 ## Politikai irányzatok  
-1. Jól körülhatárolható politikai célokkal rendelkező csoportokat tudunk megkülönböztetni, melyek politikai klubbokat hoztak létre  
+Jól körülhatárolható politikai célokkal rendelkező csoportokat tudunk megkülönböztetni, melyek politikai klubbokat hoztak létre  
 - A klubbok nem voltak pártok  
 - Viszont azok szerepét töltötték be  
 - Tagságuk politikai vitákat tartott, jelentősen befolyásolták a közvéleményt  
