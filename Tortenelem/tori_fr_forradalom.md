@@ -112,3 +112,31 @@ Jól körülhatárolható politikai célokkal rendelkező csoportokat tudunk meg
 - A jakobinusok bukása után a törvényhozás új alkotmányt dolgozott ki 1795-ben  
 - Céljuk a diktatúra elkerülése és a tulajdonosok uralmának biztosítása volt  
 - Az államforma köztársaság maradt, a végrehajtó hatalmat ötfős Direktórium gyakorolta  
+
+## Classroom feladat
+1. 1789 rendi gyűlés összehívása
+  1. Előzmény: Gazdasági válság
+  2. Következmény: Új alkotmány 
+2. Bastille ostroma
+  1. Előzmény: Az uralkodó a város körül növelte csapatait, a nép beszart
+  2. Következmény: 
+  - A nép fegyverekhez jutott
+  - A király elfogadta az új hatalmat és vezetőiket
+3. 1791-es alkotmány
+  1. Előzmény: 
+  2. Következmény:
+  - Polgári szabadságjogok biztosítása  
+  - Hatalmi ágak megosztása  
+  - Cenzusos választási rendszer  
+  - Választott bíróságokat hoztak létre  
+  - Az államfő király maradt  
+    - Ő nevezte ki a minisztereket  
+    - De rendelkezései csak miniszteri ellenjegyzéssel voltak törvényesek  
+    - Korlátozott vétójogot kapott  
+    - A törvényhozást nem oszlathatta fel, a képviselők sértetlenséget élveznek (mentelmi jog)  
+4. XVI. Lajos letartóztatása 1792
+  1. Előzmény: 
+  2. Következmény:
+5. jakobinus diktatúra
+  1. Előzmény: 
+  2. Következmény:
