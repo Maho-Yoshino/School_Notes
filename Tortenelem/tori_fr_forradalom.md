@@ -142,12 +142,12 @@ Jól körülhatárolható politikai célokkal rendelkező csoportokat tudunk meg
   2. Következmény:
 A forradalom jelmondata: „Liberté, Égalité, Fraternité”, avagy „Szabadság, egyenlőség, testvériség”
 
-Ki volt Napóleon?
+# Napóleon
+1. Ki volt?
   Nehéz volt fenntartani az alkotmányos kereteket, mivel vagy túl bal- vagy jobboldali szélsőségek kerültek túlsúlyba a választásokon. Megnőtt a hadsereg, főleg a katonai vezetők szerepe, tekintélye, melyek közül a legnépszerűbb lett Bonaparte Napóleon, ki köztársaság háborúiban nagy győzelmeket aratott. a hadseregre támaszkodva megszerezte a hatalmat, a direktórium több tagja az erős végrehajtó hatalomban látta a kiutat, emiatt támogatták Napóleon államcsínyét.
   Napóleon a törvényhozással új alkotmányt dolgozott ki, mely valójában biztosította a teljhatalmat, de igyekezett elfedni a diktatúrát.  
   Napóleon hatalmát a társadalom többsége elfogadta, mert belefáradtak a politikai küzdelmekbe. 
-
-  Fun facts:
+2. Fun facts:
   - Nem volt alacsony, normális méret volt, a britek slanderezték hogy kicsi
   - Gyomorfekélye volt
   - 
