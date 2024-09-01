@@ -1,0 +1,537 @@
+<mxfile host="Electron" modified="2024-04-24T10:11:07.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="fgS0yxqkVOWmgan1xm_v" version="24.2.5" type="device">
+  <diagram name="Page-1" id="piUl0orL-MbeR5PHgVIc">
+    <mxGraphModel dx="1075" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7-88GnWF3drpSB_-rlh5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-1" target="7-88GnWF3drpSB_-rlh5-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-1" value="A habsburgok leverték a törököket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-3" target="7-88GnWF3drpSB_-rlh5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-3" value="Létrehozták az Újszerzeményi bizottságot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-6" target="7-88GnWF3drpSB_-rlh5-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-6" value="Egyre magasabb adókat vetettek ki a népre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-9" target="7-88GnWF3drpSB_-rlh5-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-9" value="Porció (Katonák teljeskörű ellátása&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-10" target="7-88GnWF3drpSB_-rlh5-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-10" value="Fors Pont (Szállítási kötelezettség)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-11" target="7-88GnWF3drpSB_-rlh5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-11" value="Erőszakos ellenreformáció" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-14" target="7-88GnWF3drpSB_-rlh5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-14" value="A nemesség lemondott a királyválasztásról" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-63" target="7-88GnWF3drpSB_-rlh5-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-40" value="Kiakarja űzni a habsburgot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-39" vertex="1" connectable="0">
+          <mxGeometry x="-0.1039" y="-4" relative="1" as="geometry">
+            <mxPoint x="-4" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-16" target="7-88GnWF3drpSB_-rlh5-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-44" value="Kuruc felkelés" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.095" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-16" value="II. Rákóczi Ferenc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-17" target="7-88GnWF3drpSB_-rlh5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-17" value="A nemesség lemondott az Aranybulla ellenállási záradékáról" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-19" target="7-88GnWF3drpSB_-rlh5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-19" value="Rendi jogok sérelme" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-21" target="7-88GnWF3drpSB_-rlh5-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-21" value="Végvári vitézek kiváltságait elvették" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-23" target="7-88GnWF3drpSB_-rlh5-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-23" value="A végvári vitézek idegesek" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-24" target="7-88GnWF3drpSB_-rlh5-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-24" value="A nemesek idegesek" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-25" target="7-88GnWF3drpSB_-rlh5-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-25" value="A jobbágyak idegesek" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-26" target="7-88GnWF3drpSB_-rlh5-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-74" value="Meggyőzte őket,&amp;nbsp;&lt;div&gt;hogy ez nem parasztfelkelés,&lt;/div&gt;&lt;div&gt;A rendi jogok sérelmének&lt;/div&gt;&lt;div&gt;Orvosságát a zászlóra teszi&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.1776" y="-2" relative="1" as="geometry">
+            <mxPoint x="55" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-26" target="7-88GnWF3drpSB_-rlh5-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-75" value="Kiállítvánnyal&lt;div&gt;megállította&lt;div&gt;túlkapásaikat,&amp;nbsp;&lt;/div&gt;&lt;div&gt;mentességet adott&lt;/div&gt;&lt;/div&gt;&lt;div&gt;a földesúri szolgáltatások&lt;/div&gt;&lt;div&gt;alól&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-72" vertex="1" connectable="0">
+          <mxGeometry x="0.1162" relative="1" as="geometry">
+            <mxPoint x="-20" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-26" target="7-88GnWF3drpSB_-rlh5-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-76" value="Hajdúszabadság ígérete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-73" vertex="1" connectable="0">
+          <mxGeometry x="0.0424" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-26" value="Az egész nép ideges a habsburgra" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-42" target="7-88GnWF3drpSB_-rlh5-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-47" value="Kuruc felkelés&lt;div&gt;vége&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.17" y="5" relative="1" as="geometry">
+            <mxPoint x="10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-42" value="Bécsbe menekül" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-45" target="7-88GnWF3drpSB_-rlh5-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-53" value="Szervezkedés&lt;div&gt;elkezdődött&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.135" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-45" value="Hazatér" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-48" target="7-88GnWF3drpSB_-rlh5-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-50" value="Elárulta az&lt;br&gt;igazságot a&lt;div&gt;habsburg birodalomról&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.2229" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-48" value="Bercsényi Miklós" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-51" target="7-88GnWF3drpSB_-rlh5-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-56" value="A levelek&lt;div&gt;el lettek fogva&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-55" vertex="1" connectable="0">
+          <mxGeometry x="-0.1257" y="-4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-51" value="XIV. Lajos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-54" target="7-88GnWF3drpSB_-rlh5-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-59" value="Megmenekült" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-58" vertex="1" connectable="0">
+          <mxGeometry x="-0.035" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-54" value="Letartóztatták Rákóczit, elvitték a Bécsújhelyi börtönbe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-57" target="7-88GnWF3drpSB_-rlh5-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-65" value="Tiszántúli felkelők&lt;div&gt;megkérték, hogy visszatérjen&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-64" vertex="1" connectable="0">
+          <mxGeometry x="0.184" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-57" target="7-88GnWF3drpSB_-rlh5-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-57" value="Brezánba menekült" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-61" target="7-88GnWF3drpSB_-rlh5-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-67" value="Kivonták a&lt;div&gt;Császári sereg&lt;/div&gt;&lt;div&gt;jelentős részét&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7-88GnWF3drpSB_-rlh5-66" vertex="1" connectable="0">
+          <mxGeometry x="0.15" y="2" relative="1" as="geometry">
+            <mxPoint x="9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-61" value="Spanyol örökösödési háború (1701-1714)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-63" value="Rákóczi visszatér" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-68" target="7-88GnWF3drpSB_-rlh5-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-68" value="Nemesség meggyőzése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-69" target="7-88GnWF3drpSB_-rlh5-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-69" value="Parasztság meggyőzése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-70" target="7-88GnWF3drpSB_-rlh5-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-70" value="Katonának álló parasztok meggyőzése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-77" target="7-88GnWF3drpSB_-rlh5-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-77" value="Érdekegyesítés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-81" target="7-88GnWF3drpSB_-rlh5-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-81" value="Vetési pátens (Brezán, 1703)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-83" target="7-88GnWF3drpSB_-rlh5-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-83" value="Szabadságharc kitőrése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-86" target="7-88GnWF3drpSB_-rlh5-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-86" target="7-88GnWF3drpSB_-rlh5-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-86" target="7-88GnWF3drpSB_-rlh5-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7-88GnWF3drpSB_-rlh5-86" target="7-88GnWF3drpSB_-rlh5-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-86" value="Szécsényi országgyűlés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-88" value="Konföderációt kötöttek lengyel példára" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1294" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-92" value="Szenátust választottak, felállították a kancelláriát" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1294" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-93" value="Vezérlő fejedelemmé választották Rákóczit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1294" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-96" target="7-88GnWF3drpSB_-rlh5-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-96" target="Su10DD7ymR8lMqIDGxkd-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1507.6" y="420" as="sourcePoint" />
+            <mxPoint x="1479.9999999999998" y="665.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-96" target="Su10DD7ymR8lMqIDGxkd-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-96" value="Ónodi országgyűlés" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7-88GnWF3drpSB_-rlh5-98" target="7-88GnWF3drpSB_-rlh5-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-98" value="Habsburg trónfosztás ötlete" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-88GnWF3drpSB_-rlh5-100" value="I. Józseffel a tárgyalások megszakadtak" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-2" value="Adót vezettek be, mely a nemesekre is hatással volt" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-5" target="Su10DD7ymR8lMqIDGxkd-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-5" value="Trencsén, 1708" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-7" target="Su10DD7ymR8lMqIDGxkd-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-7" value="Sárospataki országgyűlés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-9" value="Hajdúszabadságot ígértek a jobbágyaknak" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-11" target="Su10DD7ymR8lMqIDGxkd-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-20" value="Hajlandóbb&lt;div&gt;volt&lt;div&gt;békekötésre&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Su10DD7ymR8lMqIDGxkd-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.1914" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-11" value="Károlyi Sándor lett rakva a szab.harc élére" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-7" target="Su10DD7ymR8lMqIDGxkd-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-13" value="Rákóczi elment lengyelországba&lt;div&gt;segítséget kérni&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Su10DD7ymR8lMqIDGxkd-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.0495" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-14" target="Su10DD7ymR8lMqIDGxkd-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-77" value="Békekötést&lt;div&gt;indított&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Su10DD7ymR8lMqIDGxkd-76" vertex="1" connectable="0">
+          <mxGeometry x="0.0621" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-14" value="Pálffy János meglett választva a tárgyalások újboli megindításával" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-17" target="Su10DD7ymR8lMqIDGxkd-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-17" target="Su10DD7ymR8lMqIDGxkd-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="980" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Szatmári béke&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="895" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-22" value="Rendi jogok visszaállítása" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-23" value="Szabad vallásgyakorlás" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-24" value="Újszerzeményi bizottság megszüntetése" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-25" value="Újjá tudták építeni az országot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-26" value="Forrásokat nem kell pazarolni" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-27" value="Megakadályozták a további felkeléseket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Su10DD7ymR8lMqIDGxkd-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1010" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="251" y="1010" />
+              <mxPoint x="251" y="1000" />
+              <mxPoint x="300" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-38" target="Su10DD7ymR8lMqIDGxkd-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1020" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="234" y="1000" />
+              <mxPoint x="180" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-38" target="Su10DD7ymR8lMqIDGxkd-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1021" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-39" target="Su10DD7ymR8lMqIDGxkd-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-39" target="Su10DD7ymR8lMqIDGxkd-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1055" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-39" target="Su10DD7ymR8lMqIDGxkd-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1055" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-31" value="Kompromisszumos béke" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-38" value="Magyaroknak jó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="1010" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-39" value="Habsburgoknak jó" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1040" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-45" target="Su10DD7ymR8lMqIDGxkd-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-45" target="Su10DD7ymR8lMqIDGxkd-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-45" value="Rákóczi Ferenc nem szerette ezt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-48" value="Nem kért kegyelmet, levesztette telkeit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Su10DD7ymR8lMqIDGxkd-50" target="Su10DD7ymR8lMqIDGxkd-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-50" value="Franciaországba menekült követőivel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-56" target="Su10DD7ymR8lMqIDGxkd-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-56" value="Rájöttek, nem akarnak a franciák a habsburokkal háborút" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="870" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-58" target="Su10DD7ymR8lMqIDGxkd-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-58" value="Osztrák-Török háború kitört" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-59" target="Su10DD7ymR8lMqIDGxkd-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-59" value="Törökországba indultak harcolni" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-62" value="Mire odaértek, a háborúnak vége lett" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="806" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-64" target="Su10DD7ymR8lMqIDGxkd-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-64" target="Su10DD7ymR8lMqIDGxkd-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-64" value="Rodostóba letelepedtek" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="806" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-62" target="Su10DD7ymR8lMqIDGxkd-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-67" value="Mikes Kelemen írt életükről" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Su10DD7ymR8lMqIDGxkd-69" target="Su10DD7ymR8lMqIDGxkd-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="921" />
+              <mxPoint x="500" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-69" value="Rákóczi meghal 1735-ben, természetes módon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Su10DD7ymR8lMqIDGxkd-71" value="Hamvait a 20. században hazahozták és a kassai dómba rakták" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
