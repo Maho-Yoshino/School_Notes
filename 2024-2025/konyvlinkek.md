@@ -1,11 +1,12 @@
 - [Digitális Kultúra](https://www.tankonyvkatalogus.hu/storage/pdf/OH-DIG11TA__teljes.pdf)
-- Magyar Irodalom:
-  - [Szöveggyűjtemény](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MIR11SZ__teljes.pdf)
-  - [Tankönyv](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MIR11TA__teljes.pdf)
+- Magyar:
+  - [Irodalom Szöveggyűjtemény](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MIR11SZ__teljes.pdf)
+  - [Irodalom Tankönyv](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MIR11TA__teljes.pdf)
   - [Magyar Nyelvtan](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MNY11TB__teljes.pdf)
-- [Matek](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MAT11TA__teljes.pdf)
-- [Matek Függvénytáblázat](https://www.tankonyvkatalogus.hu/storage/pdf/NT-15129_NAT__teljes.pdf)
-- Matematika Feladatgyűjtemény
+- Matek
+  - [Tankönyv](https://www.tankonyvkatalogus.hu/storage/pdf/OH-MAT11TA__teljes.pdf)
+  - [Függvénytáblázat](https://www.tankonyvkatalogus.hu/storage/pdf/NT-15129_NAT__teljes.pdf)
+  - Feladatgyűjtemény
 - [Töri Tankönyv](https://www.tankonyvkatalogus.hu/storage/pdf/OH-TOR11TB__teljes.pdf)
 - [Fizika II. Fejezet](https://www.tankonyvkatalogus.hu/storage/pdf/OH-FIZ910TB_II__teljes.pdf)
 - Angol:
