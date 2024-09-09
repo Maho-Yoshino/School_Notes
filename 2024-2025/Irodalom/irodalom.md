@@ -1,21 +1,21 @@
-TK/Szgy. 10es
-
-Témakörök:
-1. Ismétlés/folytatás: Csokonai V. Mihály
-2. Berzsenyi Dániel költészete
-3. Kölcsey munkássága, **Himnusz** memoriter
-4. Vörösmarty költészete, **Szózat** memoriter
-5. Romantika a világirodalomban
-
-# Csokonai Vitéz Mihály ismétlés
-## Hf.
-- Életrajza
-- Költészetének stílus irányzatai
-- Lilla dalok
-  - Kötet keletkezése jellemzői
-  - Tartózkodó kérelem c. vers elemzése
-Füzetvázlat legyen, Hétfőre (?)
-
+TK/Szgy. 10es  
+  
+Témakörök:  
+1. Ismétlés/folytatás: Csokonai V. Mihály  
+2. Berzsenyi Dániel költészete  
+3. Kölcsey munkássága, **Himnusz** memoriter  
+4. Vörösmarty költészete, **Szózat** memoriter  
+5. Romantika a világirodalomban  
+  
+# Csokonai Vitéz Mihály ismétlés  
+## Hf.  
+- Életrajza  
+- Költészetének stílus irányzatai  
+- Lilla dalok  
+  - Kötet keletkezése jellemzői  
+  - Tartózkodó kérelem c. vers elemzése  
+Füzetvázlat legyen, Hétfőre (?)  
+  
 1. Élete  
    1. Debrecenben elszegényedett  
    2. Kisnemesi család  
@@ -75,4 +75,4 @@ Füzetvázlat legyen, Hétfőre (?)
       "Szerelemnek tüze bánt" metafora (tűz = képi elem, szerelem = fogalmi elem)  
       metafora = összevont hasonlat/azonosítás  
       "... Tüze bánt" megszemélyesítés  
-      2. vsz
+      2. vsz  
