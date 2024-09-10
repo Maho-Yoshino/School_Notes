@@ -76,3 +76,18 @@ Füzetvázlat legyen, Hétfőre (?)
       metafora = összevont hasonlat/azonosítás  
       "... Tüze bánt" megszemélyesítés  
       2. vsz  
+## Csokonai V.M.: A Reményhez
+- Óda
+Hf. Vázlat, Szgy. 138
+Fő szempontok:
+- Keletkezés
+- Cím értelmezése
+- Műfaji jellemző
+- Szerkezete
+- Képi világ, pl. tavasz-Tél jelképes képei (3-4. vsz)
+- Versforma
+  - Rímek
+  - Ütemhangsúlyos verselés
+- Rokokó stílusjegyek
+- Klasszicista stílusjegyek
+-  
