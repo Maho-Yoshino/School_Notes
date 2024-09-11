@@ -30,12 +30,16 @@ Kérdések
    - Nehézipar  
    - Bányászat  
 6. Mi az a közlekedés forradalma?  
+   - 1825
    - 3 szempont  
     1. Nagyobb mennyiség  
     2. Gyorsabb  
     3. Messzebbre  
-7.  
 ## Hf. Tanulni, keresni 3 ipari forradalmi találmányt  
 1. Belsőégésű motor, 1860, Étienne Lenoir
 2. Dinamit, 1867, Alfred Nobel
 3. Szénszálas izzó, 1879, Thomas Alva Edison
+Tk. 134, 2. árba nagyon fontos
+Ábra Összesítés
+Az energia előállítás a forradalom előtt 
+## Hf.: Tanulni, 134-136. o jegyzet abból amit nem vettünk
