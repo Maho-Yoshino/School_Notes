@@ -53,3 +53,11 @@ Tk. 134, 2. ábra nagyon fontos
    Az ipari termelés megszervezésében új módszerek terjedtek el: a tőke koncentrációja, monopóliumok és kartellek jöttek létre. A gazdasági hatalom egyre inkább néhány nagyvállalat és család kezébe került (pl. Rockefeller, Ford), ami politikai befolyást is hozott számukra.  
   
    A társadalmi szerkezet is jelentősen átalakult. A középosztály növekedésével a kereskedelem és a szolgáltatások jelentősége megnőtt, míg a természeti környezetet a növekvő ipar és városok egyre nagyobb mértékben terhelték meg, nem törődve a környezeti károkkal.  
+
+   Futószalagghal létrejön a sorozatgyártás, tömegtermelés
+
+   Zeppelin yipppe *boom*
+
+   Kommunizmus yippee
+   
+   

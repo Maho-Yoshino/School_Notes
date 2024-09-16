@@ -1,4 +1,3 @@
 import math
-while False:
-	print(eval(input("> ")))
-print()
+while True:
+	print(eval(input("> ").replace("^", "**")))
