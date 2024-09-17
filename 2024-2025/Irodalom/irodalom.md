@@ -122,9 +122,16 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
 - Pátosz és emelkedettség: A fájdalom elmélyült kifejezése és az emberi sorssal kapcsolatos általános gondolatok megjelenése  
   
 # Berzsenyi Dániel (Tk. 130-131)  
-## Elégiái (Tk. 132-133)  
-1. Osztályrészem (Szgy. 153)  
-   1.  
-2.  
-## Ódái  
-  
+## Élete
+  TBF
+## Költészete
+1. Klasszicista ódái
+ - pl. A Magyarokhoz I és II
+ - Témájuk: A magyarság erkölcsi helyzete 
+2. Elégiái
+ - Pl. Osztályrészem, Levéltöredék barátnémhoz, A közelítő tél (!)
+ - 
+3. Elégiák
+ 1. Osztályrészem (Szgy. 153)
+  - Hf. Vázlat az Osztályrészem versről 
+ 2. A Közelítő tél (Szgy. 155)
