@@ -60,4 +60,14 @@ Tk. 134, 2. ábra nagyon fontos
 
    Kommunizmus yippee
    
-   
+## Hf.: 10db második ipari forradalmi szar
+1. Villanykörte, 1879, Thomas Edison
+2. Telefon, 1876, Alexander Graham Bell
+3. Benzinmotor, 1876, Nikolaus Otto
+4. Autó, 1886, Karl Benz 
+5. Repülőgép, 1903, Wright Testvérek
+6. Dinamit, 1867, Alfred Nobel
+7. Acélgyártás (Bessemer eljárás), 1855, Henry Bessemer
+8. Futószalag, 1913, Henry Ford
+9. Fonográf, 1877, Thomas Edison
+10. Turbina, 1884, Charles Parsons
