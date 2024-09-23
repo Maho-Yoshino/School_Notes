@@ -123,15 +123,45 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   
 # Berzsenyi Dániel (Tk. 130-131)  
 ## Élete
-  TBF
+  Élt 1776. május 7. - Halt 1836. február 24. Berzsenyi a magyar klasszicista költészet egyik kiemelkedő alakja volt, aki az irodalomtörténetben elsősorban ódáiról és hazafias verseiről ismert.
+  Berzsenyi a Vas vármegyei Egyházashetyén született egy nemesi családban. Fiatalon részesült oktatásban, de iskoláit nem fejezte be: Sopronban a líceumot elhagyta, és visszatért családi birtokára, ahol földműves életet élt. Bár viszonylag elszigetelten élt vidéken, műveltségét autodidakta módon fejlesztette.
+  Költészetének kibontakozása felnőttkorára tehető. Első verseit Kazinczy Ferenc fedezte fel, aki nagyban hozzájárult ahhoz, hogy Berzsenyi nevét az irodalmi életben megismerjék. Első verseskötete 1813-ban jelent meg, amelyet pozitívan fogadott a közönség, és ekkorra már elismert költővé vált. Berzsenyi művészetét mély hazafias érzések, a nemzeti múlt iránti tisztelet, valamint az antik és klasszicista eszmények ihlették.
+  A költő azonban nem volt képes irodalmi pályáját folyamatosan fejleszteni. Miután Kölcsey Ferenc bírálta verseit (1817-ben), Berzsenyi megsebesült lelkileg, és fokozatosan visszavonult az irodalmi élettől. Bár később megpróbált válaszolni a kritikára egy tanulmány formájában, az alkotókedve jelentősen megcsappant.
 ## Költészete
 1. Klasszicista ódái
  - pl. A Magyarokhoz I és II
  - Témájuk: A magyarság erkölcsi helyzete 
 2. Elégiái
- - Pl. Osztályrészem, Levéltöredék barátnémhoz, A közelítő tél (!)
- - 
+ - Osztályrészem
+ - Levéltöredék barátnémhoz
+ - A közelítő tél (!)
 3. Elégiák
  1. Osztályrészem (Szgy. 153)
-  - Hf. Vázlat az Osztályrészem versről 
  2. A Közelítő tél (Szgy. 155)
+
+## Osztályrészem
+- Témája
+    - Költő életfilozófiája
+    - Az egyszerű, nyugodt élet dicsérete
+    - Az emberi élet végessége és a halál elfogadása
+  - Szerkezete
+    - A vers három fő gondolati egységre osztható:
+      1. A költő osztályrésze: a nyugodt, visszafogott élet értékelése
+      2. A világi hívságok elutasítása: az egyszerű boldogság szembeállítása a hírnévvel és gazdagsággal
+      3. A halál gondolata: az elmúlás természetes elfogadása, nyugodt belenyugvás a sorsba
+  - Hangvétel
+    - Elmélkedő, filozofikus
+    - Melankolikus, de ugyanakkor békés és elfogadó
+  - Költői eszközök
+    - Klasszicista jegyek: ünnepélyes hangnem, a természetes életforma dicsérete
+    - Metaforák és szimbólumok a halálról és az emberi sorsról
+  - Üzenete: A költő az emberi élet céljaként a belső nyugalmat, az egyszerűséget és az elmúlás méltóságteljes elfogadását jelöli meg.
+## A közelítő tél
+1. Berzsenyi legszebb elégiája (szubjektív). Eredeti címe az Ősz címet viselte, Kazinczy javasolta a végső címet
+2. Központi gondolata, tárgya a versnek az elmúlás
+3. Szerkezete
+  1. 1-3. vsz (I. rész): az őszi táj "megfestése"
+  2. 4-6. vsz (II. rész): Filozofikus elmélkedés az elmúlásról
+4. I. rész jellemzői
+  1. Negatív tájleírás
+     - A tavasz, nyár képeinek hiányával festi me az elmúlás természetét
