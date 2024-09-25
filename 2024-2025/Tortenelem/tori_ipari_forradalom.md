@@ -53,21 +53,21 @@ Tk. 134, 2. ábra nagyon fontos
    Az ipari termelés megszervezésében új módszerek terjedtek el: a tőke koncentrációja, monopóliumok és kartellek jöttek létre. A gazdasági hatalom egyre inkább néhány nagyvállalat és család kezébe került (pl. Rockefeller, Ford), ami politikai befolyást is hozott számukra.  
   
    A társadalmi szerkezet is jelentősen átalakult. A középosztály növekedésével a kereskedelem és a szolgáltatások jelentősége megnőtt, míg a természeti környezetet a növekvő ipar és városok egyre nagyobb mértékben terhelték meg, nem törődve a környezeti károkkal.  
-
-   Futószalagghal létrejön a sorozatgyártás, tömegtermelés
-
-   Zeppelin yipppe *boom*
-
-   Kommunizmus yippee
+  
+   Futószalagghal létrejön a sorozatgyártás, tömegtermelés  
+  
+   Zeppelin yipppe *boom*  
+  
+   Kommunizmus yippee  
    
-## Hf.: 10db második ipari forradalmi szar
-1. Villanykörte, 1879, Thomas Edison
-2. Telefon, 1876, Alexander Graham Bell
-3. Benzinmotor, 1876, Nikolaus Otto
-4. Autó, 1886, Karl Benz 
-5. Repülőgép, 1903, Wright Testvérek
-6. Dinamit, 1867, Alfred Nobel
-7. Acélgyártás (Bessemer eljárás), 1855, Henry Bessemer
-8. Futószalag, 1913, Henry Ford
-9. Fonográf, 1877, Thomas Edison
-10. Turbina, 1884, Charles Parsons
+## Hf.: 10db második ipari forradalmi szar  
+1. Villanykörte, 1879, Thomas Edison  
+2. Telefon, 1876, Alexander Graham Bell  
+3. Benzinmotor, 1876, Nikolaus Otto  
+4. Autó, 1886, Karl Benz  
+5. Repülőgép, 1903, Wright Testvérek  
+6. Dinamit, 1867, Alfred Nobel  
+7. Acélgyártás (Bessemer eljárás), 1855, Henry Bessemer  
+8. Futószalag, 1913, Henry Ford  
+9. Fonográf, 1877, Thomas Edison  
+10. Turbina, 1884, Charles Parsons  
