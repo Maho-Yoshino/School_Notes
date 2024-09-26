@@ -24,8 +24,30 @@
 - Mit jelent: "Nemzeti eszme"  
 - Neve eredete: "Natio" latinul Nemzet  
 - Előzményei: Felvilágosodás, francia forradalom, polgári átalakulás  
-- Végcél: Nemzetállam megteremtése, nemzet felemelése  
+- Végcél: Nemzetállam (Többnyire egy nép) megteremtése, nemzet felemelése  
 - Hogyan? (3.bekezdés)  
   - Közösségi azonosságtudat  
-##  
--  
+    - Hagyományok  
+  - Nemzettel való érzelmi azonulás    
+  - Nemzeti jelképek használata  
+    - Kokárda  
+    - Címer  
+    - Nemzeti lobogó  
+    - Himnusz  
+  - Nemzet felemelése  
+  - Nyelv ápolása  
+  - Közös múlt, mely összeköti az embereket  
+  - Kultúrnemzeti fejlődés ha nem megy az Államnemzeti fejlődés  
+  - Ellenségkép  
+- Modern nemzet: Olyan közösség, amit összeköt a nyelv, kultúra, történelmi tradíciók  
+- Régi nemzet (felvilágosodás előtt): Csak az ország előkelői  
+## Konzervatívizmus
+- Neve jelentése: "Conservare" (latinul "Megőrizni")
+- Miért jön létre?:  
+  - Reformok  
+  - Radikalizálódás (Szélsőséges, túlzott eszme)  
+  - A liberalizmusra a válasz  
+  - Francia forradalom okozta változások elvetése
+- Változások: lassú, megfontolt, apró
+- 
+Hf.: Mi jellemzi és miket tagad a konzervativizmus + tudományos szocializmus jegyzetelés
