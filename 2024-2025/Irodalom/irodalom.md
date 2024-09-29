@@ -192,3 +192,13 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
    2. Szentimentalista
       - Érzelmi töltés
 ## Hf.: A Magyarokhoz I. olvasás (Szgy. 156), kigyűjteni a versből a történelmi,mitológiai,mondai képeket 
+- Történelmi:
+1. "Nem látod, Árpád vére miként fajul?" Árpád mint Árpád vezér
+2. "Rongált Budának tornyai állanak" buda megszállása
+3. "A vad tatár kán xerxesi tábora" Tatárjárásra utalás
+4. "S világot ostromló töröknek Napkeletet leverő hatalma" Török hódítások
+- Mitológiai: 
+1. "Birkózva győztél, s Herculesként Ércbuzogány rezgett kezedben" Herkules
+- Mondai: 
+1. Turul-monda: Bár nem nevezi meg konkrétan a turult, a vers több sorában is megidézi a honfoglaláshoz és a magyarság eredetmondáihoz kapcsolódó képeket, amelyek a turulmadár legendájára emlékeztetnek. A turul az Árpád-ház totemállata és a honfoglalás szimbóluma.
+2. A nemzeti nagyság és bukás képe: A magyarok dicsőséges múltjának és esetleges bukásának képe hasonlítható a mondai történetekhez, ahol a hősök gyakran felemelkednek, majd tragikus módon elbuknak. Berzsenyi arra figyelmeztet, hogy a nemzet hasonló sorsra juthat, ha nem tanul a múlt hibáiból.

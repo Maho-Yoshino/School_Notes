@@ -49,5 +49,7 @@
   - A liberalizmusra a válasz  
   - Francia forradalom okozta változások elvetése
 - Változások: lassú, megfontolt, apró
-- 
-Hf.: Mi jellemzi és miket tagad a konzervativizmus + tudományos szocializmus jegyzetelés
+- Hf.: 
+  - Mi jellemzi?: Lassú, megfontolt, apró változások, tradicionalizmus, hierarchia, vallásnak és családnak központi szerepe van
+  - Miket tagad?: Gyors, nagy, forradalmi, radikális változásokat
+  - Tudományos szocializmus jegyzet: Karl Marx és Engels elméletére épül, szerinte a társadalmi fejlődés meghatározója az osztályharc. Célja a kapitalizmus felszámolása és osztály nélküli, szocialista társadalom létrehozása és a termelés a társadalmi szükségletek kielégítésére irányul, nem profitra.
