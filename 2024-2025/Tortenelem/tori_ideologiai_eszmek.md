@@ -47,9 +47,22 @@
   - Reformok  
   - Radikalizálódás (Szélsőséges, túlzott eszme)  
   - A liberalizmusra a válasz  
-  - Francia forradalom okozta változások elvetése
-- Változások: lassú, megfontolt, apró
-- Hf.: 
-  - Mi jellemzi?: Lassú, megfontolt, apró változások, tradicionalizmus, hierarchia, vallásnak és családnak központi szerepe van
-  - Miket tagad?: Gyors, nagy, forradalmi, radikális változásokat
-  - Tudományos szocializmus jegyzet: Karl Marx és Engels elméletére épül, szerinte a társadalmi fejlődés meghatározója az osztályharc. Célja a kapitalizmus felszámolása és osztály nélküli, szocialista társadalom létrehozása és a termelés a társadalmi szükségletek kielégítésére irányul, nem profitra.
+  - Francia forradalom okozta változások elvetése  
+- Változások: lassú, megfontolt, apró  
+- Hf.:  
+  - Mi jellemzi?: Lassú, megfontolt, apró változások, tradicionalizmus, hierarchia, vallásnak és családnak központi szerepe van  
+  - Miket tagad?: Gyors, nagy, forradalmi, radikális változásokat  
+  - Tudományos szocializmus jegyzet: Karl Marx és Engels elméletére épül, szerinte a társadalmi fejlődés meghatározója az osztályharc. Célja a kapitalizmus felszámolása és osztály nélküli, szocialista társadalom létrehozása és a termelés a társadalmi szükségletek kielégítésére irányul, nem profitra.  
+- Mi jellemzi: Vallás, Család központba; Lassú, megfontolt, apró változások  
+- Miket tagad: Radikális változások (pl. forradalom), polgári jogok kötelező elismerését, társadalmi szerződés tanát  
+## Tudományos Szocializmus  
+- Neve jelentése: "Socius" (magyarul "közös", "társas")  
+- Főcélja: a kapitalizmus felszámolása; osztály nélküli, szocialista társadalom létrehozása; a termelés a társadalmi szükségletek kielégítésére irányuljon, nem profitra  
+- Kiindulópont: Utópisták (felvilágosodás), fr.forradalom  
+- Karl Marx és Friedrich Engels  
+- Jellemzői:
+  - Vallást elveti  
+  - Materializmus (anyagelvűség)  
+- Történelem eszmélete: Osztályharcok története (szabadok-rabszolgák, földesurak-jobbágyak), proletárizmus, munkásosztály  
+- Társadalom működése: Tőkés kizsákmányolja a munkást  
+- Forradalomelmélet (!): A proletárok forradalmat indítanak a helyi rendszer ellen (proletár forradalom), ebből világforradalom lesz, magántulajdon egyenlőtlenséget okoz, proletár diktatúra kell, hogy megszüntethessék. Megvalósul az egyenlő társadalom, ki kell alakítani az osztály nélküli társadalmat, ahol a társadalmi szükségletek határozzák meg a termelést  

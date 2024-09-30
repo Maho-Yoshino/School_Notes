@@ -202,3 +202,9 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
 - Mondai: 
 1. Turul-monda: Bár nem nevezi meg konkrétan a turult, a vers több sorában is megidézi a honfoglaláshoz és a magyarság eredetmondáihoz kapcsolódó képeket, amelyek a turulmadár legendájára emlékeztetnek. A turul az Árpád-ház totemállata és a honfoglalás szimbóluma.
 2. A nemzeti nagyság és bukás képe: A magyarok dicsőséges múltjának és esetleges bukásának képe hasonlítható a mondai történetekhez, ahol a hősök gyakran felemelkednek, majd tragikus módon elbuknak. Berzsenyi arra figyelmeztet, hogy a nemzet hasonló sorsra juthat, ha nem tanul a múlt hibáiból.
+- Műfaja óda, megszólítottja a "magyar nép" (a magyar nemesség) 
+- Himnusz előképe: erkölcsi romlásról beszél 
+- Szerkezetileg: érték és időszembesítő
+  - Értékgazdag múlt <-> Értékszegény jelen
+  - oka: belső viszályok, a nemesség részének "árulása"
+- Képileg a tölgyfa metafora fejezi ki legjobban a széthullást
