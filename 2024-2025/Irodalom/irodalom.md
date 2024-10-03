@@ -208,3 +208,5 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   - Értékgazdag múlt <-> Értékszegény jelen
   - oka: belső viszályok, a nemesség részének "árulása"
 - Képileg a tölgyfa metafora fejezi ki legjobban a széthullást
+# Kölcsey Ferenc
+- 
