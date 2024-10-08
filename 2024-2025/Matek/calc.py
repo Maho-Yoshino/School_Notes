@@ -1,6 +1,8 @@
 from math import sqrt,sin,cos,tan,log,pi
 replace_dict = {
-	"^":"**"
+	"^":"**",
+	"√":"sqrt",
+	"π":"pi"
 }
 def root(x:int|float|str,n:int|float|str):
 	if isinstance(x, str):

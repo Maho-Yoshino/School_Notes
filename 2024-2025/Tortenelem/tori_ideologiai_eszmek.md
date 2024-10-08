@@ -41,8 +41,8 @@
   - Ellenségkép  
 - Modern nemzet: Olyan közösség, amit összeköt a nyelv, kultúra, történelmi tradíciók  
 - Régi nemzet (felvilágosodás előtt): Csak az ország előkelői  
-## Konzervatívizmus
-- Neve jelentése: "Conservare" (latinul "Megőrizni")
+## Konzervatívizmus  
+- Neve jelentése: "Conservare" (latinul "Megőrizni")  
 - Miért jön létre?:  
   - Reformok  
   - Radikalizálódás (Szélsőséges, túlzott eszme)  
@@ -60,7 +60,7 @@
 - Főcélja: a kapitalizmus felszámolása; osztály nélküli, szocialista társadalom létrehozása; a termelés a társadalmi szükségletek kielégítésére irányuljon, nem profitra  
 - Kiindulópont: Utópisták (felvilágosodás), fr.forradalom  
 - Karl Marx és Friedrich Engels  
-- Jellemzői:
+- Jellemzői:  
   - Vallást elveti  
   - Materializmus (anyagelvűség)  
 - Történelem eszmélete: Osztályharcok története (szabadok-rabszolgák, földesurak-jobbágyak), proletárizmus, munkásosztály  
