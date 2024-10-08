@@ -3,7 +3,7 @@ TK/Szgy. 10es
 Témakörök:  
 1. Ismétlés/folytatás: Csokonai V. Mihály  
 2. Berzsenyi Dániel költészete  
-3. Kölcsey munkássága, **Himnusz** memoriter (Szgy. 169)(2024.10.)  
+3. Kölcsey munkássága, **Himnusz** memoriter (Szgy. 169)(2024.10.14)  
 4. Vörösmarty költészete, **Szózat** memoriter (Szgy. 207)  
 5. Romantika a világirodalomban  
   
