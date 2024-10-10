@@ -236,3 +236,45 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   - cenzúra kijátszása  
   - Költői játék:  
     - Névtelen prédikátor szerep  
+4. Keretversszak - Keretes verselés  
+- 1.Vsz, 8.vsz adják a keretet  
+- A himnusz műfajának megfelelően ABA szerkezetű a vers:  
+  - A: isten megszólítása és kérés megfogalmazása + rövid indoklás  
+  - B: A kérés indoklása, kifejezése, "Megbűnhődte már e nép a multat s jövendőt"  
+- A 8.vsz az 1.vsz módosított ismétlése, 8.vsz 1-4.sor  
+  - "Szánd meg isten a magyart" áldás helyett megszánás fogalmazódik meg  
+  - Az 5.-8. sorok megegyeznek az 1.vsz 5.-8. soraival  
+5. Fénymásolat  
+- A vers érvelése:  
+  - Múlt (Dicső haza) <-> Jelen (Elpusztult haza)  
+  - A vers tengelyes tükrözése  
+    - 4.Vsz 1-4.sora:  
+      - "Hajh, de bűneik miatt Gyúlt harag kebledben"  
+    - A tengelytől "egyenlő távolságra" vannak a pozitív és negatív képek  
+    - Rímképlet  
+6. A versben megjelenő stílusirányzatok  
+   1. - Klasszicista szerkezet: érvelés  
+   - időmértékes verselés  
+   2. Romantikus elemek:  
+   - túlzó, érzelmileg felfokozott képek, pl. halálhörgés, siralom, lángtenger  
+7. Nyelvi alakzatok a versben  
+   1. Sajátos mondatszerkesztés  
+      1. Pl. Az első vsz, "Bal sors akit régen tép" egyszerre kapcsolódik az 1. és 7-8. sorhoz  
+      2. Alliteráció - betűrím, "**B**ús, "**B**écsnek", "**B**üszke"  
+   2. Anafora - Ugyanazzal a szóval kezdődik két mondat, "Hányszor zengett..."-"Hányszor támadt..."  
+   3. Paradoxon  
+   - Látszólagos ellentét: "Nem lelé honját a hazában"  
+8. Verselése Szinultán  
+   - Egyszerre  
+     - Időmértékes: Gyakori versláb benne a Trocheus (--./|-U|), pl.:  
+     "Isten áld meg..."  
+     | - U | -   U |  
+     Lassítja a ritmust  
+     - Ütemhangsúlyos (Magyaros)  
+       - 7|6|7|6|7|6|7|6 tagolású, a sorok szótagszáma  
+       "Isten Áldd meg | a magyart"  
+              4             3       (7)  
+       "Jó kedvvel, | bőséggel"  
+            3             3     (6)  
+       - Kétütemű felező 6-os  
+       - Rímképlete: ababcdcd (keresztrím)  

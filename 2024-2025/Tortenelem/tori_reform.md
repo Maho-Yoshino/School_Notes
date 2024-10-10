@@ -18,3 +18,11 @@ Hogyan kerültek a javaslatok a király elé?
 Milyen jogai voltak a királynak?
 	Törvényekjavaslatok szentesítése, Országgyűlés összehívása, feloszlatása, feliratok elutasítása, javaslat
 # A nemzeteszme megjelenése hazánkban
+- Nemzeteszme megjelenése
+  - Nyelvújítás
+    - Kazinczy Ferenc
+  - Öltözet
+  - Kultúrnemzeti fejlődések  
+- Problémák?
+  - Kisebbségek  
+- 1815 Szent szövetség, Bécs  
