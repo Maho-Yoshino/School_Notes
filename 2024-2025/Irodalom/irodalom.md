@@ -218,6 +218,7 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   - MTA rendes tagja  
   - számos irodalmi lap szerkesztője  
   - Szatmár megye jegyzője, később országgyűlési képviselője  
+## Himnusz  
 2. A himnusz keletkezése  
    1. 1823.jan.22, ma a magyar kultúra napja  
    2. Megjelenése: Aurora irodalmi lap  
@@ -278,3 +279,5 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
             3             3     (6)  
        - Kétütemű felező 6-os  
        - Rímképlete: ababcdcd (keresztrím)  
+## Parainesis Kölcsey Kálmánhoz  
+1. Parainesis = Intelmek  

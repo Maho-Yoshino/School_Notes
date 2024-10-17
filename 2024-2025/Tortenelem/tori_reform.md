@@ -94,36 +94,36 @@ Háborús Konjunktúra
 - Feladata:  
   - Tudományos kutatások támogatása, koordinálása  
   - Minőségi tudományos eredmények biztosítása Magyarországon  
-## OGYk
-- 1832-36 
-  - Megjelenik az érdekegyesítés gondolata (Jobbágyság és nemesség nemzeti alapú egyesítése a közös célért)
-  - Megpróbélják az önkéntes örökváltságot, de elbukik
-  - Kossuth Lajos megjelent a politikai színtéren
-- 1839-40
-  - Habsburg reformkodás, magyarok nem szerették, sikeresen fellépnek a magyarok a politikai perek ellen
-  - Több gazdaságot fejlesztő törvény
-  - Úgy gondolták, hogy gazdaság reform kellett a politikai reformhoz
-  - elfogadják az önkéntes örökváltságot
-  - Magyar nyelv a feliratok és megyei ügyintézés alatt
-- 1843-44
-  - A magyar államnyelv lesz (egyetlen sikeres kérdés)
-  - Védővámot követelnek, habsburgok megtagadják a "birodalom érdekében", viszont Kossuth vezetésével létre jön a Védegylet (Magyar termékek védelme, "vegyél magyar termékeket")
-## Fontos cuccok:
-- Fontolva haladók: Konzervatívizmus
-- Liberális nemesség: Liberalizmus
-- Centralisták: Központosított polgári állam
-- Fiatal MO.: Nacionalista
-### Emberek
-- Széchényi
-- Kossuth Lajos (Liberalista)
-- Wesselényi
-Fiatal MO.
-- Petőfi
-- Jókai
-- Vasvári Pál
-- Irínyi József
-- Iráni Dániel
-hf: okt23 után nézni
-FONTOS (hf részletes életrajz, min 1-1 oldal, 2024.10.23)!!
-- Széchényi
-- Kossuth
+## OGYk  
+- 1832-36  
+  - Megjelenik az érdekegyesítés gondolata (Jobbágyság és nemesség nemzeti alapú egyesítése a közös célért)  
+  - Megpróbélják az önkéntes örökváltságot, de elbukik  
+  - Kossuth Lajos megjelent a politikai színtéren  
+- 1839-40  
+  - Habsburg reformkodás, magyarok nem szerették, sikeresen fellépnek a magyarok a politikai perek ellen  
+  - Több gazdaságot fejlesztő törvény  
+  - Úgy gondolták, hogy gazdaság reform kellett a politikai reformhoz  
+  - elfogadják az önkéntes örökváltságot  
+  - Magyar nyelv a feliratok és megyei ügyintézés alatt  
+- 1843-44  
+  - A magyar államnyelv lesz (egyetlen sikeres kérdés)  
+  - Védővámot követelnek, habsburgok megtagadják a "birodalom érdekében", viszont Kossuth vezetésével létre jön a Védegylet (Magyar termékek védelme, "vegyél magyar termékeket")  
+## Fontos cuccok:  
+- Fontolva haladók: Konzervatívizmus  
+- Liberális nemesség: Liberalizmus  
+- Centralisták: Központosított polgári állam  
+- Fiatal MO.: Nacionalista  
+### Emberek  
+- Széchényi  
+- Kossuth Lajos (Liberalista)  
+- Wesselényi  
+Fiatal MO.  
+- Petőfi  
+- Jókai  
+- Vasvári Pál  
+- Irínyi József  
+- Iráni Dániel  
+hf: okt23 után nézni  
+FONTOS (hf részletes életrajz, min 1-1 oldal, 2024.10.23)!!  
+- Széchényi  
+- Kossuth  
