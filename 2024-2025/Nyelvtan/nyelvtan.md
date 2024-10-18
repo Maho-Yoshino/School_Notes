@@ -100,3 +100,23 @@ Mém:
    8. káromkodás  
    9. magázás, tegezés  
    10. nyelvi normák betartása  
+4. Szövegtípusok  
+   1. Írásbeli  
+      - Magánlevél  
+      - Üzenet  
+      - Chat  
+      - Komment  
+   2. Szóbeli  
+      - Beszélgetés  
+      - Vita  
+      - Veszekedés  
+5. Adekvát stílusban kommunikálni  
+   1. Igazodunk ahhoz a szituációhoz, amelyben kommunikálunk (beszédhelyzet)  
+   2. pl. érthető, világos, szavatos fogalmazás egy adott helyzetben  
+6. Inadekvát stílus: nem teljesül az elvárható kommunikáció  
+   1. Kétértelműség  
+   2. Bőbeszédűség  
+   3. "Sok beszédnek sok az alja"  
+   4. Dagályos-túlbonyolított beszéd  
+   5. Szótévesztés  
+   6. Divatos szavak indokolatlan használata  
