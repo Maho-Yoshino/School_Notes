@@ -4,7 +4,8 @@ Témakörök:
 1. Ismétlés/folytatás: Csokonai V. Mihály  
 2. Berzsenyi Dániel költészete  
 3. Kölcsey munkássága, **Himnusz** memoriter (Szgy. 169)(2024.10.14)  
-4. Vörösmarty költészete, **Szózat** memoriter (Szgy. 207)  
+4. Vörösmarty költészete, **Szózat** memoriter (Szgy. 207)(Őszi szünet után)  
+November vége Madách Olvasónapló  
 5. Romantika a világirodalomban  
   
 # Csokonai Vitéz Mihály ismétlés  
