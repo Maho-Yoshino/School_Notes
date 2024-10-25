@@ -282,3 +282,20 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
        - Rímképlete: ababcdcd (keresztrím)  
 ## Parainesis Kölcsey Kálmánhoz  
 1. Parainesis = Intelmek  
+# Fogalmazásvázlat - Himnusz  
+- Bekezdésekben írni, 2+ oldal  
+1. Bevezetés  
+   1. Néhány gondolat a  
+      1. Szerzőről (Kölcsey)  
+      2. Korról (Reformkor: célok, jelszavak)  
+      3. Himnusz keletkezése: Cseke, 1823  
+2. Tárgyalás  
+   1. A mű értelmezése/elemzése szempontok alapján:  
+      1. Füzet  
+      2. Fénymásolat  
+      3. TK  
+      4. Net  
+3. Befejezés  
+   1. A mű jelentősége  
+   2. A mű üzenete, aktualitása a mai embernek  
+   3. Saját vélemény  

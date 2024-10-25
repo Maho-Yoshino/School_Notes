@@ -30,7 +30,7 @@ Háborús Konjunktúra
 # Reformkor  
 - 1830-1848, Reformkor, Széchényi "A hitel"  
 - 1825.MTA megalakítása  
-- 160.o/14. ábra ![alt text](reformkor_ideologiai_iranyzatai.png)  
+- 160.o/14. ábra ![A reformkor ideológiai irányzatai kép](reformkor_ideologiai_iranyzatai.png)  
 - Libernyák nemesség legjelentősebb alakja Kossuth Lajos  
 ### Politikai Kérdések hazánkban  
 1. Fontolva Haladók  

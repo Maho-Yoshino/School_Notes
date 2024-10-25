@@ -2,7 +2,10 @@ from math import sqrt,sin,cos,tan,log,pi
 replace_dict = {
 	"^":"**",
 	"√":"sqrt",
-	"π":"pi"
+	"π":"pi",
+	"=":"==",
+	"≥":">=",
+	"≤":"<="
 }
 def root(x:int|float|str,n:int|float|str):
 	if isinstance(x, str):
@@ -10,6 +13,10 @@ def root(x:int|float|str,n:int|float|str):
 	if isinstance(n, str):
 		n = float(n)
 	return x**(1/n)
+def rep(string:str, **items):
+	for item_name, item_data in items.items():
+		string.replace(item_name, item_data)
+	return string
 while True:
 	try:
 		equation = input("> ")
