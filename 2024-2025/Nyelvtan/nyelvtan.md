@@ -82,6 +82,7 @@ Mém:
      2. zenei stílusok  
      3. designerek által létrehozott stílusok, divat  
   4. A stílusréteg: a kommunikációs színterek alapján beszélhetünk stílusrétegről, vagyis attól függ, hogy hol, milyen közegben alkotunk/használunk szövegeket  
+  5. A nyelvi stílus fogalma: "Nyelvi eszközök válogatása, és elrendezése"
 2. Fajtái  
    1. Magánéleti/társalgási  
    2. Tudományos-Szakmai  
@@ -120,3 +121,13 @@ Mém:
    4. Dagályos-túlbonyolított beszéd  
    5. Szótévesztés  
    6. Divatos szavak indokolatlan használata  
+# Tudományos stílusréteg
+1. Célja: Ismeretterjesztés, közlés, de van felhívó jellege is
+2. Fő szövegfajtái:
+   1. Szóbeli: Előadás, Vita, iskolai kiselőadás
+   2. Írásbeli: tankönyv, szakkönyvek egy témában, tudományos értekezés, szótárak
+# Dolgozat
+- Stílus, stilisztikai fogalmak
+- A társalgási, magánéleti stílus jellemzői
+- Nyelvi stílus fogalma
+- Stílusréteg fogalma
