@@ -299,3 +299,9 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
    1. A mű jelentősége  
    2. A mű üzenete, aktualitása a mai embernek  
    3. Saját vélemény  
+# Katona József
+- "Egyműves szerző" - Csak egy jó költemény, a többi nem releváns
+- Bánk Bán szerzője
+# Madách Imre - Az ember tragédiája olvasónapló Januárra
+# A romantika művészete, irodalma
+## 
