@@ -5,7 +5,9 @@ replace_dict = {
 	"π":"pi",
 	"=":"==",
 	"≥":">=",
-	"≤":"<="
+	"≤":"<=",
+	"e+":"*10^",
+	";":","
 }
 def root(x:int|float|str,n:int|float|str):
 	if isinstance(x, str):
@@ -16,6 +18,8 @@ def root(x:int|float|str,n:int|float|str):
 def rep(string:str, **items:dict[str, int|float]):
 	"""Replaces all items entered, like "x=2" in given string, so rep("x^2", x=2) returns "2^2"."""
 	for item_name, item_data in items.items():
+		if str(item_data).startswith("-"):
+			item_data = f"({item_data})" 
 		string = string.replace(str(item_name), str(item_data))
 	return string
 while True:

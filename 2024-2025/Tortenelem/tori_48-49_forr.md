@@ -21,20 +21,33 @@
   12. Unió (erdélyel): Nacionalizmus  
 - A Márciusi ifjak képviselői megmozdulása sikeres forradalom lett. A fiatalok maguk mellé állították az egyetemistákat, majd a polgárokat. Landerernél a cenzúra mellőzésével kinyomtatták a 12 pontot (Sajtószabadságot megvalósítva) és a Nemzeti Dalt. Délután a forradalom siker hatására csatlakozott Pest vezetősége is, majd Budán a Helytartótanács.  
   
-- Gyűlés Pilvax Kávéházba eleinte
-- Egyetemhez elmentek
-- Majd a Landerer és Heckenasthoz, akik a Cenzúra ellenére kinyomtatták a 12 pontot 
-- Elment a nép a Nemzeti Múzeumtól elmentek a Helytartótanácshoz, hogy Táncsics Mihályt kiszabadítsák
-- Nyereség
+- Gyűlés Pilvax Kávéházba eleinte  
+- Egyetemhez elmentek  
+- Majd a Landerer és Heckenasthoz, akik a Cenzúra ellenére kinyomtatták a 12 pontot  
+- Elment a nép a Nemzeti Múzeumtól elmentek a Helytartótanácshoz, hogy Táncsics Mihályt kiszabadítsák  
+- Nyereség  
   
-- Márciusi ifjak átadták közben a vezetést a Liberális nemességnek, innentől a forradalom hatására is elfogadják a reformokat, avagy az **Áprilisi Törvények**et
-- Áprilisi Törvények:
+- Márciusi ifjak átadták közben a vezetést a Liberális nemességnek, innentől a forradalom hatására is elfogadják a reformokat, avagy az **Áprilisi Törvények**et  
+- Áprilisi Törvények:  
   - Előzmény: Az első felelős minisztérium létrejött, a Nagykoalíciós kormány  
-  - ![15.ábra, 167.o](elso_felelos_miniszterium.png)
-  - Április 11én szentesítve lettek a rendi OGy. által kidolgozott törvények -> Magyarország polgári átalakulását megfogalmazták
-  - MO. az OGy.-nek felelős kormánnyal rendelkező alkotmányos monarchiává alakult, egyesült erdéllyel.
-  - A választójog népképviseleti alapú
-  - ![MO államszervezete az áprilisi törvények alapján](allamszervezet_aprilisi_torv.png)
-  - Megvalósult az Ellenzéki nyilatkozat követelése:
-    - Jobbágyfelszabadítás Kötelező örökváltsággal, állami kárpótlással, elhalasztott kifizetéssel 
-  - Megyszűnt az úriszék, egyházi tizedet felszámolták
+  - ![15.ábra, 167.o](elso_felelos_miniszterium.png)  
+  - 1848.Április 11-én szentesítve lettek a rendi OGy. által kidolgozott törvények -> Magyarország polgári átalakulását megfogalmazták  
+  - MO. az OGy.-nek felelős kormánnyal rendelkező alkotmányos monarchiává alakult, egyesült erdéllyel. **(Feudalizmus -> Polgári állam)**  
+  - A OGy. rendi -> népképviseleti alapú  
+  - Műveltségi és vagyoni cenzus  
+  - ![MO államszervezete az áprilisi törvények alapján](allamszervezet_aprilisi_torv.png)  
+  - OGy. Pesten lesznek, a Parlamentben, évenként  
+  - Feudális kiváltságok felszámolása  
+    - Megyszűnt az úriszék  
+    - Egyházi tized megszűnt    
+    - Jobbágyfelszabadítás Kötelező örökváltsággal, állami kárpótlással (mert a jobbágyok megtarthatták telkeiket), elhalasztott kifizetéssel  
+    - Földesúri adók megszünnek (pl. robot)  
+    - Szabadságjogok megvalósulása  
+    - Cenzúra eltörlés  
+    - Nemzeti bank  
+- nem valósult meg:  
+  - Külügy  
+  - Hadügy  
+  - Ezeket szolgáló pénzügy  
+- Szentesítette: V. Ferdinánd (avagy a Habsburg király)  
+- Holnap (2024.11.07) dolgozat  
