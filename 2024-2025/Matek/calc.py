@@ -1,4 +1,4 @@
-from math import sqrt,sin,cos,tan,log,pi
+from math import sqrt,sin,cos,tan,log,pi, floor, ceil
 replace_dict = {
 	"^":"**",
 	"√":"sqrt",

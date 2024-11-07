@@ -29,9 +29,9 @@ Füzetvázlat legyen, Hétfőre (?)
    7. 1797: Komárom  
       - Megismerri Vajda Juliannát, szerelmét, akit verseiben Lillának nevez  
       - Pozsonyba látogat az ott ülésező országgyűlésre, kiadja tudósítását, "Diétai Magyar Múzsa"  
-   9. Lilla Apja elutasítja a költő lánykérését.  
-   10. Csurgóra kerül, somogyba, ahol a Református gimnázium tanára lesz  
-   11. 1800-ban hazatér Debrecenbe, szülői háza leég  
+   8. Lilla Apja elutasítja a költő lánykérését.  
+   9.  Csurgóra kerül, somogyba, ahol a Református gimnázium tanára lesz  
+   10. 1800-ban hazatér Debrecenbe, szülői háza leég  
 ## Csokonai Költészete  
 1. A nagy stílusművész  
    1. Stílusirányzatok költészetében  
@@ -61,17 +61,17 @@ Füzetvázlat legyen, Hétfőre (?)
 - Vajda Julianna  
 - múzsa neve: Lilla  
 - Viszonzott szerelem, de a házasság meghíúsul Lilla apja miatt  
-2. Csokonai halála után jelenik meg a Lilla c. verskötet  
-3. A kötet még Csokonai szerkeszti meg: A versek egy szerelem "történetét" mutatják meg, sorrendjükkel  
-4. A versek egy része korábbi szerelmekhez szóltak, átírta őket  
-5. Ilyen pl.:  
+1. Csokonai halála után jelenik meg a Lilla c. verskötet  
+2. A kötet még Csokonai szerkeszti meg: A versek egy szerelem "történetét" mutatják meg, sorrendjükkel  
+3. A versek egy része korábbi szerelmekhez szóltak, átírta őket  
+4. Ilyen pl.:  
 - Tartózkodó kérelem, korábbi címe "Egy tulipánthoz"  
-6. Tartózkodó kérelem:  
+1. Tartózkodó kérelem:  
    1.  
    - Népies egyszerűség  
    - Rokokó játékosság  
    - Mitológiai jelkép  
-   2. 3 vsz.  
+   1. 3 vsz.  
       1. vsz képei  
       "Szerelemnek tüze bánt" metafora (tűz = képi elem, szerelem = fogalmi elem)  
       metafora = összevont hasonlat/azonosítás  
@@ -305,3 +305,17 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
 # Madách Imre - Az ember tragédiája olvasónapló Januárra  
 # A romantika művészete, irodalma  
 ##  
+- A romantika egy mindent átfogó, művészeti, művelődéstörténeti korszak  
+- XIX. Század  
+- A román ("regényes", "kalandos") szóból ered  
+- Előzményei:  
+  1. Szentimentalizmus (érzékenység), pl. Csokonai, Berzsenyi versei  
+  2. "Sturm und Drang" ("Vihar és Vágy") német irányzat  
+- Egybe esik Európában a népek szabadságért vívott harcaival  
+- A szabadság eszméje romantika művészetében nagyon erős  
+- Jellemzői:  
+  - Klasszicizmus szabályaival szakít, megjelenik helyette a Zsenikultusz  
+  - A művész feltétlen alkotói szabadságának elismerése  
+  - Tökéletesség helyett Töredékesség megjelenik  
+  - Műfajok keveredése, pl.: Elégiko-óda  
+  - Érzelmek, vágyak kultusza  
