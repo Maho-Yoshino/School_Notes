@@ -82,7 +82,7 @@ Mém:
      2. zenei stílusok  
      3. designerek által létrehozott stílusok, divat  
   4. A stílusréteg: a kommunikációs színterek alapján beszélhetünk stílusrétegről, vagyis attól függ, hogy hol, milyen közegben alkotunk/használunk szövegeket  
-  5. A nyelvi stílus fogalma: "Nyelvi eszközök válogatása, és elrendezése"
+  5. A nyelvi stílus fogalma: "Nyelvi eszközök válogatása, és elrendezése"  
 2. Fajtái  
    1. Magánéleti/társalgási  
    2. Tudományos-Szakmai  
@@ -121,13 +121,37 @@ Mém:
    4. Dagályos-túlbonyolított beszéd  
    5. Szótévesztés  
    6. Divatos szavak indokolatlan használata  
-# Tudományos stílusréteg
-1. Célja: Ismeretterjesztés, közlés, de van felhívó jellege is
-2. Fő szövegfajtái:
-   1. Szóbeli: Előadás, Vita, iskolai kiselőadás
-   2. Írásbeli: tankönyv, szakkönyvek egy témában, tudományos értekezés, szótárak
-# Dolgozat
-- Stílus, stilisztikai fogalmak
-- A társalgási, magánéleti stílus jellemzői
-- Nyelvi stílus fogalma
-- Stílusréteg fogalma
+# Tudományos stílusréteg  
+1. Célja: Ismeretterjesztés, közlés, de van felhívó jellege is  
+2. Fő szövegfajtái:  
+   1. Szóbeli: Előadás, Vita, iskolai kiselőadás  
+   2. Írásbeli: tankönyv, szakkönyvek egy témában, tudományos értekezés, szótárak, Lexikon, szócikk (pl. Tk.83)  
+3. A tudományos stílus nyelvi jellemzői  
+   1. A szókincs  
+      - Idegen szavak, pl. Latin, görög nyelv szavai  
+      - Szakkifejezések: minden területnek van szókincse  
+        - Hexameter, irodalom  
+        - Ohm törvénye, fizika  
+        - Triumvirátus, töri  
+        - Hexaéder: matek  
+   2. Mondatszerkesztés:  
+      - Összetett, többszörösen összetett mondatok (alárendelés, mellérendelés)  
+      - Pontos, világos mondatalkotás szükséges  
+   3. Szövegalkotás terén  
+      - Bekezdések logikus felépítése  
+      - Tagolás, pl előadás  
+4. Három fontos tudományos szövegfajta:  
+   1. Tudományos értekezés  
+      - Nagyobb lélegzetű, tudományos munka  
+      - Pl. tudományos eredmények összegzése  
+      - Általában a szakmának szól  
+   2. A tudomány hasonló műfaj, de rövidebb, nem csak a szakmának szólhat  
+   3. Esszé  
+      - Tudományos szöveg, de irodalmi stílus is keveredik benne  
+      - Témája lehet: filozófia, irodalom, művészet, tárdsadalmi kérdések, stb.  
+      - Fontos benne a személyes állásfoglalás, figyelemfelkeltés, a jó stílus  
+# Dolgozat  
+- Stílus, stilisztikai fogalmak  
+- A társalgási, magánéleti stílus jellemzői  
+- Nyelvi stílus fogalma  
+- Stílusréteg fogalma  
