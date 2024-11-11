@@ -319,3 +319,10 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   - Tökéletesség helyett Töredékesség megjelenik  
   - Műfajok keveredése, pl.: Elégiko-óda  
   - Érzelmek, vágyak kultusza  
+## Edgar Allan Poe  
+- Shakespeare Lear királynának egyik szereplője után kapta  
+- Amerikai író, detektívtörténetek atyja, pl.:  A Morgue utcai kettős gyilkosság c. novella  
+- Híres a Holló c. verse  
+## Victor Hugo  
+- Francia regényíró  
+- pl: Három testőr, A párizsi Notre-Dame  

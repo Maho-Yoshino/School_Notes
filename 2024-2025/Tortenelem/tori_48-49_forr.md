@@ -50,4 +50,13 @@
   - Hadügy  
   - Ezeket szolgáló pénzügy  
 - Szentesítette: V. Ferdinánd (avagy a Habsburg király)  
-- Holnap (2024.11.07) dolgozat  
+# 1848 Szabadságharc  
+- A nemzetiségekkel szembeni hozzáállás: Egy politikai nemzet van csak  
+- Milyen kérdéskörben volt a fő ellentét az osztrákok és a magyar vezetés között?: A hadügy- és pénzügyminisztérium jogkörét fel akarták számolni az osztrák kormányok, főként a hadsereg kérdésében voltak ellentétek. A magyaroknak megbízható csapatok kellettek volna, az osztrákok viszont többször megtagadták a csapatok küldését.  
+- Milyen magyar lépések történtek emiatt?:  
+  - Batthyány elrendelte a tíz honvédzászlóalj (magyar reguláris) csapatok felállítását (Május 16.), ez erősítette a magyar államot és megkérdőjelezte a birodalom egységét  
+  - Kossuth szerződést kötött a Pesti Magyar Kereskedelmi Bankkal önálló magyar bankegyek kibocsájtására (Június 17., Kossuth bankónak nevezik)  
+  - Július 11.-én emberenként szavazták meg a 200 ezer újoncot, és a szükséges pénzt  
+- Kiket használt fel az osztrák kormányzat a magyarok ellen?: Nemzetiségek  
+- Mi történt 1848. Augusztus 31.-én?: Pénz és hadügy vissza (nem valósul meg)  
+- Hogyan, mikor kezdődött a fegyveres konfliktus?: 1848.Szeptember 11.-én, Horvát (Jelačić csapatai) támadás proxy háborúban  
