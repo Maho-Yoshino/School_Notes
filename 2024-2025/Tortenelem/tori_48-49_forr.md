@@ -59,4 +59,17 @@
   - Július 11.-én emberenként szavazták meg a 200 ezer újoncot, és a szükséges pénzt  
 - Kiket használt fel az osztrák kormányzat a magyarok ellen?: Nemzetiségek  
 - Mi történt 1848. Augusztus 31.-én?: Pénz és hadügy vissza (nem valósul meg)  
-- Hogyan, mikor kezdődött a fegyveres konfliktus?: 1848.Szeptember 11.-én, Horvát (Jelačić csapatai) támadás proxy háborúban  
+- Hogyan, mikor kezdődött a fegyveres konfliktus?: 1848.Szeptember 11.-én, Horvát (Jelačić csapatai) támadás proxy háborúban (V. Ferdinánd aláírta az Áprilisi törvényeket, közvetlen nem indíthatott háborút a magyarok ellen)  
+- OHB: Országos Honvédelmi Bizottmány, a végrehajtói (kormány) hatalom (1848.Okt.8. után), a honvédelmet irányító testület, vezetője Kossuth  
+- Hol, hogyan zajlott az első összecsapása a szabadságharcnak?  
+  - 1848.Szeptember 29.  
+  - Pákozd (Velencei-tótol észak-nyugatra)  
+  - Első összecsapás:  
+    - Batthyány nyomására feltartóztatta a Móga altábornagy az új honvéd zászlóaljakkal Jelačić seregért  
+    - Vereséget mértek rájuk  
+- Mi történt Schwechatnál, 1848. Okt. 30.-án?  
+  - A Pákozdi vereség után menekül Jelačić csapatjaival, Bécs irányába  
+  - Móga követte Jelačić seregeit, de az osztrák határt csak Kossuth utasítására lépte át (ez lelassította őket)  
+  - Kitört egy újabb Bécsi forradalom Október 6.-án, mely által teremtett lehetőséget nem tudtak kihasználni  
+  - A Csehországban "rendet" teremtő Windisch-Grätz csapatai megérkeztek, leverték a magyar sereget  
+- Mi történt V. Ferdinánddal 1848. Decemberében?  
