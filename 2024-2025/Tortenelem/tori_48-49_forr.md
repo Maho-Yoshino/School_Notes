@@ -71,18 +71,18 @@
   - A Pákozdi vereség után menekül Jelačić csapatjaival, Bécs irányába  
   - Móga követte Jelačić seregeit, de az osztrák határt csak Kossuth utasítására lépte át (ez lelassította őket)  
   - Kitört egy újabb Bécsi forradalom Október 6.-án, mely által teremtett lehetőséget nem tudtak kihasználni  
-  - A Csehországban "rendet" teremtő Windisch-Grätz csapatai megérkeztek, leverték a magyar sereget  
+  - A Csehországban "rendet" teremtő Windisch-Grätz (Windics Grécz) csapatai megérkeztek, leverték a magyar sereget  
 - Mi történt V. Ferdinánddal 1848. Decemberében?  
-  - Lemondatták V. Ferdinándot, Ferenc Józsefet választották meg az Osztrák császárrá  
+  - Lemondatták V. Ferdinándot, Ferenc Józsefet választották meg az Osztrák császárrá helyette, mert Szentesítette az Áprilisi Törvényeket, viszont arra hivatkoztak, hogy megőrült. 1848.December 3.-án vette át az uralkodást Ferenc József  
 - Ki az a Görgey Artúr, és milyen ellentét volt Kossuth és közte?  
   - Görgei Artúr a Feldunai sereg vezetője, a túlerő miatt visszavonult, miközben az OHB óriási erőfeszítéseket tett az újabb csapatok érdekében. Görgei a fővárost is feladta, evvel megőrizte hadseregét, és Pestet a harctól.  
-  -  
+  - Kossuth Politikai, Görgei Katonai szemmel látja a dolgokat. Kossuth nyílt csatában akar szembeszállni Windsich-Gräzt-el, Görgei viszont visszavonult, és ... (házi, Tk.185 táblázat)  
 - Hajlandó lett volna a békére az országgyűlés?  
-  - Igen, az OGy. követséget küldött Windisch-Grätzhe, hogy milyen áron tudnának békét biztosítani, viszont a Császári fővezér nem volt hajlandó tárgyalni  
+  - Igen, az OGy. követséget küldött Windisch-Grätzhez, hogy milyen áron tudnának békét biztosítani, viszont a Császári fővezér nem volt hajlandó tárgyalni  
 - Hova költözött a kormány?  
   - Debrecenre, Kossuth javaslatára az Országgyűlés megszavazta, hogy az OHB-vel, a minisztériumokkal együtt átteszi a székhelyet Debrecenbe, a fegyvergyártást pedig Nagyváradra telepítik  
 - Mi történt Erdélyben 1848 őszén?  
-  - Az Erdélyi Császári haderő nyíltan szembefordult a magyar kormánnyal (Ez is Bécs hibája, katonatartományokat ígért). A román parasztok és határőrök rátörtek a gyenge magyar haderőre, majd ősz végére a császáriak elérték Kolozsvárt.  
+  - Az Erdélyi Császári haderő nyíltan szembefordult a magyar kormánnyal (Ez is Bécs hibája, katonatartományokat ígért). A román parasztok és határőrök rátörtek a gyenge magyar haderőre, majd ősz végére a császáriak elérték Kolozsvárt. Itt álltak meg, mert elkezdődött a Székely felkelés  
 - Ki volt Gábor Áron?  
   - Egy Székely, aki régen tüzérként szolgált, és vállalta, hogy ágyúkat önt. Az általa kiképzett újoncokról Puchner azt hitte, hogy képzett francia tüzérek. A szabadságharc alatt kb 100 ágyút öntött, és ő is tüzérként harcolt és abbe halt bele 1849-ben  
 - Bem József vezette seregek milyen eredményeket értek 1849-első hónapjaiban?  

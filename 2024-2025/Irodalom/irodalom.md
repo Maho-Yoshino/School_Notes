@@ -320,9 +320,27 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
   - Műfajok keveredése, pl.: Elégiko-óda  
   - Érzelmek, vágyak kultusza  
 ## Edgar Allan Poe  
-- Shakespeare Lear királynának egyik szereplője után kapta  
+- Shakespeare Lear királynának egyik szereplője után kapta nevét  
 - Amerikai író, detektívtörténetek atyja, pl.:  A Morgue utcai kettős gyilkosság c. novella  
 - Híres a Holló c. verse  
 ## Victor Hugo  
 - Francia regényíró  
 - pl: Három testőr, A párizsi Notre-Dame  
+## Heinrich Heine  
+- A német romantika nagy költője (A németek Petőfije)  
+- Pl.: Loreley balladája  
+## Adam Mickiewicz  
+- Lengyel regényíró  
+- Pl.: "Anyához" c. verse  
+## Alexander Puskin  
+- Orosz romantika atyja  
+- Költő  
+- Fő műve: Az "Anyegin" (Szerelmes levélregény)  
+# A Magyar Romantika  
+1. A 19. Század eleje  
+   1. Reformországgyűlések, 1825-től  
+   2. A magyar szabadság fő kérdés lesz (reformkor)  
+   3. A magyar nyelvügye 1844.Nov.13 lesz újra hivatalos nyelv  
+   4. A magyar színjátszás felvirágzásának ideje, a Nemzeti Színház és színtársulat létrejötte (1830-as évek)  
+   5. Újság- és Könyvkiadás  
+   6. Nemzeti Múzeum  
