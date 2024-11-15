@@ -150,8 +150,13 @@ Mém:
       - Tudományos szöveg, de irodalmi stílus is keveredik benne  
       - Témája lehet: filozófia, irodalom, művészet, tárdsadalmi kérdések, stb.  
       - Fontos benne a személyes állásfoglalás, figyelemfelkeltés, a jó stílus  
-# Dolgozat  
-- Stílus, stilisztikai fogalmak  
-- A társalgási, magánéleti stílus jellemzői  
-- Nyelvi stílus fogalma  
-- Stílusréteg fogalma  
+# Hivatalos stílusréteg  
+1. Hol használjuk?  
+   1. Intézmények, hivatalok egymás között  
+   2. Magánember és hivatalok, intézmények közötti kommunikáció  
+2. Legfőbb célja a tájékoztatás, lehet felhívó jellegű is, érzelmi funkció hiányzik  
+3. Nyelvi jellemzők:  
+   1. A jogi szaknyelvből sokat átvesz a szókincse  
+   2. Sokszor bonyolult a nyelvezet, többszörösen összetett mondatok születnek  
+   3. Terjengőség terpeszkedő kifejezések nehezíthetik a megértést  
+   4. Hangneme semleges, tárgyilag a stílusa  
