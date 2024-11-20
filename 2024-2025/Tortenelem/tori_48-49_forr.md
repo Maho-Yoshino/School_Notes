@@ -1,4 +1,4 @@
-# 1848-49es forradalom  
+# 1848as forradalom  
 ## Forradalmi hullám  
 - Ugyanazok az eszmék (Liberalizmus, nacionalizmus) mozgatták, mint a korábbiakat  
 - Nyugat -> Kelet  
@@ -50,7 +50,7 @@
   - Hadügy  
   - Ezeket szolgáló pénzügy  
 - Szentesítette: V. Ferdinánd (avagy a Habsburg király)  
-# 1848 Szabadságharc  
+# 1848-49es Szabadságharc  
 - A nemzetiségekkel szembeni hozzáállás: Egy politikai nemzet van csak  
 - Milyen kérdéskörben volt a fő ellentét az osztrákok és a magyar vezetés között?: A hadügy- és pénzügyminisztérium jogkörét fel akarták számolni az osztrák kormányok, főként a hadsereg kérdésében voltak ellentétek. A magyaroknak megbízható csapatok kellettek volna, az osztrákok viszont többször megtagadták a csapatok küldését.  
 - Milyen magyar lépések történtek emiatt?:  
@@ -76,9 +76,9 @@
   - Lemondatták V. Ferdinándot, Ferenc Józsefet választották meg az Osztrák császárrá helyette, mert Szentesítette az Áprilisi Törvényeket, viszont arra hivatkoztak, hogy megőrült. 1848.December 3.-án vette át az uralkodást Ferenc József  
 - Ki az a Görgey Artúr, és milyen ellentét volt Kossuth és közte?  
   - Görgei Artúr a Feldunai sereg vezetője, a túlerő miatt visszavonult, miközben az OHB óriási erőfeszítéseket tett az újabb csapatok érdekében. Görgei a fővárost is feladta, evvel megőrizte hadseregét, és Pestet a harctól.  
-  - Ellentétek:
-    - Kossuth Politikai, Görgei Katonai szemmel látja a dolgokat. Kossuth nyílt csatában akar szembeszállni Windsich-Gräzt-el, Görgei viszont visszavonult
-    - Kossuth azt akarta, hogy a sereget az egész határon keresztül osszák szét, viszont Görgei az ellenkezőjét tette, hogy képes legyen védekezni. Majd elbocsájtotta a népfelkelőket, akik nem voltak hajlandóak a honvédségbe lépni. Kossuth erre felháborodott, mivel annyi erőt belefektetett a mozgósításba.
+  - Ellentétek:  
+    - Kossuth Politikai, Görgei Katonai szemmel látja a dolgokat. Kossuth nyílt csatában akar szembeszállni Windsich-Gräzt-el, Görgei viszont visszavonult  
+    - Kossuth azt akarta, hogy a sereget az egész határon keresztül osszák szét, viszont Görgei az ellenkezőjét tette, hogy képes legyen védekezni. Majd elbocsájtotta a népfelkelőket, akik nem voltak hajlandóak a honvédségbe lépni. Kossuth erre felháborodott, mivel annyi erőt belefektetett a mozgósításba.  
 - Hajlandó lett volna a békére az országgyűlés?  
   - Igen, az OGy. követséget küldött Windisch-Grätzhez, hogy milyen áron tudnának békét biztosítani, viszont a Császári fővezér nem volt hajlandó tárgyalni  
 - Hova költözött a kormány?  
@@ -93,19 +93,31 @@
   - A román felkelést a Szigethegység területére szorította vissza  
 - Mi az a felvidéki hadjárat?  
   - Gorgei kiürítette Pestet és Vácon át a felvidék felé vonult, elvonta Windsich-Grätz főerőit a kormány új székhelye megtámadásától. A terv sikeres volt, a császári erők főparancsnoka tartott, hogy a magyar hadtest váratlanul Bécs ellen fordul, ezért csapatai egy részét Pest körül tartotta, míg Görgei üldözésére is küldött jelentős erőket. Így nem indíthatott támadást Debrecen irányába, a magyar felkészülés a Tiszántúlon folytatódhatott.  
-- Ki lesz a vezetője a Debrecennél egyesült seregeknek? Milyen eredményt ért el?
-  - Görgei Artúr lett az Egyesült Debreceni seregek vezetője. 1849ben a tavaszi hadjárat során például Isaszegnél (1849.Április 6.) győzelmet aratott, és sikerült felszabadítani Budát
-- Mi az az 1849. március 4-én kiadott olmützi alkotmány?
-  - Ferenc József által kiadott, az egész birodalmat centralizálni kívánó alkotmány volt. Ez a forradalom törkvéseit teljesen figyelmen kívül hagytását jelentette, és MO.-t alárendelte a birodalmi központi hatalomnak. Sosem lépett érvénybe, mivel a szabadságharc eseményei felülírták
-- Mi az a tavaszi hadjárat?
-  - A 1849es tavaszi hadjárat a magyar honvédség egyik legkiemelkedőbb katonai akciósorozata volt a szabadságharc alatt. Célja az osztrák csapatok kiszorítása az országból. A hadjárat áprilistól júniusig tartott, több jelentős győzedelmet hozott, pl.: Hatvan (Április 2.), Tápióbicske (Április 4.), Isaszeg (Április 6.)
-- Mi történt 1849 április 14-én?
-  - Kossuth Lajos javaslatára a Magyar OGy. kimondta a Habsburg-ház trónfosztását és MO. függetlenségét
-- Hogyan reagált Ferenc József a magyar sikerekre?
-  - Segítséget kért I. Miklós orosz cártól, aki jelentős katonai erővel beleavatkozott a szabadságharc leverésébe. Ez a segítség nélkül nagy eséllyel nyertünk volna (még lehet meglenne erdély :sob:)
-- Mi történt a segesvári csatában?
-  - 1849.Július 31., Bem József seregei vereséget szenvedtek az Osztrák, Orosz csapatoktól. A csata alatt Petőfi Sándor eltűnt, valószínűleg elesett a harcban
-- Mi történt Temesvárnál?
-  - 1849.Augusztus 9., a Magyar Honvédség döntő vereséget szenvedett Haynau csapataitól. Ez a szabadságharc végét jelentette katonai értelemben, mivel a magyar seregek széthullottak
-- Hogyan zárult a szabadságharc?
-  - **1849.Augusztus 13**-án zárult, mikor **Görgei Világosnál letette a fegyvert** az orosz csapatok előtt, ezután kegyetlen megtörlás volt Haynau vezetésével, sok vezetőt ki is végeztek, pl. az aradi vértanúkat
+- Ki lesz a vezetője a Debrecennél egyesült seregeknek? Milyen eredményt ért el?  
+  - Henryk Dembiński Gróf lett az Egyesült Debreceni seregek vezetője. Kápolnán, 1849.Feb.26-27-én került sor az első komoly összecsapásra. Magyarok vereséget szenvedtek, vissza kellett vonulni a tisza mögé, Dembiński miatt.   
+- Mi az az 1849. március 4-én kiadott olmützi alkotmány?  
+  - Ferenc József által kiadott, az egész birodalmat centralizálni kívánó alkotmány volt. Ez a forradalom törkvéseit teljesen figyelmen kívül hagytását jelentette, és MO.-t alárendelte a birodalmi központi hatalomnak. Sosem lépett érvénybe, mivel a szabadságharc eseményei felülírták, "kikényszerített", "ráerőszakolt" alkotmány, tartományi rangra süllyesztené MO.-t  
+- Mi az a tavaszi hadjárat?  
+  - A hadjárat áprilistól júniusig tartott  
+  - Célja a Duna-Tisza felszabadítása  
+  - Több jelentős győzedelmet hozott, pl.:  
+    - Hatvan (Április 2.)  
+    - Tápióbicske (Április 4.)  
+    - **Isaszeg (Április 6.)**  
+    - Vác (Április 10.)  
+    - Nagysalló (Április 19.)  
+    - Komárom (Április 26.)  
+  - Görgei körbekerítő hadjáratot talált ki, ő ment Hatvanhoz, míg Klapka György (:shocked:) körbement, de nem karolta körbe teljesen a császári sereget  
+  - Miután Windisch-Grätz vereséget szenvedett, leváltották.  
+- Mi történt 1849 április 14-én?  
+  - Kossuth Lajos javaslatára a Magyar OGy. kimondta a Habsburg-ház trónfosztását és MO. függetlenségét (függetlenségi nyilatkozat)  
+- Hogyan reagált Ferenc József a magyar sikerekre?  
+  - Segítséget kért I. Miklós orosz cártól (A Szent Szövetség miatt elfogadta), aki jelentős katonai erővel beleavatkozott a szabadságharc leverésébe. Ez a segítség nélkül nagy eséllyel nyertünk volna (még lehet meglenne erdély :sob:)  
+- Mi történt a segesvári csatában?  
+  - 1849.Július 31., Bem József seregei vereséget szenvedtek az Osztrák, Orosz csapatoktól. A csata alatt Petőfi Sándor eltűnt, valószínűleg elesett a harcban  
+- Mi történt Temesvárnál?  
+  - 1849.Augusztus 9., a Magyar Honvédség döntő vereséget szenvedett Haynau csapataitól. Ez a szabadságharc végét jelentette katonai értelemben, mivel a magyar seregek széthullottak  
+  - Kossuth lemond, Görgeinek adta a hatalmat  
+- Hogyan zárult a szabadságharc?  
+  - **1849.Augusztus 13**-án zárult, mikor **Görgei Világosnál letette a fegyvert** az orosz csapatok előtt, ezután kegyetlen megtörlás volt Haynau vezetésével, sok vezetőt ki is végeztek, pl. az aradi vértanúkat  
+- Hf.: Mindent tudni  
