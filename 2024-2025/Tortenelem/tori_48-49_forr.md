@@ -121,3 +121,12 @@
 - Hogyan zárult a szabadságharc?  
   - **1849.Augusztus 13**-án zárult, mikor **Görgei Világosnál letette a fegyvert** az orosz csapatok előtt, ezután kegyetlen megtörlás volt Haynau vezetésével, sok vezetőt ki is végeztek, pl. az aradi vértanúkat  
 - Hf.: Mindent tudni  
+- Ferenc Józsefet császárrá választják 1848 Decemberében  
+  - Előzmény: V. Ferdinándot lecserélték, mivel ő szentesítette meg az Áprilisi Törvényeket, ezért nem törhetett magyarországra  
+  - Következmény: Áprilisi Törvények nem voltak rá érvényesek, ezért rátörhetett Magyarországra, elindította a támadást Windsich-Grätz vezetésével  
+- Pákozdi ütközet  
+  - Előzmény: A birodalom a Kisebbségeket ellenünk fordította, és Szeptember 11-én Jelacic átlépi a határt  
+  - Következmény: A nagy vereség után Bécs felé indult Jelacic seregeivel, Móga követte őket seregeivel, de a határnál megálltak, mert várták Kossuth beleegyezését, hogy átléphetik a határt, ami miatt feltudott szerelkezni Jelacic serege, csatlakoztak Windsich-Grätz seregéhez, majd Schwechat-nál nagy vereséget szenvedtünk  
+- Trónfosztás (1849.Április 14.)  
+  - Előzmény: A Tavaszi hadjárat eleinte sok nyereséget hozott, amely feldobta a morált annyira, hogy a Magyar OGy. kijelentse a Trónfosztást  
+  - Következmény: Ferenc József hatalma meg lett evvel fenyegetve, segítséget kért I. Miklós Orosz cártól  

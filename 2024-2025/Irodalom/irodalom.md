@@ -344,3 +344,14 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
    4. A magyar színjátszás felvirágzásának ideje, a Nemzeti Színház és színtársulat létrejötte (1830-as évek)  
    5. Újság- és Könyvkiadás  
    6. Nemzeti Múzeum  
+# Vörösmarty Mihály (1800-1855)  
+1. középnemesi család, Pusztanyéken (ma Kápolnásnyék) született, Középiskola: Székesfehérvár, Magántanító Perczemór családjában, Kisfaludy Sándor költő hatására kezd el írni, 1825: Megírja Zalán futása c. eposztöredékét (Honfoglaláskori téma)  
+2. Pestre költözik  
+   1. Újságokat szerkeszt  
+      - Koszorú  
+      - Tudományos gyűjtemény  
+   2. MTA tagja  
+   3. 1832-36: Reformországgyűlés tagja  
+   4. 1836: Kisfaludy Társaság alapítója  
+   5. Lefordítja Shakespeare néhány művét  
+3. 1843: Feleségül veszi Csajághy Laurát  
