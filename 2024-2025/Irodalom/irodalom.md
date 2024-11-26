@@ -355,3 +355,17 @@ Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, mel
    4. 1836: Kisfaludy Társaság alapítója  
    5. Lefordítja Shakespeare néhány művét  
 3. 1843: Feleségül veszi Csajághy Laurát  
+4. A Szabadságharc alatt nemzetőrként szolgált; annak bukása után lelkileg összetört, 1855ben halt meg  
+5. Jelentős művei:  
+   1. Csongor és Tünde  
+      - Filozofikus mesedráma  
+      - Alapja egy magyar népballada (Tündérszép Ilona története, Árgyilus királyfi és Ilona szerelmének balladája)  
+      - Csongor az élet értelmét, a szerelmet, a költészetet keresi vándorútja során  
+      - Műfajilag besorolható emberiségdrámaként/könyvdrámaként is  
+# Szózat (Elemzésvázlat)  
+1. Keletkezés: 1836  
+   1. Megjelenése: 1837, Auróra c. irodalmi lapban  
+   2. Megzenésítése: 1843, Nemzeti Színház Pályázata, Egressy Béni nyerte meg  
+2. Háttere:  
+   1. 1836ban véget érnek a reformországgyűlések, reményvesztett állapot volt az országban  
+   2. Herder jóslata: Kis népek, így MO. is eltűnik a térképről  

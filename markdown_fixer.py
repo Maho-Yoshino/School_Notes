@@ -58,3 +58,4 @@ def _init_():
 if __name__ == "__main__":
 	while True:
 		_init_()
+		# TODO: Add Wildcard fixing (* fixes all in folder)
