@@ -38,6 +38,11 @@ def _init_():
 		if file_dir == ".":
 			os.chdir("..")
 			print(f"Moved up to: {os.getcwd()}")
+		elif "*" in file_dir:
+			for file in files:
+				file += ".md"
+				with open(file, "r", encoding="utf-8") as F:
+					add_newline(F.readlines(), file)
 		elif file_dir.lower() == "exit":
 			os._exit(0)
 		elif close_folders:
@@ -58,4 +63,3 @@ def _init_():
 if __name__ == "__main__":
 	while True:
 		_init_()
-		# TODO: Add Wildcard fixing (* fixes all in folder)

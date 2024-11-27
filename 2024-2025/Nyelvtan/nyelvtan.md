@@ -160,24 +160,24 @@ Mém:
    2. Sokszor bonyolult a nyelvezet, többszörösen összetett mondatok születnek  
    3. Terjengőség terpeszkedő kifejezések nehezíthetik a megértést  
    4. Hangneme semleges, tárgyilag a stílusa  
-4. Néhány típusa:
-   1. Kérvény
-   2. Panaszlevél
-   3. Bejelentés
-5. A hivatalos levél formai jellemzői
-   1. 3 fő rész:
-      1. "Fejléc":
-         Feladó:..., 
-         Címzett:..., 
-         Tárgy:...
-      2. Középrész
-         - Megszólítás, Középre helyezve
-         - Eset/probléma/kérés/kérvény megfogalmazása
-         - Indoklás/alátámasztás/érvelés -||-
-         - Középrész zárása, köszönet, tiszteletteljes búcsúzás
-      3. A levél alsó része:
-         - Név
-         - Titulus
-         - Köszönettel/Tisztelettel
-         - Keletkezés: "Budapest, 2024.11.22"
-         - Aláírás, ha úgy adódik
+4. Néhány típusa:  
+   1. Kérvény  
+   2. Panaszlevél  
+   3. Bejelentés  
+5. A hivatalos levél formai jellemzői  
+   1. 3 fő rész:  
+      1. "Fejléc":  
+         Feladó:...,  
+         Címzett:...,  
+         Tárgy:...  
+      2. Középrész  
+         - Megszólítás, Középre helyezve  
+         - Eset/probléma/kérés/kérvény megfogalmazása  
+         - Indoklás/alátámasztás/érvelés -||-  
+         - Középrész zárása, köszönet, tiszteletteljes búcsúzás  
+      3. A levél alsó része:  
+         - Név  
+         - Titulus  
+         - Köszönettel/Tisztelettel  
+         - Keletkezés: "Budapest, 2024.11.22"  
+         - Aláírás, ha úgy adódik  
