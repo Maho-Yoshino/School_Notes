@@ -4,7 +4,7 @@ Fun factek:
 # A szabadságharc utáni időszak  
 ## Megtorlás  
 - Haynaut a "Bresciai hiénának" hívták  
-- Haynaura bízták a tábornokok kivégzését (Aradi vértanúk, "aradi 13"; viszont legalább 150 kivégzés, 1849.Okt.6.)  
+- Haynaura bízták a tábornokok kivégzését (Aradi vértanúk, "aradi 13"; viszont legalább 150 kivégzés, többezer bebörtönzött, 1849.Okt.6.)  
 - Nemzetközi titlakozás miatt menesztették Haynaut, 1850 nyarán  
 - Uralkodási módszer: Neoabszolutizmus  
   - Nyílt önkényuralom, személyesen irányítja az államügyeket  
@@ -12,3 +12,29 @@ Fun factek:
 - Politikai Centralizmus:  
   - Központosító politika  
   - Kisebb az önkormányzatok szerepe  
+- "Bach" korszak, elnevezve a birodalmi belügyminiszterről  
+- Milyen intézkedéseket hoznak a centralizmus jegyében?  
+  - Lecsatoltak területet tőlünk  
+    - Vármegyerendszert lecserélték a kerületek (5 db)  
+  - Önkormányzatok megszüntetése, a Bach-huszárok lesznek a végrehajtók (karikatúra)  
+    - Huszár ruhába öltözött  
+  - Az újabszolútizmus kiiktatta a '48 előtti közigazgatást  
+  - Helyette megkezdődött a Polgári állam kialakítása  
+  - Osztrák polgári törvénykönyvet életbe léptették mindenhol a birodalmon belül  
+  - Mértékegységrendszer, oktatás egységesítése  
+    - Nyolcosztályos gimnázium  
+    - Érettségi  
+- 1853as Urbéri rendelet (25.)  
+  - Jobbágyfelszabadítás és nemesség kártalanításáról kiadott császári rendelkezés  
+  - Eszerint a végrehajtás a jobbágyok számára az áprilisi törvények alapján történt  
+    - Ezért nem részesültek a a szabadharc alatt hozott, illetve a terve vett kedvezményekből  
+- Kik a Dzsentrik? (25.)  
+  - Vagyont veszett nemesség  
+  - Anyagi csőd miatt elszegényedett sok nemes  
+- Mi az a Einblick (26.)  
+- Mit jelent a Passzív ellenállás? (27.)  
+- Hogy nézett ki az Emmigráció? (27.)  
+- Mi az az Októberi Diploma? (28.)  
+- Februári Pátens (28.)  
+- Felirati párt, határozati párt értelmezése (28.)  
+- Húsvéti cikk részletesen (29.)  
