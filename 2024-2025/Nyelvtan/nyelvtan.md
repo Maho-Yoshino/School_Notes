@@ -181,3 +181,29 @@ Mém:
          - Köszönettel/Tisztelettel  
          - Keletkezés: "Budapest, 2024.11.22"  
          - Aláírás, ha úgy adódik  
+## Egyéb Hivatalos szövegfajták  
+1. Kérvény  
+   1. Magánszemély fordul egy hivatalhoz, valamilyen kéréssel  
+   2. Formailag a hivatalos levelet használjuk  
+      - Tárgy: kérvény  
+      - Kérés megfogalmazása, indoklás  
+2. Hivatalos szervek magánszemély felé írott szövegfajtái  
+   1. Értesítés, pl. áram kimaradás, karbantartás  
+   2. Felhívás, pl. valamilyen kötelezettség teljesítése  
+   3. Felszólítás, teljesítése jogi kötelezettség  
+   4. Meghívó  
+   5. Határozat, valamilyen rendelkezésről tájékoztat, indoklással egyben  
+   6. Igazolás  
+   7. Engedély  
+3. Nyilatkozat - Szerződés  
+   1. Nyilatkozat  
+      1. Tartalma lehet pl.: Nagykorúság, Titktartás, Hozzájárulás  
+      2. Magánszemély is nyilatkozhat  
+   2. Szerződés  
+      1. A szerződő felek kötelezettséget vállalnak benne, pl.  
+         - Vagyonjogi szerződés  
+         - Házassági  
+         - Bérleti  
+         - Öröklési  
+         - Ajándékozási  
+4. Meghatalmazás  
