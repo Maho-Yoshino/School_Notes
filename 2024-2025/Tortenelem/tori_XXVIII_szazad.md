@@ -31,10 +31,37 @@ Fun factek:
 - Kik a Dzsentrik? (25.)  
   - Vagyont veszett nemesség  
   - Anyagi csőd miatt elszegényedett sok nemes  
+  - Oka az alacsony értékű állampapír  
 - Mi az a Einblick (26.)  
+  - Széchenyi Istvántól idézet  
+  - 1850es évek gazdasági helyzetét elemzi  
+    - A gazdasági fejlődés ellenére az ország nem érte el a kívánt szintet  
+    - Az állam túlságosan korlátozta a szabadságot  
+    - A fejlődés külpolitikai tényetőnek volt köszönhető  
 - Mit jelent a Passzív ellenállás? (27.)  
+  - Politikai eszköz, Tiltakozás  
+  - A magyar vezető réteg:  
+    - Nem vett részt a kormány rendezvényein  
+    - Nem fizettek adót  
+    - Nem teljesítették az előírt kötelezettségeket  
+  - Szimbóluma Deák Ferenc  
 - Hogy nézett ki az Emmigráció? (27.)  
+  - A szabadságharc leverése után sok vezető és résztvevő külföldre menekült  
+  - Fő példa: Kossuth Lajos az USA-ba  
+  - Az emmigránsok nyomásgyakorlással és propagandával próbált fenntartani a Magyar ügyet, nem sikerült  
 - Mi az az Októberi Diploma? (28.)  
+  - Habsburg rendelet, 1860  
+  - Birodalom újraszervezése  
+  - Bizonyos Alkotmányos jogokat biztosított a tartományoknak  
+  - MO.-nak nem lett teljes önállóság  
 - Februári Pátens (28.)  
+  - Októberi Diploma kibővítése, 1861  
+  - __Centralizált__ birodalmi tanácsot létre akarta hozni  
+  - MO.-n a rendek nem ismerték el a habsburgok hatalmát erre, ellenállás volt ebből  
 - Felirati párt, határozati párt értelmezése (28.)  
+  - Felirati párt: Deák Ferenc vezette politikai csoport, amely a Habsburg uralkodóval való együttműködést és tárgyalást támogatta.  
+  - Határozati párt: Teleki László irányítása alatt álló csoport, amely elutasította az együttműködést, és az 1848-as törvények maradéktalan betartását követelte.  
 - Húsvéti cikk részletesen (29.)  
+  - Deák Ferenc, 1865  
+  - Leírta, hogy MO. kompromisszumot köthet a Habsburgokkal, ha a 48as törvények bizonyos részeit visszaállítják  
+  - Ez volt az alapja az 1867es Kiegyezésnek  
