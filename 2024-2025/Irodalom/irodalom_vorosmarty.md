@@ -47,3 +47,23 @@
         - "Hunyadnak karjai"  
         - A szabadságért küzdöttek vagy áldozták életüket ők és a névtelen hősök is  
         - Megszólítja a szabadság eszméjét az 5. vsz  
+      - 6.vsz - A jelen pillanatképe  
+        - A herder jóslatnak mond ellent:  
+          - "Megfogyva bár, de törve nem  
+          él nemzet a hazán"  
+      - 7.vsz - A figyelem a jövő felé fordul  
+        - Tételmondatot fogalmaz meg:  
+          - "Egy ezredévi szenvedés  
+          Kér éltet vagy halált"  
+        - A költő érvelésnek alapállása lesz  
+      - 8-9.vsz - A jövő víziójához ír érveket:  
+        - "Az nem lehet..." (x2)  
+          1. A múlt áldozatai nem lehetnek hiábavalók  
+          2. A reformkor törekvéseik sem veszhetnek kárba ("**ész**, **erő** s oly szent **akarat**")  
+       - 10-12.vsz - a jövő lehetőségei:  
+         - 10.vsz - Jobb kor  
+         - 11-12.vsz - Nemzethalál (romantikus képhasználat => temetkezés, vér, nemzet süllyed el)  
+  4. Versforma  
+    - Skót balladaforma:  
+      - 8/6/8/6 szótagosak a versszakok  
+      - Rímképlete: XAXA (X = Rímtelen sor, megtöri a ritmust)  

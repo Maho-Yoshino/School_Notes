@@ -28,16 +28,22 @@ Fun factek:
   - Jobbágyfelszabadítás és nemesség kártalanításáról kiadott császári rendelkezés  
   - Eszerint a végrehajtás a jobbágyok számára az áprilisi törvények alapján történt  
     - Ezért nem részesültek a a szabadharc alatt hozott, illetve a terve vett kedvezményekből  
+  - Áprilisi törvények de kárptlási értékpapírral kárpótolnak  
+  - Osztrák másolat az Áprilisi törvényeknek  
 - Kik a Dzsentrik? (25.)  
   - Vagyont veszett nemesség  
   - Anyagi csőd miatt elszegényedett sok nemes  
   - Oka az alacsony értékű állampapír  
-- Mi az a Einblick (26.)  
-  - Széchenyi Istvántól idézet  
-  - 1850es évek gazdasági helyzetét elemzi  
-    - A gazdasági fejlődés ellenére az ország nem érte el a kívánt szintet  
-    - Az állam túlságosan korlátozta a szabadságot  
-    - A fejlődés külpolitikai tényetőnek volt köszönhető  
+- Mi az a Einblick, Rückblick (26.)  
+  - Einblick  
+    - Széchenyi Istvántól idézet  
+    - A Rückblickre válasz  
+    - 1850es évek gazdasági helyzetét elemzi  
+      - A gazdasági fejlődés ellenére az ország nem érte el a kívánt szintet  
+      - Az állam túlságosan korlátozta a szabadságot  
+      - A fejlődés külpolitikai tényetőnek volt köszönhető  
+  - Rückblick  
+    - Bach által készített Propagandafüzet  
 - Mit jelent a Passzív ellenállás? (27.)  
   - Politikai eszköz, Tiltakozás  
   - A magyar vezető réteg:  
@@ -48,15 +54,18 @@ Fun factek:
 - Hogy nézett ki az Emmigráció? (27.)  
   - A szabadságharc leverése után sok vezető és résztvevő külföldre menekült  
   - Fő példa: Kossuth Lajos az USA-ba  
-  - Az emmigránsok nyomásgyakorlással és propagandával próbált fenntartani a Magyar ügyet, nem sikerült  
+  - Az emmigránsok háborúban részvétellel, nyomásgyakorlással és propagandával próbált fenntartani a Magyar ügyet, nem sikerült  
 - Mi az az Októberi Diploma? (28.)  
+  - Lemondattják Bachot, 1859, Solferinoi csata vesztése után  
   - Habsburg rendelet, 1860  
   - Birodalom újraszervezése  
   - Bizonyos Alkotmányos jogokat biztosított a tartományoknak  
-  - MO.-nak nem lett teljes önállóság  
+  - 48 előtti állapotok (Ausztria-MO. viszony szabályozása)  
+  - MO.-nak nem lett teljes önállóság, ellenkeztünk, nem sikerült  
 - Februári Pátens (28.)  
   - Októberi Diploma kibővítése, 1861  
   - __Centralizált__ birodalmi tanácsot létre akarta hozni  
+  - MO.-t tartományi szintre sülyesztették volna  
   - MO.-n a rendek nem ismerték el a habsburgok hatalmát erre, ellenállás volt ebből  
 - Felirati párt, határozati párt értelmezése (28.)  
   - Felirati párt: Deák Ferenc vezette politikai csoport, amely a Habsburg uralkodóval való együttműködést és tárgyalást támogatta.  
