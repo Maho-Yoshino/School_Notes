@@ -71,6 +71,59 @@ Fun factek:
   - Felirati párt: Deák Ferenc vezette politikai csoport, amely a Habsburg uralkodóval való együttműködést és tárgyalást támogatta.  
   - Határozati párt: Teleki László irányítása alatt álló csoport, amely elutasította az együttműködést, és az 1848-as törvények maradéktalan betartását követelte.  
 - Húsvéti cikk részletesen (29.)  
-  - Deák Ferenc, 1865  
-  - Leírta, hogy MO. kompromisszumot köthet a Habsburgokkal, ha a 48as törvények bizonyos részeit visszaállítják  
+  - **Deák Ferenc, 1865**  
+  - Provizórium: "Átmeneti időszak", itt abszolútizmus, felfüggesztette az alkotmányt  
+  - Leírta, hogy MO. kompromisszumot köthet a Habsburgokkal, ha a 48as törvények bizonyos részeit visszaállítják, kivéve  
+    - Közös külpolitika  
+    - Védelem  
+    - Pénzügy  
   - Ez volt az alapja az 1867es Kiegyezésnek  
+- Hogyan szülik meg a kiegyezés?  
+  - Az uralkodó és a Magyar vezetőréteg zöme között a legfőbb kérdés az a kompromisszum megtalálása, ahol a birodalom annyira egységes, hogy megtarthatja nagyhatalmi állását, de biztosítja MO. önállóságát is.  
+  - A megoldást közös ügyek rendszerében találták meg:  
+    - Külügy  
+    - Hadügy  
+    - Pénzügy  
+  - A felügyeletét a független törvényhozás által kiküldött delegációkra bízták. A terv elfogadásához közös engedményeken keresztül volt az út  
+  - A 1865ös magyar OGy.-n Deák és tábora döntő többséget szerzett  
+- Milyen rendszer jön létre a kiegyezéssel? (30-31. o, 15. táblázat)  
+  - Osztrák–Magyar Monarchia, amely kétközpontú államrendszer  
+  - osztrák és a magyar állam jogilag önálló volt, de közös ügyek (külügy, hadügy, pénzügy) mentén szövetségben álltak egymással.  
+    - Az uralkodó Ferenc József mindkét állam királya/császára volt.  
+    - Külön parlament és kormány működött mindkét országban.  
+    - A közös ügyeket közös minisztériumok és delegációk intézték.  
+- Mit gondolt Kossuth a kiegyezésről (32. o)  
+  - Ellenezte a kiegyezést  
+    - Ellent mondott annak, amiért 48ban küzdtek  
+  - "Cassandra-levél"-ben fejezte ki  
+  - Úgy gondolta, ez veszélybe sodorta MO. jövőjét, mivel a habsburgokhoz való kötődés az ország fejlődésének és függetlenségének akadálya lesz  
+- Mi az a Szabadelvű párt, milyen szerepe lesz (33. o)  
+  - 1875, Deák párt és a Balközép párt egyesülete  
+  - A kiegyezés fenntartását és a dualizmuson belüli reformokat támogatták  
+  - 1905ig folyamatosan hatalomban voltak  
+  - Legfontosabb vezetője Tisza Kálmán volt, 15 évig ő irányította MO.-t  
+- Miket tett Tisza Kálmán Miniszterelnökként (34-35. o)  
+  - Bürokrácia modernizálása (fejlesztette, hatékonyabbá tette a közigazgatási rendszert)  
+  - Adóreformok (állambevételt növelte, államadósságot csökkentette)  
+  - Közlekedés fejlesztés (vasutak építésének támogatása, gazdaság fellendülését eredményezte)  
+- Mit kötünk Eötvös József nevéhez (35. o)  
+  - Bevezette a tankötelezettséget 6-12 éves kor között, egységesítette az oktatási rendszert  
+  - Létrehozta a Nemzetiségi törvényt (széleskörű jogokat biztosított)  
+- Mi az a véderővita (36 o.)  
+  - a Monarchia haderőfejlesztésével kapcsolatos viták neve  
+  - MO.-n ellenállásba ütközött a közös hadsereg létszámának növelése, mivel sokan a magyar önállóság gyengüléséhez vezethet  
+  - Tisza István támogatta a hadsereg fejlesztését a nemzetközi helyzet miatt  
+- Miket tett Wekerle Sándor (36, 42. o.)  
+  - Egyházreformok (1894-1895)  
+    - Bevezette az állami anyakönyvezést, kötelező polgári házasságot  
+    - zsidó vallást egyenjogúsította  
+  - Gazdasági reformok  
+    - Stabilizálta az ország pénzügyi helyzetét  
+  - Földreformok (1920as évek)  
+    - támogatta a földosztást a parasztság helyzetének javítása érdekében  
+- Ki az a Tisza István (39. o.)  
+  - Kétszeres Magyar miniszterelnök (1903-1905, 1913-1917)  
+  - Fő tevékenységei:  
+    - Dualizmus védelme  
+    - Parlamenti válság kezelése (1904ben "zsebkendőszavazással" próbálta megoldani az obstrukciót)  
+    - Első VH. (Támogatta MO. részvételét, mivel úgy vélte, a Monarchia megőrzése elengedhetetlen az ország biztonsága szempontjából)  
