@@ -86,12 +86,27 @@ Fun factek:
     - Pénzügy  
   - A felügyeletét a független törvényhozás által kiküldött delegációkra bízták. A terv elfogadásához közös engedményeken keresztül volt az út  
   - A 1865ös magyar OGy.-n Deák és tábora döntő többséget szerzett  
+  
+  - 1867, Kiegyezés  
+  - Vármegyei kormányzatok  
+  - Andrássy Gyula  
+  - Közös ügyek rendszere  
 - Milyen rendszer jön létre a kiegyezéssel? (30-31. o, 15. táblázat)  
-  - Osztrák–Magyar Monarchia, amely kétközpontú államrendszer  
-  - osztrák és a magyar állam jogilag önálló volt, de közös ügyek (külügy, hadügy, pénzügy) mentén szövetségben álltak egymással.  
+  - **Alkotmányos** Osztrák–Magyar Monarchia (OMM), amely kétközpontú (**dualista**) államrendszer, a két központ:  
+    - Osztrák örökös területek
+    - MO.
+  - osztrák és a magyar állam jogilag önálló volt, de közös ügyek (külügy, hadügy, ezeket szolgáló pénzügy) mentén szövetségben álltak egymással.  
     - Az uralkodó Ferenc József mindkét állam királya/császára volt.  
     - Külön parlament és kormány működött mindkét országban.  
-    - A közös ügyeket közös minisztériumok és delegációk intézték.  
+    - A közös ügyeket közös minisztériumok (60-60 fős delegáció) intézték.  
+    - Az OGy. népképviseleti, de megmaradt a kétkamarás rendszer
+    - Császári és Királyi sereg (K.u.K.)
+  - Gazdasági kiegyezés
+    - 10 évente újratárgyalható
+    - szabad tőke- és munkaerőáramlás
+    - Mértékegységek egyeségesítése
+    - Kettős vámhatár lebontása
+    - A költségek 30%-át MO. állta, a maradékot a birodalom
 - Mit gondolt Kossuth a kiegyezésről (32. o)  
   - Ellenezte a kiegyezést  
     - Ellent mondott annak, amiért 48ban küzdtek  
