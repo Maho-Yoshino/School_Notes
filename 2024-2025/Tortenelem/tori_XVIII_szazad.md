@@ -93,20 +93,20 @@ Fun factek:
   - Közös ügyek rendszere  
 - Milyen rendszer jön létre a kiegyezéssel? (30-31. o, 15. táblázat)  
   - **Alkotmányos** Osztrák–Magyar Monarchia (OMM), amely kétközpontú (**dualista**) államrendszer, a két központ:  
-    - Osztrák örökös területek
-    - MO.
+    - Osztrák örökös területek  
+    - MO.  
   - osztrák és a magyar állam jogilag önálló volt, de közös ügyek (külügy, hadügy, ezeket szolgáló pénzügy) mentén szövetségben álltak egymással.  
     - Az uralkodó Ferenc József mindkét állam királya/császára volt.  
     - Külön parlament és kormány működött mindkét országban.  
     - A közös ügyeket közös minisztériumok (60-60 fős delegáció) intézték.  
-    - Az OGy. népképviseleti, de megmaradt a kétkamarás rendszer
-    - Császári és Királyi sereg (K.u.K.)
-  - Gazdasági kiegyezés
-    - 10 évente újratárgyalható
-    - szabad tőke- és munkaerőáramlás
-    - Mértékegységek egyeségesítése
-    - Kettős vámhatár lebontása
-    - A költségek 30%-át MO. állta, a maradékot a birodalom
+    - Az OGy. népképviseleti, de megmaradt a kétkamarás rendszer  
+    - Császári és Királyi sereg (K.u.K.)  
+  - Gazdasági kiegyezés  
+    - 10 évente újratárgyalható  
+    - szabad tőke- és munkaerőáramlás  
+    - Mértékegységek egyeségesítése  
+    - Kettős vámhatár lebontása  
+    - A költségek 30%-át MO. állta, a maradékot a birodalom  
 - Mit gondolt Kossuth a kiegyezésről (32. o)  
   - Ellenezte a kiegyezést  
     - Ellent mondott annak, amiért 48ban küzdtek  
@@ -115,17 +115,28 @@ Fun factek:
 - Mi az a Szabadelvű párt, milyen szerepe lesz (33. o)  
   - 1875, Deák párt és a Balközép párt egyesülete  
   - A kiegyezés fenntartását és a dualizmuson belüli reformokat támogatták  
-  - 1905ig folyamatosan hatalomban voltak  
+  - 1890g folyamatosan hatalomban voltak  
   - Legfontosabb vezetője Tisza Kálmán volt, 15 évig ő irányította MO.-t  
 - Miket tett Tisza Kálmán Miniszterelnökként (34-35. o)  
+  - Beceneve: **"A generális"**  
   - Bürokrácia modernizálása (fejlesztette, hatékonyabbá tette a közigazgatási rendszert)  
+  - Kiváltságos kerületek beolvadtak (pl.: székely, szászszékely)  
+  - **Önkormányzatok jogait bővítik**  
+  - A Dzsentrik lesznek a hivatalnokok  
+  - Csendőrség (Katonai) vidéken, Rendőrség (Önálló) városokban létrehozatala - Közbiztonság  
+  - **Egészségügyi ellátás**  
+  - Postarendszer  
+  - Igazságügy fejlesztése, független bírói rendszer létrehozása  
+  - Sajtószabadság elősegítése  
+  - Polgári állam kiépítésének segítése  
   - Adóreformok (állambevételt növelte, államadósságot csökkentette)  
   - Közlekedés fejlesztés (vasutak építésének támogatása, gazdaság fellendülését eredményezte)  
 - Mit kötünk Eötvös József nevéhez (35. o)  
-  - Bevezette a tankötelezettséget 6-12 éves kor között, egységesítette az oktatási rendszert  
+  - Bevezette az általános tankötelezettséget 6-12 éves kor között, egységesítette az oktatási rendszert  
+  - Állami iskolák, egyetemek, gimnáziumok építettése  
   - Létrehozta a Nemzetiségi törvényt (széleskörű jogokat biztosított)  
 - Mi az a véderővita (36 o.)  
-  - a Monarchia haderőfejlesztésével kapcsolatos viták neve  
+  - a Monarchia haderőfejlesztésével kapcsolatos viták egyesítő neve  
   - MO.-n ellenállásba ütközött a közös hadsereg létszámának növelése, mivel sokan a magyar önállóság gyengüléséhez vezethet  
   - Tisza István támogatta a hadsereg fejlesztését a nemzetközi helyzet miatt  
 - Miket tett Wekerle Sándor (36, 42. o.)  
@@ -142,3 +153,4 @@ Fun factek:
     - Dualizmus védelme  
     - Parlamenti válság kezelése (1904ben "zsebkendőszavazással" próbálta megoldani az obstrukciót)  
     - Első VH. (Támogatta MO. részvételét, mivel úgy vélte, a Monarchia megőrzése elengedhetetlen az ország biztonsága szempontjából)  
+Házi tanulni, 3 ember szerdán dogát ír  
