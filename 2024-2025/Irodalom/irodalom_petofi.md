@@ -37,4 +37,9 @@
         - Keresztrímek (ABAB)  
    2. Hortobágy kocsmáros  
       - Műfaja: Zsánerdal (Belehelyezkedik a lírai én egy népies figura szerepébe: E/1 személyben közli élményeit a csárdában)  
-      -  
+   3. Megy a juhász a szamáron műfaja zsánerkép:  
+      - E/3 személyben beszél a lírai én egy hétköznapi figuráról és annak szomorúságáról  
+   4. A négyökrös szekér - Életkép (Zsánerkép)  
+      - A vers egy romantikus szerelmi idillt *(ideal)* ragad meg: esti szekerezésen vesznek részt a költői én, és megszólítja szíve választottját, Erzsikét: "Ne válasszunk magunknak csillagot?"  
+      - A refrén az idő "lassítását" erősíti, ne múljon el ez a pillanat  
+   5. A természet vadvirága - Ars Poetica (latinul Művészet Poetika)  
