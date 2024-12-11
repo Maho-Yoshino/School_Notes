@@ -143,14 +143,80 @@ Fun factek:
   - Egyházreformok (1894-1895)  
     - Bevezette az állami anyakönyvezést, kötelező polgári házasságot  
     - zsidó vallást egyenjogúsította  
-  - Gazdasági reformok  
-    - Stabilizálta az ország pénzügyi helyzetét  
   - Földreformok (1920as évek)  
     - támogatta a földosztást a parasztság helyzetének javítása érdekében  
+  - Valutareform  
+    - Közös valuta bevezetése  
+    - Elősegítette a tőke szabad áramlását  
+    - Stabilizálja az ország pénzügyi helyzetét  
+    - Megfelelő aranyalapra való áttérés (Arany fedezet)  
 - Ki az a Tisza István (39. o.)  
   - Kétszeres Magyar miniszterelnök (1903-1905, 1913-1917)  
   - Fő tevékenységei:  
     - Dualizmus védelme  
-    - Parlamenti válság kezelése (1904ben "zsebkendőszavazással" próbálta megoldani az obstrukciót)  
-    - Első VH. (Támogatta MO. részvételét, mivel úgy vélte, a Monarchia megőrzése elengedhetetlen az ország biztonsága szempontjából)  
-Házi tanulni, 3 ember szerdán dogát ír  
+    - Parlamenti válság kezelése  
+      - 1904  
+      - "zsebkendőszavazással" próbálta megoldani az obstrukciót  
+        - Az ellenzék akadályozza a kormányt a munkájában  
+        - Yap session  
+        - Időhúzás  
+      - Tömegverekedések voltak ebből, a király feloszlatta az OGy.-t  
+    - Első VH.  
+      - Támogatta MO. részvételét, mivel úgy vélte, a Monarchia megőrzése elengedhetetlen az ország biztonsága szempontjából  
+      -  
+- A vasút fejlődése (43-44. o, hogyan, mennyire)  
+  - Magántőke alapján folytatódnak a vasútépítések  
+  - A kormányok kamatbiztosítási törvénnyel támogatták a folyamatot  
+    - A befektetőnek az állam a vállalkozás vesztesége esetén is biztosította a nyereséget  
+  - A kormány (Baross Gábor) létrehozta a **MÁV**ot (Magyar ÁllamVasutak)  
+  - Baross Gábor (közmunka- és közlekedésügyi miniszter) vezetésével államosították a vonalak jelentős részét  
+  - Az államosítás miatt alacsonyan tartották a szállítási díjakat  
+  - Elősegítette a gazdaság fejlődését  
+  - Alacsony díjak ellenére nyereséges maradt  
+- Hogyan változott a mezőgazdaság? (45-46. o.)  
+  - Az agrárkivitel (export) folyamatosan bővült  
+  - Jelentős volt ekkor is a gabonatermesztés  
+  - MO.-n fejlett malomipar alakult ki (gabona helyett liszttel láttuk el a monarchia nyugati felét)  
+  - Nőtt a termelt árumennyiség  
+    - Termőterületek bővülése  
+      - Folyamszabályozás  
+      - Erdőírtás  
+      - Legelőfeltörés  
+    - Termelékenység növekedése  
+      - Folytatódó fajtanemesítések  
+    - Fejlettebb módszerek  
+      - Talajjavítás  
+      - Műtrágya  
+    - Gépesítés  
+- Ipari fejlődés (46-47. o.)  
+  - A kiegyezés az utolsó akadályokat is eltűntette az ipari fejlődés elől (pl. Céhek megszűnése, 1872)  
+  - A kisipar jelentős maradt  
+  - A fejlődést a nagyvállalatok teljesítménye eredményezte  
+  - Hozzájárult:  
+    - Az állam iparpártoló politikája  
+    - Olcsó munkaerő  
+    - Mezőgazdasági termékekből felhalmazódó tőke  
+    - Nagy mennyiségű beáramló külföldi tőke  
+  - Eredményezte:  
+    - Gőzgépek elterjedése  
+    - Gyors vasútépítés, bányászat  
+    - Gépgyártás fellendülése  
+  - Nehézipari központok létrejöttek  
+    - Borsod  
+    - Szörény  
+    - Vajdahunyad vidéken  
+    - Budapest  
+  - Nagyvállalatok világszínvonalú termékeket gyártottak, részt vettek a műszaki fejlődésben  
+    - Ganz Abrahám által alapított Ganz  
+    - Weiss Manfréd által létrehozott gyárkomplexum  
+  - MO.-n az első és második Ipari Forr. egybeolvadt  
+- Hogyan alakult a hitel szervezetek fejlődése (48. o., Külföldi tőke fontos)  
+  - Tevékenységeik:  
+    - Alapvető feltétele a létrejöttük a gazdaság fejlődésének  
+    - Bankok összegyűjtik a befektető hazai pénzt (tőkét)  
+    - Hitelt adnak a vállalkozásoknak  
+    - Közvetítik a beáramló külföldi tőkét a gazdaság szereplőihez  
+  - A reformkori alapítású bankok mellé számos nagybank jött létre, nagyrészt külfüldi tőke közreműködésével (Magyar Földhitelintézet, Magyar Általános Hitelbank)  
+    - A nagybankok behatoltak az iparba (pl. Üzletvásárlással)  
+    - Fedezték a fejlődő cégek tőkeemeléseit  
+    - A legeredményesebb vállalatok miattuk részvénytársaságokká alakultak  
