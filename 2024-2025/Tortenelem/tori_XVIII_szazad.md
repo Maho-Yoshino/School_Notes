@@ -163,7 +163,6 @@ Fun factek:
       - Tömegverekedések voltak ebből, a király feloszlatta az OGy.-t  
     - Első VH.  
       - Támogatta MO. részvételét, mivel úgy vélte, a Monarchia megőrzése elengedhetetlen az ország biztonsága szempontjából  
-      -  
 - A vasút fejlődése (43-44. o, hogyan, mennyire)  
   - Magántőke alapján folytatódnak a vasútépítések  
   - A kormányok kamatbiztosítási törvénnyel támogatták a folyamatot  
@@ -187,7 +186,7 @@ Fun factek:
     - Fejlettebb módszerek  
       - Talajjavítás  
       - Műtrágya  
-    - Gépesítés  
+    - **Gépesítés**  
 - Ipari fejlődés (46-47. o.)  
   - A kiegyezés az utolsó akadályokat is eltűntette az ipari fejlődés elől (pl. Céhek megszűnése, 1872)  
   - A kisipar jelentős maradt  
@@ -207,9 +206,14 @@ Fun factek:
     - Vajdahunyad vidéken  
     - Budapest  
   - Nagyvállalatok világszínvonalú termékeket gyártottak, részt vettek a műszaki fejlődésben  
-    - Ganz Abrahám által alapított Ganz  
+    - Ganz Abrahám által alapított Ganz (Ganz MÁVAG)  
     - Weiss Manfréd által létrehozott gyárkomplexum  
   - MO.-n az első és második Ipari Forr. egybeolvadt  
+  - Magyar találmányok ilyenkorról
+    - Kandó Kálmán: Villanymozdonyt  
+    - Transzformátor  
+    - Karburátor
+    - Telefon központ
 - Hogyan alakult a hitel szervezetek fejlődése (48. o., Külföldi tőke fontos)  
   - Tevékenységeik:  
     - Alapvető feltétele a létrejöttük a gazdaság fejlődésének  
@@ -220,3 +224,4 @@ Fun factek:
     - A nagybankok behatoltak az iparba (pl. Üzletvásárlással)  
     - Fedezték a fejlődő cégek tőkeemeléseit  
     - A legeredményesebb vállalatok miattuk részvénytársaságokká alakultak  
+- Elemezni az 1,2,4,5,6,7 ábrákat (49-50-51. o. összes ábra)  
