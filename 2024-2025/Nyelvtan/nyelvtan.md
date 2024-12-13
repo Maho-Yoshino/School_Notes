@@ -207,3 +207,32 @@ Mém:
          - Öröklési  
          - Ajándékozási  
 4. Meghatalmazás  
+## Stilisztika dolgozat (Kedd, 2024.12.17, 10.-es Tk. 72-99. o.)  
+1. A stílus  
+   1. A szó jelentése  
+   2. A stílus általános értelemben, pl.:  
+      - Építészet  
+      - Zene  
+      - Öltözködés  
+      - Stb.  
+   3. A nyelvi stílus fogalma  
+      - A nyelv egy hatalmas eszköztár  
+      - Ebből **válogatjuk** ki a szükséges elemeket  
+        - Szavak  
+        - Szabályok  
+        - Stb.  
+      - Végül ezeket az elemeket szükség szerint **elrendezzük** => Így jön létre sokféle nyelvi stílus  
+2. A stílusréteg fogalma  
+   1. Fajtái  
+      - Társalgási  
+      - Közéleti  
+      - Hivatalos  
+      - Tudományos  
+      - Publicisztikai  
+      - Szónoki  
+      - Irodalmi  
+   2. Fogalma  
+      - A *kommunikáció színterei* szerint alakultak ki az egyes rétegek  
+   3. Mutasd be a társalgási (magánéleti) stílust (Nyelvi jellemzők + szóbeli, írásbeli szövegfajták)  
+   4. A tudományos stílus jellemzői + szövegfajtái  
+   5. A hivatalos stílus jellemzői + szövegfajtái  
