@@ -42,4 +42,23 @@
    4. A négyökrös szekér - Életkép (Zsánerkép)  
       - A vers egy romantikus szerelmi idillt *(ideal)* ragad meg: esti szekerezésen vesznek részt a költői én, és megszólítja szíve választottját, Erzsikét: "Ne válasszunk magunknak csillagot?"  
       - A refrén az idő "lassítását" erősíti, ne múljon el ez a pillanat  
-   5. A természet vadvirága - Ars Poetica (latinul Művészet Poetika)  
+   5. A természet vadvirága  
+      - Műfaja: Ars Poetica  
+        - latinul Művészet Poetika  
+        - Témája a költészet  
+        - "Költői hitvallás"  
+      - A vers ellentétre épül, költő "szembefordul" kritikusaival, kiáll saját költészete mellett  
+      - A vers címe egyben a vers kulcsjelentőségű képe, egy metafora, önmagát azonosítja a természet vadvirágával  
+      - Miért?:  
+        - Féktelen természetű  
+        - Szabadságában nem korlátozható  
+        - Nem iskolában tanulta a költészetet, mert "Zseni" (megfelel a romantika zsenikultuszának)  
+   6. Fa leszek ha...  
+      - Szerelmi költemény  
+      - Metaforák  
+        - Egymásba szövés  
+## Petőfi Tájköltészete  
+1. Petőfi és az alföldi táj viszonya  
+   1. Szülőföldjének tartja, főleg a Kiskunságot  
+   2. A szabadságérzés eszméje társul az alföldi tájhoz, pl.  
+      1. Messzire ellátni ("Börtönből szabadult sas lelkem, ha a rónák végtelenjét látom...")  

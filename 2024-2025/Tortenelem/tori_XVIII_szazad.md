@@ -209,11 +209,11 @@ Fun factek:
     - Ganz Abrahám által alapított Ganz (Ganz MÁVAG)  
     - Weiss Manfréd által létrehozott gyárkomplexum  
   - MO.-n az első és második Ipari Forr. egybeolvadt  
-  - Magyar találmányok ilyenkorról
+  - Magyar találmányok ilyenkorról  
     - Kandó Kálmán: Villanymozdonyt  
     - Transzformátor  
-    - Karburátor
-    - Telefon központ
+    - Karburátor  
+    - Telefon központ  
 - Hogyan alakult a hitel szervezetek fejlődése (48. o., Külföldi tőke fontos)  
   - Tevékenységeik:  
     - Alapvető feltétele a létrejöttük a gazdaság fejlődésének  
@@ -225,34 +225,44 @@ Fun factek:
     - Fedezték a fejlődő cégek tőkeemeléseit  
     - A legeredményesebb vállalatok miattuk részvénytársaságokká alakultak  
 - Elemezni az 1,2,4,5,6,7 ábrákat (49-50-51. o. összes ábra)  
-  - 1.ábra (Népesedési folyamatok a dualizmus alatt)
-    - 1855, Kolerajárvány volt
-    - 1870-1875, az ipari forradalom kezdete után közvetlen egy Kolerajárvány volt, a halálozások ez a járvány alatt elérték a legmagasabbat, ami az egész dualizmus alatt volt
-    - Ezután elkezdtek bevándorolni az emberek, eleinte nagyon sokan, de idővel egyre kevesebben jöttek az országba, viszont eközben kivándorlás is volt, ami fordítva működött. Eleinte kevesen vándoroltak ki, viszont ahogy közeledtünk az 1.VH-hoz, egyre többen vándoroltak ki az országból
-    - 1914-1918, 1.VH történt, a szülések száma jelentősen leesett, az ország népessége visszaesett kb. 1890 körüli népességre
-  - 2.ábra
-    - 1910-ben az ország népességének 54.5%a magyar volt, viszont a kivándorlók 33%-a magyar volt
-    - A kivándorlás miatti népességveszteséget enyhítette a bevándorlás a birodalmon belülről
-    - A Németek, Szlovákok és Románok jelentős mennyiségben vándoroltak ki a korszakban
-  - 4.ábra
-    - 1850-1910 között
-      - A magyar etnikum aránya nőtt (41.5% -> 54.5%)
-      - A Németek és Szlovákok aránya csökkent, részben az asszimiláció (beolvasztás) miatt
-    - Területek közötti különbségek
-      - Alföld és délvidék magyar többségű lett
-      - A peremvidéken maradtak a kisebbségek többségben
-  - 5.ábra
-    - A magyar népesség létszáma és aránya nőtt
-      - 1850, 4.8 millió -> 1910, 9.9 millió
-    - A kisebbségek létszáma stagnált, vagy akár csökkent (pl. német, szlovák) 
-  - 6.ábra
-    - A római katolikusok és reformátusok legfőképp a magyar etnikumhoz kapcsolódtak
-    - A görögkatolikusok és ortodoxok a románokhoz és ruszinokhoz köthetők
-  - 7.ábra
-    - Az asszimiláció a magyarság arányát jelentősen befolyásolta
-    - Okai
-      - Gazdasági, kulturális fejlődés
-      - Belső migráció
-      - Állami politika (pl. magyar nyelvű oktatás, közigazgatás)
-    - Főleg városi német és szlovák lakosságot érintette
-      - Kivándorlásuk oka
+  - 1.ábra (Népesedési folyamatok a dualizmus alatt)  
+    - 1855, Kolerajárvány volt  
+    - 1870-1875, az ipari forradalom kezdete után közvetlen egy Kolerajárvány volt, a halálozások ez a járvány alatt elérték a legmagasabbat, ami az egész dualizmus kora alatt volt  
+    - Ezután elkezdtek bevándorolni az emberek, eleinte nagyon sokan, de idővel egyre kevesebben jöttek az országba, viszont eközben kivándorlás is volt, ami fordítva működött. Eleinte kevesen vándoroltak ki, viszont ahogy közeledtünk az 1.VH-hoz, egyre többen vándoroltak ki az országból  
+    - 1867-1914 között a magyar népesség kb. 12 millió főről felment kb. 18 millióra, egy 50%-os növekedés  
+    - Az egészségügy fejlődött ebben az időszakban, a halálozások száma lement  
+    - 1914-1918, 1.VH történt, a szülések száma jelentősen leesett, az ország népessége visszaesett a kb. 1890 körüli népességre  
+  - 2.ábra  
+    - 1910-ben az ország népességének 54.5%a magyar volt, viszont a kivándorlók 33%-a magyar volt  
+    - A kivándorlás miatti népességveszteséget enyhítette a bevándorlás a birodalmon belülről  
+    - A Németek, Szlovákok és Románok jelentős mennyiségben vándoroltak ki a korszakban  
+    - A kivándorlók jelentős része amerikába ment  
+  - 3.ábra  
+    - Büdös habsburgok  
+    - Latifundium = Földbirtok  
+    - Büdös habsburgok  
+    - A földművelők kivándorolnak, a latifundiumok jönnek létre, túl sokan vannak  
+  - 4.ábra  
+    - 1850-1910 között  
+      - A magyar etnikum aránya nőtt (41.5% -> 54.5%)  
+      - A Németek és Szlovákok aránya csökkent, részben az asszimiláció (beolvasztás) miatt  
+    - Területek közötti különbségek  
+      - Alföld és délvidék magyar többségű lett  
+      - A peremvidéken maradtak a kisebbségek többségben  
+  - 5.ábra  
+    - A magyar népesség létszáma és aránya nőtt  
+      - 1850, 4.8 millió -> 1910, 9.9 millió  
+    - A kisebbségek létszáma stagnált, vagy akár csökkent (pl. német, szlovák)  
+    - A népesség majdnem 2x-ére növekedett  
+  - 6.ábra  
+    - A római katolikusok és reformátusok legfőképp a magyar etnikumhoz kapcsolódtak  
+    - A görögkatolikusok és ortodoxok a románokhoz és ruszinokhoz köthetők  
+    - Wekerle jogosította a Zsidókat, így nagy mennyiségű Izraelita volt a korban, a német lakosságnak 11.7%-a Izraelita volt.  
+  - 7.ábra  
+    - Az asszimiláció a magyarság arányát jelentősen befolyásolta  
+    - Okai  
+      - Gazdasági, kulturális fejlődés  
+      - Belső migráció  
+      - Állami politika (pl. magyar nyelvű oktatás, közigazgatás)  
+    - Főleg városi német és szlovák lakosságot érintette  
+      - Kivándorlásuk oka    
