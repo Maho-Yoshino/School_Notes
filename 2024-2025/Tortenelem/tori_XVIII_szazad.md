@@ -265,4 +265,20 @@ Fun factek:
       - Belső migráció  
       - Állami politika (pl. magyar nyelvű oktatás, közigazgatás)  
     - Főleg városi német és szlovák lakosságot érintette  
-      - Kivándorlásuk oka    
+      - Kivándorlásuk oka  
+- "Torlódó társadalom"  
+  - A Magyar társadalom a korszakban  
+  - Két társadalmi típus van jelen egyszerre  
+- Szektorok  
+  - Mezőgazdaság  
+  - Munkás  
+  - **Szolgáltatás**  
+  - 21.században: Tudomány alapú  
+- BP  
+  - Megegyezés alapján, egyesült  
+    - Buda  
+    - Pest  
+    - Óbuda  
+  - Megépítették  
+    - a Milleniumot  
+    - a Parlamentet  

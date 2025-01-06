@@ -62,3 +62,9 @@
    1. Szülőföldjének tartja, főleg a Kiskunságot  
    2. A szabadságérzés eszméje társul az alföldi tájhoz, pl.  
       1. Messzire ellátni ("Börtönből szabadult sas lelkem, ha a rónák végtelenjét látom...")  
+   3. Petőfi jelentősebb tájversei  
+      1. Az alföld  
+      2. A puszta télen  
+      3. Kiskunság  
+      4. Szülőföldemen  
+      5. Tisza  
