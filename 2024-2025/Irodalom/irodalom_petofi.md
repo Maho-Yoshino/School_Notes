@@ -68,3 +68,14 @@
       3. Kiskunság  
       4. Szülőföldemen  
       5. Tisza  
+## Kiskunság (10.szgy./229. o.)  
+1. 1848.Június  
+2. A vers "felütése", kezdő gondolata egy költői technikát alkalmaz. A költői én pesti lakásában emlékezik vissza élményeire. Nosztalgikus hangulatban idézi meg az alföldi táj szépségeit, 1-2. vsz.  
+3. A táj részletezése:  
+   3-10. vsz-kok  
+   1. 3.vsz  
+      - rögzíti az időt: nyár - forróság  
+   2. 4.vsz.  
+      - A nyár erejét a tájban élő állat és ember képeivel illusztrálja  
+      - A bögöly, a gulyás  
+   3.  
