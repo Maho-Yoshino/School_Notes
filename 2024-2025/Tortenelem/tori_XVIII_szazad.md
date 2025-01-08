@@ -274,11 +274,36 @@ Fun factek:
   - Munkás  
   - **Szolgáltatás**  
   - 21.században: Tudomány alapú  
-- BP  
-  - Megegyezés alapján, egyesült  
-    - Buda  
-    - Pest  
-    - Óbuda  
-  - Megépítették  
-    - a Milleniumot  
-    - a Parlamentet  
+## Budapest  
+- Megegyezés alapján, egyesült  
+  - Buda  
+  - Pest  
+  - Óbuda  
+- Megépítették  
+  - a Milleniumot  
+  - a Parlamentet  
+  - Hidakat  
+    - Margit Híd, 1876  
+    - Ferenc József - Szabadság híd, 1896  
+    - Erzsébet híd, 1903  
+- Településszerkezetek  
+  - Sugárutak  
+  - Urbanizáció, városiasodás zajlik  
+  - Malomipari központ  
+## Társadalom  
+### 1868as nemzetiségi törvény  
+Elvették volna a területek önállóságát  
+  
+300k cig-  
+# Jan. 15. doga  
+- Téma: Dualizmus  
+- kell:  
+  - Deák Húsvéti cikk  
+  - Kiegyezés létrejötte  
+  - Kiegyezéssel létrejövő államrendszer  
+  - Weckerle (4p), Eötvős  
+  - Gazdaság (pl. Baross Gábor, mezőgazdaságban gépesítés, iparosodás)  
+  - Társadalom (Népességrobbanás, migráció, nemzetiségi kérdéstől a **torlódó társadalom**ig, asszimiláció)  
+  - Budapest  
+  - ![Államrendszer ábra (Tk. 30, 15. ábra)](dualizmus_rendszer.png)  
+- Röviden: Minden a húsvéti cikk után  

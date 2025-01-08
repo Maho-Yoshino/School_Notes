@@ -9,6 +9,8 @@ replace_dict = {
 	"e+":"*10^",
 	";":","
 }
+def rad_deg(degrees:int|float):
+	return pi/180*degrees
 def root(x:int|float|str,n:int|float|str):
 	if isinstance(x, str):
 		x = float(x)
