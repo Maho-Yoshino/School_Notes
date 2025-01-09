@@ -72,10 +72,26 @@
 1. 1848.Június  
 2. A vers "felütése", kezdő gondolata egy költői technikát alkalmaz. A költői én pesti lakásában emlékezik vissza élményeire. Nosztalgikus hangulatban idézi meg az alföldi táj szépségeit, 1-2. vsz.  
 3. A táj részletezése:  
-   3-10. vsz-kok  
-   1. 3.vsz  
-      - rögzíti az időt: nyár - forróság  
-   2. 4.vsz.  
-      - A nyár erejét a tájban élő állat és ember képeivel illusztrálja  
-      - A bögöly, a gulyás  
-   3.  
+   3. vsz.: rögzíti az időt: nyár - forróság  
+   4. vsz.: A nyár erejét a tájban élő állat és ember képeivel illusztrálja, a bögöly, a gulyás  
+   5. vsz.: Egy kis ér élővilága jelenik: Halászmadár, pióca, futóbogár  
+   6. vsz.: A madárvilág újabb szereplőit látjuk: gém, gólya, bibic  
+   7. vsz.: jellegzetes alföldi tájelemek:  
+      - Gémes kút  
+      - Délibáb jelentsége  
+   8. vsz.: A délibáb egy csárdát mutat fel, a szél építi a homokdombot  
+   9. vsz.: Megjelenik az emberi élet nyoma:  
+      - tanya  
+      - szántóföld  
+      - búza  
+   10. vsz.: Az este közeledtét festi meg a vsz.  
+   11. A záró kép az alföldi szélmalmok látványát tárja elénk  
+- A vers képi világát főleg megszemélyesítésekkel, pl. utolsó kép (  
+   "A szélmalmok...  
+   Amint vitorlájok hányja, egyre hányja  
+   A cigánykereket."  
+   )  
+- Metaforákkal: "tenger szántóföld"  
+- Néha hasonlatokkal: 1.vsz anya képe - Tisza, Duna öleli át a táját  
+## Az Alföld  
+Hf. Vázlat versszakonként mit látunk, zoomtechnika  

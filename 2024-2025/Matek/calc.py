@@ -38,5 +38,11 @@ while True:
 			print(str(eval(equation.replace("+-", "+"))) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)\n")
 		else:
 			print(str(eval(equation)) + "\n")
-	except Exception as e:
+	except KeyboardInterrupt:
+		from os import _exit
+		from time import sleep
+		print("\nKeyboard interrupt. Closing...")
+		sleep(1)
+		_exit(0)
+	except Exception as e:	
 		print(f"error: {e}\n")
