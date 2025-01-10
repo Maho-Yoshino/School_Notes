@@ -1,4 +1,4 @@
-from math import sqrt,sin,cos,tan,log,pi, floor, ceil
+from math import sqrt,sin,cos,tan,log,pi, floor, ceil, degrees
 replace_dict = {
 	"^":"**",
 	"√":"sqrt",
@@ -9,7 +9,7 @@ replace_dict = {
 	"e+":"*10^",
 	";":","
 }
-def rad_deg(degrees:int|float):
+def deg2rad(degrees:int|float):
 	return pi/180*degrees
 def root(x:int|float|str,n:int|float|str):
 	if isinstance(x, str):
@@ -18,7 +18,7 @@ def root(x:int|float|str,n:int|float|str):
 		n = float(n)
 	return x**(1/n)
 def rep(string:str, **items:dict[str, int|float]):
-	"""Replaces all items entered, like "x=2" in given string, so rep("x^2", x=2) returns "2^2"."""
+	"""Replaces all items entered, like "x=2" in given string, so rep(x^2, x=2) returns "2^2"."""
 	for item_name, item_data in items.items():
 		if str(item_data).startswith("-"):
 			item_data = f"({item_data})" 
@@ -35,9 +35,9 @@ while True:
 		for item, replacant in replace_dict.items():
 			equation = equation.replace(item, replacant)
 		if "+-" in equation:
-			print(str(eval(equation.replace("+-", "+"))) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)\n")
+			print(str(round(eval(equation.replace("+-", "+")), 8)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)\n")
 		else:
-			print(str(eval(equation)) + "\n")
+			print(str(round(eval(equation), 8)) + "\n")
 	except KeyboardInterrupt:
 		from os import _exit
 		from time import sleep
