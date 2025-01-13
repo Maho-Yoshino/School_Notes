@@ -95,3 +95,19 @@
 - Néha hasonlatokkal: 1.vsz anya képe - Tisza, Duna öleli át a táját  
 ## Az Alföld  
 Hf. Vázlat versszakonként mit látunk, zoomtechnika  
+## A puszta, télen  
+  
+Fogalmazás  
+A "bevezetés: petőfiről röviden"  
+tárgyalás:  
+- Petőfi és az alföld  
+- Versekről:  
+  - Kiskunság  
+  - Az alföld  
+    - Zoomtechnika  
+    - Szabadság, szülőföld  
+  - A puszta, télen  
+    - Negatív tájleírás  
+    - Forradalmi látomásvers:  
+      - Utolsó versszak:  
+        - Király - naplemente - Trónfosztás  

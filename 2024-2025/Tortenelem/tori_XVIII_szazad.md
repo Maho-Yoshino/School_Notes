@@ -307,3 +307,32 @@ Elvették volna a területek önállóságát
   - Budapest  
   - ![Államrendszer ábra (Tk. 30, 15. ábra)](dualizmus_rendszer.png)  
 - Röviden: Minden a húsvéti cikk után  
+Weckerle  
+  Valutareform  
+  Polgári esküvő kötelezővé tétele  
+  Állami anyakönyvvezetés  
+Baross Gábor  
+  MÁV  
+Tisza  
+  Rendőrség és csendőrség megerősítése  
+  Egészségügy fejlesztése  
+  Bíróság átszervezése  
+  Polgári állam kiépítése  
+Apponyi  
+  Alkotmányos kétközpontú monarchia  
+  Önálló belügy  
+Ferenc József  
+  Közös ügyek  
+  60 fős delegáció  
+  Kiegyezés  
+  Alkotmányos kétközpontú monarchia  
+Eötvös  
+  Alkotmányos kétközpontú monarchia  
+  Népiskolai törvény  
+  
+Beolvasztás bizonyos nemzetiségek a legjellemzőbb kultúrába - Asszimiláció  
+Szabad munkalehetőség bárkinek a birodalmon belül - 1867es Gazdasági kiegyezés tartalma  
+Külföldi tőke - Gazdasági, illetve infrastruktúrára fordított pénz, melyet külföldről kaptak  
+A társadalom egyszerre hordozza magán az agrár-feudális rendszerből származó nagy mezőgazdasági munkás ..... - Torlódó társadalom  
+Migráció - Kivándorlás MO.ról, főcélpontjuk Amerika volt, ennek ellenére volt kevés bevándorlás, folytonos népességnövekedés volt, fejlődött az egészségügy  
+Elszegényedett, volt földbirtokos - Dzsentri  
