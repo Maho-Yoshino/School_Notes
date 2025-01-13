@@ -32,9 +32,9 @@
 - Fő műve: Az "Anyegin" (Szerelmes levélregény)  
 # A Magyar Romantika  
 1. A 19. Század eleje  
-   1. Reformországgyűlések, 1825-től  
-   2. A magyar szabadság fő kérdés lesz (reformkor)  
-   3. A magyar nyelvügye 1844.Nov.13 lesz újra hivatalos nyelv  
-   4. A magyar színjátszás felvirágzásának ideje, a Nemzeti Színház és színtársulat létrejötte (1830-as évek)  
-   5. Újság- és Könyvkiadás  
-   6. Nemzeti Múzeum  
+	1. Reformországgyűlések, 1825-től  
+	2. A magyar szabadság fő kérdés lesz (reformkor)  
+	3. A magyar nyelvügye 1844.Nov.13 lesz újra hivatalos nyelv  
+	4. A magyar színjátszás felvirágzásának ideje, a Nemzeti Színház és színtársulat létrejötte (1830-as évek)  
+	5. Újság- és Könyvkiadás  
+	6. Nemzeti Múzeum  

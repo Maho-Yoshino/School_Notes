@@ -42,32 +42,32 @@
 4. I. rész jellemzői  
  1. Negatív tájleírás  
   - A tavasz, nyár képeinek hiányával festi le az elmúlás természetét  
-   - Pl.:  
-    - "__Nincs__ rózsás labyrinth"  
-    - "__Nem__ búg gerlice"  
-    - "__Nincs__ már symphonia"  
-    - "A csermely violás völgye __nem illatoz__"  
-    - "Bíbor thyrsusain __nem mosolyog__ gerezd"  
+	- Pl.:  
+	 - "__Nincs__ rózsás labyrinth"  
+	 - "__Nem__ búg gerlice"  
+	 - "__Nincs__ már symphonia"  
+	 - "A csermely violás völgye __nem illatoz__"  
+	 - "Bíbor thyrsusain __nem mosolyog__ gerezd"  
 5. II. rész jellemzői  
-   - Képi és gondolatvilága  
-     - 4.vsz 1-2. sora a vers fókuszpontja  
-      - "Oh, a {szárnyas {idő}(Metafora) hirtelen elrepül}(Megszemélyesítés)"  
-      - "S minden míve tünő szárnya körül lebeg!" (Az idő szubjektív, vagyis az egyén által megélt tapasztalata kerül a vers középpontjába, a külső táj így a "lírai én" belső lelki világát is megragadja)  
-      - Az idő szubjektív érzetét ragadja meg a 4. vsz.: A "lírai én" egy pillanatnak éli meg az eddigi eltelt életét, fiatalságát  
-      - Az 5. vsz. ezt az életérzést a költészetével összekapcsolja:  
-        - "Lassanként {koszorúm bimbaja}(Költői siker, teljesség képe) elvirít (elmúlik ez a költői siker)"  
-        - "Itt hágy szép tavaszom (fiatalság szimbóluma)"  
-        - "nektár" a fiatalság édes érzése, mitológiai kép: istenek itala  
-      - A 6. vsz. véglegesíti az elmúlást  
-        - "Vissza se tér majd gyönyörű korom"  
-      - A vers záróképe egy hajdani szerelem emlékét idézi meg:  
-        - "Sem béhúnyt szememet fel nem igézheti Lollim (női név) {barna szemöldöke}(Metafora fajtája, metonímia - rész-egész felcserélés, Lolli arcának részlete)"  
+	- Képi és gondolatvilága  
+	  - 4.vsz 1-2. sora a vers fókuszpontja  
+		- "Oh, a {szárnyas {idő}(Metafora) hirtelen elrepül}(Megszemélyesítés)"  
+		- "S minden míve tünő szárnya körül lebeg!" (Az idő szubjektív, vagyis az egyén által megélt tapasztalata kerül a vers középpontjába, a külső táj így a "lírai én" belső lelki világát is megragadja)  
+		- Az idő szubjektív érzetét ragadja meg a 4. vsz.: A "lírai én" egy pillanatnak éli meg az eddigi eltelt életét, fiatalságát  
+		- Az 5. vsz. ezt az életérzést a költészetével összekapcsolja:  
+		  - "Lassanként {koszorúm bimbaja}(Költői siker, teljesség képe) elvirít (elmúlik ez a költői siker)"  
+		  - "Itt hágy szép tavaszom (fiatalság szimbóluma)"  
+		  - "nektár" a fiatalság édes érzése, mitológiai kép: istenek itala  
+		- A 6. vsz. véglegesíti az elmúlást  
+		  - "Vissza se tér majd gyönyörű korom"  
+		- A vers záróképe egy hajdani szerelem emlékét idézi meg:  
+		  - "Sem béhúnyt szememet fel nem igézheti Lollim (női név) {barna szemöldöke}(Metafora fajtája, metonímia - rész-egész felcserélés, Lolli arcának részlete)"  
 6. Műfaja: Elégia  
-   1. Klasszicista  
-      - Képek: mitológiai  
-      - Versforma: időmértékes  
-   2. Szentimentalista  
-      - Érzelmi töltés  
+	1. Klasszicista  
+		- Képek: mitológiai  
+		- Versforma: időmértékes  
+	2. Szentimentalista  
+		- Érzelmi töltés  
 ## Hf.: A Magyarokhoz I. olvasás (Szgy. 156), kigyűjteni a versből a történelmi,mitológiai,mondai képeket  
 - Történelmi:  
 1. "Nem látod, Árpád vére miként fajul?" Árpád mint Árpád vezér  
