@@ -2,13 +2,13 @@ from os import chdir, path, listdir, getcwd, _exit
 from difflib import get_close_matches
 chdir(path.dirname(path.abspath(__file__)))
 
-"""def get_closest_match(word: str, possibilities: list[str]) -> str:
-    if closest_matches := get_close_matches(word, possibilities, n=1, cutoff=0.0): return closest_matches[0]
+def get_closest_match(word: str, possibilities: list[str]) -> str:
+    if closest_matches := get_close_matches(word, possibilities, n=1, cutoff=1): return closest_matches[0]
     for i in range(len(word), 1, -1):
         for possibility in possibilities:
             if possibility.startswith(word[:i]):
                 return possibility
-    return None"""
+    return None
 
 def fix_content(file_dir:str) -> str:
 	with open(file_dir, encoding="utf-8") as file:
@@ -43,8 +43,6 @@ def CLI():
 		print(f"Folders:\n\t{'\n\t'.join(folders)}" if folders else "\nNo folders")
 		print(f"Files:\n\t{'\n\t'.join(files)}" if files else "\nNo files")
 		file_dir = input("> ").strip().lower()
-		close_folders = get_close_matches(file_dir, folders, 1, 0.5)
-		close_files = get_close_matches(file_dir, files, 1, 0.5)
 		if file_dir == ".":
 			chdir("..")
 			print(f"Moved up to: {getcwd()}")
@@ -55,11 +53,11 @@ def CLI():
 		elif file_dir == "exit":
 			_exit(0)
 			break
-		elif close_folders:
+		elif close_folders := get_closest_match(file_dir, folders):
 			chosen_folder = close_folders[0]
 			print(f"Changing directory to: {chosen_folder}")
 			chdir(path.join(getcwd(), chosen_folder))
-		elif close_files:
+		elif close_files := get_closest_match(file_dir, files):
 			chosen_file = close_files[0] + ".md"
 			fix_content(chosen_file)
 		else:
