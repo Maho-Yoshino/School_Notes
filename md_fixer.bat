@@ -1,3 +1,3 @@
 cd /D "%~dp0"
-python markdown_fixer.py
+python md_fixer_v3.py
 @pause
