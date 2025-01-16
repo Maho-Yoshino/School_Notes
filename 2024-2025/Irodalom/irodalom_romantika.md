@@ -3,16 +3,16 @@
 - XIX. Század  
 - A román ("regényes", "kalandos") szóból ered  
 - Előzményei:  
-  1. Szentimentalizmus (érzékenység), pl. Csokonai, Berzsenyi versei  
-  2. "Sturm und Drang" ("Vihar és Vágy") német irányzat  
+	1. Szentimentalizmus (érzékenység), pl. Csokonai, Berzsenyi versei  
+	2. "Sturm und Drang" ("Vihar és Vágy") német irányzat  
 - Egybe esik Európában a népek szabadságért vívott harcaival  
 - A szabadság eszméje romantika művészetében nagyon erős  
 - Jellemzői:  
-  - Klasszicizmus szabályaival szakít, megjelenik helyette a Zsenikultusz  
-  - A művész feltétlen alkotói szabadságának elismerése  
-  - Tökéletesség helyett Töredékesség megjelenik  
-  - Műfajok keveredése, pl.: Elégiko-óda  
-  - Érzelmek, vágyak kultusza  
+	- Klasszicizmus szabályaival szakít, megjelenik helyette a Zsenikultusz  
+	- A művész feltétlen alkotói szabadságának elismerése  
+	- Tökéletesség helyett Töredékesség megjelenik  
+	- Műfajok keveredése, pl.: Elégiko-óda  
+	- Érzelmek, vágyak kultusza  
 ## Edgar Allan Poe  
 - Shakespeare Lear királynának egyik szereplője után kapta nevét  
 - Amerikai író, detektívtörténetek atyja, pl.:  A Morgue utcai kettős gyilkosság c. novella  

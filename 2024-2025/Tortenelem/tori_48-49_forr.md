@@ -7,18 +7,18 @@
 - "A népek tavasza"  
 - 48as OGy miként reagált az ellenzéki nyilatkozatra: Alsótábla elfogadta az ellenzéki nyilatkozat (Kossuth) pontjait (kötelező örökváltság, közteherviselés, felelős kormány, alkotmány az örökös tartományoknak) (reformintézkedések), a felsőtábla és a kormányzat időhúzással próbálta átvészelni az időszakot, viszont a bécsi forradalom és a pesti mozgolódás hírére a felsőtábla is elfogadta a felirati javaslatot (Március 14.), másnap hajón vitte a gyűlési küldöttség Bécsbe a feliratot  
 - Hogyan zajlott a márciusi forradalom?: Pesten a bécsi forradalom hírére 15.én a Fiatal MO. (márciusi ifjak), Pilvax Kávéházban gyűltek, megfogalmazták a 12 pontot és a nemzeti dalt. A 12 Pont és hozzátartozó eszmék: "Mit kíván a magyar nemzet. Legyen béke, szabadság és egyetértés"  
-  1. Sajtószabadság: Liberalizmus  
-  2. Felelős minisztérium: Nacionalizmus/Liberalizmus  
-  3. Évenkénti OGy.: Nacionalizmus  
-  4. Törvény előtti egyenlőség: Liberalizmus  
-  5. Nemzeti őrsereg: Nacionalizmus  
-  6. Közös teherviselés: Liberalizmus  
-  7. Urbéli viszonyok megszűntetése: Liberalizmus  
-  8. Képviselet egyenlőség alapján: Liberalizmus  
-  9. Nemzeti bank: Nacionalizmus  
-  10. Katonaság az alkotmányra esküdjön, magyar katonákat ne vigyék külföldre, külföldieket vigyék el tőlünk: Nacionalizmus  
-  11. Politikai statusfoglyok szabadon bocsájtása: Liberalizmus  
-  12. Unió (erdélyel): Nacionalizmus  
+	1. Sajtószabadság: Liberalizmus  
+	2. Felelős minisztérium: Nacionalizmus/Liberalizmus  
+	3. Évenkénti OGy.: Nacionalizmus  
+	4. Törvény előtti egyenlőség: Liberalizmus  
+	5. Nemzeti őrsereg: Nacionalizmus  
+	6. Közös teherviselés: Liberalizmus  
+	7. Urbéli viszonyok megszűntetése: Liberalizmus  
+	8. Képviselet egyenlőség alapján: Liberalizmus  
+	9. Nemzeti bank: Nacionalizmus  
+	10. Katonaság az alkotmányra esküdjön, magyar katonákat ne vigyék külföldre, külföldieket vigyék el tőlünk: Nacionalizmus  
+	11. Politikai statusfoglyok szabadon bocsájtása: Liberalizmus  
+	12. Unió (erdélyel): Nacionalizmus  
 - A Márciusi ifjak képviselői megmozdulása sikeres forradalom lett. A fiatalok maguk mellé állították az egyetemistákat, majd a polgárokat. Landerernél a cenzúra mellőzésével kinyomtatták a 12 pontot (Sajtószabadságot megvalósítva) és a Nemzeti Dalt. Délután a forradalom siker hatására csatlakozott Pest vezetősége is, majd Budán a Helytartótanács.  
   
 - Gyűlés Pilvax Kávéházba eleinte  
@@ -29,104 +29,104 @@
   
 - Márciusi ifjak átadták közben a vezetést a Liberális nemességnek, innentől a forradalom hatására is elfogadják a reformokat, avagy az **Áprilisi Törvények**et  
 - Áprilisi Törvények:  
-  - Előzmény: Az első felelős minisztérium létrejött, a Nagykoalíciós kormány  
-  - ![15.ábra, 167.o](elso_felelos_miniszterium.png)  
-  - 1848.Április 11-én szentesítve lettek a rendi OGy. által kidolgozott törvények -> Magyarország polgári átalakulását megfogalmazták  
-  - MO. az OGy.-nek felelős kormánnyal rendelkező alkotmányos monarchiává alakult, egyesült erdéllyel. **(Feudalizmus -> Polgári állam)**  
-  - A OGy. rendi -> népképviseleti alapú  
-  - Műveltségi és vagyoni cenzus  
-  - ![MO államszervezete az áprilisi törvények alapján](allamszervezet_aprilisi_torv.png)  
-  - OGy. Pesten lesznek, a Parlamentben, évenként  
-  - Feudális kiváltságok felszámolása  
-    - Megyszűnt az úriszék  
-    - Egyházi tized megszűnt    
-    - Jobbágyfelszabadítás Kötelező örökváltsággal, állami kárpótlással (mert a jobbágyok megtarthatták telkeiket), elhalasztott kifizetéssel  
-    - Földesúri adók megszünnek (pl. robot)  
-    - Szabadságjogok megvalósulása  
-    - Cenzúra eltörlés  
-    - Nemzeti bank  
+	- Előzmény: Az első felelős minisztérium létrejött, a Nagykoalíciós kormány  
+	- ![15.ábra, 167.o](elso_felelos_miniszterium.png)  
+	- 1848.Április 11-én szentesítve lettek a rendi OGy. által kidolgozott törvények -> Magyarország polgári átalakulását megfogalmazták  
+	- MO. az OGy.-nek felelős kormánnyal rendelkező alkotmányos monarchiává alakult, egyesült erdéllyel. **(Feudalizmus -> Polgári állam)**  
+	- A OGy. rendi -> népképviseleti alapú  
+	- Műveltségi és vagyoni cenzus  
+	- ![MO államszervezete az áprilisi törvények alapján](allamszervezet_aprilisi_torv.png)  
+	- OGy. Pesten lesznek, a Parlamentben, évenként  
+	- Feudális kiváltságok felszámolása  
+		- Megyszűnt az úriszék  
+		- Egyházi tized megszűnt	  
+		- Jobbágyfelszabadítás Kötelező örökváltsággal, állami kárpótlással (mert a jobbágyok megtarthatták telkeiket), elhalasztott kifizetéssel  
+		- Földesúri adók megszünnek (pl. robot)  
+		- Szabadságjogok megvalósulása  
+		- Cenzúra eltörlés  
+		- Nemzeti bank  
 - nem valósult meg:  
-  - Külügy  
-  - Hadügy  
-  - Ezeket szolgáló pénzügy  
+	- Külügy  
+	- Hadügy  
+	- Ezeket szolgáló pénzügy  
 - Szentesítette: V. Ferdinánd (avagy a Habsburg király)  
 # 1848-49es Szabadságharc  
 - A nemzetiségekkel szembeni hozzáállás: Egy politikai nemzet van csak  
 - Milyen kérdéskörben volt a fő ellentét az osztrákok és a magyar vezetés között?: A hadügy- és pénzügyminisztérium jogkörét fel akarták számolni az osztrák kormányok, főként a hadsereg kérdésében voltak ellentétek. A magyaroknak megbízható csapatok kellettek volna, az osztrákok viszont többször megtagadták a csapatok küldését.  
 - Milyen magyar lépések történtek emiatt?:  
-  - Batthyány elrendelte a tíz honvédzászlóalj (magyar reguláris) csapatok felállítását (Május 16.), ez erősítette a magyar államot és megkérdőjelezte a birodalom egységét  
-  - Kossuth szerződést kötött a Pesti Magyar Kereskedelmi Bankkal önálló magyar bankegyek kibocsájtására (Június 17., Kossuth bankónak nevezik)  
-  - Július 11.-én emberenként szavazták meg a 200 ezer újoncot, és a szükséges pénzt  
+	- Batthyány elrendelte a tíz honvédzászlóalj (magyar reguláris) csapatok felállítását (Május 16.), ez erősítette a magyar államot és megkérdőjelezte a birodalom egységét  
+	- Kossuth szerződést kötött a Pesti Magyar Kereskedelmi Bankkal önálló magyar bankegyek kibocsájtására (Június 17., Kossuth bankónak nevezik)  
+	- Július 11.-én emberenként szavazták meg a 200 ezer újoncot, és a szükséges pénzt  
 - Kiket használt fel az osztrák kormányzat a magyarok ellen?: Nemzetiségek  
 - Mi történt 1848. Augusztus 31.-én?: Pénz és hadügy vissza (nem valósul meg)  
 - Hogyan, mikor kezdődött a fegyveres konfliktus?: 1848.Szeptember 11.-én, Horvát (Jelačić csapatai) támadás proxy háborúban (V. Ferdinánd aláírta az Áprilisi törvényeket, közvetlen nem indíthatott háborút a magyarok ellen)  
 - OHB: Országos Honvédelmi **Bizottmány**, a **végrehajtói (kormány)** hatalom (1848.Okt.8. után), a honvédelmet irányító testület, vezetője Kossuth  
 - Hol, hogyan zajlott az első összecsapása a szabadságharcnak?  
-  - 1848.Szeptember 29.  
-  - Pákozd (Velencei-tótol észak-nyugatra)  
-  - Első összecsapás:  
-    - Batthyány nyomására feltartóztatta a Móga altábornagy az új honvéd zászlóaljakkal Jelačić seregért  
-    - Vereséget mértek rájuk  
+	- 1848.Szeptember 29.  
+	- Pákozd (Velencei-tótol észak-nyugatra)  
+	- Első összecsapás:  
+		- Batthyány nyomására feltartóztatta a Móga altábornagy az új honvéd zászlóaljakkal Jelačić seregért  
+		- Vereséget mértek rájuk  
 - Mi történt Schwechatnál, 1848. Okt. 30.-án?  
-  - A Pákozdi vereség után menekül Jelačić csapatjaival, Bécs irányába  
-  - Móga követte Jelačić seregeit, de az osztrák határt csak Kossuth utasítására lépte át (ez lelassította őket)  
-  - Kitört egy újabb Bécsi forradalom Október 6.-án, mely által teremtett lehetőséget nem tudtak kihasználni  
-  - A Csehországban "rendet" teremtő Windisch-Grätz (Windics Grécz) csapatai megérkeztek, leverték a magyar sereget  
+	- A Pákozdi vereség után menekül Jelačić csapatjaival, Bécs irányába  
+	- Móga követte Jelačić seregeit, de az osztrák határt csak Kossuth utasítására lépte át (ez lelassította őket)  
+	- Kitört egy újabb Bécsi forradalom Október 6.-án, mely által teremtett lehetőséget nem tudtak kihasználni  
+	- A Csehországban "rendet" teremtő Windisch-Grätz (Windics Grécz) csapatai megérkeztek, leverték a magyar sereget  
 - Mi történt V. Ferdinánddal 1848. Decemberében?  
-  - Lemondatták V. Ferdinándot, Ferenc Józsefet választották meg az Osztrák császárrá helyette, mert Szentesítette az Áprilisi Törvényeket, viszont arra hivatkoztak, hogy megőrült. 1848.December 3.-án vette át az uralkodást Ferenc József  
+	- Lemondatták V. Ferdinándot, Ferenc Józsefet választották meg az Osztrák császárrá helyette, mert Szentesítette az Áprilisi Törvényeket, viszont arra hivatkoztak, hogy megőrült. 1848.December 3.-án vette át az uralkodást Ferenc József  
 - Ki az a Görgey Artúr, és milyen ellentét volt Kossuth és közte?  
-  - Görgei Artúr a Feldunai sereg vezetője, a túlerő miatt visszavonult, miközben az OHB óriási erőfeszítéseket tett az újabb csapatok érdekében. Görgei a fővárost is feladta, evvel megőrizte hadseregét, és Pestet a harctól.  
-  - Ellentétek:  
-    - Kossuth Politikai, Görgei Katonai szemmel látja a dolgokat. Kossuth nyílt csatában akar szembeszállni Windsich-Gräzt-el, Görgei viszont visszavonult  
-    - Kossuth azt akarta, hogy a sereget az egész határon keresztül osszák szét, viszont Görgei az ellenkezőjét tette, hogy képes legyen védekezni. Majd elbocsájtotta a népfelkelőket, akik nem voltak hajlandóak a honvédségbe lépni. Kossuth erre felháborodott, mivel annyi erőt belefektetett a mozgósításba.  
+	- Görgei Artúr a Feldunai sereg vezetője, a túlerő miatt visszavonult, miközben az OHB óriási erőfeszítéseket tett az újabb csapatok érdekében. Görgei a fővárost is feladta, evvel megőrizte hadseregét, és Pestet a harctól.  
+	- Ellentétek:  
+		- Kossuth Politikai, Görgei Katonai szemmel látja a dolgokat. Kossuth nyílt csatában akar szembeszállni Windsich-Gräzt-el, Görgei viszont visszavonult  
+		- Kossuth azt akarta, hogy a sereget az egész határon keresztül osszák szét, viszont Görgei az ellenkezőjét tette, hogy képes legyen védekezni. Majd elbocsájtotta a népfelkelőket, akik nem voltak hajlandóak a honvédségbe lépni. Kossuth erre felháborodott, mivel annyi erőt belefektetett a mozgósításba.  
 - Hajlandó lett volna a békére az országgyűlés?  
-  - Igen, az OGy. követséget küldött Windisch-Grätzhez, hogy milyen áron tudnának békét biztosítani, viszont a Császári fővezér nem volt hajlandó tárgyalni  
+	- Igen, az OGy. követséget küldött Windisch-Grätzhez, hogy milyen áron tudnának békét biztosítani, viszont a Császári fővezér nem volt hajlandó tárgyalni  
 - Hova költözött a kormány?  
-  - Debrecenre, Kossuth javaslatára az Országgyűlés megszavazta, hogy az OHB-vel, a minisztériumokkal együtt átteszi a székhelyet Debrecenbe, a fegyvergyártást pedig Nagyváradra telepítik  
+	- Debrecenre, Kossuth javaslatára az Országgyűlés megszavazta, hogy az OHB-vel, a minisztériumokkal együtt átteszi a székhelyet Debrecenbe, a fegyvergyártást pedig Nagyváradra telepítik  
 - Mi történt Erdélyben 1848 őszén?  
-  - Az Erdélyi Császári haderő nyíltan szembefordult a magyar kormánnyal (Ez is Bécs hibája, katonatartományokat ígért). A román parasztok és határőrök rátörtek a gyenge magyar haderőre, majd ősz végére a császáriak elérték Kolozsvárt. Itt álltak meg, mert elkezdődött a Székely felkelés  
+	- Az Erdélyi Császári haderő nyíltan szembefordult a magyar kormánnyal (Ez is Bécs hibája, katonatartományokat ígért). A román parasztok és határőrök rátörtek a gyenge magyar haderőre, majd ősz végére a császáriak elérték Kolozsvárt. Itt álltak meg, mert elkezdődött a Székely felkelés  
 - Ki volt Gábor Áron?  
-  - Egy Székely, aki régen tüzérként szolgált, és vállalta, hogy ágyúkat önt. Az általa kiképzett újoncokról Puchner azt hitte, hogy képzett francia tüzérek. A szabadságharc alatt kb 100 ágyút öntött, és ő is tüzérként harcolt és abbe halt bele 1849-ben  
+	- Egy Székely, aki régen tüzérként szolgált, és vállalta, hogy ágyúkat önt. Az általa kiképzett újoncokról Puchner azt hitte, hogy képzett francia tüzérek. A szabadságharc alatt kb 100 ágyút öntött, és ő is tüzérként harcolt és abbe halt bele 1849-ben  
 - Bem József vezette seregek milyen eredményeket értek 1849-első hónapjaiban?  
-  - Sikeresen szervezte és erősítette az erdélyi hadsereget  
-  - Márciusra kiverte az osztrákokat és a segítségükre siető orosz csapatokat erdélyből  
-  - A román felkelést a Szigethegység területére szorította vissza  
+	- Sikeresen szervezte és erősítette az erdélyi hadsereget  
+	- Márciusra kiverte az osztrákokat és a segítségükre siető orosz csapatokat erdélyből  
+	- A román felkelést a Szigethegység területére szorította vissza  
 - Mi az a felvidéki hadjárat?  
-  - Gorgei kiürítette Pestet és Vácon át a felvidék felé vonult, elvonta Windsich-Grätz főerőit a kormány új székhelye megtámadásától. A terv sikeres volt, a császári erők főparancsnoka tartott, hogy a magyar hadtest váratlanul Bécs ellen fordul, ezért csapatai egy részét Pest körül tartotta, míg Görgei üldözésére is küldött jelentős erőket. Így nem indíthatott támadást Debrecen irányába, a magyar felkészülés a Tiszántúlon folytatódhatott.  
+	- Gorgei kiürítette Pestet és Vácon át a felvidék felé vonult, elvonta Windsich-Grätz főerőit a kormány új székhelye megtámadásától. A terv sikeres volt, a császári erők főparancsnoka tartott, hogy a magyar hadtest váratlanul Bécs ellen fordul, ezért csapatai egy részét Pest körül tartotta, míg Görgei üldözésére is küldött jelentős erőket. Így nem indíthatott támadást Debrecen irányába, a magyar felkészülés a Tiszántúlon folytatódhatott.  
 - Ki lesz a vezetője a Debrecennél egyesült seregeknek? Milyen eredményt ért el?  
-  - Henryk Dembiński Gróf lett az Egyesült Debreceni seregek vezetője. Kápolnán, 1849.Feb.26-27-én került sor az első komoly összecsapásra. Magyarok vereséget szenvedtek, vissza kellett vonulni a tisza mögé, Dembiński miatt.   
+	- Henryk Dembiński Gróf lett az Egyesült Debreceni seregek vezetője. Kápolnán, 1849.Feb.26-27-én került sor az első komoly összecsapásra. Magyarok vereséget szenvedtek, vissza kellett vonulni a tisza mögé, Dembiński miatt.  
 - Mi az az 1849. március 4-én kiadott olmützi alkotmány?  
-  - Ferenc József által kiadott, az egész birodalmat centralizálni kívánó alkotmány volt. Ez a forradalom törkvéseit teljesen figyelmen kívül hagytását jelentette, és MO.-t alárendelte a birodalmi központi hatalomnak. Sosem lépett érvénybe, mivel a szabadságharc eseményei felülírták, "kikényszerített", "ráerőszakolt" alkotmány, tartományi rangra süllyesztené MO.-t  
+	- Ferenc József által kiadott, az egész birodalmat centralizálni kívánó alkotmány volt. Ez a forradalom törkvéseit teljesen figyelmen kívül hagytását jelentette, és MO.-t alárendelte a birodalmi központi hatalomnak. Sosem lépett érvénybe, mivel a szabadságharc eseményei felülírták, "kikényszerített", "ráerőszakolt" alkotmány, tartományi rangra süllyesztené MO.-t  
 - Mi az a tavaszi hadjárat?  
-  - A hadjárat áprilistól júniusig tartott  
-  - Célja a Duna-Tisza felszabadítása  
-  - Több jelentős győzedelmet hozott, pl.:  
-    - Hatvan (Április 2.)  
-    - Tápióbicske (Április 4.)  
-    - **Isaszeg (Április 6.)**  
-    - Vác (Április 10.)  
-    - Nagysalló (Április 19.)  
-    - Komárom (Április 26.)  
-  - Görgei körbekerítő hadjáratot talált ki, ő ment Hatvanhoz, míg Klapka György (:shocked:) körbement, de nem karolta körbe teljesen a császári sereget  
-  - Miután Windisch-Grätz vereséget szenvedett, leváltották.  
+	- A hadjárat áprilistól júniusig tartott  
+	- Célja a Duna-Tisza felszabadítása  
+	- Több jelentős győzedelmet hozott, pl.:  
+		- Hatvan (Április 2.)  
+		- Tápióbicske (Április 4.)  
+		- **Isaszeg (Április 6.)**  
+		- Vác (Április 10.)  
+		- Nagysalló (Április 19.)  
+		- Komárom (Április 26.)  
+	- Görgei körbekerítő hadjáratot talált ki, ő ment Hatvanhoz, míg Klapka György (:shocked:) körbement, de nem karolta körbe teljesen a császári sereget  
+	- Miután Windisch-Grätz vereséget szenvedett, leváltották.  
 - Mi történt 1849 április 14-én?  
-  - Kossuth Lajos javaslatára a Magyar OGy. kimondta a Habsburg-ház trónfosztását és MO. függetlenségét (függetlenségi nyilatkozat)  
+	- Kossuth Lajos javaslatára a Magyar OGy. kimondta a Habsburg-ház trónfosztását és MO. függetlenségét (függetlenségi nyilatkozat)  
 - Hogyan reagált Ferenc József a magyar sikerekre?  
-  - Segítséget kért I. Miklós orosz cártól (A Szent Szövetség miatt elfogadta), aki jelentős katonai erővel beleavatkozott a szabadságharc leverésébe. Ez a segítség nélkül nagy eséllyel nyertünk volna (még lehet meglenne erdély :sob:)  
+	- Segítséget kért I. Miklós orosz cártól (A Szent Szövetség miatt elfogadta), aki jelentős katonai erővel beleavatkozott a szabadságharc leverésébe. Ez a segítség nélkül nagy eséllyel nyertünk volna (még lehet meglenne erdély :sob:)  
 - Mi történt a segesvári csatában?  
-  - 1849.Július 31., Bem József seregei vereséget szenvedtek az Osztrák, Orosz csapatoktól. A csata alatt Petőfi Sándor eltűnt, valószínűleg elesett a harcban  
+	- 1849.Július 31., Bem József seregei vereséget szenvedtek az Osztrák, Orosz csapatoktól. A csata alatt Petőfi Sándor eltűnt, valószínűleg elesett a harcban  
 - Mi történt Temesvárnál?  
-  - 1849.Augusztus 9., a Magyar Honvédség döntő vereséget szenvedett Haynau csapataitól. Ez a szabadságharc végét jelentette katonai értelemben, mivel a magyar seregek széthullottak  
-  - Kossuth lemond, Görgeinek adta a hatalmat  
+	- 1849.Augusztus 9., a Magyar Honvédség döntő vereséget szenvedett Haynau csapataitól. Ez a szabadságharc végét jelentette katonai értelemben, mivel a magyar seregek széthullottak  
+	- Kossuth lemond, Görgeinek adta a hatalmat  
 - Hogyan zárult a szabadságharc?  
-  - **1849.Augusztus 13**-án zárult, mikor **Görgei Világosnál letette a fegyvert** az orosz csapatok előtt, ezután kegyetlen megtörlás volt Haynau vezetésével, sok vezetőt ki is végeztek, pl. az aradi vértanúkat  
+	- **1849.Augusztus 13**-án zárult, mikor **Görgei Világosnál letette a fegyvert** az orosz csapatok előtt, ezután kegyetlen megtörlás volt Haynau vezetésével, sok vezetőt ki is végeztek, pl. az aradi vértanúkat  
 - Hf.: Mindent tudni  
 - Ferenc Józsefet császárrá választják 1848 Decemberében  
-  - Előzmény: V. Ferdinándot lecserélték, mivel ő szentesítette meg az Áprilisi Törvényeket, ezért nem törhetett magyarországra  
-  - Következmény: Áprilisi Törvények nem voltak rá érvényesek, ezért rátörhetett Magyarországra, elindította a támadást Windsich-Grätz vezetésével  
+	- Előzmény: V. Ferdinándot lecserélték, mivel ő szentesítette meg az Áprilisi Törvényeket, ezért nem törhetett magyarországra  
+	- Következmény: Áprilisi Törvények nem voltak rá érvényesek, ezért rátörhetett Magyarországra, elindította a támadást Windsich-Grätz vezetésével  
 - Pákozdi ütközet  
-  - Előzmény: A birodalom a Kisebbségeket ellenünk fordította, és Szeptember 11-én Jelacic átlépi a határt  
-  - Következmény: A nagy vereség után Bécs felé indult Jelacic seregeivel, Móga követte őket seregeivel, de a határnál megálltak, mert várták Kossuth beleegyezését, hogy átléphetik a határt, ami miatt feltudott szerelkezni Jelacic serege, csatlakoztak Windsich-Grätz seregéhez, majd Schwechat-nál nagy vereséget szenvedtünk  
+	- Előzmény: A birodalom a Kisebbségeket ellenünk fordította, és Szeptember 11-én Jelacic átlépi a határt  
+	- Következmény: A nagy vereség után Bécs felé indult Jelacic seregeivel, Móga követte őket seregeivel, de a határnál megálltak, mert várták Kossuth beleegyezését, hogy átléphetik a határt, ami miatt feltudott szerelkezni Jelacic serege, csatlakoztak Windsich-Grätz seregéhez, majd Schwechat-nál nagy vereséget szenvedtünk  
 - Trónfosztás (1849.Április 14.)  
-  - Előzmény: A Tavaszi hadjárat eleinte sok nyereséget hozott, amely feldobta a morált annyira, hogy a Magyar OGy. kijelentse a Trónfosztást  
-  - Következmény: Ferenc József hatalma meg lett evvel fenyegetve, segítséget kért I. Miklós Orosz cártól  
+	- Előzmény: A Tavaszi hadjárat eleinte sok nyereséget hozott, amely feldobta a morált annyira, hogy a Magyar OGy. kijelentse a Trónfosztást  
+	- Következmény: Ferenc József hatalma meg lett evvel fenyegetve, segítséget kért I. Miklós Orosz cártól  

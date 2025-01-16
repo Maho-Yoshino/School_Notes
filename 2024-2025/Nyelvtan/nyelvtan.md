@@ -2,10 +2,10 @@
 Tk.10, 41-69. o  
 - Intertextualitás 41-42.o  
 - Táblázat 44-45.o  
-  - Hypertextualitás (szöveg átalakításával/utánzásával létrehozott szöveg, pl. paródia,stílus-/formaimitáció)  
-  - Paratextualitás (a szöveg és környezete kapcsolata, pl. cím,alcím,mottó)  
-  - Metatextualitás (Kommentárszerű szövegkapcsolatok, pl. hivatkozás,lábjegyzet,kommentár)  
-  - Architextualitás  
+	- Hypertextualitás (szöveg átalakításával/utánzásával létrehozott szöveg, pl. paródia,stílus-/formaimitáció)  
+	- Paratextualitás (a szöveg és környezete kapcsolata, pl. cím,alcím,mottó)  
+	- Metatextualitás (Kommentárszerű szövegkapcsolatok, pl. hivatkozás,lábjegyzet,kommentár)  
+	- Architextualitás  
   
 ## Ismétlés hf:  
 - Médiaszöveg  
@@ -44,8 +44,8 @@ Mém:
 		- Szóbeli felelet  
 	2. Írásbeli szövegek  
 		- Levél  
-		  - Email  
-		  - Írott  
+			- Email  
+			- Írott  
 		- Dolgozat  
 		- Űrlap  
 		- Adóbevallás  
@@ -75,14 +75,14 @@ Mém:
 			6. Szépirodalmi - Tankönyv, Énekeskönyv, Óda, Epika, Himnusz  
 # Stílusrétegek jellemzői  
 1. Stílusréteg fogalma:  
-  1. Stílus = eredetileg íróeszköz a római korban  
-  2. később az írás képére használták  
-  3. később megkülönböztető jellemzőt takar, pl.  
-	  1. művészeti stílus: barokk, klasszicista  
-	  2. zenei stílusok  
-	  3. designerek által létrehozott stílusok, divat  
-  4. A stílusréteg: a kommunikációs színterek alapján beszélhetünk stílusrétegről, vagyis attól függ, hogy hol, milyen közegben alkotunk/használunk szövegeket  
-  5. A nyelvi stílus fogalma: "Nyelvi eszközök válogatása, és elrendezése"  
+	1. Stílus = eredetileg íróeszköz a római korban  
+	2. később az írás képére használták  
+	3. később megkülönböztető jellemzőt takar, pl.  
+		1. művészeti stílus: barokk, klasszicista  
+		2. zenei stílusok  
+		3. designerek által létrehozott stílusok, divat  
+	4. A stílusréteg: a kommunikációs színterek alapján beszélhetünk stílusrétegről, vagyis attól függ, hogy hol, milyen közegben alkotunk/használunk szövegeket  
+	5. A nyelvi stílus fogalma: "Nyelvi eszközök válogatása, és elrendezése"  
 2. Fajtái  
 	1. Magánéleti/társalgási  
 	2. Tudományos-Szakmai  
@@ -130,10 +130,10 @@ Mém:
 	1. A szókincs  
 		- Idegen szavak, pl. Latin, görög nyelv szavai  
 		- Szakkifejezések: minden területnek van szókincse  
-		  - Hexameter, irodalom  
-		  - Ohm törvénye, fizika  
-		  - Triumvirátus, töri  
-		  - Hexaéder: matek  
+			- Hexameter, irodalom  
+			- Ohm törvénye, fizika  
+			- Triumvirátus, töri  
+			- Hexaéder: matek  
 	2. Mondatszerkesztés:  
 		- Összetett, többszörösen összetett mondatok (alárendelés, mellérendelés)  
 		- Pontos, világos mondatalkotás szükséges  
@@ -218,9 +218,9 @@ Mém:
 	3. A nyelvi stílus fogalma  
 		- A nyelv egy hatalmas eszköztár  
 		- Ebből **válogatjuk** ki a szükséges elemeket  
-		  - Szavak  
-		  - Szabályok  
-		  - Stb.  
+			- Szavak  
+			- Szabályok  
+			- Stb.  
 		- Végül ezeket az elemeket szükség szerint **elrendezzük** => Így jön létre sokféle nyelvi stílus  
 2. A stílusréteg fogalma  
 	1. Fajtái  

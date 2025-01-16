@@ -25,17 +25,17 @@
 1. A nagy stílusművész  
 	1. Stílusirányzatok költészetében  
 		- Klasszicizmus  
-		  - Ódái (Görög, dicsőítő/magasztaló):  
+			- Ódái (Görög, dicsőítő/magasztaló):  
 			- Az Estve  
 			- Konstancinápoly  
 			(Tanító célzatú versek -> A felvilágosodás eszméit hirdetik pl. racionalizmus)  
-		  - Szentimentalizmus "érzékenység" hátterében az empirizmus áll, tapasztalatelvűség  
+			- Szentimentalizmus "érzékenység" hátterében az empirizmus áll, tapasztalatelvűség  
 			- Elégia (Görög, szomorú hangvételű):  
 				- A magánossághoz  
 				- A tihanyi Ekhóhoz  
-		  - Rokokó  
-			 - Barokk stílus lecsengése  
-			 - Jellemzői:  
+			- Rokokó  
+				- Barokk stílus lecsengése  
+				- Jellemzői:  
 				- Témája: szerelem,erotika  
 				- Játékosság  
 				- Formai gazdagság  
@@ -76,8 +76,8 @@ Fő szempontok:
 - Szerkezete  
 - Képi világ, pl. tavasz-Tél jelképes képei (3-4. vsz)  
 - Versforma  
-  - Rímek  
-  - Ütemhangsúlyos verselés  
+	- Rímek  
+	- Ütemhangsúlyos verselés  
 - Rokokó stílusjegyek  
 - Klasszicista stílusjegyek  
 ## Hf  
@@ -89,10 +89,10 @@ Csokonai 1803-ban írta a „Reményhez” című versét, miután élete egyik 
 Elégia: a mű a klasszikus elégia műfajába sorolható, amely fájdalmas, melankolikus hangvételű, a boldogság és a harmónia elvesztését sirató költemény. A boldogság utáni vágy és a csalódás kettőssége jellemzi.  
 ### Szerkezet  
 - A vers öt versszakból áll.  
-  I. versszak: A remény megszólítása, a boldogság elvesztése.  
-  II. versszak: A remény felidézése, amikor még jelen volt.  
-  III. és IV. versszak: Természeti képeken keresztül ábrázolja a remény távozását és a költő lelkiállapotát (tavasz – tél ellentéte).  
-  V. versszak: A remény végleges eltűnésének felismerése.  
+	I. versszak: A remény megszólítása, a boldogság elvesztése.  
+	II. versszak: A remény felidézése, amikor még jelen volt.  
+	III. és IV. versszak: Természeti képeken keresztül ábrázolja a remény távozását és a költő lelkiállapotát (tavasz – tél ellentéte).  
+	V. versszak: A remény végleges eltűnésének felismerése.  
 ### Képi világ  
 - Tavasz és tél jelképes képei (3-4. versszak)  
 - A tavasz a remény és boldogság időszaka, amikor a természet megújul, minden virágzik és életre kel. Ez jelképezi azt az időszakot, amikor a költő még reménnyel teli volt.  
