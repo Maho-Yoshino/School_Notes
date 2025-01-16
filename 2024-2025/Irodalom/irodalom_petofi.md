@@ -6,9 +6,9 @@
 	2. Iskolái:  
 		- Sok iskolába járt, a család sokat költözött. Petrovich mészáros volt.  
 		- Elemiskolák:  
-		  - Kecskemét  
-		  - Szabadszállás  
-		  - Sárszentlőrinc  
+			- Kecskemét  
+			- Szabadszállás  
+			- Sárszentlőrinc  
 		- Középiskolát Pápán végezte, itt ismerte meg Jókai Mórt (Mort (:shook:))  
 		- Katonaság: Sopron (hamar leszerelték)  
 	3. Vándorszínész is volt egy évig  
@@ -32,9 +32,9 @@
 		- műfaj is egyben a görögök óta  
 		- A versben megszólaló költői én a bor vígasztaló szerepét hangsúlyozza  
 		- A versforma a népdalok egyszerűségét idézi meg, pl.:  
-		  - 4 soros versszakok  
-		  - Rövid sorok  
-		  - Keresztrímek (ABAB)  
+			- 4 soros versszakok  
+			- Rövid sorok  
+			- Keresztrímek (ABAB)  
 	2. Hortobágy kocsmáros  
 		- Műfaja: Zsánerdal (Belehelyezkedik a lírai én egy népies figura szerepébe: E/1 személyben közli élményeit a csárdában)  
 	3. Megy a juhász a szamáron műfaja zsánerkép:  
@@ -44,19 +44,19 @@
 		- A refrén az idő "lassítását" erősíti, ne múljon el ez a pillanat  
 	5. A természet vadvirága  
 		- Műfaja: Ars Poetica  
-		  - latinul Művészet Poetika  
-		  - Témája a költészet  
-		  - "Költői hitvallás"  
+			- latinul Művészet Poetika  
+			- Témája a költészet  
+			- "Költői hitvallás"  
 		- A vers ellentétre épül, költő "szembefordul" kritikusaival, kiáll saját költészete mellett  
 		- A vers címe egyben a vers kulcsjelentőségű képe, egy metafora, önmagát azonosítja a természet vadvirágával  
 		- Miért?:  
-		  - Féktelen természetű  
-		  - Szabadságában nem korlátozható  
-		  - Nem iskolában tanulta a költészetet, mert "Zseni" (megfelel a romantika zsenikultuszának)  
+			- Féktelen természetű  
+			- Szabadságában nem korlátozható  
+			- Nem iskolában tanulta a költészetet, mert "Zseni" (megfelel a romantika zsenikultuszának)  
 	6. Fa leszek ha...  
 		- Szerelmi költemény  
 		- Metaforák  
-		  - Egymásba szövés  
+			- Egymásba szövés  
 ## Petőfi Tájköltészete  
 1. Petőfi és az alföldi táj viszonya  
 	1. Szülőföldjének tartja, főleg a Kiskunságot  
@@ -170,19 +170,26 @@ Hf. Vázlat versszakonként mit látunk, zoomtechnika
 	- Zoomtechnika a versszakban:  
 		- A táj érzelmi lezárása ismét tág perspektívában jelenik meg, az élet és halál egyetemes körforgásának helyszíneként *  
 * = GPT Írta, ötletem sincs a "Zoomtechnika" fogalomra, és semmit se találok róla  
-## A puszta, télen  
-  
+## A puszta, télen	  
 Fogalmazás  
 A "bevezetés: petőfiről röviden"  
 tárgyalás:  
 - Petőfi és az alföld  
 - Versekről:  
-  - Kiskunság  
-  - Az alföld  
-	 - Zoomtechnika  
-	 - Szabadság, szülőföld  
-  - A puszta, télen  
-	 - Negatív tájleírás  
-	 - Forradalmi látomásvers:  
+	- Kiskunság  
+	- Az alföld  
+		- Zoomtechnika  
+		- Szabadság, szülőföld  
+	- A puszta, télen  
+		- Negatív tájleírás  
+		- Forradalmi látomásvers:  
 		- Utolsó versszak:  
-		  - Király - naplemente - Trónfosztás  
+			- Király - naplemente - Trónfosztás  
+
+# MEGÖLÖM MAGAM MOST ÍRTUNK DOLGOZATOT EBBŐL A NIGGÁBÓL ÉS MÉG YAPPEL (Pető sanyi: júli versek)  
+1. 1845: megismerte júliát, majd egy évre rá felesége lesz Szendrey Júlia  
+2. Nászút: Erdélyben, itt írta a Szeptember végén c. versét (239. o.)  
+3. Beszél a fákkal a bús őszi szél (243. o.)  
+	- Szabadság, szerelem  
+4. Minek Nevezzelek  
+5. Szabadság harc alatt is írt verseket  

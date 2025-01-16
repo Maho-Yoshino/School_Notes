@@ -336,3 +336,22 @@ Külföldi tőke - Gazdasági, illetve infrastruktúrára fordított pénz, mely
 A társadalom egyszerre hordozza magán az agrár-feudális rendszerből származó nagy mezőgazdasági munkás ..... - Torlódó társadalom  
 Migráció - Kivándorlás MO.ról, főcélpontjuk Amerika volt, ennek ellenére volt kevés bevándorlás, folytonos népességnövekedés volt, fejlődött az egészségügy  
 Elszegényedett, volt földbirtokos - Dzsentri  
+
+# Nacionalizmus  
+## Olasz egység  
+- A hatalmi játszma  
+	- 1848-49 Egységmozgalmak  
+	- Rájöttek, hogy az 1849 után alkotmányos Szárd Királyság (Piemont) valósíthatja meg  
+	- A siker a népmozgalmak és a királyság erejét összefogni való képességen múlt  
+	- Az egység fő akadálya Ausztia, velük szemben a Belpolitikai okokból területgyarapodásra vágyó francia császárt, III.Napóleont megnyerték az ausztria elleni fellépésre  
+	- 1859 Solferino  
+		- Lemondták Bach belügyminiszert az osztrákok  
+		- 40k Halott, sérült együtt  
+		- Henry Dunant létrehozta a Vöröskeresztet  
+	- 1860 Közép itáliai államok összefogtak, kimondták Piemonthoz csatlakozást  
+	- Garibaldi Vörösingesi folytatják az egyesítést  
+	- 1866 Velence megszerezve, Köze van a német egység kialakulásához  
+	- 1870 Róma  
+	- Létrejött az egységes állam  
+- A magyar huszárok jelentős szerepet játszottak olaszország létrejöttéhez  
+## Német egység  
