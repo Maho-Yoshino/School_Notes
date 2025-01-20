@@ -355,3 +355,27 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- Létrejött az egységes állam  
 - A magyar huszárok jelentős szerepet játszottak olaszország létrejöttéhez  
 ## Német egység  
+- Porosz Királyság  
+	- a 18. században felemelkedett  
+	- Fejlődésének kitörése az ipari forradalomhoz kötődik, földrajzi helyszínének köszönhetően  
+- 2 irányvonal  
+	- Nagy német egység  
+	- Kis német egység  
+- Különbségek  
+	- Ausztria vezetésével egyesülne, viszont nem lenne nemzetállam  
+	- Poroszok vezetésével egyesül, ausztria nélkül  
+- Otto von Bismarck, a "Vaskancellár" egyesíti a németeket  
+- Elverték az osztrák hadsereget **Königgrätznél, 1866ban**  
+	- A békeszerződés előírta, hogy nem veszítenek földet, de nem akadályozhatják a Porosz vezetésű német egység létrejöttét, szétfoszlik a nagy német egység  
+- Francia-Porosz ellentét  
+	- **Sedan, 1870** a Porosz hadsereg vereséget mért  
+	- Párizsig eljutottak a Poroszok  
+	- Ezt követően a délnémet államok is becsatlakoztak az Északnémet Szövetséghez  
+	- I. Vilmos az egységes Németországot megalkotni vágyott, korábbi német sérelmekre a Versailles-i palota tükörtermében hirdette ki, **1871. Jan. 18.**  
+	- III. Napóleon rendszere összeomlik, Köztársaság lett franciaország  
+- Krími háború  
+	- Orosz vs Oszmán  
+	- 1853-56  
+	- Florence Nightingale -> Kórházi higénia  
+## USA Felemelkedése  
+- Birtektől megszabadultak, yippeeeeee  
