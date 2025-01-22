@@ -11,7 +11,7 @@ def main():
 			files = askopenfilenames(initialdir = getcwd(), title = "Select a file", filetypes = (("Markdown files", "*.md"), ("all files", "*.*")))
 		except Exception as e:
 			return print(f"An error occurred: {e}")
-	assert file, "No file(s) selected."
+	assert files, "No file(s) selected."
 	def fix_content(file_dir:str):
 		with open(file_dir, encoding="utf-8") as file:
 			text = file.readlines()
