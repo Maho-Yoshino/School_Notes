@@ -378,4 +378,52 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- 1853-56  
 	- Florence Nightingale -> Kórházi higénia  
 ## USA Felemelkedése  
-- Birtektől megszabadultak, yippeeeeee  
+- Britektől megszabadultak, yippeeeeee  
+- Ki az "Ülő bika"?  
+	- 1831–1890  
+	- Sziú törzsfőnök  
+	- 1868ban kiűzték a törzsét az aranyláz miatt  
+	- Fellázadtak, fegyvert fogtak és vereséget mértek a Custer tábornok vezette 7. amerikai lovaserzedre  
+	- Little Bighorn, 1876  
+	- Kaszinók (*ka-ching!*)  
+- Milyen ellentét van észak és dél között  
+	- Észak:  
+		- Városi gyáripar  
+		- Családi farmergazdaság  
+		- Amerikában akarják feldolgozni a gyapotot  
+	- Dél:  
+		- Rabszolgatartó ültetvényes  
+		- Iparcikkeket fogyasztott  
+		- Vásárol Iparcikkeket északról  
+### 12., 13., 14. oldal  
+1. Észak - Dél ellentét  
+	- Az iparosodó Észak és a rabszolga-alapú Dél közötti érdekellentétek az amerikai polgárháborúhoz vezettek  
+2. Polgárháború  
+	- Északiak megállapították a Republikánus pártot, 1854  
+		- Védvámok bevezetése  
+		- Rabszolga felszabadítás  
+		- Farmereknek kedvező szabad földfoglalás  
+	- 1860 választás: Abraham Lincoln nyert  
+	- 11 déli állam kilépett az unióból, megalakították az Amerikai Konföderációs Államokat  
+	- Észak törvénytelennek vette ezt, elkezdődik az amerikai polgárháború (1861-1865)  
+		- az amerikai hadsereg tisztikara főként déliekből állt, kezdetben a déliek nagy sikereket értek el  
+		- Észak blokkádolta a déli részt, nem jutottak semmilyen árucikkhez, mivel északon voltak azok (19., 20. ábra)  
+		- Lincoln kiadta a telepítési törvényt (1862), hogy a lakosságot a háború mellé állítsa  
+			- Minden amerikai állampolgár jogot kap, hogy pár dollárért egy 113 holdas parcellát kihasítson a nyugati "szabad" földekből  
+		- Létre hozta a dél a KKK-t (Ku Klux Klan, feketék és támogatóik ellen fellépő terrorszervezet)  
+3. Modernizáció japánban  
+	- 1854, szabadkereskedelem vállalásra kényszerítette az USA japánt  
+		- A szükséges változásokat a kisbirtokos nemességre támaszkodva Meidzsi császár (1868-1912) hajtotta végre  
+		- Félreállította a régi hagyományokat őrző Sóguni (nagyvezéri) rendszert  
+	- 1868, Meidzsi-reform  
+		- Európai vívmányok átvétele  
+			- polgári alkotmány  
+			- európai szabványok, gépek  
+			- európai öltözet  
+			- tankötelezettség  
+			- külföldi tanulmányutak  
+		- A szamurájok akik nem tudtak alkalmazkodni azok meghaltak  
+	- A 19. század végére Japán fejlődő kapitalista <span style="font-size:6px;">(fúj)</span> állammá vált  
+		- Mivel nyersanyagokban szegény volt, terjeszkedni kellett (kínába)  
+			- Bevezették az általános hadkötelezettséget  
+		- Legyőzte a szintén terjeszkedni vágyó oroszokat is (Orosz-Japán háború, 1904-1905)  
