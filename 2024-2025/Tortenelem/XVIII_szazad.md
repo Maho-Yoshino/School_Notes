@@ -409,8 +409,9 @@ Elszegényedett, volt földbirtokos - Dzsentri
 		- az amerikai hadsereg tisztikara főként déliekből állt, kezdetben a déliek nagy sikereket értek el  
 		- Észak blokkádolta a déli részt, nem jutottak semmilyen árucikkhez, mivel északon voltak azok (19., 20. ábra)  
 		- Lincoln kiadta a telepítési törvényt (1862), hogy a lakosságot a háború mellé állítsa  
-			- Minden amerikai állampolgár jogot kap, hogy pár dollárért egy 113 holdas parcellát kihasítson a nyugati "szabad" földekből  
-		- Létre hozta a dél a KKK-t (Ku Klux Klan, feketék és támogatóik ellen fellépő terrorszervezet)  
+			- Minden amerikai állampolgár jogot kap, hogy pár dollárért egy 113 holdas parcellát kihasítson a nyugati "szabad" földekből (indián területek)  
+		- Lincoln kiadta a rabszolgák felszabadítását a 13. alkotmánymódosítással, 1863, de csak 1865ben valósul meg  
+			- Létre hozta a dél a KKK-t (Ku Klux Klan, feketék és támogatóik ellen fellépő terrorszervezet)  
 3. Modernizáció japánban  
 	- 1854, szabadkereskedelem vállalásra kényszerítette az USA japánt  
 		- A szükséges változásokat a kisbirtokos nemességre támaszkodva Meidzsi császár (1868-1912) hajtotta végre  
