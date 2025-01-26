@@ -18,7 +18,7 @@ Adaptáció:
 	Az adaptáció az a folyamat, amikor egy meglévő művet – például egy könyvet, színdarabot vagy történetet – egy másik médiumhoz vagy formátumhoz igazítanak. Gyakori példái ennek a könyvek filmre, televízióra, vagy színpadra történő átdolgozása. Az adaptáció során gyakran módosítják az eredeti művet, hogy az új médium követelményeinek megfeleljen, vagy hogy jobban illeszkedjen a célközönség igényeihez.  
 Mém:  
 	A mém egy kulturális elem, ötlet vagy jelenség, amely gyorsan terjed a társadalomban, különösen az interneten keresztül. Általában egy vicces, szellemes képként, videóként vagy szövegként jelenik meg, amelyet a közönség oszt meg, és újraalkotva terjeszt tovább. A mémek gyakran tükrözik a társadalmi vagy politikai eseményeket, és sokszor a humor eszközével reflektálnak ezekre.  
-## Szövegtípusok, szövegfajták  
+### Szövegtípusok, szövegfajták  
 1. A nyelvi norma meghatározza a szövegek csoportosítását. Nyelvi norma: társadalmilag elfogadott és használt nyelv  
 2. Szövegtípusok 1  
 	1. monológus: egyirányú, pl. határozat,tudományos értekezés  
@@ -121,7 +121,7 @@ Mém:
 	4. Dagályos-túlbonyolított beszéd  
 	5. Szótévesztés  
 	6. Divatos szavak indokolatlan használata  
-# Tudományos stílusréteg  
+## Tudományos stílusréteg  
 1. Célja: Ismeretterjesztés, közlés, de van felhívó jellege is  
 2. Fő szövegfajtái:  
 	1. Szóbeli: Előadás, Vita, iskolai kiselőadás  
@@ -150,7 +150,7 @@ Mém:
 		- Tudományos szöveg, de irodalmi stílus is keveredik benne  
 		- Témája lehet: filozófia, irodalom, művészet, tárdsadalmi kérdések, stb.  
 		- Fontos benne a személyes állásfoglalás, figyelemfelkeltés, a jó stílus  
-# Hivatalos stílusréteg  
+## Hivatalos stílusréteg  
 1. Hol használjuk?  
 	1. Intézmények, hivatalok egymás között  
 	2. Magánember és hivatalok, intézmények közötti kommunikáció  
@@ -249,3 +249,29 @@ Mém:
 3. Az irodalmi szövegek stílusát a szavak **többletjelentése** is befolyásolja  
 4. Az olvasó szerepe a stílus kapcsán  
 	- Szerző -> Mű <- Olvasó/Befogadó  
+5. A zeneiség stíluseszközei  
+	1. Hangszimbolika: a hangoknak is van stílushatása, hordoznak különböző többletjelentéseket, pl. hangulati hatásuk van, pl.  
+		- zöngés hangok lágyabbá teszik a szavak hangzását  
+			- "*B*ar*l*a*ngj*á*b*a*n* *b*e*l*ü*l* *b*ö*mb*ö*l* a *m*or*d* *m*e*dv*e"  
+		- zöngétlen msh. keményebb hangzásúak  
+			- "*k*o*pp*an"  
+			- "*k*a*tt*an"  
+			- "*k*ő"  
+	2. Kakofónia  
+		- Kellemetlen hangzású szavak  
+		- pl.  
+			- "Moszkvics-slusszkulcs"  
+	3. Eufónia  
+		- Kellemes hangzás  
+		- pl.  
+			- Füle müle  
+			- Anna  
+			- Gyöngyvér  
+	4. Hangutánzó szavak  
+		- Állathangok:  
+			- Kukorékol a kakas  
+			- Ugat a kutya  
+			- nyávog a macska  
+	5. Hangulatfestő szó  
+		- Erik *sompolyogva* megy az ebédlőbe  
+	6.  
