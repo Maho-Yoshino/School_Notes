@@ -411,7 +411,7 @@ Elszegényedett, volt földbirtokos - Dzsentri
 		- Lincoln kiadta a telepítési törvényt (1862), hogy a lakosságot a háború mellé állítsa  
 			- Minden amerikai állampolgár jogot kap, hogy pár dollárért egy 113 holdas parcellát kihasítson a nyugati "szabad" földekből (indián területek)  
 		- Lincoln kiadta a rabszolgák felszabadítását a 13. alkotmánymódosítással, 1863, de csak 1865ben valósul meg  
-			- Létre hozta a dél a KKK-t (Ku Klux Klan, feketék és támogatóik ellen fellépő terrorszervezet)  
+			- Létre hozta a dél a KKK-t (1866, Ku Klux Klan, feketék és támogatóik ellen fellépő terrorszervezet)  
 3. Modernizáció japánban  
 	- 1854, szabadkereskedelem vállalásra kényszerítette az USA japánt  
 		- A szükséges változásokat a kisbirtokos nemességre támaszkodva Meidzsi császár (1868-1912) hajtotta végre  
@@ -428,3 +428,17 @@ Elszegényedett, volt földbirtokos - Dzsentri
 		- Mivel nyersanyagokban szegény volt, terjeszkedni kellett (kínába)  
 			- Bevezették az általános hadkötelezettséget  
 		- Legyőzte a szintén terjeszkedni vágyó oroszokat is (Orosz-Japán háború, 1904-1905)  
+- Mik a polgári állam jellemzői?  
+	- Szabadságjogok biztosítása  
+	- Az állam szerepe, államapparátus nagysága, hatalma folyton nőtt  
+	- Az élet egyes részeit irányítás alá veszi  
+	- Állami bevételek növelése  
+	- Jövedelmek újraelosztása  
+	- Oktatás állami ellenőrzése  
+	- Tömeges állami oktatás (óvoda -> egyetem)  
+	- Állam és egyház külön  
+	- Szabályozás munkavállalók helyzetét javítani  
+	- Jogegyenlőség  
+		- Női emancipáció  
+		- Női munkavállalás  
+- HF. befejezni, emancipációs törekvésekkel, "feminizmus"  

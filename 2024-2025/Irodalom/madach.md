@@ -17,3 +17,39 @@
 	- Mindezt sajátos humorral teszi, főhőse groteszk figura  
 		- a Groteszk fogalma a művészetben: ellentétes elemek keverednek benne, egyszerre nevetséges és tragikus, torz is lehet egy ember, társadalmi jelenség  
 	- Hf: olvasd el a köpönyeg-et, írj jellemzést a főhősről  
+		- Akakij Akakijevics  
+			- Egy szerény, jelentéktelen és magányos hivatalnok  
+			- Élete, jelleme az orosz kisember típusát testesíti meg  
+			- Egyszerűség, Monotónia  
+				- Másoló a hivatalban, életének egyetlen értelmeként érzi a másolást  
+				- A külvilág számára nem létezik  
+			- Alázat  
+				- Nem áll ki magáért  
+				- Csendben tűri a sértéseket  
+			- A köpönyeg  
+				- Új köpönyeget kell készíttetnie  
+				- Megszerzése valóságos örömöt hoz rá  
+				- Reményt adott neki  
+				- Számára a boldogság jelképévé alakul  
+				- Mikor elvették tőle akkor lebetegedett, majd meghalt  
+### A köpönyeg  
+1. A mű realizmusa:  
+	- Orosz hivatalnokvilág bemutatása egy "kisember" éltén és halálán keresztül  
+	- neve: Akakij Akakijevics Basmacskin  
+	- Az iratmásoló Akakij életében egy új köpönyeg varratása hoz fordulatot  
+	- Az orosz kisember jellemzőit látjuk:  
+		- Társadalmi megbecsülése alacsony  
+		- Viselkedése kisszerű  
+		- Gyakran kigúnyolják  
+	- Realista elem a korrupt rendőrhivatal ábrázolása is  
+2. Groteszk és Abszurd  
+	- Groteszk  
+		- Maga a Akakij alakja  
+		- Egyszerre szánalmas, nevetséges és tragikus is, esetleg félelmetes  
+	- Abszurd  
+		- Lehetetlen, valóságon túli  
+		- Akakij köpönyegét ellopják, ő meghal, de szelleme kisértetként járja Pétervár utcáit  
+		- "Bosszút áll" a tolvajokon és korrupt rendőrfőkapitányon is  
+3. Gogol stílusa  
+	1. Aprólékos, részletező  
+4.  
