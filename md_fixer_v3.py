@@ -9,7 +9,11 @@ def main():
 		try:
 			input("Press Enter to select the file or folder.")
 			files = askopenfilenames(initialdir = getcwd(), title = "Select a file", filetypes = (("Markdown files", "*.md"), ("all files", "*.*")))
-		except Exception as e:
+			if any(files):
+				chdir(path.dirname(path.abspath(files[0])))
+			else:
+				raise AssertionError("No file(s) selected.")
+		except AssertionError as e:
 			return print(f"An error occurred: {e}")
 	assert files, "No file(s) selected."
 	def fix_content(file_dir:str):

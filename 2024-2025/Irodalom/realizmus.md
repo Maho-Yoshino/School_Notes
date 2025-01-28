@@ -1,4 +1,4 @@
-# Madách Imre  
+# Realizmus  
 1. A XIX. század festészeti, irodalmi irányzata: a realizmus  
 	1. A latin "Real" szóból ered, "Valódi", "igaz"  
 	2. Célja a valóságra a jelen kor emberének világára mutat rá  
@@ -51,5 +51,30 @@
 		- Akakij köpönyegét ellopják, ő meghal, de szelleme kisértetként járja Pétervár utcáit  
 		- "Bosszút áll" a tolvajokon és korrupt rendőrfőkapitányon is  
 3. Gogol stílusa  
-	1. Aprólékos, részletező  
-4.  
+	1. Aprólékos, részletező (realizmus)  
+		- A főhős otthona  
+		- Sajátos írói stílusa van:  
+				- Szórakoztató, "Fecsegő" beszédmód, közvetlenséget teremt, néha meg is szólítja az olvasót  
+4. Lev Tolsztoj orosz regényíró  
+	1. Híresebb regényei  
+		- Háború és béke  
+		- Anna Karenina  
+		- Ivaniljics halála (kisregény)  
+5. Puskin (orosz)  
+	- A romantika első alakja  
+	- Fő műve: Anyegin (Szerelmes levélregény)  
+6. Henrik Ibsen  
+	- Norvég drámaíró  
+	- Polgári származású  
+	- Fő művei  
+		- A vadkacsa  
+		- Babaszoba  
+7. Csehov  
+	- Orosz drámaíró, írt prózát is  
+	- Műveiben az orosz arisztokrácia problémái (magány, reménytelenség) jelenik meg  
+	- Főbb művei:  
+		- Sirály  
+		- Három nővér  
+		- Cseresznyéskert  
+	- Drámaiatlan drámáknak is nevezik a műveket  
+# Magyar irodalom a 19. Században  
