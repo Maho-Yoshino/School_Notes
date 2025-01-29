@@ -441,4 +441,26 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- Jogegyenlőség  
 		- Női emancipáció  
 		- Női munkavállalás  
-- HF. befejezni, emancipációs törekvésekkel, "feminizmus"  
+- Emancipációs törekvések  
+	- XIX. század második felében jellemzőbb  
+	- Az élet több területét érintette  
+		- A vagyon feletti rendelkezéstől  
+		- A tanulási lehetőségeken át  
+		- A választójogokig  
+	- Az ipari forradalom munkaalkalmakat teremtett, melyeket a nők töltöttek be főként  
+		- Gépírónő  
+		- Telefonos kisasszony  
+	- XIX. század során egyre több országban megvalósult  
+		- Vállalkozás szabadsága  
+		- Politikai jogok szélesítése  
+		- Ezeket kiterjesztették a nőkre  
+	- XIX. század anglia:  
+		- Családon belüli jogi alárendeltség megszüntetése, szavazati jog megszerzése a cél  
+		- Innen indul a "Szüfrazsett" (Suffragette, suffragium = szavazat) elnevezése  
+		- Eleinte értetlenséggel fogadta a társadalom  
+	- A Zsidóságban szabaddá vált minden pálya  
+- Feminizmus  
+	- Gyűjtőfogalom  
+	- Közös cél: nemek közötti egyenjogúság  
+# Szövetségek WW1 előtt  
+- A nagyhatalmak Imperialista (birodalomépítő) politikára törekszenek  
