@@ -464,3 +464,44 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- Közös cél: nemek közötti egyenjogúság  
 # Szövetségek WW1 előtt  
 - A nagyhatalmak Imperialista (birodalomépítő) politikára törekszenek  
+- 3 Császár szövetsége  
+	- Francia visszavágástól félt Bismarck, elszigetelést akart  
+	- Résztvevői  
+		- Német császárság  
+		- Orosz cárság  
+		- Osztrák-Magyar Monarchia  
+	- 1873  
+	- Európa három történelmi dinasztiája együttműködését jelentette  
+	- Berlini Kongresszus  
+		- 1877-1878  
+		- 1877-1878 Orosz-Török háborúban az oroszok nagy területet nyertek volna  
+		- Ezt a nagyhatalmak nem fogadták el  
+		- Együtt felléptek, ráerőltették a Cári birodalmat, hogy a rendezést egy nemzetközi tanácskozásra bízza  
+		- A kongresszuson a nagyhatalmak csak Bulgária függetlenségét ismerték el, jelentps területeket a törökök kezében hagytak a Balkánon  
+		- Csak besszarábia déli része került orosz fennhatóság alá  
+		- A monarchia megszállta (okkupálta) Bosznia-Hercegovinát (1878)  
+		- Oroszok nem szerették ezt a mozdulatot  
+		- Oroszok eltávolodnak a központi hatalmaktól  
+## Kettős és hármas szövetség létrejötte  
+- Berlini Kongresszuson kibontakozó együttműködést Bismarck és a Andrássy Gyula Gróf (Monarchia Külügyminisztere) erősítette  
+### A kettős szövetség (1879)  
+- Németországnak Támasz a franciákkal, a Monarchiának oroszországgal szemben  
+- 1882ben csatlakozott Olaszország  
+	- Franciákkal szembekerültek  
+	- Gyarmatok miatt  
+### Hármas szövetség (1882)  
+- Olaszország csatlakozásával kettős-ről hármasra lett nevezve  
+- Következő évben csatlakozott Románia  
+## Antant  
+- Oroszország a hármas szövetséggel Európában szövetséges nélkül maradt  
+- Közép Ázsiában, Távol-keleten szembekerült Angliával  
+- Franciák is el voltak szigetelve, csak Oroszország támogatását kereshette  
+- Politikai berendezkedés különbsége miatt a szövetségkötés elhúzódott (1893)  
+- Németország vezető hatalom lett a századfordulóra  
+- Franciaország lemaradt, Oroszország meggyengült  
+- Nagy-Brittaniának Németország veszélyessé vált a kontinensen is és a gyarmati verserngésben is. Franciák elfogadták a britek vezető szerepét a gyarmatosításban  
+- Nagy-Brittania a Franciák mellé álltak, Németek támogatását megfosztották  
+- Megszületett a "Szívélyes megegyezés"  
+	- **1904**  
+	- "Entente Cordiale" => Antant elnevezés  
+- Az oroszok meggyengülése után közeledtek a britek az oroszokhoz => Angol-Orosz szövetség (1907) => Hármas antant (1907)  

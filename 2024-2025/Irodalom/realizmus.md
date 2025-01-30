@@ -78,3 +78,18 @@
 		- Cseresznyéskert  
 	- Drámaiatlan drámáknak is nevezik a műveket  
 # Magyar irodalom a 19. Században  
+- 1849 utáni helyzet:  
+	- 1867 kiegyezés -> Osztrák-Magyar Monarchia  
+		- Gazdasági,  
+		- Társadalmi,  
+		- Kulturális fejlődés  
+- Tk. 62-64. o. (el kéne olvasni)  
+## Madách Imre  
+1. Életrajzi elemek  
+	1. Alrosztregován (felvidék) született, középnemesi családba  
+	2. Ügyvédi vizsga után 1843ban Nógrád megye másodjegyzője lesz  
+	3. Felesége Fráter Erzsébet (elváltak)  
+	4. Szabadságharc  
+		- Családi tragédiák  
+		- Elválik  
+		- Kossuth titkárát bújtatta (Jail :< <span style="font-size:6px;">Boowomp</span>, birtokvesztés)  
