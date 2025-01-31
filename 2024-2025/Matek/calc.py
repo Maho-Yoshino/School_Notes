@@ -16,9 +16,9 @@ def root(x:int|float,n:int|float=2): return x**(1/n)
 def sind(degrees:int|float): return sin(d2r(degrees))
 def cosd(degrees:int|float): return cos(d2r(degrees))
 def tand(degrees:int|float): return tan(d2r(degrees))
-#def sin1(radian:int|float): return r2d(asin(radian))
-#def cos1(radian:int|float): return r2d(acos(radian))
-#def tan1(radian:int|float): return r2d(atan(radian))
+def isin(radian:int|float): return round(r2d(asin(radian)), 4)
+def icos(radian:int|float): return round(r2d(acos(radian)), 4)
+def itan(radian:int|float): return round(r2d(atan(radian)), 4)
 def rep(string:str, **items:dict[str, int|float]):
 	"""Replaces all items entered, like "x=2" in given string, so rep(x^2, x=2) returns "2^2"."""
 	for item_name, item_data in items.items():
@@ -35,15 +35,13 @@ def extract_rep_content(equation: str):
 while True:
 	try:
 		equation = input("> ").lower()
-		copy = False
+		_copy = False
 		raw = False
-		if "exit" in equation:
-			break
-		if "-copy" in equation:
-			equation = equation.replace("-copy", "")
-			copy = True
-		if "-raw" in equation:
-			equation = equation.replace("-raw", "")
+		if "-c" in equation:
+			equation = equation.replace("-c", "")
+			_copy = True
+		if "-r" in equation:
+			equation = equation.replace("-r", "")
 			raw = True
 		if "rep(" in equation:
 			equation_split = extract_rep_content(equation).split(",")
@@ -60,7 +58,7 @@ while True:
 			print(finished_eq := str(round(eval(equation.replace("+-", "+")), 8)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)\n")
 		else:
 			print(finished_eq := str(round(eval(equation), 8)) + "\n")
-		pyperclip.copy(finished_eq) if copy else None
+		pyperclip.copy(finished_eq) if _copy else None
 	except KeyboardInterrupt:
 		from os import _exit
 		print("\nKeyboard interrupt. Closing...")
