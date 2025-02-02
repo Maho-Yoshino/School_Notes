@@ -21,17 +21,21 @@ def icos(radian:int|float): return round(r2d(acos(radian)), 4)
 def itan(radian:int|float): return round(r2d(atan(radian)), 4)
 def rep(string:str, **items:dict[str, int|float]):
 	"""Replaces all items entered, like "x=2" in given string, so rep(x^2, x=2) returns "2^2"."""
-	for item_name, item_data in items.items():
-		if item_data < 0:
-			item_data = f"({item_data})"
-		string = string.replace(str(item_name), str(item_data))
+	string = insert_multiplication(string)
+	for item_name, item_data in sorted(items.items(), key=lambda x: -len(x[0])):
+		pattern = rf'\b{re.escape(item_name)}\b'
+		replacement = f"({item_data})" if isinstance(item_data, (int, float)) and item_data < 0 else str(item_data)
+		string = re.sub(pattern, replacement, string)
 	return string
 def extract_rep_content(equation: str):
-    pattern = r"rep\((.*)\)"
-    match = re.search(pattern, equation)
-    if match:
-        return match.group(1)
-    return None
+	pattern = r"rep\((.*)\)"
+	match = re.search(pattern, equation)
+	if match:
+		return match.group(1)
+	return None
+def insert_multiplication(expression: str) -> str:
+	expression = re.sub(r'(\d)([a-zA-Z\(])', r'\1*\2', expression)
+	return re.sub(r'(\))(\d|[a-zA-Z\(])', r'\1*\2', expression)
 while True:
 	try:
 		equation = input("> ").lower()
