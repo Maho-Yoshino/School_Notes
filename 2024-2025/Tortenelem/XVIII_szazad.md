@@ -505,3 +505,39 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- **1904**  
 	- "Entente Cordiale" => Antant elnevezés  
 - Az oroszok meggyengülése után közeledtek a britek az oroszokhoz => Angol-Orosz szövetség (1907) => Hármas antant (1907)  
+## 76. o.  
+- Mik azok a Marokkói válságok  
+	- Franciák gyarmatosítani akarták marokkót, németek kétszer is megpróbálták megakadályozni (1905, 1911)  
+		- Első válság  
+		- Konferencia volt  
+		- Németek látszólag nyertek  
+		- Második válság  
+		- Megegyezéssel végződött  
+			- II. Vilmos egy hadihajót küldött Marokkóba  
+			- A hajó nevéből jött a neve az akciónak, "Párducugrás"  
+		- Németeket kárpótolták kis földdel  
+	- A németek visszaléptek, elkerültek egy világháború kitőrését  
+- Kik között okozott konfliktust a Konstantinápoly - Bagdad vasútvonal megépítése  
+	- Németek megpróbálták erősíteni a helyzetet a közel-keleten  
+		- Támogatta a Török haderő fejlesztését  
+		- A Török kormánytól szerzett engedéllyel hozzákezdett a Konstantinápoly-Bagdad vasútvonal építéséhez (1898)  
+		- Gyors összekötést teremtett volna Németország és a Perzsa öböl között  
+		- A Britek ellenkezés miatt megszállták Kuvaitot  
+- Miért hívták a Balkánt "puskaporos hordónak"  
+	- A területen több nép közül mindegyik legalább egyszer uralta a félsziget jelentős részét  
+	- A balkánon a nacionalizmusok együtt jelentkeztek az imperializmussal, igyekeztek egyesíteni azokat a területeket, ahol a népük élt, vagy amelyekre valaha kiterjedt az államuk, de a nagyhatalmak is próbáltak a Balkán területekre szert tartani  
+	- Ez óriási ellentéteket okozott a Balkánon  
+- 1908ban a Monarchia annektálta Bosznia-Herczegovinát  
+- 1912 Első balkán háború  
+	- Oszmán birodalommal szemben fellépnek:  
+		- Szerbia  
+		- Bulgária  
+		- Montenegro  
+		- Görögország  
+	- A területosztásnál összevesztek, ebből lett a második Balkán háború  
+- Második Balkán háború  
+	- Bulgáriát osztották fel  
+		- Montenegro  
+		- Románia  
+		- Görögország  
+		- Szerbia  
