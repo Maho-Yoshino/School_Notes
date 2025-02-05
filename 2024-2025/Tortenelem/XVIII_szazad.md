@@ -541,3 +541,72 @@ Elszegényedett, volt földbirtokos - Dzsentri
 		- Románia  
 		- Görögország  
 		- Szerbia  
+# Puschka  
+## Krími háború  
+- 1853-56  
+- Oroszok vs Oszmánok + Nyugati hatalmak  
+- Lorenze Nightingale  
+## Olasz egység (Nemzetállam)  
+- Indulópont: Piemonti Szárd Királyság  
+- Szövetkeztek a Franciákkal, a Habsburgok ellen  
+	- Solferino, 1859  
+	- Győztek a Franciákkal  
+		- Franciák megkapják: Savoya, Nizza  
+	- Garibaldi, 1861  
+		- Vörösingesek  
+		- Dél itáliát felszabadítják  
+		- 1861től kezdődik  
+		- 1866 Velence  
+		- 1870 Róma  
+## Német Egység (Nemzetállam)  
+- Nagy Német egység (Habsburg)  
+- Kis Német egység (Porosz vezetéssel)  
+- 1866, Königgrätz  
+	- Megvalósul a Kis Német egység  
+	- Poroszok elverték a Habsburgokat  
+- Otto von Bismarck  
+- Csatlakoztak a német területek  
+- 1870, Sedan  
+	- Franciákat elverték  
+	- Párizsig eljutnak  
+- 1871.Jan.18. Német Császárság kinevezése  
+## USA  
+- Észak-Dél ellentét  
+- Betelepülési folyamat  
+- 1861-65, Polgárháború  
+	- Emancipáció  
+	- Rabszolgaság eltörlése  
+	- Robert Lee, Ulysses Grant  
+## Szövetségi rendszerek  
+- Központi hatalmak  
+	1. Három császár szövetsége  
+		- Berlini kongresszus  
+			- Oroszok, vagy OMM mellé álljanak a Németek (OMM mellé álltak)  
+	2. Kettős Szövetség  
+		- Csatlakozott Olaszország  
+	3. Hármas Szövetség  
+- Antant  
+	- Franciáknak szövetségest kellett találni (Oroszok)  
+	- "Entente cordiale" (Szívélyes szövetség)  
+		- Britek, Franciák  
+		- 1904  
+		- Miért?  
+		- Német fejlődés (Ipari, katonai szinten is)  
+		- Veszélyeztették a németek a britek tengeri hatalmát  
+	- 1907 Oroszok beléptek  
+## VH felé sodródás  
+- Marokkói válságok  
+	- A feszültség magas volt  
+- Balkáni "Puskaporos hordó"  
+	- Nacionalizmus  
+	- Vallási különbségek  
+	- Imperialista politika  
+		- OMM, Oroszország  
+		- OMM => Bosznia Herczegovinát Okkupálták és utána annektálták  
+		- Birodalomépítő politika  
+		- Probléma: Elfogyott a gyarmatosítható föld => Konfliktusok  
+	- I. Balkán Háború  
+		- Oszmánok kiszorítása a területről  
+		- Összevesztek a területeloszláson => II. Balkán Háború  
+	- II. Balkán Háború  
+		- Bulgáriát feldarabolták  
