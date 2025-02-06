@@ -576,7 +576,7 @@ Elszegényedett, volt földbirtokos - Dzsentri
 - 1861-65, Polgárháború  
 	- Emancipáció  
 	- Rabszolgaság eltörlése  
-	- Robert Lee, Ulysses Grant  
+	- Robert Lee (Dél), Ulysses Grant (Észak)  
 ## Szövetségi rendszerek  
 - Központi hatalmak  
 	1. Három császár szövetsége  
@@ -591,12 +591,13 @@ Elszegényedett, volt földbirtokos - Dzsentri
 		- Britek, Franciák  
 		- 1904  
 		- Miért?  
-		- Német fejlődés (Ipari, katonai szinten is)  
-		- Veszélyeztették a németek a britek tengeri hatalmát  
+			- Német fejlődés (Ipari, katonai szinten is)  
+			- Veszélyeztették a németek a britek tengeri hatalmát  
 	- 1907 Oroszok beléptek  
 ## VH felé sodródás  
 - Marokkói válságok  
 	- A feszültség magas volt  
+	- 1905, 1911  
 - Balkáni "Puskaporos hordó"  
 	- Nacionalizmus  
 	- Vallási különbségek  
@@ -608,5 +609,13 @@ Elszegényedett, volt földbirtokos - Dzsentri
 	- I. Balkán Háború  
 		- Oszmánok kiszorítása a területről  
 		- Összevesztek a területeloszláson => II. Balkán Háború  
+		- Résztvevők  
+			- Görögország  
+			- Montenegro  
+			- Bulgária  
+			- Szerbia  
 	- II. Balkán Háború  
 		- Bulgáriát feldarabolták  
+		- Résztvevők  
+			- -Bulgária  
+			- +Románia  

@@ -93,3 +93,16 @@
 		- Családi tragédiák  
 		- Elválik  
 		- Kossuth titkárát bújtatta (Jail :< <span style="font-size:6px;">Boowomp</span>, birtokvesztés)  
+	5. 1850-es évek -> Bach rendszer szigorú megtorlásai, besúgóhálózatának időszakában készült "Az ember tragédiája"  
+	6. 1863 MTA tagja  
+	7. Egyéb művei: Kisebb drámai alkotások, pl. "Mózes", "Civilizátor"  
+## Az Ember tragédiája  
+- Keletkezése:  
+	1. 1859-1860: a mű megírása  
+	2. 1861: Arany Jánosnak elküldi a kéziratot  
+		- Arany méltatta, csak stilisztikai ajánlatokat adott  
+	3. 1862: A mű első kiadása  
+	4. 1883: A mű első színházi előadása  
+	5. Sok nyelvre lefordították  
+	6. 2001: Az új nemzeti színház nyitódarabja volt  
+	7. Jankovics Marcell animációs filmje  
