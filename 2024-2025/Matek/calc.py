@@ -1,5 +1,5 @@
 from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r
-import pyperclip, re
+import pyperclip, re, traceback
 replace_dict = {
 	"^":"**",
 	"√":"sqrt",
@@ -19,6 +19,20 @@ def tand(degrees:int|float): return tan(d2r(degrees))
 def isin(radian:int|float): return round(r2d(asin(radian)), 4)
 def icos(radian:int|float): return round(r2d(acos(radian)), 4)
 def itan(radian:int|float): return round(r2d(atan(radian)), 4)
+def eq(eq_num:int|None=None):
+	equations = [
+		# [egyenlet, elnevezés, változók]
+		# ["", "", ()]
+		["(-b+-sqrt(b^2-4*a*c))/(2*a)", "Másodfokú függvény", "a, b, c"],
+		["a^2+b^2", "Pitagorasz tétel", "a, b"],
+		["a+b>c and a+c>b and b+c>a", "Háromszög validálás", "a, b, c"]
+	]
+	while eq_num is None or eq_num not in range(1, len(equations)+1):
+		try:
+			eq_num = int(input(f"\nEquations:\n\t{"\n\t".join([f"{num+1}. {i[1]} (Változók: {i[2]})\n\t\t{i[0]}" for num, i in enumerate(equations)])}\neq>").strip())
+		except:
+			continue
+	return equations[eq_num-1][0]
 def rep(string:str, **items:dict[str, int|float]):
 	"""Replaces all items entered, like "x=2" in given string, so rep(x^2, x=2) returns "2^2"."""
 	string = insert_multiplication(string)
@@ -32,21 +46,27 @@ def extract_rep_content(equation: str):
 	match = re.search(pattern, equation)
 	if match:
 		return match.group(1)
-	return None
 def insert_multiplication(expression: str) -> str:
 	expression = re.sub(r'(\d)([a-zA-Z\(])', r'\1*\2', expression)
 	return re.sub(r'(\))(\d|[a-zA-Z\(])', r'\1*\2', expression)
+prev_eq:str|bool|int|float|None = None
+round_val = 8
+def set_round(num:int):
+	global round_val
+	round_val = num
 while True:
 	try:
 		equation = input("> ").lower()
-		_copy = False
-		raw = False
-		if "-c" in equation:
+		_copy = equation.__contains__("-c")
+		raw = equation.__contains__("-r")
+		if _copy:
 			equation = equation.replace("-c", "")
-			_copy = True
-		if "-r" in equation:
-			equation = equation.replace("-r", "")
-			raw = True
+			if not equation and prev_eq:
+				pyperclip.copy(prev_eq)
+				continue
+			elif not equation and not prev_eq:
+				print("No previous equation to copy.")
+				continue
 		if "rep(" in equation:
 			equation_split = extract_rep_content(equation).split(",")
 			if equation_split[0].count("(") != equation_split[0].count(")"):
@@ -56,20 +76,28 @@ while True:
 			equation = eval(f"rep(\"{equation_split[0]}\",{','.join(equation_split[1:])})")
 		for item, replacant in replace_dict.items():
 			equation = equation.replace(item, replacant)
-		if raw:
-			print(finished_eq := str(equation) + "\n")
-		elif "+-" in equation:
-			print(finished_eq := str(round(eval(equation.replace("+-", "+")), 8)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)\n")
-		else:
-			print(finished_eq := str(round(eval(equation), 8)) + "\n")
+		try:
+			if raw:
+				equation = equation.replace("-r", "")
+				print(finished_eq := str(equation))
+			elif "+-" in equation:
+				print(finished_eq := str(round(eval(equation.replace("+-", "+")), round_val)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)")
+			else:
+				equation = eval(equation)
+				try:
+					print(finished_eq := str(round(equation, round_val)))
+				except:
+					print(finished_eq := equation)
+		except Exception as e:
+			print(finished_eq := str(eval(equation)))
 		pyperclip.copy(finished_eq) if _copy else None
+		print()
+		prev_eq = finished_eq
 	except KeyboardInterrupt:
 		from os import _exit
 		print("\nKeyboard interrupt. Closing...")
 		_exit(0)
 	except ZeroDivisionError:
 		print("Division by zero.\n")
-	except SyntaxError as e:
-		print(f"error: {e}\n")
 	except Exception as e:	
 		print(f"error: {e}\n")
