@@ -72,3 +72,10 @@
 - Fronton zajlik  
 - Szögesdrót  
 - 1916, Some folyó menti csatába, Tankokat bevetették  
+- Mortar  
+- Lángszóró  
+- Kézigránát  
+- Repülők  
+- Tengeralattjárók  
+- Első vegyifegyveres hadviselés  
+- Sorozott katonaság  
