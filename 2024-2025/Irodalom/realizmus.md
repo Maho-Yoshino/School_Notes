@@ -97,7 +97,7 @@
 	6. 1863 MTA tagja  
 	7. Egyéb művei: Kisebb drámai alkotások, pl. "Mózes", "Civilizátor"  
 ## Az Ember tragédiája  
-- Keletkezése:  
+1. Keletkezése:  
 	1. 1859-1860: a mű megírása  
 	2. 1861: Arany Jánosnak elküldi a kéziratot  
 		- Arany méltatta, csak stilisztikai ajánlatokat adott  
@@ -106,3 +106,23 @@
 	5. Sok nyelvre lefordították  
 	6. 2001: Az új nemzeti színház nyitódarabja volt  
 	7. Jankovics Marcell animációs filmje  
+2. Műfaji kérdések  
+		1. Filozófikus (-> Az élet nagy kérdései) drámai (-> színpadra állítható) költemény (-> verses formájú)  
+		2. Emberiségdráma/könyvdráma  
+		3. Kétszintes dráma:  
+			1. Szellemvilág:  
+				- Az úr  
+				- Az angyalok kara  
+				- Lucifer  
+				- Föld szelleme  
+		2. Földi világ  
+				- Az emberi világ  
+3. A mű forrásai; Mit használt fel Madách?  
+	1. Biblia:  
+		1. Édenkert  
+	2. Irodalmi források  
+		1. Goethe: Faust  
+		2. Vörösmarty Mihály: Csongor és Tünde  
+		3. Kölcsey költészete, pl: Vanitatum Vanitas  
+	3. Van-e a történelemben fejlődés?  
+		1. Hegel német filozófus elméletét építi át  

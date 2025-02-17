@@ -49,6 +49,7 @@ def extract_rep_content(equation: str):
 def insert_multiplication(expression: str) -> str:
 	expression = re.sub(r'(\d)([a-zA-Z\(])', r'\1*\2', expression)
 	return re.sub(r'(\))(\d|[a-zA-Z\(])', r'\1*\2', expression)
+def avg(*numbers: list[int|float]) -> float: return sum(numbers) / len(numbers)
 prev_eq:str|bool|int|float|None = None
 round_val = 8
 def set_round(num:int):
