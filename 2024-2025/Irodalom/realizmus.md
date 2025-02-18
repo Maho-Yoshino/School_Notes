@@ -107,16 +107,16 @@
 	6. 2001: Az új nemzeti színház nyitódarabja volt  
 	7. Jankovics Marcell animációs filmje  
 2. Műfaji kérdések  
-		1. Filozófikus (-> Az élet nagy kérdései) drámai (-> színpadra állítható) költemény (-> verses formájú)  
-		2. Emberiségdráma/könyvdráma  
-		3. Kétszintes dráma:  
-			1. Szellemvilág:  
-				- Az úr  
+	1. Filozófikus (-> Az élet nagy kérdései) drámai (-> színpadra állítható) költemény (-> verses formájú)  
+	2. Emberiségdráma/könyvdráma  
+	3. Kétszintes dráma:  
+		1. Szellemvilág:  
+			- Az úr  
 				- Az angyalok kara  
-				- Lucifer  
-				- Föld szelleme  
+			- Lucifer  
+			- Föld szelleme  
 		2. Földi világ  
-				- Az emberi világ  
+			- Az emberi világ  
 3. A mű forrásai; Mit használt fel Madách?  
 	1. Biblia:  
 		1. Édenkert  
@@ -125,4 +125,47 @@
 		2. Vörösmarty Mihály: Csongor és Tünde  
 		3. Kölcsey költészete, pl: Vanitatum Vanitas  
 	3. Van-e a történelemben fejlődés?  
-		1. Hegel német filozófus elméletét építi át  
+		1. Hegel német filozófus elméletét építi át a műbe:  
+			1. Van fejlődés, spirális vonallal írható le; van iránya a fejlődésnek, de mindig van benne ismétlődés  
+			2. A történelmet a nagy eszmék határozzák meg:  
+				1. Szabadság  
+				2. Egyenlőség  
+				3. Testvériség  
+				4. Tudomány  
+			3. Ezek az eszmék korszakonként váltják egymást; sokszor egymás ellentétei, vagy éppen eszme nélküli időszakok jönnek létre  
+			4. (Eszme <-> Antieszme) -> Eszme nélküli állapot, pl. (Egyiptom <-> Athén) -> Róma  
+		2. A tudományba vetett emberi hit eszméje (Utilitarizmus - Haszonelvűség elmélete) a Falanszterbe jelenik meg  
+		3. A nap kihülésének jóslatát az Eszkimó színbe építi  
+		4. Utópisztikus szocializmus, Falanszter elmélete  
+4. A tragédia szerkezete  
+	1. Keretszínek:  
+		- I., II., III. szín  
+			- I. szín, Menny  
+			- II. szín, Paradicsom  
+			- III. szín, Paradicsomon kívül  
+		- XV. szín  
+			- Paradicsomon kívül  
+	2. Történelmi színek  
+		- IV. szín, Egyiptom  
+		- V. szín, Athén  
+		- VI. szín, Róma  
+		- VII. szín, Konstantináply  
+		- VIII. szín, Prága 1  
+		- IX. szín, Párizs, Álom az álomban  
+		- X. szín, Prága 2  
+		- XI. szín, London (Madách jelenkora)  
+	3. Jövő-színek  
+		- XII. szín, Falanszter  
+		- XIII. szín, Az űr  
+		- XIV. szín, Eszkimószín  
+5. Keretszínek  
+	- Madách alapállása Deista (Isten létezik, ő a teremtő, de nem avatkozik bele a világba)  
+	- "Be van fejezve a nagy mű, igen  
+	A gép forog, az alkotó pihen"  
+	1. Menny  
+		- A teremtés pillanata jelenik meg  
+		- Az úr, az angyalok kara, Lucifer  
+		- Lucifer a tagadás szelleme fellázad az Úr ellen, követeli a maga jussát, részét a teremtett világból  
+		- Lucifer a teremtést hibásnak tartja, szerinte minden "csak" anyag a világon, az ember is  
+		- A teremtés öncélú volt: az úr önmagát dicsőitetti  
+	2.  

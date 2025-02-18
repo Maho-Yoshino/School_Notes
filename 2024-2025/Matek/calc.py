@@ -16,9 +16,9 @@ def root(x:int|float,n:int|float=2): return x**(1/n)
 def sind(degrees:int|float): return sin(d2r(degrees))
 def cosd(degrees:int|float): return cos(d2r(degrees))
 def tand(degrees:int|float): return tan(d2r(degrees))
-def isin(radian:int|float): return round(r2d(asin(radian)), 4)
-def icos(radian:int|float): return round(r2d(acos(radian)), 4)
-def itan(radian:int|float): return round(r2d(atan(radian)), 4)
+def isin(radian:int|float): return round(r2d(asin(radian)), round_val)
+def icos(radian:int|float): return round(r2d(acos(radian)), round_val)
+def itan(radian:int|float): return round(r2d(atan(radian)), round_val)
 def eq(eq_num:int|None=None):
 	equations = [
 		# [egyenlet, elnevezés, változók]
@@ -49,15 +49,15 @@ def extract_rep_content(equation: str):
 def insert_multiplication(expression: str) -> str:
 	expression = re.sub(r'(\d)([a-zA-Z\(])', r'\1*\2', expression)
 	return re.sub(r'(\))(\d|[a-zA-Z\(])', r'\1*\2', expression)
-def avg(*numbers: list[int|float]) -> float: return sum(numbers) / len(numbers)
+def avg(*numbers:int|float) -> float: return sum(numbers) / len(numbers)
 prev_eq:str|bool|int|float|None = None
-round_val = 8
+round_val = 4
 def set_round(num:int):
 	global round_val
 	round_val = num
 while True:
 	try:
-		equation = input("> ").lower()
+		equation = input("> ").lower().strip()
 		_copy = equation.__contains__("-c")
 		raw = equation.__contains__("-r")
 		if _copy:
