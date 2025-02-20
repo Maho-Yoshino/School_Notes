@@ -79,3 +79,18 @@
 - Tengeralattjárók  
 - Első vegyifegyveres hadviselés  
 - Sorozott katonaság  
+#### Összegzés  
+Korlátlan tengeralattjáró háború  
+Gorlicei áttörés (1915)  
+Az antant meggyőzte az olaszokat  
+Bruszilov offenzíva  
+	Erőteljes orosz támadás  
+1917. Románia belép Antant oldalán  
+brutálisan legyőztük őket  
+Ferenc József meghalt -> IV. Károly (Utolsó magyar király)  
+1917. Oroszország, felkelők leváltják a Cári családot -> Kerenszkij offenzíva, kudarc  
+**1917. November Nagy októberi szocialista forradalom**, kivégzik az egész Orosz cári családot  
+1918. Breszt-Litovszki béke  
+1915. Kilőtték a Lusitania gőzöst  
+1917. USA belép  
+1918. Véget ér a háború  
