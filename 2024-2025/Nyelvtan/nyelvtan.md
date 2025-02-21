@@ -252,7 +252,7 @@ Mém:
 5. A zeneiség stíluseszközei  
 	1. Hangszimbolika: a hangoknak is van stílushatása, hordoznak különböző többletjelentéseket, pl. hangulati hatásuk van, pl.  
 		- zöngés hangok lágyabbá teszik a szavak hangzását  
-			- "*B*ar*l*a*ngj*á*b*a*n* *b*e*l*ü*l* *b*ö*mb*ö*l* a *m*or*d* *m*e*dv*e"  
+			> "*B*ar*l*a*ngj*á*b*a*n* *b*e*l*ü*l* *b*ö*mb*ö*l* a *m*or*d* *m*e*dv*e"  
 		- zöngétlen msh. keményebb hangzásúak  
 			- "*k*o*pp*an"  
 			- "*k*a*tt*an"  
@@ -274,4 +274,25 @@ Mém:
 			- nyávog a macska  
 	5. Hangulatfestő szó  
 		- Erik *sompolyogva* megy az ebédlőbe  
-	6.  
+	6. Ritmus, rím  
+		- A ritmus a szöveg "zeneisége", dallama  
+		- Eszközei:  
+			- Időmértékes verselés (-UU|-UU)  
+			- Ütemhangsúlyos/Magyaros verselés, pl:  
+				- Népdalaink  
+				- Toldi  
+				- János Vitéz  
+			- Szimultán verselés: ötvözi az előző két verselési típust, pl:  
+				- Csokonai: Tartózkodó kérelem  
+			- Különböző rím fajták  
+				- Páros rím: a a  
+				- Keresztrím: a b a b  
+				- Ölelkező rím: a b b a  
+				- Bokorrím: a a a a  
+				- Betűrím: Szó eleji msh-k rímelése, "*M*ord *m*edve"  
+				- Tiszta rím: Több mgh vagy szótag összecseng  
+				- Soráthajlás (Enjambement, "ánjámbán", ɛnˈdʒam(b)m(ə)nt):  
+				> "Két karodban nem ijeszt majd  
+				> a halál nagy  
+				> csöndje sem."  
+	7. A szókincs mint stíluseszköz  
