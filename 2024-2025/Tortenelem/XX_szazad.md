@@ -94,3 +94,43 @@ Ferenc József meghalt -> IV. Károly (Utolsó magyar király)
 1915. Kilőtték a Lusitania gőzöst  
 1917. USA belép  
 1918. Véget ér a háború  
+## Esszéírás  
+### Mutasd be a WWI sajátosságait (Tk. 82, 16. ábra)  
+- 1914-1918  
+- Helyszínek: Nyugati front, Keleti front, harmadik (Olasz-Monarchia határi) front  
+- Csataterek  
+	- Verdun  
+	- Some folyó  
+	- Tannenberg  
+- Besorozás  
+- Állóháború  
+- Lövészárok  
+- Hadigazdálkodás  
+- Tank  
+- Utánpótlás  
+- Vadászrepülő, bombázó, felderítő  
+- Mustárgáz  
+- Géppuska  
+- Tengeralattjáró  
+- Schliffen terv  
+- Lángszóró  
+- Szögesdrót  
+- Gázmaszk  
+- Front  
+- Aknamező  
+- Senkiföldje  
+- Torpedó  
+- Hadifoglyok  
+- Hadigazdálkodás  
+- Hátország (Utánpótlás)  
+- Jegyrendszer  
+
+Forráselemzés  
+	Ekkor kezdték el használni a géppuskákat csatában, ezért a lövészárkok és géppuska keveréke állóháborút alakított ki a frontokon.  
+  
+	A frontvonalakon elkezdték a háború második felében használni a tankokat, melyek képesek voltak áthatolni a szögesdróton, ami védte a lövészárkokat, és fedezéket nyújtott a gyalogság részére, miközben haladtak előre, ez felgyorsította az eseményeket a háborúban.  
+
+Kulcs szempontok  
+- Technikai újdonságok  
+- Besorozás  
+Hf: Esszéírás  

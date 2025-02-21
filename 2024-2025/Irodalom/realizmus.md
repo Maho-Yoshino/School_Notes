@@ -168,4 +168,12 @@
 		- Lucifer a tagadás szelleme fellázad az Úr ellen, követeli a maga jussát, részét a teremtett világból  
 		- Lucifer a teremtést hibásnak tartja, szerinte minden "csak" anyag a világon, az ember is  
 		- A teremtés öncélú volt: az úr önmagát dicsőitetti  
-	2.  
+	2. A paradicsom  
+		- Az úr bukott angyalként jelöli meg a földet Lucifer számára, ahol célja az lesz, bebizonyítsa a teremtés hibás voltát  
+		- Az ember bukását szeretné látni, öngyilkosságba hajszolni  
+		- Megtörténik az Édenkertben az ember megkisértése, Lucifer azzal győzi meg Ádámot és Évát, hogy legyenek maguk urai, szabadok, legyenek olyanok, mint isten  
+		- A tudás és nagyravágyás a csábítás lényege  
+	3. A paradicsomon kívül  
+		- Ádám lelkesedik, hogy a tudás birtokában boldogul az életben, Éva visszavágyik az Édenkertbe  
+		- Ádám kéri meg Lucifert, hogy mutassa meg a jövőt, Lucifer álmot bocsát rájuk  
+	4.  
