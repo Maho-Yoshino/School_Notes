@@ -5,7 +5,7 @@
 1. Feladatmegértés  
 2. Elhelyezés térben, időben  
 3. Kommunikáció és köznyelv (Szaknyelv alkalmazása)	  
-- 3-as tagolás (bevezetés, tárgyalás, befejezés)  
+    - 3-as tagolás (bevezetés, tárgyalás, befejezés)  
 4. Forráselemzés  
 5. Eseményeket alakító tényezők
 6. Ténymegállapítás, hozzáfűzés

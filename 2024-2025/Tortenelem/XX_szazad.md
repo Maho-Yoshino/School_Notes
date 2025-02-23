@@ -96,6 +96,7 @@ Ferenc József meghalt -> IV. Károly (Utolsó magyar király)
 1918. Véget ér a háború  
 ## Esszéírás  
 ### Mutasd be a WWI sajátosságait (Tk. 82, 16. ábra)  
+#### Pontok kigyűjtése
 - 1914-1918  
 - Helyszínek: Nyugati front, Keleti front, harmadik (Olasz-Monarchia határi) front  
 - Csataterek  
@@ -134,3 +135,4 @@ Kulcs szempontok
 - Technikai újdonságok  
 - Besorozás  
 Hf: Esszéírás  
+[<span style="font-size:22px;">**Esszé**</span> (14 sor (Times new roman, 11es betűméret))](wwi_essze.docx)
