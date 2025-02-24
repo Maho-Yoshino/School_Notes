@@ -177,3 +177,10 @@
 		- Ádám lelkesedik, hogy a tudás birtokában boldogul az életben, Éva visszavágyik az Édenkertbe  
 		- Ádám kéri meg Lucifert, hogy mutassa meg a jövőt, Lucifer álmot bocsát rájuk  
 	4.  
+### ![Az eszmék](madach_tragedia_szinek.png) (Tk. 100)  
+4. Egyiptom - Mindenki egyért => Szabadság hiánya  
+5. Athén - Népfelség/Demokrácia => Manipuláció  
+6. Róma - "eszme", a testi örömök => Az élet örömeinek hajszolása hiábavaló  
+7. Konstantinápoly - Keresztény tesztvériség => Eretnekség  
+8;10. Prága - A tudás => A tudás felülírja a pénzszerzés  
+9. Párizs - Szabadság, Testvériség, Egyenlőség  
