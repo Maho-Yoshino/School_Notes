@@ -96,7 +96,7 @@ Ferenc József meghalt -> IV. Károly (Utolsó magyar király)
 1918. Véget ér a háború  
 ## Esszéírás  
 ### Mutasd be a WWI sajátosságait (Tk. 82, 16. ábra)  
-#### Pontok kigyűjtése
+#### Pontok kigyűjtése  
 - 1914-1918  
 - Helyszínek: Nyugati front, Keleti front, harmadik (Olasz-Monarchia határi) front  
 - Csataterek  
@@ -135,4 +135,15 @@ Kulcs szempontok
 - Technikai újdonságok  
 - Besorozás  
 Hf: Esszéírás  
-[<span style="font-size:22px;">**Esszé**</span> (14 sor (Times new roman, 11es betűméret))](wwi_essze.docx)
+[<span style="font-size:22px;">**Esszé**</span> (14 sor (Times new roman, 11es betűméret))](wwi_essze.docx)  
+### Doga kérdések  
+- Miért lépett be az USA a háborúba (1917)  
+	- Kölcsönbérleti szerződés (hitel)  
+	- Casus Belli kellett -> Luisitaniai gőzös elsüllyesztése (1915) / Mexikót bíztatták a németek, hogy támadják az USA-t meg, az USA elkapta a levelet  
+- Breszlitovszki béke (1918)  
+	- Oroszok kiszállnak a háborúból  
+	- Polgárháború yippee  
+- Miért veszettek a németek  
+	- Emberhátrány az USA miatt  
+	- Utánpótlási problémák a Tengeri blokád miatt  
+- Esszéírás  
