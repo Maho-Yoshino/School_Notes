@@ -176,7 +176,7 @@
 	3. A paradicsomon kívül  
 		- Ádám lelkesedik, hogy a tudás birtokában boldogul az életben, Éva visszavágyik az Édenkertbe  
 		- Ádám kéri meg Lucifert, hogy mutassa meg a jövőt, Lucifer álmot bocsát rájuk  
-![Az eszmék](madach_tragedia_szinek.png) (Tk. 100)  
+### 4. ![Az eszmék](madach_tragedia_szinek.png) (Tk. 100)  
 4. Egyiptom - Mindenki egyért => Szabadság hiánya  
 5. Athén - Népfelség/Demokrácia => Manipuláció  
 6. Róma - "eszme", a testi örömök => Az élet örömeinek hajszolása hiábavaló  
@@ -188,3 +188,23 @@
 12. Falanszter - Tudományos társadalom és munkaszervezés => Unalmas világ, száműzik ami nem hasznos: érzelmek, költészet, család, stb.  
 13. Az űr - Földi viszonyok, az anyag fölé emelkedés => Simán üresség, a Földanya szelleme szólítja vissza Ádámot: a földön kell megküzdenie sorsával  
 14. Eszkimó szín - Harc a puszta túlélésért: az ember ösztönlény => Az ember állati létben él  
+### 5. Szerepek  
+1., 2., 3., 15. Saját szerepeikben vannak  
+Ádám - Éva - Lucifer  
+4. Egyiptom: Fáraó - Rabszolganő - Fáraó minisztere  
+5. Athén: Miltiádész (Hadvezér) - Felesége - Harcos  
+6. Róma: Sergiolus (Római Patrícius) - Júlia (Kéjnő) - Milo (Patrícius hedonista)  
+7. Konstantinápoly: Tankréd (Lovag) - Izóra (Tankréd szerelme, apáca) - Fegyverhordozója Tankrédnak  
+8. Prága 1: Kepler (Császár csillagásza) - Borbála (Kepler felesége) - Famulus (Házi szolgáló)  
+9. Párizs: Danton (Forradalmár) - Forradalmár lány / Márkiné - Hóhér  
+10. Prága 2: = Prága 1  
+11. London: Munkás - Polgárlány - Munkás  
+12. Falanszter: Mindhárom falanszter lakók  
+13. Az űr: Ádám - 0 - Lucifer  
+14. Eszkimó: Eszkimók mindhárman  
+### 6. Ádám - Éva - Lucifer jellemzése  
+- Ádám és Lucifer együtt értelmezhető:  
+	- A bennünk lévő küzdést, jobbra törekvést testesíti meg Ádám  
+	- A szintén bennünk lévő kételkedést, tagadást testesíti meg Lucifer  
+	- A kettő egymás mellett értelmezhető az emberben  
+	- Ádám jelképezi a korszellemet, ő az eszmék hordozója, küzd értük, szükségszerűen csalódik is  
