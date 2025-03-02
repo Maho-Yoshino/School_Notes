@@ -296,3 +296,19 @@ Mém:
 				> a halál nagy  
 				> csöndje sem."  
 	7. A szókincs mint stíluseszköz  
+		1. Archaizálás -> Régi korok nyelvezetét használja a költő, pl:  
+			- Babits: Jónás könyve -> biblikus nyelvezet: XVI. századi bibliafordítás  
+			- Ady Endre: ú.n. kurucz-versei: 1700as évek első fele  
+		2. Neologizmus -> Új szóalkotások megnevezésére az irodalmi szövegekben, pl:  
+			- Pilinszky János: Négysoros, "**Plakátmagányban** ázó éjjelek"  
+			- Szabó Lőrinc, "A pók sokszögű **tündérlemezén**"  
+		3. A szófajok stílushatása  
+			- Ha névszók kerülnek túlsúlyba -> Nominális stílus (főnevek, melléknevek)  
+			- Ha igék -||- -> Verbális stílus (Cselekvést fejez ki, buzdíthat)  
+		4. A mondatok stílushatása  
+			- Rövid, tőmondatszerű közlés  
+			- Terjedelmes, többszörösen összetett mondatok  
+			- Körmondat: a gondolat hosszú terjedelmű, mellékmondatok után visszatér a végén -> Barokkos körmondat  
+			- állító és tagadó mondatok is bírhatnak stílushatással  
+			- A sorrend pl. nyomatékosító hatással bírhat  
+			- stílusirányzatok Tk. 118-122. o.  
