@@ -24,8 +24,10 @@ def eq(eq_num:int|None=None):
 		# [egyenlet, elnevezés, változók]
 		# ["", "", ()]
 		["(-b+-sqrt(b^2-4*a*c))/(2*a)", "Másodfokú függvény", "a, b, c"],
-		["a^2+b^2", "Pitagorasz tétel", "a, b"],
-		["a+b>c and a+c>b and b+c>a", "Háromszög validálás", "a, b, c"]
+		["sqrt(a^2+b^2)", "Pitagorasz tétel", "a, b"],
+		["a+b>c and a+c>b and b+c>a", "Háromszög validálás", "a, b, c"],
+		["sqrt((x2-x1)^2+(y2-y1)^2)", "Távolság két pont között", "x1, y1, x2, y2"],
+		["((x1+x2)/2), (y1+y2)/2", "Két pont felezőpontja", "x1, y1, x2, y2"]
 	]
 	while eq_num is None or eq_num not in range(1, len(equations)+1):
 		try:

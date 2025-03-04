@@ -208,3 +208,20 @@
 	- A szintén bennünk lévő kételkedést, tagadást testesíti meg Lucifer  
 	- A kettő egymás mellett értelmezhető az emberben  
 	- Ádám jelképezi a korszellemet, ő az eszmék hordozója, küzd értük, szükségszerűen csalódik is  
+1. Ádám az, aki mindig kérdéseket tesz fel, Lucifer pedig válaszol ezekre  
+2. Lucifer:  
+	- Neve jelentése: fényhozó (latin Lux szóból, Lux = Fény, Luxus = Fényűző)  
+	- Ő a Tagadás szelleme, kételkedése viszont szükségszerű a világ működésében: hideg racionalitása Ádám naivitását egyensúlyozza  
+	- Az egyes színekben az adott kor hibáit mutatja fel:  
+	- 3 dolog bosszantja:  
+		- A szépség  
+		- A kereszt  
+		- A szerelem  
+	- Összegezve: A világban szükséges a rossz (Lucifer)  
+3. Éva:  
+	- Éva hordozza a nőiség minden fontos jellemzőjét:  
+		- Érzelem  
+		- Természetesség  
+		- Sejtelem, megérzés  
+	- Szerepei sokfélék, pozitív és negatív értelemben; + feleség, családanya, szerelmes társa Ádámnak; - Héjhölgy, hűtlen feleség  
+	- Mellékszerepei ellenére igai ellenfele Lucifernek, és Ádámot is ő menti meg a végén az öngyilkosságtól: Gyermeket várt  
