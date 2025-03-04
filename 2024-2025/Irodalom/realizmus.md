@@ -225,3 +225,12 @@
 		- Sejtelem, megérzés  
 	- Szerepei sokfélék, pozitív és negatív értelemben; + feleség, családanya, szerelmes társa Ádámnak; - Héjhölgy, hűtlen feleség  
 	- Mellékszerepei ellenére igai ellenfele Lucifernek, és Ádámot is ő menti meg a végén az öngyilkosságtól: Gyermeket várt  
+4. Az Úr:  
+	- Bibliai Istennek megfelel:  
+		- Teremtő Isten, az édenkerti bűnbeesés, két tiltott fa  
+		- Az abszolút jó megtestesítője erkölcsi értelemben  
+	- Ami nincs benne a Bibliában az a Menny-jelenet, Lucifer alakja (középkori) és az, hogy Lucifer teret kap a földön  
+	- Az XV. színben szólal meg hosszabban, világossá teszi az emberi tudás korlátait  
+	- A bűnbeesés ellenére támogatja a szabad akarattal bíró emberpárt, akik végül mellette döntenek Lucifer helyett  
+	- A mű utolsó szavai is az Úr szájából valók, "Monottam ember: küzdj, és bízva bízz"  
+## Arany János  
