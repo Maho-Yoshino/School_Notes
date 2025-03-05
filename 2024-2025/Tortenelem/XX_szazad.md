@@ -147,3 +147,51 @@ Hf: Esszéírás
 	- Emberhátrány az USA miatt  
 	- Utánpótlási problémák a Tengeri blokád miatt  
 - Esszéírás  
+## Kisérettségi  
+- Egy nap max 1 témakört tanulni  
+- Témák  
+	1. Ókor  
+		1. Athéni államszervezet működése a demokrácia virágkorában  
+			- Görög-Római építészet (Majd 12.ben)  
+		2. Vallások (Csak Kereszténység jelenleg)  
+	2. Középkor  
+		1. Iszlám világ  
+		2.  
+			- Parasztság világa  
+			- Polgárság világa  
+			- (Városok, céhek, társadalmi beosztás, kereskedelem)  
+		3.  
+			- Középkori egyház  
+			- Román, Gótikus, Reneszánsz építészet  
+		4.  
+			- Honfoglalás  
+			- Kalandozások kora  
+		5.  
+			- Géza és István  
+			- Aranybulla  
+			- IV. Béla és a tatárjárás  
+		6.  
+			- Károly Róbert  
+			- Hunyadi Mátyás  
+	3. Újkor  
+		1. Nagy földrajzi felfedezések  
+		2. Reformáció és a Katolikus megújulás  
+		3.  
+			- Mohács  
+			- Kettészakadás  
+			- Három részre szakadás  
+			- Erdély (Majd 12.ben)  
+			- Rákóczi szabadságharc  
+		4.  
+			- Újranépesedés (Majd 12.)  
+			- Brit alkotmányos rendszere és az USA (Majd 12.)  
+			- Felvilágosodás (Majd 12.)  
+			- II. József és Mária Terézia  
+		5. Nemzeti eszmék  
+		6. Ipari forradalom (Majd 12.)  
+			7. Reformkor  
+			8. Forradalom és szabadságharc  
+			9. Polgári állam, nagyhatalmi törekvések (Majd 12.)  
+		10. Dualizmus kora  
+		11. Első VH  
+
