@@ -233,4 +233,62 @@
 	- Az XV. színben szólal meg hosszabban, világossá teszi az emberi tudás korlátait  
 	- A bűnbeesés ellenére támogatja a szabad akarattal bíró emberpárt, akik végül mellette döntenek Lucifer helyett  
 	- A mű utolsó szavai is az Úr szájából valók, "Monottam ember: küzdj, és bízva bízz"  
+## Madách dolgozat  
+1. Madách életrajzából főbb elemek  
+2. Mű keletkezése  
+	1. Megírása:1860  
+	2. Arany átdolgozása:1861  
+	3. Kiadás:1862  
+	4. Ősbemutatója (első színházi):1883  
+3. Műfaji meghatározások (3 féle):  
+	1. Filozofikus Drámai költemény  
+	2. Könyvdráma  
+	3. Kétszintes dráma  
+4. Források, elméletek  
+	1. Falanszterelmélet  
+	2. Herder nemzeteszme  
+	3. Biblia  
+	4. Goethe: Faust  
+	5. Vörösmarty Mihály: Csongor és Tünde  
+	6. Kölcsey költészete  
+5. Színek és neveik  
+	1. Menny  
+	2. Paradicsom  
+	3. Paradicsomon kívül  
+	4. Egyptom  
+	5. Athén  
+	6. Róma  
+	7. Konstantinápoly  
+	9. Prága  
+	10. Párizs  
+	11. Prága 2  
+	12. London  
+	13. Falanszter  
+	14. Az űr  
+	15. Eszkimó szín  
+	16. Paradicsomon kívül  
+6. Eszmék szerepe (IV-XIV. színekben)  
+	1. Milyen eszmék vannak? (Vagy éppen nincsenek) => Miért küzd Ádám, miért csalódik  
+7. Ádám-Éva-Lucifer szerepei a történelem és jövő színekben  
+	4. Egyiptom: Fáraó - Rabszolganő - Fáraó minisztere  
+	5. Athén: Miltiádész (Hadvezér) - Felesége - Harcos  
+	6. Róma: Sergiolus (Római Patrícius) - Júlia (Kéjnő) - Milo (Patrícius hedonista)  
+	7. Konstantinápoly: Tankréd (Lovag) - Izóra (Tankréd szerelme, apáca) - Fegyverhordozója Tankrédnak  
+	8. Prága 1: Kepler (Császár csillagásza) - Borbála (Kepler felesége) - Famulus (Házi szolgáló)  
+	9. Párizs: Danton (Forradalmár) - Forradalmár lány / Márkiné - Hóhér  
+	10. Prága 2: = Prága 1  
+	11. London: Munkás - Polgárlány - Munkás  
+	12. Falanszter: Mindhárom falanszter lakók  
+	13. Az űr: Ádám - 0 - Lucifer  
+	14. Eszkimó: Eszkimók mindhárman  
+8. A keresztszínekről röviden  
+	1.  
+9.  Ádám-Lucifer jellemzése, + Éva, Az úr  
+	1.  
+10. Miért tekinthető fókuszpontnak a Londoni szín (+1)  
+	1. A kapitalizmus, szabadverseny ábrázolása  
+	2. Bemutatja a rendszer problémájait  
+	3. Minden szellemi dolog árúvá vált  
 ## Arany János  
+### Életrajz  
+- Nagyszalontán született (nagyváradhoz közel)  

@@ -194,4 +194,33 @@ Hf: Esszéírás
 			9. Polgári állam, nagyhatalmi törekvések (Majd 12.)  
 		10. Dualizmus kora  
 		11. Első VH  
+## Magyarország az Első VHban  
+1. 1914-1918  
+2. A szarajevói merényletre válaszként az Osztrák politikusok többsége szerbiát meg akarta büntetni, Tisza István (A magyar miniszterelnök) viszont nem akart a háborúba lépni, csak akkor lépett be, miután meggyőződött, hogy a Németek a Monarchia mellett állnak  
+3. Miután felderült, hogy a szerb közegek is részt vettek a merényletben, a Monarchia ultimátuma megkövetelte, hogy Szerbia hagyjon fel a Monarchia elleni akciókkal  
 
+1. A monarchia hadserege nem volt még modernizálva  
+2. Hadat üzentünk, mivel nem fogadta Szerbia el az Ultimátumot  
+3. HF: Ki az a Hötzendorf? (94.)  
+4. Hogyan fogadták a magyarok a háború kitörését?  
+	1. Örültek, gyors háborúra számítottak  
+5. Kigyűjteni a számokat, adatokat  
+	1. 1906,1908,1913 (x2),1914 Szerbia elleni háború ellen javaslat  
+	2. 1914 Nov-Dec.: Limanowai csata  
+	3. Monarchia összlétszáma: 52M  
+	4. Monarchia Mozgósított katonák: 9M  
+		1. Ebből Magyar: 3.8M  
+	5. Magyar áldozatok:  
+		1. Halott: 661k  
+		2. Sebesült: 743k  
+		3. Hadifoglyok: 734k  
+	6.  
+6. Két fronton harcoltunk  
+	1. Keleti front  
+	2. Olasz front  
+		1. Doberdó  
+		2. Isonzó  
+		3. Piave  
+7. HF: Limanowai csatát felkeresni  
+8. HF: Gorlicei áttörést felkeresni  
+9.  
