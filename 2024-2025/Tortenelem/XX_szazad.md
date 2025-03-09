@@ -202,6 +202,15 @@ Hf: Esszéírás
 1. A monarchia hadserege nem volt még modernizálva  
 2. Hadat üzentünk, mivel nem fogadta Szerbia el az Ultimátumot  
 3. HF: Ki az a Hötzendorf? (94.)  
+	1. Régi osztrák hivatalnok, katonacsalád gyermeke  
+	2. 1852-1925  
+	3. Részt vett az 1878-79es boszniai okkupációban  
+	4. 1906ban Ferenc Ferdinánd támogatásával ő lett az OMM vezérkarának főnöke  
+	5. A Szerbia és Olaszország elleni megelőző háborúról való kijelentései miatt szembekerült a külügyminisztériummal  
+	6. Többször javasolta a Szerbia elleni háborút (1906,1908,1913(x2),1914)  
+	7. 1911-ben ideiglenesen le lett mozdítva az uralkodó által a pozíciójáról, de a balkán háborúk idején visszanyerte  
+	8. A magyarokat háttérbe akarta szorítani a birodalmi politikában  
+	9. A háború kitörésekor az érvei nagyon hatottak az uralkodóra és Tiszára (szemeiben a monarchia legfontosabb politikusa)  
 4. Hogyan fogadták a magyarok a háború kitörését?  
 	1. Örültek, gyors háborúra számítottak  
 5. Kigyűjteni a számokat, adatokat  
@@ -214,13 +223,51 @@ Hf: Esszéírás
 		1. Halott: 661k  
 		2. Sebesült: 743k  
 		3. Hadifoglyok: 734k  
-	6.  
 6. Két fronton harcoltunk  
 	1. Keleti front  
 	2. Olasz front  
 		1. Doberdó  
 		2. Isonzó  
 		3. Piave  
-7. HF: Limanowai csatát felkeresni  
-8. HF: Gorlicei áttörést felkeresni  
-9.  
+7. Limanowai csata  
+	1. Német segítség nélkül megállítottuk az orosz "gőzhengert"  
+	2. 1914 November-December  
+	3. Nagy véráldozatba került  
+	4. Megnézni youtuben  
+8. HF: Gorlicei áttörés  
+	1. 1915 Május, Galícia  
+	2. OMM-Német szövetséges csapatok áttörtek az orosz fronton  
+	3. Abban hittek, nem lépnek be az olaszok az Antant oldalán (végül diplomáciai küzdelmekből az Antant lett győzelmes, mivel nem volt nehéz ígérni Monarchiai területeket az olaszoknak)  
+	4. Olaszország belépett a háborúba, a katonákat két frontra kellett osztani  
+9. Bolgár + Német segítséggel Romániát  
+10. 1917, OMM áttöri az Olasz frontot, Velencénél állítottak meg minket a Francia és Angol seregek  
+11. Kimerült a hátország  
+	1. Életkörülmények romlanak  
+	2. Jegyrendszert bevezetik  
+	3. Tiszát fogják hibáztatni  
+	4. Háború elleni tüntetések  
+12. Hogyan veszítettünk?  
+	1. I. Ferenc József halála után trónra lépő IV. Károly békekísérletei kudarcba fulladtak  
+	2. Leváltotta miniszterelnökségről Tiszát 1917ben, nem tudtak más utat kijelölni a politikának  
+	3. Breszt-Litovszki béke  
+		1. 1918 Március 3.  
+		2. Orosz-OMM béke  
+	4. Bukaresti béke  
+		1. 1918 Május 7.  
+		2. Románia-OMM béke  
+	5. A Központi hatalmak hátországai a teherbíró képességük végéhez közeledtek  
+	6. Az uralkodó érezte, hogy a birodalom felbomlása közeledik  
+	7. Kísérletet tett a belső felbomlás megállítására, Kiáltványt adott ki  
+		2. 1918 Október 16.  
+		3. Ausztriát föderatív alapon kívánta újjászervezni, M.O.-t nem  
+		4. A nemzetiségek az Antant támogatásával többet akartak  
+		5. Ez csak felgyorsította a szétomlást, mivel túl késő volt  
+	8. Nemzeti tanácsok létrejöttek  
+	9. A birodalom nem lépett fel ezek ellen, nem akartak belső konfliktust  
+	10. A front teljesen felbomlott  
+	11. Fegyvert letettük, **1918 November 3.**, Padova  
+	12. A Monarchia szétesik  
+13. A franciák tevékenykedtek  
+	1. Nem akartak nagyhatalmakat a németek oldalán  
+	2. Bolshevizmus megállítása  
+	3. Őszi Rózsás forradalom  
