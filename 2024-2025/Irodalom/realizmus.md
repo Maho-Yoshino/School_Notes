@@ -291,4 +291,18 @@
 	3. Minden szellemi dolog árúvá vált  
 ## Arany János  
 ### Életrajz  
-- Nagyszalontán született (nagyváradhoz közel)  
+- Nagyszalontán született (nagyváradhoz közel, Partium)  
+- Szegényedett nemesi család, paraszti élet, 8 testvéréből 2 maradt  
+- 14 éves korában már segédtanítóként is dolgozott
+- 1833: Debreceni ref. koll. diákja, később Kisújszálláson tanít
+- Vándorszínészként is játszott rövid ideig
+- Első irodalmi sikere a Bolond Istók c. elbeszélő költeménye
+- 1840: Házasárga Ercsey Juliannával
+  - Két gyermekük: Juliska és László, Arany László híres meseíró, mesegyűjtő lett
+- 1846: Az elveszett alkotmány c. művével elnyeri Kisfaludy Társaság pályázatát
+- A Toldi trilógia első részével kiemelt díjat nyert
+- Szabadságharc:
+  - Petőfi barátsága
+  - Nemzetőrként szolgálta a haza ügyét
+  - A szabadságharc bukása után rejtegette Arany Szendrey Júliát és Zoltán fiukat
+- Nagykőrös: 2 évig nem alkot, majd 1853-tól balladákat ír
