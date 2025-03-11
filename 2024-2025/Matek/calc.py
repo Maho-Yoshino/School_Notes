@@ -29,7 +29,8 @@ def eq(eq_num:int|None=None):
 		["sqrt((x2-x1)^2+(y2-y1)^2)", "Távolság két pont között", "x1, y1, x2, y2"],
 		["((x1+x2)/2), (y1+y2)/2", "Két pont felezőpontja", "x1, y1, x2, y2"],
 		["sqrt(s*(s-a)*(s-b)*(s-c))", "Háromszög területe (Heron)", "a, b, c, s"],
-		["(a+b+c)/2", "Heron s változó", "a, b, c"]
+		["(a+b+c)/2", "Heron s változó", "a, b, c"],
+		["sqrt(((a+b+c)/2)*(((a+b+c)/2)-a)*(((a+b+c)/2)-b)*(((a+b+c)/2)-c))","Kompakt Heron képlet", "a, b, c"]
 	]
 	while eq_num is None or eq_num not in range(1, len(equations)+1):
 		try:
