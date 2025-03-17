@@ -271,3 +271,29 @@ Hf: Esszéírás
 	1. Nem akartak nagyhatalmakat a németek oldalán  
 	2. Bolshevizmus megállítása  
 	3. Őszi Rózsás forradalom  
+### Őszi rózsás forradalom
+#### Mit akartak az emberek?
+- Megélhetés
+- Föld
+- Szabadságjogok kiterjesztése
+  - Pl. Választójog
+- Háborút elvesztő vezetés lecserélése, akik a vágyakat teljesítik
+  - Októberben (24-e) BP-n megalakul a Magyar Nemzeti Tanács, a Károlyi Mihály által vezetett Függetlenségi és 48-as Párt; Jászi Oszkár által vezetett Országos Polgári Radikális Párt és Szociáldemokraták részvételével (a.k.a. Ellenzéki pártok)
+    - Az elkövetkező napokban sok párt, szervezet és egyén csatlakozott
+  - Károlyi Mihályt ki akarja a nép nevezni PM-nek
+#### Mi az az Őszi rózsás forradalom
+- Károlyi Mihály elutasítja a kinevezést
+- Október 30-31 Éjszaka
+  - Az újjonnan alakult Katonatanács utasítására a katonák elfoglalták BP kulcsfontosságú pontjait, a hatalom nem állt ellen
+  - Reggelre győzött a forradalom
+    - Nevét onnan kapta, hogy a katonák Őszirózsát tűztek a sapkarózsa helyére
+  - Okt. 31 reggel az uralkodó nevében ki nevezte József főherceg (M.O. helytartója) Károlyi Mihályt miniszterelnöknek
+#### Károlyi Kormány belpolitika alapján: Mi valósult meg a tömeg követeléséből, és ha igen, akkor hogyan?
+- Köztársaságot kikiáltották (1918.Nov.16.)
+- Polgári szabadságjogok kiterjesztése
+  - Bevezették az általános, a nőkre kiterjedő választójogot
+    - Férfiak 21+, Nők 24+
+    - Nem került sor a választásokra
+    - Régi törvényhozás feloszlott, de nem jött új létre
+- A kormány igyekezett a Nemzeti Tanácsra mint Törvényhozó testre támaszkodni
+  - Nem felelt meg a klasszikus demokratikus rendszernek

@@ -293,16 +293,31 @@
 ### Életrajz  
 - Nagyszalontán született (nagyváradhoz közel, Partium)  
 - Szegényedett nemesi család, paraszti élet, 8 testvéréből 2 maradt  
-- 14 éves korában már segédtanítóként is dolgozott
-- 1833: Debreceni ref. koll. diákja, később Kisújszálláson tanít
-- Vándorszínészként is játszott rövid ideig
-- Első irodalmi sikere a Bolond Istók c. elbeszélő költeménye
-- 1840: Házasárga Ercsey Juliannával
-  - Két gyermekük: Juliska és László, Arany László híres meseíró, mesegyűjtő lett
-- 1846: Az elveszett alkotmány c. művével elnyeri Kisfaludy Társaság pályázatát
-- A Toldi trilógia első részével kiemelt díjat nyert
-- Szabadságharc:
-  - Petőfi barátsága
-  - Nemzetőrként szolgálta a haza ügyét
-  - A szabadságharc bukása után rejtegette Arany Szendrey Júliát és Zoltán fiukat
-- Nagykőrös: 2 évig nem alkot, majd 1853-tól balladákat ír
+- 14 éves korában már segédtanítóként is dolgozott  
+- 1833: Debreceni ref. koll. diákja, később Kisújszálláson tanít  
+- Vándorszínészként is játszott rövid ideig  
+- Első irodalmi sikere a Bolond Istók c. elbeszélő költeménye  
+- 1840: Házasárga Ercsey Juliannával  
+	- Két gyermekük: Juliska és László, Arany László híres meseíró, mesegyűjtő lett  
+- 1846: Az elveszett alkotmány c. művével elnyeri Kisfaludy Társaság pályázatát  
+- A Toldi trilógia első részével kiemelt díjat nyert  
+- Szabadságharc:  
+	- Petőfi barátsága  
+	- Nemzetőrként szolgálta a haza ügyét  
+	- A szabadságharc bukása után rejtegette Arany Szendrey Júliát és Zoltán fiukat  
+- Nagykőrös: 2 évig nem alkot, majd 1853-tól balladákat ír  
+#### Nagykőrösi korszak (1853-1859)  
+- Gimnáziumi tanár  
+- "Önként vonul száműzetésbe"  
+- 1860: Visszaköltözik BP-re, a Kisfaludy Társaság igazgatója lett  
+#### BP  
+- Újságszerkesztő a Koszorú és a Szépirodalmi Figyelő c. irodalmi lapoknál  
+- 1865: MTA titkára, majd főtitkára  
+- 1877: Közélettől visszavonult, Gyulay Pál egy kapcsoskönyvet ajándékoz számára, ebbe írja az Őszikék c. versciklus balladáit és lírai költeményeit  
+- 1882-ben meghal  
+### Elbeszélő költeményei  
+- Az elveszett alkotmány (1845)  
+- Nagyidai cigányok (1850)  
+- Bolond Istók (1850-51)  
+- Csaba trilógia, melynek első részével, Buda halála c. eposztöredékkel készült el (1863)  
+-  

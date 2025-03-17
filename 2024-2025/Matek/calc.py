@@ -1,4 +1,4 @@
-from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r
+from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r, factorial as fact
 import pyperclip, re, traceback
 replace_dict = {
 	"^":"**",
