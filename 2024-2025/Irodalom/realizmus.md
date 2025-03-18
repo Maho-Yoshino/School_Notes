@@ -320,4 +320,21 @@
 - Nagyidai cigányok (1850)  
 - Bolond Istók (1850-51)  
 - Csaba trilógia, melynek első részével, Buda halála c. eposztöredékkel készült el (1863)  
--  
+### Költészete a szabadságharc bukása után  
+- Negatív fordulatok: {  
+	- Petőfi elvesztése  
+	- A nemzeti szabadságának reménye elvész } => Költői válság  
+		- Két évig nem ír verset  
+- Néhány verse az 1850es évek elejéről,  
+	- Letészem a lantot  
+	- Kertben  
+	- Ősszel  
+### Letészem a lantot (Szgy. 150.)  
+- Műfaja: Elégiko-Óda  
+	- Elégia (Szomorúság, lelki fájdalom) + Óda (Dicsőítés, ünnepélyes hangnem)  
+- Időszembesítő vers:  
+	- A múlthoz pozitív értékek kötődnek  
+		- Fiatalkori költészete  
+		- Petőfi barátsága  
+		- Reformkori küzdelmek  
+- Értékszembesítő vers  
