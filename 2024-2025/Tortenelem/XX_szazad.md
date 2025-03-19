@@ -294,6 +294,35 @@ Hf: Esszéírás
 	- Bevezették az általános, a nőkre kiterjedő választójogot  
 		- Férfiak 21+, Nők 24+  
 		- Nem került sor a választásokra  
-		- Régi törvényhozás feloszlott, de nem jött új létre  
+	- Régi törvényhozás feloszlott, de nem jött új létre  
 - A kormány igyekezett a Nemzeti Tanácsra mint Törvényhozó testre támaszkodni  
 	- Nem felelt meg a klasszikus demokratikus rendszernek  
+- Jegyrendszer megszüntetése  
+	- Tovább romlott az ellátás helyzete  
+- 1919 Februárjában kiadott, földosztásról szóló törvénynek nem tudtott Károlyi érvényt szerezni  
+	- 500+ hold nagybirtokokból, vagy 200+ hold egyházi birtokokból a parasztoknak 5-20 hold földet adott volna a parasztoknak  
+	- Csak Károlyi meg a radikálisok támogatták  
+	- Csak Károlyi osztott földet, senki mást nem tudott rávenni  
+#### Károlyi Kormány külpolitikája: Hogyan kezelte a külpolitikai válságot?  
+- Az Antant elvárásainak megfelelő politika  
+- A nemzetiségeknek nyújtó autonómia  
+- Remélte, hogy megvalósulnak a Wilsoni tervek  
+- A problémák evvel a politikával?  
+	- Nem valósult meg Wilstoni terv  
+	- A franciák találták ki a dolgokat  
+#### Mit tett Károlyi Mihály a hadsereggel?  
+- A kormány tartott a katonáktól, tisztektől  
+- Szétesett egy 800k főből álló sereg  
+	- Hadsereg nélkül maradtunk  
+- A MOVE (Magyar Országos Véderő Egylet, Szélsőjobboldali katonai csoport) delegáció próbálta felajánlani szolgálatait  
+- Pacifista-Szocialista politikát folytatott  
+#### Mi történt Belgrádban  
+- Károlyi Belgrádba utazott, tárgyalásra  
+	- Bízott az Antant jóindulatában  
+- A tárgyaláson kiderült, hogy Károlyi és a kialakuló magyar demokratikus állam  
+- Fegyverszünetet aláírták (1918. November 13.)  
+	- Ez után megszálltak az antanterők  
+	- A szerbek és románok benyomultak a kijelölt területükre  
+	- Károlyi nem reagált, még mindig hitt az Antantba  
+		- Az Antant nem értékelte Károlyi Demokratikus politikáját  
+#### HF: Felvidéki történések; 1918. December 1-2.
