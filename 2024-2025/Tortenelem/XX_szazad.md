@@ -316,7 +316,7 @@ Hf: Esszéírás
 	- Hadsereg nélkül maradtunk  
 - A MOVE (Magyar Országos Véderő Egylet, Szélsőjobboldali katonai csoport) delegáció próbálta felajánlani szolgálatait  
 - Pacifista-Szocialista politikát folytatott  
-#### Mi történt Belgrádban  
+### Mi történt Belgrádban  
 - Károlyi Belgrádba utazott, tárgyalásra  
 	- Bízott az Antant jóindulatában  
 - A tárgyaláson kiderült, hogy Károlyi és a kialakuló magyar demokratikus állam  
@@ -325,4 +325,42 @@ Hf: Esszéírás
 	- A szerbek és románok benyomultak a kijelölt területükre  
 	- Károlyi nem reagált, még mindig hitt az Antantba  
 		- Az Antant nem értékelte Károlyi Demokratikus politikáját  
-#### HF: Felvidéki történések; 1918. December 1-2.
+### HF: Felvidéki történések; 1918. December 1-2.  
+#### Felvidéki történések  
+- 1918. December 23. - Ideiglenes határok Csehszlovákia létrehozásához  
+- Csehszlovákok elfoglalták a felvidéket  
+	- 1918. December 29. - Kassa  
+	- 1918. December 30. - Pozsony  
+#### 1918. December 1-2.  
+- Gyulafehérvár, Román nemzeti gyűlés  
+- Kimondták Erdély és a Román Királyság egyesülését  
+- Károlyi nem értett egyet, nem tudta megakadályozni  
+## Tanácsköztársaság  
+### Bevezetés  
+#### Mi az a KMP?  
+- **"Kommunisták Magyarországi Pártja"**  
+- 1918. November 24.  
+- Kun Béla vezetője  
+	- Hadifogságból visszajött kommunista (agymosás volt)  
+- A világforradalom katonáinak tekintették magukat  
+- Céljuk: Proletárforradalom kirobbantása, proletárdiktatúra bevezetése  
+- Szovjet-Orosz pénzügyi támogatással mindent megtettek céluk érdekében  
+#### Hogyan próbálták átvenni a hatalmat?  
+- Propagandát alkalmaztak  
+	- A hatalom megragadására volt  
+	- Hibák bírálatára épült  
+	- Megvalósítást lehetetlen javaslatokkal tervezték megoldani  
+#### Hogyan veszi át a hatalmat?  
+- Antant több terület átadását követelték (Vix-jegyzék)  
+	- Semleges zónát akarnak kialakítani Románia és M.O. között  
+	- Szeged - Debrecen  
+- A követelést a kormány nem akarta teljesíteni, lemondott  
+- Károlyi is elfogadhatatlan tartotta  
+	- A kormányzást csak a szociáldemokraták vállalhatják => Kinevez szociáldemokrata kormányt  
+	- A szociáldemokraták nem merték egyedül vállalni a kormányzást, Károlyi tudta nélkül kiegyeztek a KMP vezetőivel  
+	- A két párt kommunista programmal egyesült (Magyarországi Szocialista Párt)  
+- **1919. Március 21.** - Az új kormány hatalomra került  
+	- Proletárdiktatúra bevezetése  
+	- Károlyi tudomásul vette, lemondott  
+- Károlyi nevében megfogalmaztak egy cikket, hogy lemondott  
+#### HF: Hogyan működött a Tanácsköztársaság rendszere?; Miért volt eleinte népszerű?  

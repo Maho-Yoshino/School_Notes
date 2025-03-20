@@ -338,3 +338,15 @@
 		- Petőfi barátsága  
 		- Reformkori küzdelmek  
 - Értékszembesítő vers  
+	- A múlthoz pozitív értékeket társít a költő, pl.:  
+		- Saját fiatalkorának költői sikerei  
+		- A reformkor küzdelmei  
+		- Petőfi barátsága  
+	- A jelenhez kapcsolódik  
+		- Az alkotói, magánéleti válság  
+		- Szabadság reményének elvesztése  
+- Refrén  
+	- 6 vsz.-on keresztül egy kérdőmondatot ismétel ("Hová lettél, hová levél; Oh lelkem ifjusága")  
+	- A 7. vsz.-ban a kérdés állítássá változik ("Oda vagy, érzem oda vagy; Oh lelkem ifjusága")  
+	- "Lelkem ifjusága" - Metafora  
+### Arany Balladaköltészete - A walesi bárdok  
