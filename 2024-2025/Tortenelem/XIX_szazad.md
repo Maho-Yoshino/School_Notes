@@ -305,7 +305,7 @@ Elvették volna a területek önállóságát
 	- Gazdaság (pl. Baross Gábor, mezőgazdaságban gépesítés, iparosodás)  
 	- Társadalom (Népességrobbanás, migráció, nemzetiségi kérdéstől a **torlódó társadalom**ig, asszimiláció)  
 	- Budapest  
-	- ![Államrendszer ábra (Tk. 30, 15. ábra)](dualizmus_rendszer.png)  
+	- ![Államrendszer ábra (Tk. 30, 15. ábra)](kep/dualizmus_rendszer.png)  
 - Röviden: Minden a húsvéti cikk után  
 Weckerle  
 	Valutareform  

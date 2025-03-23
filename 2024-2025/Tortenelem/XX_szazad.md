@@ -364,3 +364,19 @@ Hf: Esszéírás
 	- Károlyi tudomásul vette, lemondott  
 - Károlyi nevében megfogalmaztak egy cikket, hogy lemondott  
 #### HF: Hogyan működött a Tanácsköztársaság rendszere?; Miért volt eleinte népszerű?  
+##### Hogyan működött a Tanácsköztársaság rendszere?  
+![Tanácsköztársaság államszervezete](kep/tanacskoztarsasag_rendszere.png)  
+- Szovjet-Orosz mintát követte  
+	- Egypárt-rendszer  
+	- Végrehajtó hatalom => Népbiztosokból álló Forradalmi Kormányzótanács  
+	- Elméletileg Tanácsok Országos Gyűlése felügyelte a végrehajtó hatalmat, de nem volt hatalmuk rá  
+	-  
+- Karhatalmi feladatok => Vörös Őrség  
+- A Forradalmi Kormányzótanács államosította az ipart (20+ munkást foglalkoztató üzemek), kereskedelmet és a földeket  
+	- A parasztok nem kaptak földet  
+	- Korábbi nagybirtokokat Szövetkezetekké alakították  
+	- Elidegenedtek a parasztok az új rendszertől  
+##### Miért volt eleinte népszerű?  
+- A munkástömegek egy része eleinte támogatta az új rendszert  
+	- Viszont ez nem tartott sokáig, mivel nem tudták a kommunisták megvalósítani ígéreteiket, életkörülményük nem javult  
+	- Ezért parasztlázadások, sztrájkok robbantak ki a proletárdiktatúra ellen  
