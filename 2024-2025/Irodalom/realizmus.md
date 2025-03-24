@@ -350,3 +350,19 @@
 	- A 7. vsz.-ban a kérdés állítássá változik ("Oda vagy, érzem oda vagy; Oh lelkem ifjusága")  
 	- "Lelkem ifjusága" - Metafora  
 ### Arany Balladaköltészete - A walesi bárdok  
+- Ballada műfaja  
+	- A ballada kevert műfaj: három műnem jellemzőit foglalja magába: Líra, Dráma, Epika  
+	> "**A BALLADA NEM MÁS, MINT TRAGÉDIA (dráma) DALBAN (Líra) ELBESZÉLVE (Epika)**" - Trefort Ágoston  
+	- Két fajtája van  
+		- Középkori ballada (Francia szóból ered, "haláltánc")  
+		- Francois Villon balladatípusa  
+		- Újkori balladatípus  
+		- Műballadák (szerzője ismert)  
+		- XIX. Században terjed el Európában  
+	- A romantika kedvelt műfaja  
+	- A ballada jellemzői  
+		- Cselekménye sűrített, töredékes  
+		- Balladai homály: Ki nem mondott jelenetek, titokban maradt részletek (Az olvasó fantáziájára is szükség van)  
+		- Párbeszédes jelenetek  
+		- Nyelvezete is tömör, költői képekben gazdag  
+		- Lírai monológiok is jellemzik  
