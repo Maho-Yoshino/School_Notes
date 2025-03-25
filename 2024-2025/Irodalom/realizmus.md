@@ -366,3 +366,33 @@
 		- Párbeszédes jelenetek  
 		- Nyelvezete is tömör, költői képekben gazdag  
 		- Lírai monológiok is jellemzik  
+### Arany balladatípusai  
+1. Két alkotói korszakában ír balladákat  
+	1. Nagykőrösi balladák, 1853-59 - Példák:  
+		- Ágnes asszony  
+		- A Walesi bárdok  
+		- V. László  
+		- Szondi két apródja  
+	2. Kései balladák, melyek egy kötetben, az Őszikék versciklusban találhatóak, 1870es évek második felétől - Példák:  
+		- Híd-avatás  
+		- Tengeri hántás  
+		- Vörös Rébék  
+2. Téma szerinti csoportosítás  
+	1. Történelmi balladák:  
+		- V. László  
+		- A Walesi bárdok  
+	2. Lélektani balladák:  
+		- Ágnes asszony  
+		- Tetemre hívás  
+	3. Népies témájú  
+		- Tengeri-Hántás  
+	4. Nagyvárosi téma  
+		- Híd-avatás  
+3. A balladák szerkezeti jellemzőik  
+	1. Lineáris (egyenes vonalú) időkezelés, A -> B pontba halad a történet  
+		- A walesi bárdok  
+	2. Párhuzamos időkezelés  
+		- Szondi két apródja  
+	3. Körkörös szerkezetű (A helyszín visszatér)  
+		- Ágnes asszony  
+### Arany János - Ágnes asszony (szgy. 135. o.)  
