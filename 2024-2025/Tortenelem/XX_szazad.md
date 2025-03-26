@@ -135,7 +135,7 @@ Kulcs szempontok
 - Technikai újdonságok  
 - Besorozás  
 Hf: Esszéírás  
-[<span style="font-size:22px;">**Esszé**</span> (14 sor (Times new roman, 11es betűméret))](wwi_essze.docx)  
+[<span style="font-size:22px;">**Esszé**</span> (14 sor (Times new roman, 11es betűméret))](doga/wwi_essze.docx)  
 ### Doga kérdések  
 - Miért lépett be az USA a háborúba (1917)  
 	- Kölcsönbérleti szerződés (hitel)  
@@ -363,20 +363,41 @@ Hf: Esszéírás
 	- Proletárdiktatúra bevezetése  
 	- Károlyi tudomásul vette, lemondott  
 - Károlyi nevében megfogalmaztak egy cikket, hogy lemondott  
-#### HF: Hogyan működött a Tanácsköztársaság rendszere?; Miért volt eleinte népszerű?  
-##### Hogyan működött a Tanácsköztársaság rendszere?  
+### HF: Hogyan működött a Tanácsköztársaság rendszere?; Miért volt eleinte népszerű?  
+#### Hogyan működött a Tanácsköztársaság rendszere?  
 ![Tanácsköztársaság államszervezete](kep/tanacskoztarsasag_rendszere.png)  
 - Szovjet-Orosz mintát követte  
 	- Egypárt-rendszer  
 	- Végrehajtó hatalom => Népbiztosokból álló Forradalmi Kormányzótanács  
 	- Elméletileg Tanácsok Országos Gyűlése felügyelte a végrehajtó hatalmat, de nem volt hatalmuk rá  
-	-  
+	- Önkormányzatot felváltotta a tanács rendszer  
 - Karhatalmi feladatok => Vörös Őrség  
-- A Forradalmi Kormányzótanács államosította az ipart (20+ munkást foglalkoztató üzemek), kereskedelmet és a földeket  
+- Lenin Fiúk  
+- Ez az időszak a Vörös Terror  
+#### Miért volt eleinte népszerű?  
+- A Forradalmi Kormányzótanács államosította az ipart (20+ munkást foglalkoztató üzemek), kereskedelmet (Tervkereskedelem) és a földeket (mn. Kollektivizálás)  
 	- A parasztok nem kaptak földet  
 	- Korábbi nagybirtokokat Szövetkezetekké alakították  
 	- Elidegenedtek a parasztok az új rendszertől  
-##### Miért volt eleinte népszerű?  
 - A munkástömegek egy része eleinte támogatta az új rendszert  
 	- Viszont ez nem tartott sokáig, mivel nem tudták a kommunisták megvalósítani ígéreteiket, életkörülményük nem javult  
 	- Ezért parasztlázadások, sztrájkok robbantak ki a proletárdiktatúra ellen  
+- Vörös hadseregünk a megszállt területeket visszafoglalták  
+- Kakaót osztottak a Margit-szigeten  
+#### Nem cool már a kommunizmus  
+- Amint ellenállást mutattunk ki, a Párizsi békekonferencia felkereste Magyarországot  
+	- Franciák ajánlata: Elhagyjuk Felvidéket, románok kiürítik a tiszántúlt  
+	- Elfogadta a rendszer  
+	- A románok lerohamozták BPt  
+- 1919.Aug.1.  
+- Szegedi kormány kialakul, egy ellenkormány  
+	- Horthy Miklós vezetésével  
+- ABC  
+	- Anti-Bolshevista Comité  
+	- Folytonosan a tanácsköztársaság ellen dolgoztak  
+- Román megszállás alatt egy Friedrich István alakított kormányt  
+#### Ellenforradalom  
+- Kommunisták -> Forradalmi rendszer  
+- Horthy -> Ellenforradalmi rendszer  
+##### Hogy jut hatalomra? (127. o.)  
+- Horthy a Szegedi kormány hadügyminisztere lett  
