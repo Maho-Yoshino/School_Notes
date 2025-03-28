@@ -401,3 +401,26 @@ Hf: Esszéírás
 - Horthy -> Ellenforradalmi rendszer  
 ##### Hogy jut hatalomra? (127. o.)  
 - Horthy a Szegedi kormány hadügyminisztere lett  
+- A szegedi kormánynak nem volt tényleges hatalma  
+- Az országnak azon a részén (a Dunántúl nyugati és középső területei), mely nem állt idegen uralom alatt, tiszti szabadcsapatok (különítmények) szerveződtek  
+- A fehérkülönítmények, kihasználva a törvényes rend hiányát, terror alatt tartották a lakosságot  
+- Horthy ezek után függetlenítette magát, székhelyét áttette a román megszállás-mentes Siófokra  
+- A magyar helyzet rendezésére 1919 őszén teljhatalmú megbízottat küldtek BPre, **Clerk angol diplomatát**.  
+	- Célja: Törvényes rend létrehozása (tiszti különítmények + szélsőballal szemben biztosító kormány)  
+	- Clerk tárgyalt Horthyval, jelentősebb pártok képviselőivel  
+		- A szociáldemokraták jól szervezett párttal rendelkeztek, viszont a forradalom és proletárdiktatúra miatt nem lehettek újra vezetésen  
+		- Hagyományos jobboldalt Bethlen István vezette, egy gyűjtőpárt fogta össze, a Keresztény Nemzeti Egyesülés Pártja (KNEP)  
+		- Ekkor jelent meg a Kisgazdapárt (1919-től: Országos Kisgazda- és Földműves Párt), Nagyatádi Szabó Istvánnal az élen  
+	- Clerk fellépésére kivonultak a románok BPről (1919. Nov. 13.)  
+	- Clerk kilátásba helyezte Horthy szerepének méltánylását, HA megfékezi a különítményeket, támogatja az új kormányt  
+		- Horthy a Nemzeti Hadsereg élén bevonult a fővárosba, új kormány alakult, a Huszár-kormány  
+		- **1919. November 16.** - Horthy Bevonul Budapestre, beszédet tartott  
+		- Budapestet hasonlította a Tanácsköztársaság rendszerével, ez lett a Nemzetnek a veszte. Viszont mikor Horthy megjön, akkor elkezdenek megbocsájtani a városnak (Nacionalizmus btw)  
+		- Általános választójog alapján parlamenti választásokat rendeztek 1920. januárjában (A kisgazdapárt nyert)  
+	- Viszont betöltetlen volt az Államfői méltóság, az új ogy-n (Nemzetgyűlés) viták voltak az államformáról, **Királyság vagy Köztársaság legyen?**  
+		- A forradalom után a királyság mellett döntöttek a főbb politikai erők  
+		- Mivel a Habsburg-ház restaurációját ("Rendszer helyreállítása", először Angol alkotmányos Monarchiában hallotuk) az Antant akadályozta, a hagyományokkal összhangban a kormányzói méltóságot bevezették  
+		- Az OGy. megválaszotta Horthy-t kormányzóvá (**1920. Március 1.**)  
+- ABC  
+	- Gróf Teleki Pál, Bethlen István  
+#### HF: Horthy Kormányzói jogkörei, mekkora hatalma lehetett valójában  
