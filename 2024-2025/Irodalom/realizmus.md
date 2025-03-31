@@ -395,4 +395,39 @@
 		- Szondi két apródja  
 	3. Körkörös szerkezetű (A helyszín visszatér)  
 		- Ágnes asszony  
-### Arany János - Ágnes asszony (szgy. 135. o.)  
+### Arany János - Ágnes asszony (szgy. 135. o.) (elemzésvázlat)  
+1. Keletkezése és típusa  
+	1. Nagykőrösi korszak (1853)  
+	2. Lélektani ballada: tárgy a bűn és bűnhődés motívuma  
+	3. Szerkezetileg körkörös (a helyszín visszatér)  
+2. Szerkezete  
+	1. 26 vsz  
+	2. Részek:  
+		1. Patak partja (1-4)  
+		2. Börtön (5-9)  
+		3. Tárgyalóterem (10-19)  
+		4. Patak partja (20-26)  
+	3. Időtartamok  
+		1. Patak partja (1) - Néhány óra  
+		2. Börtön - Több nap  
+		3. Tárgyalóterem - egy-két óra  
+		4. Patak partja (2) - Élete végéig  
+3. Műfaji jellemzők  
+	1. Líra  
+		- Verses formájú  
+		- 5 soros versszakok  
+		- Rímeltetése  
+			- XAXAX (félrím)  
+			- Zavartságot tükröz  
+			- Ágnes "félig megőrült" lelkiállapotához igazodik  
+		- Gazdag költői képekben  
+		- Nyelvezete tömör  
+		- Balladai homály  
+			- Gyilkosság részletei  
+			- A időtartam csak sejthe  
+	2. Dráma  
+		- Tragikus történet  
+			- Gyilkosság  
+			- Ágnes sorsa (megőrülés)  
+	3. Epika  
+		-  
