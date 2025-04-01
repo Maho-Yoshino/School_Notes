@@ -424,10 +424,18 @@
 		- Nyelvezete tömör  
 		- Balladai homály  
 			- Gyilkosság részletei  
-			- A időtartam csak sejthe  
+			- A időtartam csak sejthető  
 	2. Dráma  
 		- Tragikus történet  
 			- Gyilkosság  
 			- Ágnes sorsa (megőrülés)  
 	3. Epika  
-		-  
+		- Történetet mond el, de a belső történéseken van a hangsúly, azokon, amik Ágnes lelkében és fejében zajlanak  
+		- Kihagyásokkal felfűzött *jeleneteket* látunk  
+4. A vers fókuszpontja, a 15. vsz., ahol Ágnes összeomlik és bűntudata zokogásba fullad -> A bűnbánatot fejezi ki  
+	> Liliomról pergő harmat  
+	> Hulló vizgyöngy hattyu tollán.  
+	- Liliom = Tisztaság, ártatlanság  
+	- Hattyú = Szépség, tisztaság, elegancia  
+	- Összességében az isteni megbocsátás adhat még Ágnesnek vígasztalást  
+	> Oh! irgalom atyja, ne hagyj el.  
