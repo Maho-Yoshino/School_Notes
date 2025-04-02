@@ -424,3 +424,53 @@ Hf: Esszéírás
 - ABC  
 	- Gróf Teleki Pál, Bethlen István  
 #### HF: Horthy Kormányzói jogkörei, mekkora hatalma lehetett valójában  
+##### Jogkörei  
+- Törvényhozói hatalommal kapcsolatos  
+	- Nincs vétójoga a törvények felett (1x küldheti vissza)  
+		- Ha változatlanul visszaadja a NGy. akkor 15 napon belül köteles kihirdetni  
+	- Nem oszlathatja fel a nemzetgyűlést  
+- Végrehajtói hatalommal kapcsolatos  
+	- Csak miniszterekkel gyakorolhatja (Közvetlen ő nem)  
+	- Korlátozott katonai jogkör  
+	- Katonai főparancsnokság  
+- Nem adományozhat nemességet  
+- Általános kegyelmet (amnesztiát) csak a törvény biztosíthat  
+- Alkotmánysértés vagy törvényszegés esetén felelősségre vonható  
+##### Valójában  
+Teljhatalom.  
+#### HF Kigyűjteni az összes Őszi rózsás forradalom fogalmat  
+- Vezetőség lecserélése  
+	- Függetlenségi és 48-as Párt  
+	- Országos Polgári Radikális Párt  
+- Október 30-31. Forradalom  
+- Nemzetiségeknek Autonómia  
+- MOVE  
+	- Magyar Országos Véderő Egylet  
+- Tanácsköztársaság - Szovjet  
+- Propaganda  
+- Vix-jegyzék  
+- Szociáldemokrata kormány  
+- KMP - Kommunisták Magyarországi Pártja  
+- MSZP  
+	- Magyarországi Szocialista Párt  
+	- KMP + Szociáldemokraták  
+- Egypárt-rendszer  
+- Vörös őrség  
+- Lenin fiúk  
+- Vörös terror  
+- Szegedi Kormány  
+- ABC - Anti Bolshevista Comité  
+- Huszár-Kormány  
+- Király nélküli Királyság  
+## Időegyenes  
+- 1918.10.30/31. - Őszi Rózsás Forradalom  
+- 1918.11.24. - KMP létrejött  
+- 1919.01 - Clemeneau, Felvidékért cserébe Tiszántúlt megkapjuk (nuh uh)  
+- 1919.03 - Vix Jegyzék  
+- 1919.03.21. - KMP átvette a kormányi hatalmat, proletárdiktatúra  
+- 1919.08.01 - Kommunista vezetők vonaton Bécsbe menekültek  
+- 1919.Ősz - Teljhatalmú megbízottat küldött az Antant M.O.-ra, Clerk angol diplomatát  
+- 1919.11.13. - Románok kivonultak Clerk fellépésére  
+- 1919.11.16. - Horthy bevonult BP-re, megtartotta nagy beszédét  
+- 1920.01 - Választások, a Kisgazdapárt nyert  
+- 1920.03.01. - Horthy-t megválasztja a Nemzetgyűlés Kormányzónak  
