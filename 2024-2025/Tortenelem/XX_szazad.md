@@ -271,8 +271,9 @@ Hf: Esszéírás
 	1. Nem akartak nagyhatalmakat a németek oldalán  
 	2. Bolshevizmus megállítása  
 	3. Őszi Rózsás forradalom  
-### Őszi rózsás forradalom  
-#### Mit akartak az emberek?  
+# A világháború után  
+## Őszi rózsás forradalom  
+### Mit akartak az emberek?  
 - Megélhetés  
 - Föld  
 - Szabadságjogok kiterjesztése  
@@ -281,14 +282,14 @@ Hf: Esszéírás
 	- Októberben (24-e) BP-n megalakul a Magyar Nemzeti Tanács, a Károlyi Mihály által vezetett Függetlenségi és 48-as Párt; Jászi Oszkár által vezetett Országos Polgári Radikális Párt és Szociáldemokraták részvételével (a.k.a. Ellenzéki pártok)  
 		- Az elkövetkező napokban sok párt, szervezet és egyén csatlakozott  
 	- Károlyi Mihályt ki akarja a nép nevezni PM-nek  
-#### Mi az az Őszi rózsás forradalom  
+### Mi az az Őszi rózsás forradalom  
 - Károlyi Mihály elutasítja a kinevezést  
 - Október 30-31 Éjszaka  
 	- Az újjonnan alakult Katonatanács utasítására a katonák elfoglalták BP kulcsfontosságú pontjait, a hatalom nem állt ellen  
 	- Reggelre győzött a forradalom  
 		- Nevét onnan kapta, hogy a katonák Őszirózsát tűztek a sapkarózsa helyére  
 	- Okt. 31 reggel az uralkodó nevében ki nevezte József főherceg (M.O. helytartója) Károlyi Mihályt miniszterelnöknek  
-#### Károlyi Kormány belpolitika alapján: Mi valósult meg a tömeg követeléséből, és ha igen, akkor hogyan?  
+### Károlyi Kormány belpolitika alapján: Mi valósult meg a tömeg követeléséből, és ha igen, akkor hogyan?  
 - Köztársaságot kikiáltották (1918.Nov.16.)  
 - Polgári szabadságjogok kiterjesztése  
 	- Bevezették az általános, a nőkre kiterjedő választójogot  
@@ -303,20 +304,20 @@ Hf: Esszéírás
 	- 500+ hold nagybirtokokból, vagy 200+ hold egyházi birtokokból a parasztoknak 5-20 hold földet adott volna a parasztoknak  
 	- Csak Károlyi meg a radikálisok támogatták  
 	- Csak Károlyi osztott földet, senki mást nem tudott rávenni  
-#### Károlyi Kormány külpolitikája: Hogyan kezelte a külpolitikai válságot?  
+### Károlyi Kormány külpolitikája: Hogyan kezelte a külpolitikai válságot?  
 - Az Antant elvárásainak megfelelő politika  
 - A nemzetiségeknek nyújtó autonómia  
 - Remélte, hogy megvalósulnak a Wilsoni tervek  
 - A problémák evvel a politikával?  
 	- Nem valósult meg Wilstoni terv  
 	- A franciák találták ki a dolgokat  
-#### Mit tett Károlyi Mihály a hadsereggel?  
+### Mit tett Károlyi Mihály a hadsereggel?  
 - A kormány tartott a katonáktól, tisztektől  
 - Szétesett egy 800k főből álló sereg  
 	- Hadsereg nélkül maradtunk  
 - A MOVE (Magyar Országos Véderő Egylet, Szélsőjobboldali katonai csoport) delegáció próbálta felajánlani szolgálatait  
 - Pacifista-Szocialista politikát folytatott  
-### Mi történt Belgrádban  
+## Mi történt Belgrádban  
 - Károlyi Belgrádba utazott, tárgyalásra  
 	- Bízott az Antant jóindulatában  
 - A tárgyaláson kiderült, hogy Károlyi és a kialakuló magyar demokratikus állam  
@@ -325,13 +326,13 @@ Hf: Esszéírás
 	- A szerbek és románok benyomultak a kijelölt területükre  
 	- Károlyi nem reagált, még mindig hitt az Antantba  
 		- Az Antant nem értékelte Károlyi Demokratikus politikáját  
-### HF: Felvidéki történések; 1918. December 1-2.  
-#### Felvidéki történések  
+## HF: Felvidéki történések; 1918. December 1-2.  
+### Felvidéki történések  
 - 1918. December 23. - Ideiglenes határok Csehszlovákia létrehozásához  
 - Csehszlovákok elfoglalták a felvidéket  
 	- 1918. December 29. - Kassa  
 	- 1918. December 30. - Pozsony  
-#### 1918. December 1-2.  
+### 1918. December 1-2.  
 - Gyulafehérvár, Román nemzeti gyűlés  
 - Kimondták Erdély és a Román Királyság egyesülését  
 - Károlyi nem értett egyet, nem tudta megakadályozni  
