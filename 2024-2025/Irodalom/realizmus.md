@@ -438,4 +438,17 @@
 	- Liliom = Tisztaság, ártatlanság  
 	- Hattyú = Szépség, tisztaság, elegancia  
 	- Összességében az isteni megbocsátás adhat még Ágnesnek vígasztalást  
-	> Oh! irgalom atyja, ne hagyj el.  
+	> "Oh! irgalom atyja, ne hagyj el."  
+5. Refrén szerepe  
+	> "Oh! irgalom atyja, ne hagyj el."  
+	1. Mondhatja maga Ágnes, hiszen számára szükséges az Isten kegyelme  
+	2. Mondhatja az elbeszélő költő, aki szánja Ágnest  
+	3. Mondhatják a bírák is  
+	> "... Isten adjon erőt ahhoz és kegyelmet"  
+	4. Verselése  
+		- Rímelése: XAXAX  
+		- A rímtelen sorok feszültség teremtő erejűek  
+		- A versszakok első 4 sora ütemhangsúlyos; 2 üteműek a sorok, 8 szótagosak (4/4)  
+		- A refrén időmértékes verselésű; --UU-UU-U  
+			- A ritmust a hosszú és rövid szótagok szabályos váltakozása adja  
+### Arany János - V. László  

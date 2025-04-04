@@ -475,3 +475,37 @@ Teljhatalom.
 - 1919.11.16. - Horthy bevonult BP-re, megtartotta nagy beszédét  
 - 1920.01 - Választások, a Kisgazdapárt nyert  
 - 1920.03.01. - Horthy-t megválasztja a Nemzetgyűlés Kormányzónak  
+## Előzmény - Következmény  
+1. 1918.Nov.16, M.O. köztársaság lesz  
+	- Előzmény:  
+		- Őszi Rózsás forradalom  
+	- Következmény:  
+		- 1920.Januári választások után Februárban döntenek arról, hogy Monarchia vagy Köztársaság legyen  
+			- Király nélküli királyság lett  
+2. Felvidék visszafoglalása  
+	- Előzmény:  
+		- Kommunisták átvették a hatalmat  
+		- Vörös hadsereg megalkotása  
+		- Megígérték a kommunisták a népnek, hogy az elvesztett területeket átveszik  
+	- Következmény:  
+		- Az Antant beavatkozott az ellenállás hatására  
+			- Vix-jegyzék  
+3. Vörös Terror  
+	- Előzmény:  
+		- Kommunisták átvették a hatalmat, Proletárdiktatúra  
+		- Hadsereget építettek  
+		- Kihasználták a hadseregüket, hogy hatalmukat megtartsák  
+	- Következmény:  
+		- A nép terrorban van tartva, nem voltak megelégedve  
+		- A nép fellázadt a kommunisták ellen, majd elhagyták az országot  
+		- A Fehér Terror volt a válasz rá  
+4. Károlyi Mihály földet oszt  
+	- Előzmény:  
+		- A nép bízalmát akarta elnyerni Károlyi Mihály  
+		- A parasztoknak akart földet adni, hogy őket a saját oldalára fordítsa  
+		- A nemesek nem akartak földet adni, ezért csak Károlyi és nagy követői adtak földet el  
+	- Következmény:  
+		- Nem akart senki se földet eladni  
+		- Nagyon kevés ember kapott földet  
+		- Túl későn kezdett el tevékenykedni Károlyi, nem tudta hatalmát megtartani  
+## HF felkészülni dogára (03.07)  
