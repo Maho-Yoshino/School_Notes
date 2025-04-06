@@ -312,3 +312,17 @@ Mém:
 			- állító és tagadó mondatok is bírhatnak stílushatással  
 			- A sorrend pl. nyomatékosító hatással bírhat  
 			- stílusirányzatok Tk. 118-122. o.  
+6. Stílusirányzatok  
+	1. Antikvitás -> Ókor, a klasszikus görög-római kultúra  
+	2. Középkor, V-XII. század  
+	3. Reneszánsz, XIII-XVI. sz.  
+	4. Manierizmus, XVI. sz. (Reneszánsz lecsengése)  
+	5. Barokk (Korstílus)  
+	6. Rokokó (A barokk lecsengése)  
+	7. Klasszicizmus, XVIII-XIX. sz.  
+	8. Szentimentalizmus, XVIII-XIX. sz. (Érzékenység - érzelmek)  
+	9. Romantika, XIX. sz.  
+	10. Népiesség, XIX. sz.  
+	11. Realizmus, XIX. sz.  
+	12. Modernség, XIX-XXI. sz.  
+			- Szimbolizmus (jelkép)  
