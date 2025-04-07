@@ -452,3 +452,26 @@
 		- A refrén időmértékes verselésű; --UU-UU-U  
 			- A ritmust a hosszú és rövid szótagok szabályos váltakozása adja  
 ### Arany János - V. László  
+- Nagykőrösi ballada, 1853  
+- Témája: Hunyadi László elárulása kapcsán az uralkodó esküszegése  
+- Párhuzamos (kétszólamú) szerkesztésű ballada  
+	- 1. Szólam: Elbeszélő töredékes közlése az eseményekről  
+	- 2. Szólam (az idézőjeles versszakok): a Király és közvetlen emberének párbeszéde  
+### Arany János - Szondi két apródja  
+- Nagykőrösi b.  
+- Téma: Szondi György két apródjáról/fegyverhordó lantos énekeséről szól => a hűség mintaképei!  
+- Kétszólamú  
+	- 1. sz.: Ali követe kéri a két apródot, hogy a győztest dicsőítsék  
+	- 2. sz.: a lantos apródok elmesélik uruk dicső tetteit és halálát  
+### Arany János Kései balladái - az Őszikék versciklus balladái  
+- Az Őszikék kötet keletkezése  
+	1. 1877, Gyulai Páltól kapott kapcsos könyvbe kezdi írni verseit, nyugdíjba vonulása után (Főleg a Margit-szigeten)  
+	2.  
+		- Ősszel kezdte írni  
+		- Elmúlás, összegzés, számadás  
+		- Van egy ilyen virág is  
+	3. A kötetben a balladák mellett líra művek is vannak  
+	4. Balladák:  
+		- Vörös Rébék  
+		- Híd-avatás  
+		- Tetemre hívás  
