@@ -475,3 +475,8 @@
 		- Vörös Rébék  
 		- Híd-avatás  
 		- Tetemre hívás  
+#### Vörös Rébék  
+- Szgy. 138. o.  
+- Tk. 86-88. o.  
+#### Híd-avatás  
+- Öngyilkosság  

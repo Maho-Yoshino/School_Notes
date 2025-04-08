@@ -22,7 +22,7 @@ def itan(radian:int|float): return round(r2d(atan(radian)), round_val)
 def eq(eq_num:int|None=None):
 	equations = [
 		# [egyenlet, elnevezés, változók]
-		# ["", "", ()]
+		# ["", "", ""]
 		["(-b+-sqrt(b^2-4*a*c))/(2*a)", "Másodfokú függvény", "a, b, c"],
 		["sqrt(a^2+b^2)", "Pitagorasz tétel", "a, b"],
 		["a+b>c and a+c>b and b+c>a", "Háromszög validálás", "a, b, c"],
@@ -30,7 +30,8 @@ def eq(eq_num:int|None=None):
 		["((x1+x2)/2), (y1+y2)/2", "Két pont felezőpontja", "x1, y1, x2, y2"],
 		["sqrt(s*(s-a)*(s-b)*(s-c))", "Háromszög területe (Heron)", "a, b, c, s"],
 		["(a+b+c)/2", "Heron s változó", "a, b, c"],
-		["sqrt(((a+b+c)/2)*(((a+b+c)/2)-a)*(((a+b+c)/2)-b)*(((a+b+c)/2)-c))","Kompakt Heron képlet", "a, b, c"]
+		["sqrt(((a+b+c)/2)*(((a+b+c)/2)-a)*(((a+b+c)/2)-b)*(((a+b+c)/2)-c))","Kompakt Heron képlet", "a, b, c"],
+		["y-yo=m(x-xo) -r", "Lineáris egyenlet", "m, xo, yo"]
 	]
 	while eq_num is None or eq_num not in range(1, len(equations)+1):
 		try:
@@ -79,10 +80,12 @@ while True:
 				open_count = equation_split[0].count("(")
 				close_count = equation_split[0].count(")")
 				raise SyntaxError(f"Unbalanced parentheses. (add {"\"(\"" if open_count < close_count else "\")\""} (*{max(open_count, close_count)-min(open_count, close_count)}))")
+			if equation_split[0].__contains__("eq("):
+				equation_split[0] = eq(int(equation_split[0].split("(")[1].split(")")[0])) if not equation_split[0].__contains__("eq()") else eq()
 			equation = eval(f"rep(\"{equation_split[0]}\",{','.join(equation_split[1:])})")
-		for item, replacant in replace_dict.items():
-			equation = equation.replace(item, replacant)
 		try:
+			for item, replacant in replace_dict.items():
+				equation = equation.replace(item, replacant)
 			if raw:
 				equation = equation.replace("-r", "")
 				print(finished_eq := str(equation))
