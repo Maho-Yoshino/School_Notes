@@ -509,3 +509,13 @@ Teljhatalom.
 		- Nagyon kevés ember kapott földet  
 		- Túl későn kezdett el tevékenykedni Károlyi, nem tudta hatalmát megtartani  
 ## HF felkészülni dogára (03.07)  
+# Trianoni békediktátum  
+## Mi az a Vörös térkép? (Elemzéssel)  
+Teleki Pál földrajzprofesszor politikus által létrehozott, az etnikai viszonyokat bemutató térkép  
+## Ki az az Apponyi Albert?  
+Gróf Politikus, a Békedelegáció vezetője  
+Konzervatív személyiség  
+## Keletkezése  
+- Diktátum - Ránk kényszerített béke  
+- 1920. Június. 4.  
+- A versailesi Nagy-Trianon palotában írták alá  
