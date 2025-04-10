@@ -480,3 +480,22 @@
 - Tk. 86-88. o.  
 #### Híd-avatás  
 - Öngyilkosság  
+## Novella műfaja  
+1. A szó francia eredetű: nouvelle = újdonság  
+2. Kisepikai műfaj:  
+	- **rövid** terjedelmű  
+	- kevés szereplő  
+	- általában **1 főszereplő**  
+	- **rövid idő alatt zajlik** a **cselekménye**  
+	- A novellák **váratlan fordulattal, csattanóval** végződnek  
+3. Létezett a műfaj a reneszánszban is (Boccaccio: Dekameron), viszont csak a **19. században** terjedt el. A romantika és realizmus stílusirányzatának idején lesz népszerű, pl. Jókai (romantika), Mikszáth Kálmán (romantika ÉS realizmus egyszerre)
+4. Novellatípusok
+   1. Lélektani novellák (mai szóval pszihológiai) mélységű
+   2. Népies / városi témájú
+   3. Egyperces novellák (Örkény István)
+5. A klasszikus novellák felépítése (pl. tragédiák)
+   1. Előkészítés: Expozíció
+   2. Bonyodalom
+   3. Kibontakozás
+   4. Tetőpont
+   5. Végkifejlet

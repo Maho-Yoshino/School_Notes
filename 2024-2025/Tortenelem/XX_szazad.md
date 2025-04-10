@@ -515,7 +515,25 @@ Teleki Pál földrajzprofesszor politikus által létrehozott, az etnikai viszon
 ## Ki az az Apponyi Albert?  
 Gróf Politikus, a Békedelegáció vezetője  
 Konzervatív személyiség  
+Érvek, amiket felhasznált:  
+	- Gazdasági fejlődés  
+	- Aránytalan bűntetés  
+	- Etnikai érv  
+		- Wilsoni elvek nem-megvalósulása  
+		- M.O. lakosságának mekkora része el lesz csatolva  
+		- Nem nemzetállamok az új államok  
+		- Tradíció  
 ## Keletkezése  
 - Diktátum - Ránk kényszerített béke  
 - 1920. Június. 4.  
 - A versailesi Nagy-Trianon palotában írták alá  
+- Simonyi Szemadan Károly  
+## Kik kaptak M.O. területéből?  
+- Csehszlovákia - Felvidék, Kárpátalja - 61633 km<sup>2</sup> - 3.518M fő (30%, 1.055M Magyar)  
+- Lengyelország - Szepesi árvai területek - 600 km<sup>2</sup> - ?  
+- Románia - Erdély, Bánság, Partium - 103093 km<sup>2</sup> - 5.258M (32%, 1.682M)  
+- Szerb-Horvát-Szlovén Királyság - Nyugati Bánság, Vajdaság - 20551 km<sup>2</sup> - 1.509M (30%, 452.7k)  
+- Olaszország - Fiume - 21 km<sup>2</sup> - ?  
+- Ausztria - Őrvidék - 4020 km<sup>2</sup> - 291k (9%, 26.19k)  
+- Magyarország - Minden, ami megmaradt - 287000 km<sup>2</sup> => 93000 km<sup>2</sup> - 18.265M (54.5%, 9.954M) => 7-8M fő  
+### HF: 143-144. o.  
