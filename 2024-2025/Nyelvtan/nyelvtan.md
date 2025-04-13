@@ -325,4 +325,4 @@ Mém:
 	10. Népiesség, XIX. sz.  
 	11. Realizmus, XIX. sz.  
 	12. Modernség, XIX-XXI. sz.  
-			- Szimbolizmus (jelkép)  
+		- Szimbolizmus (jelkép)  
