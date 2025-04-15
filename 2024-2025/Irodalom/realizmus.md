@@ -488,14 +488,28 @@
 	- általában **1 főszereplő**  
 	- **rövid idő alatt zajlik** a **cselekménye**  
 	- A novellák **váratlan fordulattal, csattanóval** végződnek  
-3. Létezett a műfaj a reneszánszban is (Boccaccio: Dekameron), viszont csak a **19. században** terjedt el. A romantika és realizmus stílusirányzatának idején lesz népszerű, pl. Jókai (romantika), Mikszáth Kálmán (romantika ÉS realizmus egyszerre)
-4. Novellatípusok
-   1. Lélektani novellák (mai szóval pszihológiai) mélységű
-   2. Népies / városi témájú
-   3. Egyperces novellák (Örkény István)
-5. A klasszikus novellák felépítése (pl. tragédiák)
-   1. Előkészítés: Expozíció
-   2. Bonyodalom
-   3. Kibontakozás
-   4. Tetőpont
-   5. Végkifejlet
+3. Létezett a műfaj a reneszánszban is (Boccaccio: Dekameron), viszont csak a **19. században** terjedt el. A romantika és realizmus stílusirányzatának idején lesz népszerű, pl. Jókai (romantika), Mikszáth Kálmán (romantika ÉS realizmus egyszerre)  
+4. Novellatípusok  
+	1. Lélektani novellák (mai szóval pszihológiai) mélységű  
+	2. Népies / városi témájú  
+	3. Egyperces novellák (Örkény István)  
+5. A klasszikus novellák felépítése (pl. tragédiák)  
+	1. Előkészítés: Expozíció  
+	2. Bonyodalom  
+	3. Kibontakozás  
+	4. Tetőpont  
+	5. Végkifejlet  
+6. Az elbeszélő/narrátor nézőpontjai  
+	1. Az E/3 személyű történetmesélés	  
+		pl. a realista regények/novellák egy része: az eseményeket, a szereplőket tárgyilagosan, külső nézőpontból látjuk  
+	2. Szubjektív nézőpont, amikor az író által belehelyezkedünk a szereplő helyzetébe  
+		pl. "halljuk" a gondolatait, érzelmileg azonosulunk vele  
+## Mikszáth Kálmán (1847-1910)  
+### Élete, Pályája  
+1. Született: Palócföldön, Szklabonyán  
+	1. Palócok Felvidéken és a mai M.O.-n, pl. Nógrád, Heves megyében élő magyar népcsoport  
+	2. Pesti jogot tanult  
+	3. 1871: Mauks Ilonát feleségül veszi, elválnak, majd újra összeházasodnak  
+	4. Írói, újságírói sikerek az 1880as években  
+	5. Politikai szerepet is vállalt: Szabadelvű Pártban Képviselő  
+	6. Írt országgyűlési tudósításokat is  

@@ -535,5 +535,32 @@ Konzervatív személyiség
 - Szerb-Horvát-Szlovén Királyság - Nyugati Bánság, Vajdaság - 20551 km<sup>2</sup> - 1.509M (30%, 452.7k)  
 - Olaszország - Fiume - 21 km<sup>2</sup> - ?  
 - Ausztria - Őrvidék - 4020 km<sup>2</sup> - 291k (9%, 26.19k)  
-- Magyarország - Minden, ami megmaradt - 287000 km<sup>2</sup> => 93000 km<sup>2</sup> - 18.265M (54.5%, 9.954M) => 7-8M fő  
+- Magyarország - Minden, ami megmaradt - 287000 km<sup>2</sup> => 93073 km<sup>2</sup> - 18.265M (54.5%, 9.954M) => 7-8M fő  
 ### HF: 143-144. o.  
+#### Utódállamok és területi újraelosztás  
+- Csehszlovákia, Románia, Szerb–Horvát–Szlovén Királyság és Ausztria jelentős magyar lakosságú területeket kapott.  
+- Több helyen üldözték vagy elűzték a magyarokat, vagyonelkobzások, jogfosztások történtek.  
+#### Népszavazás Sopronban (1921)  
+- Sopron és környéke Ausztriához került volna.  
+- Népszavazás alapján a lakosság 65%a Magyarország mellett döntött.  
+- Sopron elnyerte a "leghűségesebb város" címet.  
+#### Kisebbségi kérdés  
+- A magyarok kisebbségbe kerültek az utódállamokban.  
+- A magyar kormány célja: a nemzeti egység megőrzése, a revízió.  
+#### Politikai következmények  
+- Megalakult a Rongyos Gárda: fegyveres csoport, amely a nyugat-magyarországi területek megtartásáért harcolt.  
+- A Tanácsköztársaság bukása után az ország politikailag, gazdaságilag is meggyengült.  
+### Milyen katonai előírásokat szabtak ki a Magyarokra  
+- Általános hadkötelezettséget megtiltották, csak önkéntes hadsereg lehet  
+- A hadsereg max létszáma 35k lehetett  
+- Megtiltották a modern fegyvernemek (tank, repülő, nehéztüzérség) tartását és gyártását  
+- Felszedték az egyik sínpárt Salgótarján felé, hogy nehezebb legyen felvonulni a határra  
+### Gazdasági hatások  
+- Az új államok védvámokkal segíteni kívánták országaik gazdasági egységgé alakítását  
+- A korábbi ötvenmilliós piacra termelő, fejlett iparágak túlméretezetté váltak, és a más, kevésbé fejlett ágazatok pedig fejlesztésre szorultak  
+	- Tőkehiány miatt nem volt lehetséges a fejlesztés  
+- A nyugathoz való felzárkózás helyett a stagnálás, leszakadás időszaka következett  
+- Bányászat:  
+	- Bányáink jelentős része el lett csatolva  
+- Erdőink 80%át elveszettük  
+### Hf: hogy alakul át a településszerkezet és a közlekedési hálózat? Mekkora jóvátételt kellett fizetnünk?  
