@@ -513,3 +513,29 @@
 	4. Írói, újságírói sikerek az 1880as években  
 	5. Politikai szerepet is vállalt: Szabadelvű Pártban Képviselő  
 	6. Írt országgyűlési tudósításokat is  
+### Novellás kötetei  
+- A tót atyafiak  
+- A jó palócok  
+1. Keletkezésük: 1882, meghozzák az írói sikert  
+2. Mikszáth újszerű parasztábrázolása  
+	1. A palóc *paraszti* és *pásztor*társadalom világát jelenítik meg a novellák  
+	2. Mikszáth egyszerre realista, romantikus és modern eszközökkel ismerteti meg a palócok világát  
+	3. A világ idilli, kerek, egész, de fenyegetve van kívülről  
+3. Mikszáth írói stílusa  
+	1. Alkalmazza az anekdota "műfaját"  
+		- Önálló kis történetek a főtörténeten belül  
+		- Színesítik, gazdagítják a művet  
+		- Anekdotázik = jó kedvvel mesél  
+	2. Lélektanilag is belelátunk a szereplők magatartásába (Realista vonás)  
+	3. A nézőpontok váltakozása modern írói eszköz  
+	4. Idilli világ és a szimpátia a szereplők felé romantikus jegy  
+	5. Alkalmazza a balladisztikus elbeszélést: kihagyások, drámaiság  
+	6. A párbeszédek, belső monológok tömörek, de lényegretörőek  
+	7. A táj, a természet fontos jelentéssel bír, gyakran megszólalnak a táj elemei, véleményt sugallnak, szereplővé válnak  
+4. A tót atyafiak  
+	1. 4 hosszabb novellát tartalmaz  
+	2. szereplői a pásztorvilágból valók, pl.: A fekete folt c.  
+
+A jó palócok:  
+- A bágyi csoda  
+- Szegény Gélyi János lovai  
