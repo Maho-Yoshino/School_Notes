@@ -564,3 +564,24 @@ Konzervatív személyiség
 	- Bányáink jelentős része el lett csatolva  
 - Erdőink 80%át elveszettük  
 ### Hf: hogy alakul át a településszerkezet és a közlekedési hálózat? Mekkora jóvátételt kellett fizetnünk?  
+#### Településszerkezet  
+- Magyarország területén belül viszonylag kevés nagyobb város maradt, így Budapest súlya tovább nőtt  
+- Egyes határmenti városok, amelyek korábban nem voltak jelentősek, új központi szerepköröket kaptak (pl. Debrecen, Szeged)  
+#### Közlekedési hálózat  
+- A vasúthálózat az egykori történelmi Magyarország egészére volt kiépítve, az új határok viszont ezeken keresztül mennek  
+	- Sok útvonal megszűnt  
+	- Sok végállomás a határ közelébe került  
+	- A vasúti közlekedés nehezen szervezhető lett  
+	- A gazdaság is szenvedett ettől  
+#### Jóvátétel  
+- A Trianoni békediktátum előírta, hogy M.O.-nak jóvátételt kell fizetni, viszont konkrét összeget nem adott meg, későbbi megállapodásra bízta  
+- Terményben, ipari termékekben és készpénzben kellett volna fizetni  
+## Ténymegállapítás  
+- A területeket, ahol más népek jelentősen többségben vannak, elcsatolták (+ dél szlovákiát), ezért Magyarország nemzetállam lett ezáltal  
+- Az osztrákoknak is adtak földet, ami nagy geciség volt  
+- Vasúti vonalainkat megcsorbították (legtöbb határhoz vezető sínpárt elfelezték), hogy nehezebb legyen mozgósítani, viszont a gazdaság is szenvedett ezek miatt  
+
+- Románia megkapta Erdélyt és Partiumot (106k km<sup>2</sup>), ami nagyobb, mint trianoni M.O.  
+- Az elcsatolt államok miatt nem lehettek körülöttünk nemzetállamok  
+### Forrás: 141.o. 4. ábra  
+- A Nagy-Trianon palotában íratták alá velünk a Trianoni békediktátumot, 1920. Június 4-én. Ez a világ egyik legrosszabbul, legigazságtalanabbul kitalált békeszerződése, ami ránk lett erőltetve.  
