@@ -5,5 +5,6 @@
 /2024-2025/AdatbazisKezeles/20*.docx
 *.ggb
 *.cache
-/2024-2025/AsztaliAlkFejlesztes/feladatok/infojegyzet_vizsgafeladatok/.vs
+*/.vs
+*/obj
 *.json
