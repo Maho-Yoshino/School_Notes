@@ -1,0 +1,6 @@
+Z:\2024_2025\Programozas\20241105\bin\Debug\20241105.exe.config
+Z:\2024_2025\Programozas\20241105\bin\Debug\20241105.exe
+Z:\2024_2025\Programozas\20241105\bin\Debug\20241105.pdb
+Z:\2024_2025\Programozas\20241105\obj\Debug\20241105.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\20241105\obj\Debug\20241105.exe
+Z:\2024_2025\Programozas\20241105\obj\Debug\20241105.pdb

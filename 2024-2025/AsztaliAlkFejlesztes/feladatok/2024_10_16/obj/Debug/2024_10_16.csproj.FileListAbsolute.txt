@@ -1,0 +1,6 @@
+Z:\2024_2025\Programozas\2024_10_16\obj\Debug\2024_10_16.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\2024_10_16\bin\Debug\2024_10_16.exe.config
+Z:\2024_2025\Programozas\2024_10_16\bin\Debug\2024_10_16.exe
+Z:\2024_2025\Programozas\2024_10_16\bin\Debug\2024_10_16.pdb
+Z:\2024_2025\Programozas\2024_10_16\obj\Debug\2024_10_16.exe
+Z:\2024_2025\Programozas\2024_10_16\obj\Debug\2024_10_16.pdb

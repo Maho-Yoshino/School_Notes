@@ -1,0 +1,6 @@
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\obj\Debug\First Project.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\bin\Debug\First Project.exe.config
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\bin\Debug\First Project.exe
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\bin\Debug\First Project.pdb
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\obj\Debug\First Project.exe
+Z:\2024_2025\Programozas\2024_09_19\FirstProject\First Project\obj\Debug\First Project.pdb

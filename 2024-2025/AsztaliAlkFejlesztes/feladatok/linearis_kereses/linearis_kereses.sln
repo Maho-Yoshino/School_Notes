@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linearis_kereses", "linearis_kereses.csproj", "{3DEDD788-B875-4425-9AE0-FF8A5F93E1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DEDD788-B875-4425-9AE0-FF8A5F93E1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEDD788-B875-4425-9AE0-FF8A5F93E1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEDD788-B875-4425-9AE0-FF8A5F93E1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEDD788-B875-4425-9AE0-FF8A5F93E1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3C146D-2D72-4A56-871D-BE7AFC37D716}
+	EndGlobalSection
+EndGlobal

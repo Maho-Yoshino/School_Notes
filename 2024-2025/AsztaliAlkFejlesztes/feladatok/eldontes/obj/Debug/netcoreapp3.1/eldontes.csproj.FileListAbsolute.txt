@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.exe
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.deps.json
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.runtimeconfig.json
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.dll
+Z:\2024_2025\Programozas\eldontes\bin\Debug\netcoreapp3.1\eldontes.pdb
+Z:\2024_2025\Programozas\eldontes\obj\Debug\netcoreapp3.1\eldontes.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\eldontes\obj\Debug\netcoreapp3.1\eldontes.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\eldontes\obj\Debug\netcoreapp3.1\eldontes.AssemblyInfo.cs
+Z:\2024_2025\Programozas\eldontes\obj\Debug\netcoreapp3.1\eldontes.dll
+Z:\2024_2025\Programozas\eldontes\obj\Debug\netcoreapp3.1\eldontes.pdb

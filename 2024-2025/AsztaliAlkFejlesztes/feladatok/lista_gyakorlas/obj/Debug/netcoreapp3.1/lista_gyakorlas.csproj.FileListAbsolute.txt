@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.exe
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.deps.json
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.runtimeconfig.json
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.dll
+Z:\2024_2025\Programozas\lista_gyakorlas\bin\Debug\netcoreapp3.1\lista_gyakorlas.pdb
+Z:\2024_2025\Programozas\lista_gyakorlas\obj\Debug\netcoreapp3.1\lista_gyakorlas.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\lista_gyakorlas\obj\Debug\netcoreapp3.1\lista_gyakorlas.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\lista_gyakorlas\obj\Debug\netcoreapp3.1\lista_gyakorlas.AssemblyInfo.cs
+Z:\2024_2025\Programozas\lista_gyakorlas\obj\Debug\netcoreapp3.1\lista_gyakorlas.dll
+Z:\2024_2025\Programozas\lista_gyakorlas\obj\Debug\netcoreapp3.1\lista_gyakorlas.pdb

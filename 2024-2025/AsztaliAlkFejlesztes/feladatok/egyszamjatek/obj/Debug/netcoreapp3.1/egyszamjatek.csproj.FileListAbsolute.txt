@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.exe
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.deps.json
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.runtimeconfig.json
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.dll
+Z:\2024_2025\Programozas\egyszamjatek\bin\Debug\netcoreapp3.1\egyszamjatek.pdb
+Z:\2024_2025\Programozas\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.AssemblyInfo.cs
+Z:\2024_2025\Programozas\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.dll
+Z:\2024_2025\Programozas\egyszamjatek\obj\Debug\netcoreapp3.1\egyszamjatek.pdb

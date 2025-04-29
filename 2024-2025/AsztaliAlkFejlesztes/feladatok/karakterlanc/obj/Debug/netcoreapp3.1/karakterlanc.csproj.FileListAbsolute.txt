@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.exe
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.deps.json
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.runtimeconfig.json
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.dll
+Z:\2024_2025\Programozas\karakterlanc\bin\Debug\netcoreapp3.1\karakterlanc.pdb
+Z:\2024_2025\Programozas\karakterlanc\obj\Debug\netcoreapp3.1\karakterlanc.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\karakterlanc\obj\Debug\netcoreapp3.1\karakterlanc.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\karakterlanc\obj\Debug\netcoreapp3.1\karakterlanc.AssemblyInfo.cs
+Z:\2024_2025\Programozas\karakterlanc\obj\Debug\netcoreapp3.1\karakterlanc.dll
+Z:\2024_2025\Programozas\karakterlanc\obj\Debug\netcoreapp3.1\karakterlanc.pdb

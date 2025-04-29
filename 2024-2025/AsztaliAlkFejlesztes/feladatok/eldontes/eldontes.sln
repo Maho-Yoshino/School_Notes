@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eldontes", "eldontes.csproj", "{9343CEE0-3DB7-4C98-9531-CD9509D9BC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9343CEE0-3DB7-4C98-9531-CD9509D9BC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9343CEE0-3DB7-4C98-9531-CD9509D9BC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9343CEE0-3DB7-4C98-9531-CD9509D9BC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9343CEE0-3DB7-4C98-9531-CD9509D9BC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733897C6-9E41-47F3-B662-DA9B9788C958}
+	EndGlobalSection
+EndGlobal

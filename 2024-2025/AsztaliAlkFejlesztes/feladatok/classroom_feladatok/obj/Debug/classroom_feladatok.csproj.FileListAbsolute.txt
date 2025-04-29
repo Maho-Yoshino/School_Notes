@@ -1,0 +1,6 @@
+Z:\2024_2025\Programozas\classroom_feladatok\bin\Debug\classroom_feladatok.exe.config
+Z:\2024_2025\Programozas\classroom_feladatok\bin\Debug\classroom_feladatok.exe
+Z:\2024_2025\Programozas\classroom_feladatok\bin\Debug\classroom_feladatok.pdb
+Z:\2024_2025\Programozas\classroom_feladatok\obj\Debug\classroom_feladatok.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\classroom_feladatok\obj\Debug\classroom_feladatok.exe
+Z:\2024_2025\Programozas\classroom_feladatok\obj\Debug\classroom_feladatok.pdb

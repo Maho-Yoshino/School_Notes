@@ -1,0 +1,6 @@
+Z:\2024_2025\Programozas\2024_11_12\fel1\bin\Debug\fel1.exe.config
+Z:\2024_2025\Programozas\2024_11_12\fel1\bin\Debug\fel1.exe
+Z:\2024_2025\Programozas\2024_11_12\fel1\bin\Debug\fel1.pdb
+Z:\2024_2025\Programozas\2024_11_12\fel1\obj\Debug\fel1.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\2024_11_12\fel1\obj\Debug\fel1.exe
+Z:\2024_2025\Programozas\2024_11_12\fel1\obj\Debug\fel1.pdb

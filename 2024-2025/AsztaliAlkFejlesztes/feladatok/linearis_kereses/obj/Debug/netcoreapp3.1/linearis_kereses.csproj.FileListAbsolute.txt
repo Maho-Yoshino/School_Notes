@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.exe
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.deps.json
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.runtimeconfig.json
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.dll
+Z:\2024_2025\Programozas\linearis_kereses\bin\Debug\netcoreapp3.1\linearis_kereses.pdb
+Z:\2024_2025\Programozas\linearis_kereses\obj\Debug\netcoreapp3.1\linearis_kereses.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\linearis_kereses\obj\Debug\netcoreapp3.1\linearis_kereses.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\linearis_kereses\obj\Debug\netcoreapp3.1\linearis_kereses.AssemblyInfo.cs
+Z:\2024_2025\Programozas\linearis_kereses\obj\Debug\netcoreapp3.1\linearis_kereses.dll
+Z:\2024_2025\Programozas\linearis_kereses\obj\Debug\netcoreapp3.1\linearis_kereses.pdb

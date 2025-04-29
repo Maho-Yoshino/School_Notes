@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kozepszintu_gyakorlo/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.12.0"
+        },
+        "runtime": {
+          "kozepszintu_gyakorlo.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.12.0": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.12.0.0",
+            "fileVersion": "1.12.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kozepszintu_gyakorlo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VHtVZmfoYhQyA/POvZRLuTpCz1zhzIDrdYRJIRV73e9wKAzjW71biYNOHOWx8MxEX3TE4TWVfx1QDRoZcj2AWw==",
+      "path": "htmlagilitypack/1.12.0",
+      "hashPath": "htmlagilitypack.1.12.0.nupkg.sha512"
+    }
+  }
+}

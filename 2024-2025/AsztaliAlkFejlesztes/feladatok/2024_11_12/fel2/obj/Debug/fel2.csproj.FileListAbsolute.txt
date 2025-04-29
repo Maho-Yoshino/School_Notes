@@ -1,0 +1,5 @@
+Z:\2024_2025\Programozas\2024_11_12\fel2\bin\Debug\fel2.exe.config
+Z:\2024_2025\Programozas\2024_11_12\fel2\bin\Debug\fel2.exe
+Z:\2024_2025\Programozas\2024_11_12\fel2\bin\Debug\fel2.pdb
+Z:\2024_2025\Programozas\2024_11_12\fel2\obj\Debug\fel2.exe
+Z:\2024_2025\Programozas\2024_11_12\fel2\obj\Debug\fel2.pdb

@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.exe
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.deps.json
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.runtimeconfig.json
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.dll
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\bin\Debug\netcoreapp3.1\regex_testing_2024_11_22.pdb
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\obj\Debug\netcoreapp3.1\regex_testing_2024_11_22.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\obj\Debug\netcoreapp3.1\regex_testing_2024_11_22.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\obj\Debug\netcoreapp3.1\regex_testing_2024_11_22.AssemblyInfo.cs
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\obj\Debug\netcoreapp3.1\regex_testing_2024_11_22.dll
+Z:\2024_2025\Programozas\regex_testing_2024_11_22\obj\Debug\netcoreapp3.1\regex_testing_2024_11_22.pdb

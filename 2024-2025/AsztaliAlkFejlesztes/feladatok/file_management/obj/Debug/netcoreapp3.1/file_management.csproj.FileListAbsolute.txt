@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.exe
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.deps.json
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.runtimeconfig.json
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.dll
+Z:\2024_2025\Programozas\file_management\bin\Debug\netcoreapp3.1\file_management.pdb
+Z:\2024_2025\Programozas\file_management\obj\Debug\netcoreapp3.1\file_management.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\file_management\obj\Debug\netcoreapp3.1\file_management.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\file_management\obj\Debug\netcoreapp3.1\file_management.AssemblyInfo.cs
+Z:\2024_2025\Programozas\file_management\obj\Debug\netcoreapp3.1\file_management.dll
+Z:\2024_2025\Programozas\file_management\obj\Debug\netcoreapp3.1\file_management.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infojegyzet_vizsgafeladatok", "infojegyzet_vizsgafeladatok.csproj", "{F1C0B590-60A6-4D23-B0F9-18DFBCA9B76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C0B590-60A6-4D23-B0F9-18DFBCA9B76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C0B590-60A6-4D23-B0F9-18DFBCA9B76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C0B590-60A6-4D23-B0F9-18DFBCA9B76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C0B590-60A6-4D23-B0F9-18DFBCA9B76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1668D3-EB53-4489-8BAF-DEE6DE069908}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.exe
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.deps.json
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.runtimeconfig.json
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.runtimeconfig.dev.json
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.dll
+Z:\2024_2025\Programozas\enaplo_feladat\bin\Debug\netcoreapp3.1\enaplo_feladat.pdb
+Z:\2024_2025\Programozas\enaplo_feladat\obj\Debug\netcoreapp3.1\enaplo_feladat.csprojAssemblyReference.cache
+Z:\2024_2025\Programozas\enaplo_feladat\obj\Debug\netcoreapp3.1\enaplo_feladat.AssemblyInfoInputs.cache
+Z:\2024_2025\Programozas\enaplo_feladat\obj\Debug\netcoreapp3.1\enaplo_feladat.AssemblyInfo.cs
+Z:\2024_2025\Programozas\enaplo_feladat\obj\Debug\netcoreapp3.1\enaplo_feladat.dll
+Z:\2024_2025\Programozas\enaplo_feladat\obj\Debug\netcoreapp3.1\enaplo_feladat.pdb
