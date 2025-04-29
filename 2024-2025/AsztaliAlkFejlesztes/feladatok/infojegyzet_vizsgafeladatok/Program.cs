@@ -8,7 +8,7 @@ namespace infojegyzet_vizsgafeladatok
 {
     class Program
     {
-        private static readonly Type[] types = new Type[] { typeof(Vizibicikli), typeof(Jackie), typeof(Versenyzok), typeof(Operatorok), typeof(Kosar2004), typeof(Balkezesek), typeof(Fuvar) };
+        private static readonly Type[] types = new Type[] { typeof(Vizibicikli), typeof(Jackie), typeof(Versenyzok), typeof(Operatorok), typeof(Kosar2004), typeof(Balkezesek), typeof(Fuvar), typeof(Kemiai_elemek) };
         public static string PadNum<T>(T num, char pad_char)
         {
             return num.ToString().PadLeft(2, pad_char);
@@ -544,9 +544,26 @@ namespace infojegyzet_vizsgafeladatok
             // 5. Feladat
             Console.WriteLine($"5. feladat: \n\t{string.Join("\n\t", adatok.ToList().ConvertAll(x => $"{x.fiz_mod}: {adatok.Count(y => y.fiz_mod == x.fiz_mod)} fuvar").Distinct())}");
             // 6. Feladat
-            Console.WriteLine($"6. feladat: ");
+            Console.WriteLine($"6. feladat: {Math.Round(adatok.Sum(x => x.tavolsag)*1.6, 2)}km");
             // 7. Feladat
-            Console.WriteLine($"7. feladat: ");
+            FuvAdat leghosszabb = adatok.Where(x => x.idotartam == adatok.Max(y => y.idotartam)).First();
+            Console.WriteLine($"7. feladat: Leghosszabb fuvar:\n" +
+                              $"\tFuvar hossza: {leghosszabb.idotartam} másodperc\n" +
+                              $"\tTaxi azonosító: {leghosszabb.azon}\n" +
+                              $"\tMegtett távolság: {Math.Round(leghosszabb.tavolsag*1.6, 2)} km\n" +
+                              $"\tViteldíj: {leghosszabb.viteldij}$");
+            // 8. Feladat
+            List<FuvAdat> hibas = new List<FuvAdat>();
+            foreach (FuvAdat adat in adatok)
+            {
+                if (adat.hibas())
+                    hibas.Add(adat);
+            }
+            string[] lines = new string[hibas.Count + 1];
+            lines[0] = "taxi_id;indulas;idotartam;tavolsag;viteldij;borravalo;fizetes_modja";
+            hibas.ConvertAll(x => $"{x.azon};{x.indulas.Year}-{PadNum(x.indulas.Month,'0')}-{PadNum(x.indulas.Day,'0')} {PadNum(x.indulas.Hour,'0')}:{PadNum(x.indulas.Minute,'0')}:{PadNum(x.indulas.Second, '0')};{x.idotartam};{x.tavolsag};{x.viteldij};{x.borravalo};{x.fiz_mod}").OrderBy(x => x.Split(';')[1]).ToArray().CopyTo(lines, 1);
+            File.WriteAllLines("hibak.txt", lines);
+            Console.WriteLine("8. feladat: hibak.txt");
         }
         class FuvAdat
         {
@@ -580,7 +597,39 @@ namespace infojegyzet_vizsgafeladatok
                 borravalo = double.Parse(tmp[5]);
                 fiz_mod = tmp[6];
             }
-
+            public bool hibas()
+            {
+                return idotartam > 0 && viteldij > 0 && tavolsag == 0;
+            }
+        }
+    }
+    /// <summary>  </summary>
+    class Kemiai_elemek : Program
+    {
+        public static void Main()
+        {
+            List<Elem> elemek = File.ReadAllLines("felfedezesek.csv", Encoding.UTF8).ToList().ConvertAll(x => new Elem(x));
+        }
+        class Elem
+        {
+            public short ev;
+            public string nev;
+            public string vegyjel;
+            public byte rendszam;
+            public string felfedezo;
+            public Elem(string line)
+            {
+                if (line == "Év;Elem;Vegyjel;Rendszám;Felfedező")
+                    return;
+                string[] temp = line.Split(';');
+                if (temp[0] == "Ókor")
+                    temp[0] = "-1";
+                ev = short.Parse(temp[0]);
+                nev = temp[1];
+                vegyjel = temp[2];
+                rendszam = byte.Parse(temp[3]);
+                felfedezo = temp[4];
+            }
         }
     }
 }

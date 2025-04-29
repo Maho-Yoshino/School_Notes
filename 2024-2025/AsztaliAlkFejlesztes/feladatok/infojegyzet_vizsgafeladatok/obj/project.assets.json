@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2024_2025\\Programozas\\infojegyzet_vizsgafeladatok\\infojegyzet_vizsgafeladatok.csproj",
+      "projectUniqueName": "C:\\Users\\molek.tamas\\Documents\\GitHub\\School_Notes\\2024-2025\\AsztaliAlkFejlesztes\\feladatok\\infojegyzet_vizsgafeladatok\\infojegyzet_vizsgafeladatok.csproj",
       "projectName": "infojegyzet_vizsgafeladatok",
-      "projectPath": "Z:\\2024_2025\\Programozas\\infojegyzet_vizsgafeladatok\\infojegyzet_vizsgafeladatok.csproj",
+      "projectPath": "C:\\Users\\molek.tamas\\Documents\\GitHub\\School_Notes\\2024-2025\\AsztaliAlkFejlesztes\\feladatok\\infojegyzet_vizsgafeladatok\\infojegyzet_vizsgafeladatok.csproj",
       "packagesPath": "C:\\Users\\molek.tamas\\.nuget\\packages\\",
-      "outputPath": "Z:\\2024_2025\\Programozas\\infojegyzet_vizsgafeladatok\\obj\\",
+      "outputPath": "C:\\Users\\molek.tamas\\Documents\\GitHub\\School_Notes\\2024-2025\\AsztaliAlkFejlesztes\\feladatok\\infojegyzet_vizsgafeladatok\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

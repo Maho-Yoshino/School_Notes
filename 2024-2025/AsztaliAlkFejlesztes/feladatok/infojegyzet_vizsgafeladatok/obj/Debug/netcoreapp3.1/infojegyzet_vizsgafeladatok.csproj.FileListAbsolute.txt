@@ -9,3 +9,14 @@ Z:\2024_2025\Programozas\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\inf
 Z:\2024_2025\Programozas\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.pdb
 Z:\2024_2025\Programozas\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.dll
 Z:\2024_2025\Programozas\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.pdb
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.exe
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.deps.json
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.runtimeconfig.json
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.runtimeconfig.dev.json
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.dll
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\bin\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.pdb
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.csprojAssemblyReference.cache
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.AssemblyInfoInputs.cache
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.AssemblyInfo.cs
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.dll
+C:\Users\molek.tamas\Documents\GitHub\School_Notes\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\obj\Debug\netcoreapp3.1\infojegyzet_vizsgafeladatok.pdb
