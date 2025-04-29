@@ -1,6 +1,0 @@
-Z:\2024_2025\Programozas\fel_31_40\bin\Debug\fel_31_40.exe.config
-Z:\2024_2025\Programozas\fel_31_40\bin\Debug\fel_31_40.exe
-Z:\2024_2025\Programozas\fel_31_40\bin\Debug\fel_31_40.pdb
-Z:\2024_2025\Programozas\fel_31_40\obj\Debug\fel_31_40.csprojAssemblyReference.cache
-Z:\2024_2025\Programozas\fel_31_40\obj\Debug\fel_31_40.exe
-Z:\2024_2025\Programozas\fel_31_40\obj\Debug\fel_31_40.pdb

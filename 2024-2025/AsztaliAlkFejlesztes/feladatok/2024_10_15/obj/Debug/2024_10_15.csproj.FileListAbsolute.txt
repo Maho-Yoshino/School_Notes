@@ -1,6 +1,0 @@
-Z:\2024_2025\Programozas\2024_10_15\bin\Debug\2024_10_15.exe.config
-Z:\2024_2025\Programozas\2024_10_15\bin\Debug\2024_10_15.exe
-Z:\2024_2025\Programozas\2024_10_15\bin\Debug\2024_10_15.pdb
-Z:\2024_2025\Programozas\2024_10_15\obj\Debug\2024_10_15.csprojAssemblyReference.cache
-Z:\2024_2025\Programozas\2024_10_15\obj\Debug\2024_10_15.exe
-Z:\2024_2025\Programozas\2024_10_15\obj\Debug\2024_10_15.pdb

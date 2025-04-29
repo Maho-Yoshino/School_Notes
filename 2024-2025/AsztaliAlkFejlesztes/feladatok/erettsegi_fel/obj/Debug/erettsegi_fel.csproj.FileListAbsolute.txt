@@ -1,6 +1,0 @@
-Z:\2024_2025\Programozas\erettsegi_fel\bin\Debug\erettsegi_fel.exe.config
-Z:\2024_2025\Programozas\erettsegi_fel\bin\Debug\erettsegi_fel.exe
-Z:\2024_2025\Programozas\erettsegi_fel\bin\Debug\erettsegi_fel.pdb
-Z:\2024_2025\Programozas\erettsegi_fel\obj\Debug\erettsegi_fel.csprojAssemblyReference.cache
-Z:\2024_2025\Programozas\erettsegi_fel\obj\Debug\erettsegi_fel.exe
-Z:\2024_2025\Programozas\erettsegi_fel\obj\Debug\erettsegi_fel.pdb

@@ -7,4 +7,4 @@
 *.cache
 */.vs
 */obj
-*.json
+*/Properties

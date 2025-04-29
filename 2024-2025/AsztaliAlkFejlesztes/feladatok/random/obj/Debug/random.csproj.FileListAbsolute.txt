@@ -1,6 +1,0 @@
-Z:\2024_2025\Programozas\random\bin\Debug\random.exe.config
-Z:\2024_2025\Programozas\random\bin\Debug\random.exe
-Z:\2024_2025\Programozas\random\bin\Debug\random.pdb
-Z:\2024_2025\Programozas\random\obj\Debug\random.csprojAssemblyReference.cache
-Z:\2024_2025\Programozas\random\obj\Debug\random.exe
-Z:\2024_2025\Programozas\random\obj\Debug\random.pdb

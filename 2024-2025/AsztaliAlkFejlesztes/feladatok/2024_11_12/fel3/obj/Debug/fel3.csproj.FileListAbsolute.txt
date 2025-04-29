@@ -1,5 +1,0 @@
-Z:\2024_2025\Programozas\2024_11_12\fel3\bin\Debug\fel3.exe.config
-Z:\2024_2025\Programozas\2024_11_12\fel3\bin\Debug\fel3.exe
-Z:\2024_2025\Programozas\2024_11_12\fel3\bin\Debug\fel3.pdb
-Z:\2024_2025\Programozas\2024_11_12\fel3\obj\Debug\fel3.exe
-Z:\2024_2025\Programozas\2024_11_12\fel3\obj\Debug\fel3.pdb

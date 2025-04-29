@@ -1,6 +1,0 @@
-Z:\2024_2025\Programozas\2024_09_20\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
-Z:\2024_2025\Programozas\2024_09_20\Proba\bin\Debug\Proba.exe.config
-Z:\2024_2025\Programozas\2024_09_20\Proba\bin\Debug\Proba.exe
-Z:\2024_2025\Programozas\2024_09_20\Proba\bin\Debug\Proba.pdb
-Z:\2024_2025\Programozas\2024_09_20\Proba\obj\Debug\Proba.exe
-Z:\2024_2025\Programozas\2024_09_20\Proba\obj\Debug\Proba.pdb
