@@ -585,3 +585,4 @@ Konzervatív személyiség
 - Az elcsatolt államok miatt nem lehettek körülöttünk nemzetállamok  
 ### Forrás: 141.o. 4. ábra  
 - A Nagy-Trianon palotában íratták alá velünk a Trianoni békediktátumot, 1920. Június 4-én. Ez a világ egyik legrosszabbul, legigazságtalanabbul kitalált békeszerződése, ami ránk lett erőltetve.  
+Eduline-on érettségi feladatok fent vannak  
