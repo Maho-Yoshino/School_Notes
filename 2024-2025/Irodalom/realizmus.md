@@ -533,9 +533,8 @@
 	6. A párbeszédek, belső monológok tömörek, de lényegretörőek  
 	7. A táj, a természet fontos jelentéssel bír, gyakran megszólalnak a táj elemei, véleményt sugallnak, szereplővé válnak  
 4. A tót atyafiak  
-	1. 4 hosszabb novellát tartalmaz  
-	2. szereplői a pásztorvilágból valók, pl.: A fekete folt c.  
-
-A jó palócok:  
-- A bágyi csoda  
-- Szegény Gélyi János lovai  
+	1. 4 hosszabb novellát tartalmaz -> Témái a pásztorvilágból valók  
+	2. Pl.: Az a fekete folt  
+5. A jó palócok c. novelláskötet  
+	1. 15db rövid novella a palóc paraszti világról, szereplő a falusi társadalom átlagos figurái  
+	2. A novellák önálló történetek, de vannak olyanok, amelyben ismétlődnek a szereplők  
