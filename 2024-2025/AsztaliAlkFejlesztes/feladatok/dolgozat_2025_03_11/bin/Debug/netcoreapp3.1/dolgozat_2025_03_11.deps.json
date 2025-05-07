@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dolgozat_2025_03_11/1.0.0": {
+        "runtime": {
+          "dolgozat_2025_03_11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dolgozat_2025_03_11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
