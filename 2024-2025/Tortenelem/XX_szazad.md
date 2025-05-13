@@ -586,11 +586,11 @@ Konzervatív személyiség
 ### Forrás: 141.o. 4. ábra  
 - A Nagy-Trianon palotában íratták alá velünk a Trianoni békediktátumot, 1920. Június 4-én. Ez a világ egyik legrosszabbul, legigazságtalanabbul kitalált békeszerződése, ami ránk lett erőltetve.  
 Eduline-on érettségi feladatok fent vannak  
-# Idővonal cucc
-- 1703 - Bonchidai csata, Holdvilági csata, 
-- 1704 - Feketehalmi csata
-- 1705 - Zsibói csata, Segesvári Labanc OGy.
-- 1706 - Huszti Kuruc OGy., Kocsárdi csata
-- 1707 - Marosvásárhelyi Kuruc OGy., Kocsárdi csata
-- 1708 - 
-- 1709 - 
+# Idővonal cucc  
+- 1703 - Bonchidai csata, Holdvilági csata,  
+- 1704 - Feketehalmi csata  
+- 1705 - Zsibói csata, Segesvári Labanc OGy.  
+- 1706 - Huszti Kuruc OGy., Kocsárdi csata  
+- 1707 - Marosvásárhelyi Kuruc OGy., Kocsárdi csata  
+- 1708 -  
+- 1709 -  
