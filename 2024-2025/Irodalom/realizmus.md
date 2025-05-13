@@ -538,3 +538,4 @@
 5. A jó palócok c. novelláskötet  
 	1. 15db rövid novella a palóc paraszti világról, szereplő a falusi társadalom átlagos figurái  
 	2. A novellák önálló történetek, de vannak olyanok, amelyben ismétlődnek a szereplők  
+### Mikszáth Kálmán: A bágyi csoda  
