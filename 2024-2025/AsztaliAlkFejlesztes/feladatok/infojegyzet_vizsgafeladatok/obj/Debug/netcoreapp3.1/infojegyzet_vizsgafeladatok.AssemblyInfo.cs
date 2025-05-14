@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("infojegyzet_vizsgafeladatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa07e1244bd339c7f8a8c7a9543f9817c1cf78e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fdeadc334b246d245c7afd9056522403604deee")]
 [assembly: System.Reflection.AssemblyProductAttribute("infojegyzet_vizsgafeladatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("infojegyzet_vizsgafeladatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
