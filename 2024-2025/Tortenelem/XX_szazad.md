@@ -593,4 +593,4 @@ Eduline-on érettségi feladatok fent vannak
 - 1706 - Huszti Kuruc OGy., Kocsárdi csata  
 - 1707 - Marosvásárhelyi Kuruc OGy., Kocsárdi csata  
 - 1708 -  
-- 1709 -   
+- 1709 -  
