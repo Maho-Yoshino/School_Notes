@@ -539,4 +539,26 @@
 	1. 15db rövid novella a palóc paraszti világról, szereplő a falusi társadalom átlagos figurái  
 	2. A novellák önálló történetek, de vannak olyanok, amelyben ismétlődnek a szereplők  
 ### Mikszáth Kálmán: A bágyi csoda  
+#### Elemzésvázlat  
+1. A tót atyafiak kötet egy novellája, melynek van másik párja, a Szegény Gélyi János lovai  
+	- A szereplők megegyeznek  
+	- Önálló történetek  
+	- A kapcsolat időbeli és tartalmi szempontból is megmarad  
+2. A történet egyik írói sajátossága az elbeszélői nézőpontok váltakoztatása, pl.  
+	1. Az alapszituációban az asszonyok pletykálkodása Kláráról  
+	2. Írói nézőpont -> a szövegbe ékel saját "véleményt", pl. kérdést tesz fel ("Vajon miért hagyta Gélyi János búzáját utoljára megőrölni?" -> pletyka)  
+3. Klasszikus 5 szerkezeti pont megvan  
+	1. Alapszituáció  
+		- Tájleírás  
+		- Metafora: A patak "keskeny ezüstszalag"  
+		- Egy idilli, békés harmonikus kép => ellentétet fog idézni a következő részek problémáival:  
+		- Nincs elég víz -> Nem tudnak őrölni  
+		- A megcsalás motívumával is ellentétet képez  
+		- Valódi helyszín:  
+		- Malom és környéke  
+		- Őrlésre várakozó falusiak  
+		- Babona: Kocsipár Gyuri elégeti a temetőből ellopott Szent Mihály lovát, a Halottszállító fa eszközt "Esőcsinálás" érdekében  
+	2.  
+		-  
+4.  
 ### Mikszáth Kálmán: Szegény Gélyi János lovai  
