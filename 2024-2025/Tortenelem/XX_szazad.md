@@ -594,3 +594,67 @@ Eduline-on érettségi feladatok fent vannak
 - 1707 - Marosvásárhelyi Kuruc OGy., Kocsárdi csata  
 - 1708 -  
 - 1709 -  
+# Trianon cuccok  
+- Elveszett területek  
+	- Felvidék  
+	- Őrvidék  
+	- Erdély  
+	- Vajdaság  
+	- Bánság  
+	- Horvátország  
+- Horthy Miklós  
+- KMP - Kommunisták Magyarországi Pártja  
+- Trianoni Palota  
+- Békediktátum  
+- Apponyi Albert  
+- Károlyi Mihály  
+- Kakaó osztás a Margit Szigeten  
+- Propaganda  
+- Szovjet - Tanácsköztársaság  
+- Védővámok  
+- Bolshevizmus  
+- MSZDP - Magyar Szociáldemokrata párt  
+- Kisgazdapárt  
+- Anti Bolshevista Komitté - ABC  
+- Szegedi Kormány  
+- Vörös Terror, Fehér Terror  
+- Vix Jegyzék  
+- Clemencau  
+- Szlovák Tanácsköztársaság  
+- Határ felé menő sínek lebontása  
+- Államosítás  
+- Hadsereg leépítése  
+- Vöröstérkép  
+
+- Nevek  
+	- Apponyi Albert  
+	- Teleki Pál  
+	- Wilson USA elnök  
+	- Clemencau Francia M.Elnök  
+- Találmányok  
+	- Vöröstérkép  
+	- Kis-antant  
+	- Wilsoni elvek  
+	- Etnikum  
+	- Nemzetiség  
+	- Nacionalizmus  
+	- Nemzetállam  
+	- Trianoni Nagypalota  
+	- Békedelegáció  
+	- Békediktátum  
+	- Népszövetség  
+- Trianon  
+	- Katonai Korlátozások  
+	- Területvesztés (2/3ad)  
+	- Általános hadkötelezettség  
+	- Modern fegyverek  
+	- Jóvátétel  
+	- Trianoni Magyarország, Történelmi Magyarország  
+	- Utódállamok  
+	- Vagonlakók  
+	- 1920. Június. 4.  
+- Következmények  
+	- Tőkehiány  
+	- Nyersanyagok lecsatolása  
+	- Vámhatárok  
+# Hf: jövő hétfőre (06.02) Trianoni békediktátumról esszé  
