@@ -558,7 +558,10 @@
 		- Malom és környéke  
 		- Őrlésre várakozó falusiak  
 		- Babona: Kocsipár Gyuri elégeti a temetőből ellopott Szent Mihály lovát, a Halottszállító fa eszközt "Esőcsinálás" érdekében  
-	2.  
-		-  
+	2. Bonyodalom  
+		- Anekdotikus szálhoz kötődik:  
+			- Vér Kláráról megtudjuk a pletykás asszonytól, hogy Klára férje katonának ment, és akkor mondta klára: "Előbb folyik fölfelé a bágyi patak, mintsem az én szívem tőled elfordul", itt az elbeszélőt mindentudó szerepben látjuk -> Honnan tudhatta ezt?  
+			- Itt kapcsolódunk a címhez: A bágyi csoda -> Klára szavaira utal  
+	3.  
 4.  
 ### Mikszáth Kálmán: Szegény Gélyi János lovai  
