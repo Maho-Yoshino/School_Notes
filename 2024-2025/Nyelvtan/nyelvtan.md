@@ -325,4 +325,19 @@ Mém:
 	10. Népiesség, XIX. sz.  
 	11. Realizmus, XIX. sz.  
 	12. Modernség, XIX-XXI. sz.  
-		- Szimbolizmus (jelkép)  
+		- Szimbolizmus  
+			- Szimbólum = jelkép  
+			- Kulturális Szimbólumok  
+				- Pl. galamb = béke, kereszt = kereszténység  
+			- Művészeti/irodalmi szimbólum  
+				- Építészet stb. => kifejező eszközök  
+				- Irodalmi szimbólumok  
+				- Közismert  
+					- Bibliai, pl. két kőtábla, Jónás könyve -> Cethal = sötétség, mélypont  
+					- Petőfi: nemzeti dal  
+						- Lánc = rabság  
+						- Kard = harc, szabadság  
+					- Sajátos / egyedi szimbólumok  
+						- A költők alkotják meg, pl.  
+							- Ady Endre  
+								- {Héja-nász}(ragadozó madár pár = Ady és Léda szerelmének jelképei) az {avaron}(ősz, elmúlás jelképe)    
