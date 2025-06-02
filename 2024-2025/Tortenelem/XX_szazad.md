@@ -658,3 +658,33 @@ Eduline-on érettségi feladatok fent vannak
 	- Nyersanyagok lecsatolása  
 	- Vámhatárok  
 # Hf: jövő hétfőre (06.02) Trianoni békediktátumról esszé  
+# Érettségi feladatsor könyv cuccos  
+## 16.  
+a, A magyar nép nem volt elég a közterhek viselésére, munkaerőt akart, ezért svábokkal akarta ezt elérni  
+b, Nőhet a katolikus vallás, több adózó ember lesz  
+c, Elnémetesítés, magyarok elcsendesítése, kormányzat befolyásának növelése  
+d, A Habsburg kormánynak meg akarnak felelni  
+## 17.  
+a, Alföld, Folyók  
+b, A magyar nép halt meg leginkább  
+c, Kevesebb lett a magyar nép aránya az össznép arányához  
+d, Az Oláhok a folyóvölgyekbe telepednek, a horvátok északra vándoroltak  
+## 18.  
+a, Úrbéli telek  
+b, Robot, kilenced, ajándékok  
+c, A jobbágyat rávehetik, hogy kétszeresen robotoljon, viszont beszámítással  
+d, Javította, korlátozta a robotot, és a jobbágyföldeket nem vehették el  
+e, Maximalizálta a robotot, egységesítette a jobbágyi szolgáltatásokat, jobbágyföldeket nem vehették el  
+f, Nyugalom megteremtése a cél, A földesurak nyugalmának érdekében  
+g, Nem a földesurak érdekében adták ki, mert a földesurak kárára ment a rendelet  
+h, A jobbágyak képesek legyenek dolgozni saját földjükön, többen tudnak adózni  
+## 19.  
+a, Ágostai, helvét, görög-keleti (Orthodox)  
+b, Aki nem katolikus vallást vall, azok korlátozásokkal, de vallhatják a saját vallásukat  
+c, Vallásszabadságnál nincsenek korlátok a vallásra  
+d, Vallási belső ellentétek csökkentése  
+e, Ne változtathassák meg az embereket erőszakkal, viszont ez ellent mond a politikájával  
+## 20.  
+a, Röghözkötés eltörlése; Jobbágyak szabad házasodása; Jobbágy név eltörlése; Jobbágyak tanulási szabadsága;  
+b, Ipar fejlesztése (több munkaerő)  
+c, Szabadon költözhettek  
