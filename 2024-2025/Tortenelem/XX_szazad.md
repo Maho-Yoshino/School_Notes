@@ -688,3 +688,19 @@ e, Ne változtathassák meg az embereket erőszakkal, viszont ez ellent mond a p
 a, Röghözkötés eltörlése; Jobbágyak szabad házasodása; Jobbágy név eltörlése; Jobbágyak tanulási szabadsága;  
 b, Ipar fejlesztése (több munkaerő)  
 c, Szabadon költözhettek  
+
+## 87.  
+a, Magyarország, Ausztria  
+b,  
+c, A trianoni határon túli magyarság esetében  
+d, Korlátozottan sikerült, csak 2 nemzetállam jött létre  
+e, Az Antant a határok meghúzásakor ignorálta az etnikai többségeket  
+## 88.  
+a, Csehszlovákia létezét magyarázni  
+b, történelmi  
+c, Nem felel meg az etnikai elvnek  
+## 89.  
+a, Az etnikai határok jelentősen eltértek a határvonalaktól  
+b, Az új határokat úgy alakították ki, hogy az összekötő vasúti sínek az utódállamokhoz kerüljenek  
+c, Gazdasági és stratégiai érdekek érvényesülését mutatja a fenti jelenség  
+d, Nemzeti Önrendelkezés elvéhez rosszul viszonyul  
