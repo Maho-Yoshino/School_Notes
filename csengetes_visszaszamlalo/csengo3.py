@@ -1,4 +1,4 @@
-import tkinter as tk, asyncio, pystray
+import tkinter as tk, asyncio, pystray, logging
 from tkinter import Tk
 from tkinter.ttk import Separator
 from sys import platform, executable, argv
@@ -6,21 +6,24 @@ from tkinter.font import Font
 from ctypes import windll, c_byte, byref, Structure
 from datetime import datetime, time, timedelta
 from time import perf_counter
-from os import path, chdir
+from os import path, chdir, mkdir, environ
 from threading import Thread
 from PIL import Image
-from json import load, dump
+from json import load as jload, dump as jdump
+from typing import Optional, Dict, List, Any
+from pathlib import Path
+logger = logging.getLogger(__name__)
 
 # Setting PATH
 if path.splitext(argv[0])[1].lower() != ".exe":
-    print("not an .exe")
-    current_dir = path.dirname(path.abspath(__file__))
+	print("not an .exe")
+	current_dir = path.dirname(path.abspath(__file__))
 else:
-    current_dir = path.dirname(path.abspath(executable))
+	current_dir = path.dirname(path.abspath(executable))
 chdir(current_dir)
 
 # Settings window
-def setup_tray(root, open_settings):
+def setup_tray(root):
 	def create_image():
 		return Image.open("icon.ico")
 	def on_quit(icon, item, root):
@@ -32,32 +35,58 @@ def setup_tray(root, open_settings):
 		pystray.MenuItem("Quit", lambda icon, item: on_quit(icon, item, root))
 	))
 	Thread(target=icon.run, daemon=True).start()
-class settings:
-	classlist:dict
-	default_schedule:list[list[str, str]]
-	special_days:dict[str, list[str]]|None
-	debug:bool
-	def __init__(self):
-		with open("settings.json", "r") as file:
-			_settings:dict[str, dict|list[list]] = load(file)
-		self.classlist = _settings.get("classlist", None)
-		self.default_schedule = _settings.get("default_schedule", None)
-		self.special_days = _settings.get("special_days", None)
-		self.debug = _settings.get("debug", False)
-		return
+class Settings:
+	def __init__(self, filename: str = "settings.json"):
+		self.filename = filename
+		self._data: Dict[str, Any] = {}
+		self.load_settings()
 	def load_settings(self):
-		...
-	def save_setting(self, key, value):
-		with open("settings.json", "r") as original_content:
-			og_content:dict[str, dict|list[list]] = load(original_content)
-		og_content.__setitem__(key, value)
-		with open("settings.json", "w") as file:
-			dump(og_content, file, indent=4)
-	...
-def open_settings(root):
-    settings = tk.Toplevel(root)
-    settings.title("Timer Settings")
-    tk.Button(settings, text="Exit Program", command=lambda: root.destroy()).pack()
+		try:
+			with open(self.filename, "r", encoding="utf-8") as f:
+				self._data = jload(f)
+		except FileNotFoundError:
+			self._data = {}
+		# Set default values if missing
+		self._data.setdefault("classlist", {})
+		self._data.setdefault("default_schedule", [])
+		self._data.setdefault("special_days", None)
+		self._data.setdefault("debug", False)
+	def save(self):
+		with open(self.filename, "w", encoding="utf-8") as f:
+			jdump(self._data, f, indent=4, ensure_ascii=False)
+	@property
+	def classlist(self) -> Dict[str, List[str]]:
+		return self._data["classlist"]
+	@classlist.setter
+	def classlist(self, value: Dict[str, List[str]]):
+		self._data["classlist"] = value
+		self.save()
+	@property
+	def default_schedule(self) -> List[List[str]]:
+		return self._data["default_schedule"]
+	@default_schedule.setter
+	def default_schedule(self, value: List[List[str]]):
+		self._data["default_schedule"] = value
+		self.save()
+	@property
+	def special_days(self) -> Optional[Dict[str, List[str]]]:
+		return self._data["special_days"]
+	@special_days.setter
+	def special_days(self, value: Optional[Dict[str, List[str]]]):
+		self._data["special_days"] = value
+		self.save()
+	@property
+	def debug(self) -> bool:
+		return self._data["debug"]
+	@debug.setter
+	def debug(self, value: bool):
+		self._data["debug"] = value
+		self.save()
+def open_settings(root, settings:Settings):
+	_settings = tk.Toplevel(root)
+	_settings.title("Timer Settings")
+	_settings.grid(20, 20, 200, 200)
+	tk.Button(_settings, text="Exit Program", command=lambda: root.destroy()).grid(column=19, row=0)
 
 # Clock Window
 mainlabel:tk.Label|None = None
@@ -151,7 +180,7 @@ async def startup():
 	asyncio.create_task(update_cycle())
 	root.protocol("WM_DELETE_WINDOW", root.withdraw)
 	setup_tray(root, open_settings)
-	print("Startup complete")
+	print_info("Startup complete")
 async def update_cycle():
 	async def set_dynamic_size():
 		if root.winfo_width() == separator.winfo_width(): return
@@ -241,3 +270,42 @@ async def update_cycle():
 		update_delay = await is_battery_saver_on(5, 1)
 		delay = max(0, update_delay - (perf_counter() - _start))
 		await asyncio.sleep(delay)
+
+# Logging prints
+def print_info(text):
+	print(text)
+	logger.info(text)
+def print_debug(text):
+	print(text)
+	logger.debug(text)
+def print_warning(text):
+	print(text)
+	logger.warning(text)
+def print_error(text):
+	print(text)
+	logger.error(text)
+def print_critical(text):
+	print(text)
+	logger.critical(text)
+
+MAX_LOGS:int=5
+def main():
+	def cleanup_old_logs(log_folder: str = "logs", prefix: str = "timer_"):
+		"""Delete old log files, keeping only the last MAX_LOGS."""
+		folder = Path(log_folder)
+		# get all files that start with prefix and end with .log
+		log_files = sorted(folder.glob(f"{prefix}*.log"), key=lambda f: f.stat().st_mtime, reverse=True)
+		# keep only the first MAX_LOGS, delete the rest
+		for old_file in log_files[MAX_LOGS:]:
+			old_file.unlink()
+	cleanup_old_logs()
+	filename = f"logs/timer_{datetime.now().date().isoformat().replace('-', '_')}.log"
+	if (not path.isdir("logs")): mkdir("logs")
+	log_format = "%(asctime)s::%(levelname)-8s:%(message)s"
+	logging.basicConfig(filename=filename, encoding='utf-8', level=logging.DEBUG if environ.get('TERM_PROGRAM') == 'vscode' else logging.WARNING, format=log_format, datefmt="%H:%M:%S")
+	print_info("Application Starting up")
+	settings = Settings()
+	root = Tk()
+	setup_tray(root)
+
+main()
