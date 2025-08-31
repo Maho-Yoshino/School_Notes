@@ -1,1 +1,1 @@
-python "%~dp0csengo3.py"
+python "%~dp0csengo2.py"
