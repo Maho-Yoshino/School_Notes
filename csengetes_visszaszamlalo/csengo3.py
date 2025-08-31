@@ -85,6 +85,7 @@ class Settings:
 def open_settings(root, settings:Settings):
 	_settings = tk.Toplevel(root)
 	_settings.title("Timer Settings")
+	_settings.winfo_
 	_settings.grid(20, 20, 200, 200)
 	tk.Button(_settings, text="Exit Program", command=lambda: root.destroy()).grid(column=19, row=0)
 
