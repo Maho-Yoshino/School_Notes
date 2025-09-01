@@ -4,7 +4,7 @@ from tkinter.ttk import Separator
 from sys import platform, executable, argv
 from tkinter.font import Font
 from ctypes import windll, c_byte, byref, Structure
-from datetime import datetime, time, timedelta
+from datetime import datetime, time
 from time import perf_counter
 from os import path, chdir, mkdir, environ
 from threading import Thread
@@ -22,35 +22,82 @@ else:
 	current_dir = path.dirname(path.abspath(executable))
 chdir(current_dir)
 
+# Logging prints
+def print_info(text):
+	print(text)
+	logger.info(text)
+def print_debug(text):
+	print(text)
+	logger.debug(text)
+def print_warning(text):
+	print(text)
+	logger.warning(text)
+def print_error(text):
+	print(text)
+	logger.error(text)
+def print_critical(text):
+	print(text)
+	logger.critical(text)
+
 # Settings window
-def setup_tray(root):
+async def setup_tray(root:Tk):
 	def create_image():
 		return Image.open("icon.ico")
-	def on_quit(icon, item, root):
+	def on_quit(icon, item):
+		print_info("Closing application")
 		icon.stop()
-		root.destroy()
+		root.quit()
+	def settings_callback():
+		runtime.create_task(open_settings(root))
 	icon = pystray.Icon("Csengetés időzítő", create_image(), menu=pystray.Menu(
 		pystray.MenuItem("Show Overlay", lambda: root.deiconify()),
-		pystray.MenuItem("Settings", lambda: open_settings(root)),
-		pystray.MenuItem("Quit", lambda icon, item: on_quit(icon, item, root))
+		pystray.MenuItem("Settings", settings_callback),
+		pystray.MenuItem("Quit", lambda icon, item: on_quit(icon, item))
 	))
 	Thread(target=icon.run, daemon=True).start()
 class Settings:
-	def __init__(self, filename: str = "settings.json"):
+	def __init__(self, filename: str = "settings.json", encoding:str="utf-8"):
 		self.filename = filename
+		self.encoding = encoding
 		self._data: Dict[str, Any] = {}
 		self.load_settings()
 	def load_settings(self):
 		try:
-			with open(self.filename, "r", encoding="utf-8") as f:
+			with open(self.filename, "r", encoding=self.encoding) as f:
 				self._data = jload(f)
+				print_info("Settings loaded properly")
 		except FileNotFoundError:
-			self._data = {}
+			print_warning("Settings file not found, creating a default one.")
+			with open(self.filename, "x", encoding=self.encoding) as f:
+				f.write("""{
+	"classlist": { },
+	"default_schedule": [
+		[],
+		[],
+		[],
+		[],
+		[]
+	],
+	"special_days": { },
+	"debug":false,
+	"classtimes": [],
+	"breaktimes": [],
+	"special_classtimes": [],
+	"special_breaktimes": []
+}
+"""
+					)
+			with open(self.filename, "r", encoding=self.encoding) as f:
+				self._data = jload(f)
 		# Set default values if missing
 		self._data.setdefault("classlist", {})
 		self._data.setdefault("default_schedule", [])
 		self._data.setdefault("special_days", None)
 		self._data.setdefault("debug", False)
+		self._data.setdefault("classtimes", [])
+		self._data.setdefault("breaktimes", [])
+		self._data.setdefault("special_classtimes", [])
+		self._data.setdefault("special_breaktimes", [])
 	def save(self):
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)
@@ -82,12 +129,34 @@ class Settings:
 	def debug(self, value: bool):
 		self._data["debug"] = value
 		self.save()
-def open_settings(root, settings:Settings):
+	@property
+	def classtimes(self) -> list[int]:
+		return self._data["classtimes"]
+	@classtimes.setter
+	def classtimes(self, value: list[int]):
+		self._data["classtimes"] = value
+		self.save()
+	@property
+	def breaktimes(self) -> list[int]:
+		return self._data["breaktimes"]
+	@breaktimes.setter
+	def breaktimes(self, value: list[int]):
+		self._data["breaktimes"] = value
+		self.save()
+settings = Settings()
+_settings:tk.Toplevel|None = None
+async def open_settings(root:Tk):
+	def exit_seq():
+		root.destroy()
+		runtime.stop()
+	global _settings
 	_settings = tk.Toplevel(root)
 	_settings.title("Timer Settings")
-	_settings.winfo_
+	_settings.resizable(False, False)
 	_settings.grid(20, 20, 200, 200)
-	tk.Button(_settings, text="Exit Program", command=lambda: root.destroy()).grid(column=19, row=0)
+	_settings.grid_propagate(False)
+	tk.Button(_settings, text="Exit Program", command=exit_seq).grid(column=19, row=0)
+	_settings.update()
 
 # Clock Window
 mainlabel:tk.Label|None = None
@@ -100,6 +169,7 @@ vert_separator:Separator|None = None
 separator:Separator|None = None
 runtime:asyncio.AbstractEventLoop|None = None
 dummy_date:None|datetime = None
+root:Tk
 def font_size(size:int): return Font(size=size)
 async def set_click_through():
 	if platform != "win32":
@@ -139,9 +209,8 @@ async def transparency_check(root:Tk):
 		await asyncio.sleep(await is_battery_saver_on(1, 0.1))
 async def get_rn():
 	return datetime.now() if dummy_date is None else dummy_date
-async def startup():
-	global mainlabel, timelabel, loc1label, loc2label, class1label, class2label, root, separator, vert_separator, borderless, transparency_switch
-	root = Tk()
+async def startup(root:Tk):
+	global mainlabel, timelabel, loc1label, loc2label, class1label, class2label, separator, vert_separator
 	root.configure(background="black")
 	root.attributes("-topmost", True)
 	root.title("Csengetés időzítő")
@@ -177,26 +246,43 @@ async def startup():
 	asyncio.create_task(set_click_through())
 	asyncio.create_task(transparency_check(root))
 	del init_data
+	await setup_tray(root)
 	root.update()
-	asyncio.create_task(update_cycle())
+	#asyncio.create_task(update_cycle())
 	root.protocol("WM_DELETE_WINDOW", root.withdraw)
-	setup_tray(root, open_settings)
 	print_info("Startup complete")
 async def update_cycle():
 	async def set_dynamic_size():
 		if root.winfo_width() == separator.winfo_width(): return
-		if debug: print(f"setting dynamic size")
+		if settings.debug: print(f"setting dynamic size")
 		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
 		root.update()
 	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
 	prev_day:int = (await get_rn()).day
 	while True:
 		_start = perf_counter()
-		if debug: print("Update cycle called")
 		if prev_day != (await get_rn()).day:
 			prev_day = (await get_rn()).day
-			if debug: print("Day changed, generating new csengetes")
-			runtime.run_in_executor(None, generate_csengetes)
+			if settings.debug: print("Day changed since last cycle")
+			# TODO: Generate new schedule
+		...
+		update_delay = await is_battery_saver_on(5, 1)
+		delay = max(0, update_delay - (perf_counter() - _start))
+		await asyncio.sleep(delay)
+async def update_cycle_old():
+	async def set_dynamic_size():
+		if root.winfo_width() == separator.winfo_width(): return
+		if settings.debug: print(f"setting dynamic size")
+		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
+		root.update()
+	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
+	prev_day:int = (await get_rn()).day
+	while True:
+		_start = perf_counter()
+		if prev_day != (await get_rn()).day:
+			prev_day = (await get_rn()).day
+			if settings.debug: print("Day changed, generating new csengetes")
+			# TODO: Generate new schedule
 		for num, tmp in enumerate(csengetes):
 			start, end, ora = tmp
 			start:time; end:time; ora:tuple[str]|tuple[tuple[str]]|None
@@ -272,22 +358,6 @@ async def update_cycle():
 		delay = max(0, update_delay - (perf_counter() - _start))
 		await asyncio.sleep(delay)
 
-# Logging prints
-def print_info(text):
-	print(text)
-	logger.info(text)
-def print_debug(text):
-	print(text)
-	logger.debug(text)
-def print_warning(text):
-	print(text)
-	logger.warning(text)
-def print_error(text):
-	print(text)
-	logger.error(text)
-def print_critical(text):
-	print(text)
-	logger.critical(text)
 
 MAX_LOGS:int=5
 def main():
@@ -305,8 +375,18 @@ def main():
 	log_format = "%(asctime)s::%(levelname)-8s:%(message)s"
 	logging.basicConfig(filename=filename, encoding='utf-8', level=logging.DEBUG if environ.get('TERM_PROGRAM') == 'vscode' else logging.WARNING, format=log_format, datefmt="%H:%M:%S")
 	print_info("Application Starting up")
-	settings = Settings()
+	async def tk_update_loop(root, interval=0.1):
+		while True:
+			root.update()
+			await asyncio.sleep(interval)
+	global root, runtime
 	root = Tk()
-	setup_tray(root)
+	runtime = asyncio.new_event_loop()
+	asyncio.set_event_loop(runtime)
+	runtime.create_task(tk_update_loop(root))
+	runtime.create_task(startup(root))
+	runtime.run_forever()
+	runtime.close()
 
+dummy_date = datetime(2025, 9, 2, 9, 15)
 main()
