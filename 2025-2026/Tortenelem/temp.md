@@ -1,0 +1,1 @@
+# Hf.: Kidolgozni az Athéni demokrácia kialakulását szóbeli tételben  

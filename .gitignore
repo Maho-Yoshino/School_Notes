@@ -5,8 +5,7 @@
 /2024-2025/AdatbazisKezeles/20*.docx
 *.ggb
 *.cache
-*/.vs
-*/obj
-*/Properties
+.vs/
+Properties/
 csengetes_visszaszamlalo/settings.json
 /csengetes_visszaszamlalo/logs
