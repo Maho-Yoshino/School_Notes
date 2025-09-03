@@ -69,8 +69,8 @@ class Settings:
 		except FileNotFoundError:
 			print_warning("Settings file not found, creating a default one.")
 			with open(self.filename, "x", encoding=self.encoding) as f:
-				f.write("""{
-	"classlist": { },
+				f.write(r"""{
+	"classlist": {},
 	"default_schedule": [
 		[],
 		[],
@@ -78,12 +78,12 @@ class Settings:
 		[],
 		[]
 	],
-	"special_days": { },
+	"special_days": {},
 	"debug":false,
 	"classtimes": [],
 	"breaktimes": [],
-	"special_classtimes": [],
-	"special_breaktimes": []
+	"special_classtimes": {},
+	"special_breaktimes": {}
 }
 """
 					)
