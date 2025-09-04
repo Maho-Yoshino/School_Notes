@@ -32,7 +32,7 @@ IKT = "IKT Projekt","M114"
 IKT2 = "IKT Projekt","M012"
 SZT = "Szoftvertesztelés", "M012"
 TES = "Testnevelés","Tesiterem"
-csengetes_offset = 0
+csengetes_offset = 28
 orarend = [
 	#[1.,	2.,		3.,		4.,		5.,		6.,		7.,		8.]
 	[ALL,	ASZ,	TOR,	OFO,	MAT,	ANG,	ANG,	IRO], # Hétfő

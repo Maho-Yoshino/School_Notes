@@ -79,7 +79,6 @@ class Settings:
 		[]
 	],
 	"special_days": {},
-	"debug":false,
 	"classtimes": [],
 	"breaktimes": [],
 	"special_classtimes": {},
@@ -90,14 +89,10 @@ class Settings:
 			with open(self.filename, "r", encoding=self.encoding) as f:
 				self._data = jload(f)
 		# Set default values if missing
-		self._data.setdefault("classlist", {})
-		self._data.setdefault("default_schedule", [])
 		self._data.setdefault("special_days", None)
 		self._data.setdefault("debug", False)
-		self._data.setdefault("classtimes", [])
-		self._data.setdefault("breaktimes", [])
-		self._data.setdefault("special_classtimes", [])
-		self._data.setdefault("special_breaktimes", [])
+		self._data.setdefault("special_classtimes", {})
+		self._data.setdefault("special_breaktimes", {})
 	def save(self):
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)

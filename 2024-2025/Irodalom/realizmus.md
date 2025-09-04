@@ -565,3 +565,20 @@
 	3.  
 4.  
 ### Mikszáth Kálmán: Szegény Gélyi János lovai  
+1. A jó palócok novelláskötet egy darabja kapcsolódik a Bágyi csodához (A szereplők életének egy későbbi fázisába érkezünk)  
+2. A cím  
+	1. Előfeltevés a címről: saját gondolatok  
+	2. Értelmezés a mű ismerete alapján: A szegény jelző mindkét szóra vonatkozhat (Gélyi + a lovai)  
+3. A mű középpontjában a megcsalás, hűtlenség motívuma áll  
+4. A novella szereplői ismertek (visszautalatsz a Bágyi csodára)  
+5. Felépítés:  
+	1. Előkészítés:  
+		- Helyszín: Istálló (Gélyi nézőpontja)  
+		- Istállón kívül Vér Klára és egy asszony beszélget  
+		- Gélyi nézőpontjából látjuk/halljuk a jelenetet -> Sajátos elbeszéléstechnika: Az író "belelát" Gélyi gondolataiba, érzéseibe  
+	2. Bonyodalom  
+		- Gélyiben feléled a féltékenység  
+	3. Kibontakozás  
+		- Gélyi és Klára párbeszéde, Vőnekiné gyanús lesz Gélyinek  
+	4. Tetőpont  
+	5.  
