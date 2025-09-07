@@ -1,4 +1,4 @@
-# Hf.: Kidolgozni az Athéni demokrácia kialakulását szóbeli tételben  
+# Athéni Demokrácia kialakulása
 ## Elhelyezés időben, helyben, kontextusban  
 - Kr. e. 8-6. század  
 - Athén, Ókori Hellász  
@@ -61,24 +61,3 @@
 - Metoikosz (Polgárjog nélküli bevándorlók)  
 - Polgárok családja  
 - Polgárok (Démosz és arisztokrácia)  
-# Horthy Korszak  
-## Teleki Pál 1. miniszterelnöksége  
-- Földrajztudós és politikus  
-- Konszolidáció  
-	- Jelentése: Megszilárdítás  
-	- Lépések:  
-		1. Szélsőségek visszaszorítása  
-			- Felszámolja a különítményeket  
-		2. Betiltják a kommunista pártot  
-		3. 1921 - "A törvény az állami és társadalmi rend hatályosabb védelméről" (rendvédelmi) törvény kiadása  
-			- Halálra is büntethetnek  
-			- 10 évet is kaphatsz vétségért  
-		4. Földreform  
-			- Nagyatádi féle földreform  
-			- A paraszti réteg nyugtatására  
-			- Nem sikeres, sokan nem kapnak földet, nem lett a baj megoldva ezáltal  
-		5. Numerus Clausus (latinul: Zárt Szám, egyetemi felvételit szabályzó törvény)  
-			- 1920-21: Az antiszemitizmus jelentősen elterjedt a népbe  
-			- Teleki a többségnek kedvez, ezért antiszemita törvényt hozott  
-			- Számarányoknak megfelelő helyet kapnak az egyetemen  
-			- Közvetlen nem antiszemita, de célja a zsidók visszaszorítása az értelmiségi szakmákból  
