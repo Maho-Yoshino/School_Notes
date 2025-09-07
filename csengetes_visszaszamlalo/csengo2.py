@@ -27,6 +27,7 @@ SZK = "Szakmai Angol","206"
 OFO = "Osztályfőnöki", "206"
 ALL = "Állampolgári Ismeretek", "206"
 WEB = "Webprogramozás","M115"
+WEB2 = "Webprogramozás","M118"
 ASZ = "Aszali Alkalmazások","M114"
 IKT = "IKT Projekt","M114"
 IKT2 = "IKT Projekt","M012"
@@ -35,11 +36,11 @@ TES = "Testnevelés","Tesiterem"
 csengetes_offset = 28
 orarend = [
 	#[1.,	2.,		3.,		4.,		5.,		6.,		7.,		8.]
-	[ALL,	ASZ,	TOR,	OFO,	MAT,	ANG,	ANG,	IRO], # Hétfő
-	[IRO,	ASZ,	ASZ,	TOR,	MAT,	TES,	IKT,	ANG], # Kedd
-	[None,	TES,	WEB,	WEB,	IRO,	MAT,	TOR,	SZK], # Szerda
-	[None,	SZK,	IRO,	TES,	IKT2,	IKT2,	ANG], # Csütörtök
-	[None,	MAT,	IKT,	IKT,	SZT,	SZT], # Péntek
+	[None,	TOR, OFO, NYT, SZK, MAT, ANG, ANG], # Hétfő
+	[None, WEB2, SZK, ANG, MAT, ALL, TES, IRO], # Kedd
+	[None, TOR, MAT, TES, WEB, IKT, IKT, IRO], # Szerda
+	[ASZ, ASZ, MAT, IRO, SZT, SZT, IKT], # Csütörtök
+	[ANG, TES, TOR, IKT2, IKT2, ASZ], # Péntek
 ]
 csengetes:tuple[tuple[time, tuple[str,tuple,None]]]
 async def generate_csengetes(day:"special_day" = None):
