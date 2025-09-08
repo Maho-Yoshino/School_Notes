@@ -36,9 +36,9 @@ TES = "Testnevelés","Tesiterem"
 csengetes_offset = 28
 orarend = [
 	#[1.,	2.,		3.,		4.,		5.,		6.,		7.,		8.]
-	[None,	TOR, OFO, NYT, SZK, MAT, ANG, ANG], # Hétfő
-	[None, WEB2, SZK, ANG, MAT, ALL, TES, IRO], # Kedd
-	[None, TOR, MAT, TES, WEB, IKT, IKT, IRO], # Szerda
+	[None,	TOR, IRO, IRO, SZK, MAT, ANG, ANG], # Hétfő
+	[None, WEB2, SZK, ANG, MAT, ALL, TES, OFO], # Kedd
+	[None, TOR, MAT, TES, WEB, IKT, IKT, NYT], # Szerda
 	[ASZ, ASZ, MAT, IRO, SZT, SZT, IKT], # Csütörtök
 	[ANG, TES, TOR, IKT2, IKT2, ASZ], # Péntek
 ]
@@ -109,7 +109,7 @@ class special_day:
 				tmp.append(0)
 			self.break_lengths = tmp
 		else:
-			self.break_lengths = [10, 10, 10, 10, 20, 10, 10, 0]
+			self.break_lengths = [10, 10, 10, 10, 20, 10, 5, 0]
 		if date.hour == 0 and date.minute == 0 and date.second == 0:
 			self.date = self.date.replace(hour=8, minute=0, second=csengetes_offset)
 		if schedule:

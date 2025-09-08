@@ -1,0 +1,37 @@
+1,	choose	chose	chosen 
+2,	wear	wore	worn
+3,	win	won	won
+4,	write	wrote	written
+5,	throw	threw	thrown
+6,	think	thought	thought
+7,	tell 	told	told
+8,	teach	taught	taught
+9,	swim	swam	swum
+10,	steal	stole	stolen
+11,	spill	spilled	spilled 	/	spill	spilt	spilt
+12,	spend	spent	spent
+13,	spell	spelled	spelled		/	spell	spelt	spelt
+14,	smell	smelled	smelled		/	smell	smelt	smelt
+15,	sleep	slept	slept
+16,	sink	sank	sunk
+17,	ring	rang	rung
+18,	ride	rode	ridden
+19,	read	read	read
+20,	put	put	put
+
+
+wen
+gnihtemos
+ecudorp
+ot
+ytiliba
+eht
+sah
+dna
+noitanigami
+rieht
+sesu
+ohw
+enoemos
+
+Someone who uses their imagination and has the ability to produce something new

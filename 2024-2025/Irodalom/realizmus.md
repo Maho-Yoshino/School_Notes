@@ -579,6 +579,26 @@
 	2. Bonyodalom  
 		- Gélyiben feléled a féltékenység  
 	3. Kibontakozás  
-		- Gélyi és Klára párbeszéde, Vőnekiné gyanús lesz Gélyinek  
+		- Készülődnek Gélyi és Klára az útra, lakodalomba  
+		- Gélyi gyanakvása egyre jobban erősödik: gyanús neki Vőnekiné, akivel Klára tárgyalt a titkos találkozóról egy ismeretlen férfival  
+		- Felülnek a szekérre -> Feszültségteremtő eszköz, ahogy a lovakról ír:  
+    		- "Négy tüzes állat"  
+    		- "Prüszkölő, ziháló orrlyukkal" -> Kivetíti Gélyi feszült várakozását a lovakra is  
+		- Párhuzam a lovak és Klára gyönyörűsége között  
+		- Anekdotikuis késleltetés  
+			- A négy lóról sztorizik, így húzza az időt a csattanóig  
+		- Szembesül János ránézve klárára a 2 mályvarózsáról keblein  
+		- "Röpül" a szekér -> feszültség is nő Jánosban  
+		- "Párbeszéd": Klára kérdései nyomatékos üzenetek Jánosnak a tervekről  
+		- költői eszközökkel érzékelteti az elbeszélő a közeledő tragédiát:  
+			- Zöld Kendeláztató: Féltékenység  
+		- Hegyszakadékok mint nyitott koporsó: halál  
 	4. Tetőpont  
-	5.  
+		- Lélektani tetőpont: Klára szerelmes tekintetét látja János, Csipke Sándort meglátja, majd "leesik" a fehér rózsa  
+	5. Végkifejlet  
+		- Tragédiába torkollik a jelenet: Gélyi a gyeplőt/szárt elengedve még egyszer egy "lóriasztó csettentést" hallantott  
+		- Kimondatlan a vég: Szakadékba zuhan a szekér  
+		- Szárny metafora: a lovak egy nagy fekete szárnnyá válnak  
+		- A négy ló neve is kapcsolódik a sebességhez  
+#### Dolgozat 2025.09.11  
+## Herczeg Ferenc (1863-1954)  

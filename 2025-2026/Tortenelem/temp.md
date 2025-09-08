@@ -82,3 +82,40 @@
 			- Teleki a többségnek kedvez, ezért antiszemita törvényt hozott  
 			- Számarányoknak megfelelő helyet kapnak az egyetemen  
 			- Közvetlen nem antiszemita, de célja a zsidók visszaszorítása az értelmiségi szakmákból  
+- Miért bukott el teleki?  
+	- IV. Károly két visszatérési kísérletet tett (1921), királypuccsoknak nevezte el a közvélemény  
+	- A királypuccsok alatt kiderült, hogy a magyar vezetőrétegben még sok volt a királypárti (legitimista)  
+	- Az első királypuccs Teleki számára "komoly lelkiismeret-furdalást okozott", és utána lemondott  
+	- A kormányzó a telekihez közel álló Bethlen István grófot bízta meg a kormányalakítással  
+	- A miniszterelnöksége alatt bontakozott ki a konszolidáció, így a megvalósításuk Bethlen nevéhez kötődik  
+## Bethlen István miniszterelnöksége (1921-1931)  
+- Budaörsi csata  
+	- 1921. Október  
+	- Második királypuccs próbálkozás  
+	- Fegyveres összecsapás  
+	- IV. Károly és támogatói VS Horthyék és támogatóik  
+	- IV. Károly a halottakról értesülve visszalépett  
+	- Ez után megfosztotta az Antant IV. Károlyt és a Habsburg házat uralkodói jogaitól  
+### Bethlen István Konszolidációs lépései (Ellenforradalom btw)  
+#### Politikai  
+##### Mi az az egységes párt?  
+- Bethlen megakarta erősíteni a parlamentarizmust, amit a Népszövetség is elvárt  
+- Távol akarta tartani a parlamenttől a szélsőségeket, jelentéktelen szerepet szánt a Polgári demokratáknak és szociáldemokratáknak  
+- **Bethlennek erős kormánypártra volt ehhez szüksége**  
+- Ezt úgy valósíthatta meg, ha híveivel belépett Nagyatádi Szabó István Kisgazdapártjába -> Létrejött az Egységes párt  
+- Hivatalos neve: Keresztény - Keresztyén Földmíves-, Kisgazda- és Polgári Párt  
+- A kisgazdák a földreform érdekében együttműködtek a hatalommal  
+- A parasztok választásait megnyerik evvel  
+##### Mi az a Bethlen-Peyer paktum (megegyezés)?  
+-  
+##### Hogyan változott a választási rendszer?  
+-  
+#### Gazdasági  
+##### Mi az a szerkezetváltás?  
+-  
+##### Mi az az inflációs politika?  
+-  
+##### Hogy jutottunk nagy összegű kölcsönhöz?  
+-  
+##### Mire használtuk a Népszövetségi kölcsönt?  
+-  
