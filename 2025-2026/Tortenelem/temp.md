@@ -107,15 +107,46 @@
 - A kisgazdák a földreform érdekében együttműködtek a hatalommal  
 - A parasztok választásait megnyerik evvel  
 ##### Mi az a Bethlen-Peyer paktum (megegyezés)?  
--  
+- Teleki példáját követve Bethlen fellépett a szélsőségek ellen  
+	- Belső rend érdekében is  
+	- Azért, hogy a nyugati hatalmaknak bizonyítsa a rendszer alkotmányosságát  
+	- Ezért Bethlen István megegyezett a Szociáldemokratákkal  
+		- A szociáldemokraták elfogadták, hogy nem szervezkednek a földművesek, közalkalmazottak és vasútasok körében  
+		- Bethlen eközben biztosította a párt szabad működését és a parlamenti képviselet lehetőségét  
 ##### Hogyan változott a választási rendszer?  
--  
+- Parlamenti többség biztosítása érdekében korlátozni kívánta Bethlen a szavazati jogot  
+- Vagyoni cenzushoz lett kötve a választójog, nőknél 30 évre emelték a korhatárt  
+- Budapest és néhány nagyváros kivételével nyílt szavazást vezettek be  
 #### Gazdasági  
 ##### Mi az a szerkezetváltás?  
--  
+- Közép-európai változások (új határok, önellátásra törekvő országok) miatt egyes gazdasági ágak túlméretezettek lettek, pl.:  
+	- Élelmiszeripar  
+	- Nehézipar  
+		- Gépgyártás  
+- Lehetőség volt a Könnyűipar fejlesztése, de ez nem igazodott a modern világpiachoz  
+- Mezőgazdaság belterjes fejlődésbe kezdett -> Fellendült a konzervipar (Nagykőrös, Szeged)  
+- Korábban Cseh textíliák és bőráruk voltak jelentősek az országban  
+	- Védvámok megjelenésével drágultak  
+	- A domesztikus Könnyűipar így fellendült  
+	- Ez a fellendülés támogatta a konszolidációt  
+		- Sok női munkaerőt alkalmazhattak, enyhítve a munkanélküliséget  
+	- A "második ipari forradalom" jellemző ágazatai is fellendültek (elektronika, vegyipar)  
+- Röviden: Könnyűiparra fókuszáltak a világpiac által előnyben részesített Nehézipar helyett, hogy pótolhassuk azt, amit elvesztettünk  
 ##### Mi az az inflációs politika?  
--  
+- A szerkezetváltás jelentős tőkét igényelt volna, ami hiányzott Magyarországból -> Inflációs politikát alkalmaztak  
+- Kormány növelte a pénzkibocsátást -> Egyre gyorsuló infláció  
+- Emiatt tudtak hiteleket nyújtani vállalkozóknak, amit az értékét vesztő pénzben fizetnek vissza  
 ##### Hogy jutottunk nagy összegű kölcsönhöz?  
--  
+- A Konszolidáció elengedhetetlen feltétele volt a külső tőke bevonása  
+- Kölcsön megszerzésének feltétele volt a Népszövetségbe felvétel  
+- Bethlen törekvéseit látva a nyugati hatalmak felvették Magyarországot a Népszövetségbe (1922)  
+- A Népszövetség támogatásával végül 250 millió aranykoronát sikerült felvenni (Népszövetségi kölcsön)  
+- Pénzügyi stabilizáció érdekében megalapították a Magyar Nemzeti Bankot (1924)  
 ##### Mire használtuk a Népszövetségi kölcsönt?  
--  
+- A népszövetségi kölcsönből 1925-re megállították a korona inflációját  
+	- Rögzítették a korona árfolyamát  
+	- Új, értékálló valutát vezettek be (Pengő, 1927)  
+	- A Pengő a II.VH-ig megtartotta értékét, biztos alapot szolgálva az országnak  
+- Hitelt nyújtottak a mezőgazdasági modernizáláshoz, a turizus, villamosipar és közlekedés fejlesztéséhez  
+- A kölcsön segítette a gazdasági szerkezetváltást  
+- A kölcsönből a középrétegeknek anyagi biztosításra és szomszédos országokból menekült magyarok tömegeinek elhelyezésére nyílt mód  
