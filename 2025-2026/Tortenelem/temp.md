@@ -111,11 +111,18 @@
 	- Belső rend érdekében is  
 	- Azért, hogy a nyugati hatalmaknak bizonyítsa a rendszer alkotmányosságát  
 	- Ezért Bethlen István megegyezett a Szociáldemokratákkal  
-		- A szociáldemokraták elfogadták, hogy nem szervezkednek a földművesek, közalkalmazottak és vasútasok körében  
+		- A szociáldemokraták elfogadták, hogy 
+    		- nem szervezkednek a földművesek, közalkalmazottak és vasútasok körében  
+    		- Nem gyülekezhetnek szabadon  
+    		- Nem panaszkodhatnak külföldön az országról  
+    		- Nem lehet tüntetni  
+    		- Nem lehet erőszakosan fellépni  
 		- Bethlen eközben biztosította a párt szabad működését és a parlamenti képviselet lehetőségét  
 ##### Hogyan változott a választási rendszer?  
 - Parlamenti többség biztosítása érdekében korlátozni kívánta Bethlen a szavazati jogot  
-- Vagyoni cenzushoz lett kötve a választójog, nőknél 30 évre emelték a korhatárt  
+- Vagyoni cenzushoz lett kötve a választójog  
+- Nőknél 30 évre emelték a szavazási korhatárt  
+  - A nők emancipáció miatt nem szavaznának a "konzervatív" Egységes pártra, ezért veszélyeztették a rendszert
 - Budapest és néhány nagyváros kivételével nyílt szavazást vezettek be  
 #### Gazdasági  
 ##### Mi az a szerkezetváltás?  
