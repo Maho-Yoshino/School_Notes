@@ -111,18 +111,18 @@
 	- Belső rend érdekében is  
 	- Azért, hogy a nyugati hatalmaknak bizonyítsa a rendszer alkotmányosságát  
 	- Ezért Bethlen István megegyezett a Szociáldemokratákkal  
-		- A szociáldemokraták elfogadták, hogy 
-    		- nem szervezkednek a földművesek, közalkalmazottak és vasútasok körében  
-    		- Nem gyülekezhetnek szabadon  
-    		- Nem panaszkodhatnak külföldön az országról  
-    		- Nem lehet tüntetni  
-    		- Nem lehet erőszakosan fellépni  
+		- A szociáldemokraták elfogadták, hogy  
+			- nem szervezkednek a földművesek, közalkalmazottak és vasútasok körében  
+			- Nem gyülekezhetnek szabadon  
+			- Nem panaszkodhatnak külföldön az országról  
+			- Nem lehet tüntetni  
+			- Nem lehet erőszakosan fellépni  
 		- Bethlen eközben biztosította a párt szabad működését és a parlamenti képviselet lehetőségét  
 ##### Hogyan változott a választási rendszer?  
 - Parlamenti többség biztosítása érdekében korlátozni kívánta Bethlen a szavazati jogot  
 - Vagyoni cenzushoz lett kötve a választójog  
 - Nőknél 30 évre emelték a szavazási korhatárt  
-  - A nők emancipáció miatt nem szavaznának a "konzervatív" Egységes pártra, ezért veszélyeztették a rendszert
+	- A nők emancipáció miatt nem szavaznának a "konzervatív" Egységes pártra, ezért veszélyeztették a rendszert  
 - Budapest és néhány nagyváros kivételével nyílt szavazást vezettek be  
 #### Gazdasági  
 ##### Mi az a szerkezetváltás?  
@@ -157,3 +157,36 @@
 - Hitelt nyújtottak a mezőgazdasági modernizáláshoz, a turizus, villamosipar és közlekedés fejlesztéséhez  
 - A kölcsön segítette a gazdasági szerkezetváltást  
 - A kölcsönből a középrétegeknek anyagi biztosításra és szomszédos országokból menekült magyarok tömegeinek elhelyezésére nyílt mód  
+# Gazdasági világválság  
+## Milyen típusú válság?  
+- Amerikai túltermelési válsággal kezdődött  
+- Piac beszűkülése  
+## Milyen reakció van a beszűkülő piacra?  
+- Termelés visszafogása  
+- Takarékossági intézkedések  
+- Elbocsátások  
+- Ez tovább szűkítette a piacot  
+- Ez egy körbe megy újra és újra  
+- Tőzsde crash -> A részvények elértéktelenednek  
+## Bankoknál mi volt?  
+- Mindenki ki akarta venni a pénzét  
+- A bankok működése miatt nem tudtak elég pénzt kiadni  
+## New Deal  
+- Franklin Delano Roosevelt, amerikai elnök (1932-) hozta létre  
+- 1933  
+- Állami beavatkozás a gazdaságba  
+	- A dollár árfolyamot az aranytól elszakította  
+	- Közmunkaprogram -> munkanélküliség csökkentése, fogyasztás növelése  
+		- Autópályák építése  
+		- Szabályozták, munkába fogták a tennessee folyót -> áramtermelés  
+	- 4 napos bank zárlat  
+	- Bankok összevonása  
+	- Olcsóbb állami beruházások  
+	- Az állam fizetett a vetésterületüket csökkentő farmereknek  
+	- Korlátozta a gazdasági versenyt  
+		- Egységes feltételek  
+		- Termelés mennyiségének szabályozása  
+		- Minimálbér  
+	- Társadalombiztosítás bevezetése  
+		- Nyugdíj  
+		- Egészségügyi biztosítás  
