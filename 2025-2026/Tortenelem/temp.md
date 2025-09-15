@@ -171,7 +171,7 @@
 ## Bankoknál mi volt?  
 - Mindenki ki akarta venni a pénzét  
 - A bankok működése miatt nem tudtak elég pénzt kiadni  
-## New Deal  
+## New Deal (1929-1933)  
 - Franklin Delano Roosevelt, amerikai elnök (1932-) hozta létre  
 - 1933  
 - Állami beavatkozás a gazdaságba  
@@ -190,3 +190,25 @@
 	- Társadalombiztosítás bevezetése  
 		- Nyugdíj  
 		- Egészségügyi biztosítás  
+# Stálini (Kommunista) Szovjetunió  
+## Előzmények  
+- A bolsevikokat nem érdekli a külpolitika, csak a világforradalom -> Kilépnek a Breszt-litovszki békével a háborúból  
+- Polgárháború tör ki  
+	- "Nagy Októberi Szocialista Forradalom", 1917  
+	- Átveszik a Bolsevikok a hatalmat, Lenin vezetésével  
+	- Kommunista (bolseviszta) nyereség  
+## Hogyan jött létre?  
+- Polgárháborús nyereség  
+- Beolvasztották a cári birodalom területeit, kivéve  
+	- Balti államok  
+	- Finnország  
+- Rendezni kellett a nemzetiségek helyetét  
+	- Orosz nacionalizmus helyére a világforradalom gondolatát állították  
+	- A nagyobb nemzetiségi területek különállását elméletileg elismerték  
+- 1922: Létrejött a szovjetunió  
+- Szovjetunió = Tanácsköztársaság Unió  
+- Meghalt Lenin (1924)  
+- Nem volt egyértelmű utód -> Sztálin vs Trotsky  
+- Stálin nyer, Trotsky megmenekül Mexikóba, de jégcsákányt beleállítottak szovjet bérgyilkosok  
+- Totális diktatúra: **A törvényhozás, a magán és állami élet minden szinten a párt irányítása alatt áll**  
+## HF: Jegyzet a Tk. 152-158. oldalak szövegéből  
