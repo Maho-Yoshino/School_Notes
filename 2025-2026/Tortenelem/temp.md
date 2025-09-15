@@ -212,3 +212,58 @@
 - Stálin nyer, Trotsky megmenekül Mexikóba, de jégcsákányt beleállítottak szovjet bérgyilkosok  
 - Totális diktatúra: **A törvényhozás, a magán és állami élet minden szinten a párt irányítása alatt áll**  
 ## HF: Jegyzet a Tk. 152-158. oldalak szövegéből  
+### Tervgazdálkodás  
+#### Előzmények  
+- Szovjetek elzárták magukat a külföldi tőkétől, technológiától és piaci viszonyok ösztönző hatásától  
+- A kívánt ipari fejlődést más ágazatok (mezőgazdaság, infrastruktúra, könnyűipar) rovására lehetett elindítani  
+- Emellett a gazdaságuk jelentős károkat szenvedett a polgárháború alatt  
+#### A tervgazdálkodás  
+- Az iparosítást (nehézipart főleg) tűzték ki célként  
+	- Alapvetőnek tartották a:  
+		- Katonai erő fokozásához  
+		- Külső támadások elhárítására  
+		- Esetleges világforradalom támogatásához  
+	- Minden erőforrást a kitermelő, nehézipari és az energiatermelő ágazatokba fektettek  
+- Az iparfejlesztés felet meg az ideológiai elvárásoknak is  
+	- Elméletben a proletárkdiktatúra a **többségben lévő** munkásság diktatúrája  
+	- Viszont a Szovjetunióban a társadalom jelentős részét a parasztok tették ki  
+- A gazdaságot a központ irányította  
+- A NEP (?) visszavonása után, a húszas évek második felében növeketedd a központi apparátus -> Megszületett a tervgazdálkodás  
+- **Tervgazdálkodás: A központ által készített időarányos (általában 5 éves) terveket kellett teljesítenie minden gazdálkodó szervezetnek**  
+- Így váltak lehetővé a villamos erőművek, kohók és gépgyárak épülése  
+- Viszont nem-valósághű célokat tűztek ki, és az eredmények elmaradását bűntették  
+- Papíron az üzemek igyekeztek teljesíteni a tervet  
+- Valóságban a mennyiség/minőség nem egyezett a számokkal  
+- Ezek után a szovjet ipar alkalmassá vált egy erős hadsereg ellátására  
+- Viszont ezért fizettek: Éhezés, nyomor, félelem a hatóságoktól  
+### Kollektivizálás  
+- Az iparosítás külterjes szakaszban volt, folyton nőtt  
+- Folytonosan növelték a szükséges munkaerőt, viszont nem volt elég gyári munkás  
+- Ahhoz, hogy a parasztok egy része ipari munkás legyen, át kellett szervezni a mezőgazdaságot  
+- A parasztokat termelőszövetkezetekbe (kolhozokba) kényszerítették - Ezt nevezzük kollektivizálásnak  
+- A parasztság elleni támadást a falu vezető ereje, a jómódú parasztság (kulákok) tönkretételével kezdték  
+	- Elkobozták vagyonaikat  
+	- Munkatáborokba hurcolták el őket  
+- Majd a parasztság többi része jött, embertelen módszereket alkalmaztak ellenük  
+	- Milliók haltak éhen, miközben az állam exportálta a gabonát a hiányzó pénzért  
+	- Ukrajnában elvették a parasztoktól a megtermelt élelmet  
+### Sztálin diktatúra jellemzői  
+- Sztálin személyéhez feltétlenül hű embereket állított  
+- A hatalom, céljai megvalósítása érdekében megfélemlítette a társadalmat  
+	- Volt akit meggyilkoltak, másokat koholt (hamis) vádak alapján ítéltek halálra  
+- A szovjet propaganda bel- és külföldön is meghamisította a valóságot  
+	- Képekről kiretusálták akit nem akartak látni  
+	- A köztudatból törölni kívánt emberekre vonatkozó írott anyagot elzárolták a könyvtárakban  
+	- Gyakori irányváltások miatt korábbi propagandaanyagokat eltűntettek, újakat gyártottak  
+	- 1919, létrejött a Komintern (Komunista Internacionálé)  
+		- A kommunista pártok nemzetközi szervezete  
+		- A világforradalmat kívánták előkészíteni  
+- A megfélemlítést összekapcsolták a gazdasági célok elérésével  
+	- Munkatáborokba hurcolták ki, aminek egész rendszerét építették ki (Gulag, a főigazgatóság nevéből)  
+	- A főigazgatóságnak is tervszámokat kellett teljesítenie  
+- Sztálin személyi kultusza megkezdődött  
+	- Képei, szobrai elárasztották az országot  
+	- Nem jelenhetett meg tudományos mű a ráhivatkozás nélkül  
+	- Beszédeit ütemes taps kísérte  
+	- Behízelgő versek, cikkek jelentek meg róla  
+- A világforradalom elmaradása után a szovjet külpolitika és befolyás alatt álló kommunista pártok a szovjetunió biztonsági és hatalmi érdekeit szolgálták  
