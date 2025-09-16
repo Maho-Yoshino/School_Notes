@@ -211,6 +211,7 @@
 - Nem volt egyértelmű utód -> Sztálin vs Trotsky  
 - Stálin nyer, Trotsky megmenekül Mexikóba, de jégcsákányt beleállítottak szovjet bérgyilkosok  
 - Totális diktatúra: **A törvényhozás, a magán és állami élet minden szinten a párt irányítása alatt áll**  
+- Minden komcsi rendszer első tevékenysége az államosítás  
 ## HF: Jegyzet a Tk. 152-158. oldalak szövegéből  
 ### Tervgazdálkodás  
 #### Előzmények  
@@ -236,19 +237,20 @@
 - Valóságban a mennyiség/minőség nem egyezett a számokkal  
 - Ezek után a szovjet ipar alkalmassá vált egy erős hadsereg ellátására  
 - Viszont ezért fizettek: Éhezés, nyomor, félelem a hatóságoktól  
+- Sztahanovisták: Munkamániásak  
 ### Kollektivizálás  
 - Az iparosítás külterjes szakaszban volt, folyton nőtt  
 - Folytonosan növelték a szükséges munkaerőt, viszont nem volt elég gyári munkás  
 - Ahhoz, hogy a parasztok egy része ipari munkás legyen, át kellett szervezni a mezőgazdaságot  
-- A parasztokat termelőszövetkezetekbe (kolhozokba) kényszerítették - Ezt nevezzük kollektivizálásnak  
-- A parasztság elleni támadást a falu vezető ereje, a jómódú parasztság (kulákok) tönkretételével kezdték  
+- A parasztokat termelőszövetkezetekbe (kolhozokba, TSz) kényszerítették - Ezt nevezzük kollektivizálásnak  
+- A parasztság elleni támadást a falu vezető ereje, a gazdag parasztság (kulákok) tönkretételével kezdték  
 	- Elkobozták vagyonaikat  
 	- Munkatáborokba hurcolták el őket  
 - Majd a parasztság többi része jött, embertelen módszereket alkalmaztak ellenük  
 	- Milliók haltak éhen, miközben az állam exportálta a gabonát a hiányzó pénzért  
-	- Ukrajnában elvették a parasztoktól a megtermelt élelmet  
+	- Ukrajnában elvették a parasztoktól a megtermelt élelmet (Ott is éheztek, "Holodomor")  
 ### Sztálin diktatúra jellemzői  
-- Sztálin személyéhez feltétlenül hű embereket állított  
+- Sztálin személyéhez feltétlenül hű embereket állított hatalomba  
 - A hatalom, céljai megvalósítása érdekében megfélemlítette a társadalmat  
 	- Volt akit meggyilkoltak, másokat koholt (hamis) vádak alapján ítéltek halálra  
 - A szovjet propaganda bel- és külföldön is meghamisította a valóságot  
@@ -267,3 +269,4 @@
 	- Beszédeit ütemes taps kísérte  
 	- Behízelgő versek, cikkek jelentek meg róla  
 - A világforradalom elmaradása után a szovjet külpolitika és befolyás alatt álló kommunista pártok a szovjetunió biztonsági és hatalmi érdekeit szolgálták  
+- **Sztálini tisztogatás: Párton belüli konkurencával leszámolt**  
