@@ -270,3 +270,31 @@
 	- Behízelgő versek, cikkek jelentek meg róla  
 - A világforradalom elmaradása után a szovjet külpolitika és befolyás alatt álló kommunista pártok a szovjetunió biztonsági és hatalmi érdekeit szolgálták  
 - **Sztálini tisztogatás: Párton belüli konkurencával leszámolt**  
+# A Harmadik birodalom (Náci Németország)  
+## Hogyan fogadták a németek az I.VH-s veszteséget  
+- A hazatért fiatalok nem találták helyüket a társadalomban  
+	- Nem találtak munkát  
+	- Ha mégis, akkor megalázó volt a hadsereg után  
+	- Gyűlölték a civilek világát  
+- A Versailles-i békét igazságtalannak találták  
+	- minden társadalmi réteg úgy érezte, hogy kilátástalan a helyzet  
+	- Ezek az emberek a szélsőjobboldali szervezetekhez csatlakoztak  
+		- Ezek a szervezetek nemzeti és szociális ígéretekkel erős, igazságos hatalmak akartak megvalósítani  
+		- Helyet kínáltak a kallódó embereknek  
+		- Felemelkedett az Olasz fasizmushoz hasonlító Nemzetiszocialista mozgalom, Adolf Hitler vezetésével  
+## Mi az az NSDAP  
+- Nacionalsocialistische Deutche Arbeitpartei -> Nemzetiszocialista német munkáspárt  
+- Hf.: Tanulni, Jegyzetelni az NSDAP programját, írd ki melyik pont melyik eszméhez köthető  
+### Az NSDAP programjának pontjainak eszméi  
+- 1 - Nacionalizmus  
+- 2 - Nacionalizmus  
+- 3 - Nacionalizmus  
+- 4 - Antiszemitizmus, Nacionalizmus  
+- 7 - Nacionalizmus  
+- 11 - Szocializmus  
+- 12 - Szocializmus  
+- 13 - Szocializmus  
+- 15 - Szocializmus  
+- 16 - Nacionalizmus  
+- 19 - Nacionalizmus  
+- 23 - Nacionalizmus  
