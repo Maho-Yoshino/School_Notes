@@ -289,12 +289,38 @@
 - 1 - Nacionalizmus  
 - 2 - Nacionalizmus  
 - 3 - Nacionalizmus  
-- 4 - Antiszemitizmus, Nacionalizmus  
-- 7 - Nacionalizmus  
+- 4 - Nacionalizmus  
+- 7 - Nacionalizmus, Szocializmus  
 - 11 - Szocializmus  
 - 12 - Szocializmus  
 - 13 - Szocializmus  
 - 15 - Szocializmus  
-- 16 - Nacionalizmus  
+- 16 - Szocializmus  
 - 19 - Nacionalizmus  
 - 23 - Nacionalizmus  
+### Mi az a Sörpuccs?  
+- München, 1923  
+- Felhívták magukra a figyelmet az NSDAP, amikor Münchenben puccsot hajtottak végre  
+	- Egy sörcsarnokban elfogták a bajor kormány tagjait  
+	- Megkísérelték a hatalom megszerzését  
+- Börtönbüntetést kapott vezetőjük, Adolf Hitler, ami még szerzett neki ismertséget  
+	- Ezt követően megírta a Mein Kampfot  
+### Mik a Mein Kampf legfontosabb gondolatai?  
+- Munkásoknak munkát, parasztoknak földet ígért  
+- Tőke megfékezését, a kommunisták és a szakszervezetek korlátozását  
+- Háborús sérelmek orvoslása  
+- Élettér elmélet (lebenstraum)  
+- Fajelmélet  
+	- A németséget (árja) felsőbbrendű fajnak tartotta  
+	- A legtöbb népet (pl. a zsidókat, szlávokat, feketéket) alsóbbrendűnek  
+	- Elsősorban a zsidók ellen irányult  
+- Az antiszemitizmus így egyszerre volt  
+	- antikapitalista ("a zsidó nagytőke elleni harc")  
+	- antiliberális ("a zsidó értelmiség aknamunkájának leleplezése")  
+	- antibolsevista ("Német nemzetet hátba döfő zsidó származású kommunisták leleplezése")  
+### Szociál-Darwinizmus, Populizmus  
+### Hogyan jutott hatalomra Hitler? (Hogyan szerezte meg a totális hatalmat?) (Tk. 169, 170, 171)  
+- Az NSDAP nem tudott jelentős párttá válni, de kiépítette  
+	- Pártapparátusát  
+	- Fegyveres osztag  
+	- Propagandaszervezetét  

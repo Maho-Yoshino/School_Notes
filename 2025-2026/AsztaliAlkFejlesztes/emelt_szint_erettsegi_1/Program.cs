@@ -121,6 +121,10 @@ namespace erettegi_fel_emelt_1
             {
                 public int x;
                 public int y;
+                public bool SequenceEqual(Point a)
+                {
+                    return x==a.x && y==a.y;
+                }
             }
             public byte[] rgb;
             public Point start_pos, end_pos;
@@ -138,6 +142,12 @@ namespace erettegi_fel_emelt_1
                     (a.start_pos.x == (CanvasSize[0] - 1 - start_pos.x)) &&
                     (a.end_pos.x == (CanvasSize[0] - 1 - end_pos.x)));
             }
+            public bool IsVertMirror(cFel3 a, int[] CanvasSize)
+            {
+                return (a.start_pos.x == start_pos.x && a.end_pos.x == end_pos.x &&
+                    (a.start_pos.y == (CanvasSize[0] - 1 - start_pos.y)) &&
+                    (a.end_pos.y == (CanvasSize[0] - 1 - end_pos.y)));
+            }
         }
         static void Fel3()
         {
@@ -150,9 +160,12 @@ namespace erettegi_fel_emelt_1
             }
             // B feladat
             Console.WriteLine($"B feladat: {adat.Count(sor => sor.rgb.SequenceEqual(adat[0].rgb) && sor.IsMirror(adat[0], sizes))}");
+            List<cFel3> erintkezo_szakaszok = new List<cFel3>();
+            // D feladat
+            cFel3 leghosszabb = adat.Where(x => x.rgb.Count(y => y == 255) == 1 && x.rgb.Count(y => y == 0) == 2).OrderBy(x => x.SzakaszLength).ToArray()[0];
             foreach (cFel3 sor in adat)
             {
-                if ()
+                if (adat.Any(x => x.start_pos.SequenceEqual(sor.start_pos) || x.start_pos.SequenceEqual(sor.end_pos) || x.end_pos.SequenceEqual(sor.start_pos) || x.end_pos.SequenceEqual(sor.end_pos)) && !erintkezo_szakaszok.Contains(sor))
                 {
 
                 }
