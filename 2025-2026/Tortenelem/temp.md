@@ -324,3 +324,26 @@
 	- Pártapparátusát  
 	- Fegyveres osztag  
 	- Propagandaszervezetét  
+- A Náci szociális és nemzeti demagógia hatékonyságát növelte  
+	- A technika vívmányainak alkalmazása  
+	- Erőszak  
+- Hagyományos propaganda (plakát, sajtó) mellett a rádiót és filmeket is alkalmazta  
+- Beszédeiben a tömeglélektan módszereivel élt  
+- A "meggyőzést" kiegészítették megfélemlítéssel  
+	- A párt rohamosztaga (SA, Sturmabteilung, szó szerint "rohamosztag") akcióival (ellenfelek megverése, esetenként megölése) azt üzente, hogy a nácikkal nem tanácsos szembekerülni  
+- Az NSDAP számára a világválság teremtette meg a lehetőséget hatalomszerzésre  
+	- A munkanélküliség, nyomor, kilátástalanság miatt a párt taglétszáma emelkedett, választási eredményei folyton javultak  
+	- Hasonló ütemben nőtt a kommunisták befolyása is  
+	- A szélsőséges erők ellen nem tudtak egységesen a polgári és szociáldemokrata pártok fellépni  
+	- 1932-ben már a szavazók többsége valamelyik szélsőséges pártra szavazott (NSDAP 37.8%, Komcsik 14.3%)  
+- Az NSDAP lett a Birodalmi gyűlés legnagyobb pártja  
+	- Hindenburg (a köztársasági elnök) először elzárkózott attól, hogy Hitler kormányt alakítson  
+	- Viszont a Hindenburg által javasolt kormányok gyorsan elbuktak  
+	- A politikai válság eredményeként a kommunisták is növelték népszerűségüket  
+	- A kommunista veszéltől megrémült jobboldal egyes csoportjai hajlottak a Hitlerrel való együttműködésre  
+	- Hindenburg hosszas egyezkedés után **Kancellárrá (kormányfővé) nevezte Hitlert** (1933. Jan. 30.) -> Alkotmányosan koalíciós kormány vezetőjeként került hatalomra  
+	- csalódtak, akik kézben akarták tartani Hitlert, aki a szélsőséges csoportokra jellemző gátlástalansággal minden politikai eszközt megengedhetőnek tartott a hatalomszerzésre és megerősítésére -> A demokrácia szabályait kihasználva került kancellári székbe, és számolta fel az alkotmányosságot  
+- A hatalommal új választásokat írt ki (1933. Március)  
+	- A választások előtt **Leégették a Reichstagot** (Birodalmi gyűlés épülete) -> evvel kizárták a kommunistákat a választásokból  
+	- Az NSDAP jelentős győzelmet aratott (43.9%)  
+	- Nyereség után új törvényhozással megszavazta a felhatalmazási törvényt (lehetővé tette, hogy törvényhozás nélkül, rendeletekkel kormányozzon <span style="font-size:0.6em;">(II. József flashback 😱)</span>)  

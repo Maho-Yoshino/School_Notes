@@ -4,7 +4,7 @@ from tkinter.ttk import Separator
 from sys import platform, executable, argv
 from tkinter.font import Font
 from ctypes import windll, c_byte, byref, Structure
-from datetime import datetime, time
+from datetime import datetime, time, timedelta
 from time import perf_counter
 from os import path, chdir, mkdir, environ
 from threading import Thread
@@ -21,7 +21,6 @@ if path.splitext(argv[0])[1].lower() != ".exe":
 else:
 	current_dir = path.dirname(path.abspath(executable))
 chdir(current_dir)
-
 # Logging prints
 def print_info(text):
 	print(text)
@@ -82,7 +81,10 @@ class Settings:
 	"classtimes": [],
 	"breaktimes": [],
 	"special_classtimes": {},
-	"special_breaktimes": {}
+	"special_breaktimes": {},
+	"special_begintimes": {},
+	"classes_begin":8,
+    "delay":0
 }
 """
 					)
@@ -93,6 +95,7 @@ class Settings:
 		self._data.setdefault("debug", False)
 		self._data.setdefault("special_classtimes", {})
 		self._data.setdefault("special_breaktimes", {})
+		self._data.setdefault("special_begintimes", {})
 	def save(self):
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)
@@ -137,6 +140,41 @@ class Settings:
 	@breaktimes.setter
 	def breaktimes(self, value: list[int]):
 		self._data["breaktimes"] = value
+		self.save()
+	@property
+	def special_classtimes(self) -> dict[str, int]:
+		return self._data["special_classtimes"]
+	@special_classtimes.setter
+	def special_classtimes(self, value: dict[str, int]):
+		self._data["breaktimes"] = value
+		self.save()
+	@property
+	def special_breaktimes(self) -> dict[str, int]:
+		return self._data["special_breaktimes"]
+	@special_breaktimes.setter
+	def special_breaktimes(self, value: dict[str, int]):
+		self._data["special_breaktimes"] = value
+		self.save()
+	@property
+	def special_begintimes(self) -> dict[str, int]:
+		return self._data["special_begintimes"]
+	@special_begintimes.setter
+	def special_begintimes(self, value: dict[str, int]):
+		self._data["special_begintimes"] = value
+		self.save()
+	@property
+	def classes_begin(self) -> list[int]:
+		return self._data["classes_begin"]
+	@classes_begin.setter
+	def classes_begin(self, value: list[int]):
+		self._data["classes_begin"] = value
+		self.save()
+	@property
+	def delay(self) -> list[int]:
+		return self._data["delay"]
+	@delay.setter
+	def delay(self, value: list[int]):
+		self._data["delay"] = value
 		self.save()
 settings = Settings()
 _settings:tk.Toplevel|None = None
@@ -243,9 +281,43 @@ async def startup(root:Tk):
 	del init_data
 	await setup_tray(root)
 	root.update()
-	#asyncio.create_task(update_cycle())
+	asyncio.create_task(update_cycle())
 	root.protocol("WM_DELETE_WINDOW", root.withdraw)
 	print_info("Startup complete")
+
+class Schedule:
+	classes:list["ClassData"] = []
+	date:datetime = (datetime.now() if dummy_date is None else dummy_date)
+	special_day:bool = False
+	class ClassData:
+		begin:time
+		end:time
+		classname:str
+		room:str
+		def __init__(self, _class:str, index:int, parent:"Schedule"):
+			tmp = settings.classlist.get(_class)
+			if len(parent.classes) > 0:
+				self.begin = parent.classes[-1].end + timedelta(minutes=(settings.breaktimes if parent.special_day else settings.special_breaktimes)[index])
+			else:
+				temp = (settings.special_begintimes.get(parent.date) if parent.special_day else settings.classes_begin)
+				self.begin = datetime.strptime(f"{temp//100}:{temp%100}", "%H:%M") + timedelta(seconds=settings.delay)
+			self.end = self.begin + timedelta(minutes=(settings.special_classtimes if parent.special_day else settings.classtimes)[index])
+			self.classname = tmp[0]
+			self.room = tmp[1]
+	def __init__(self):
+		weekday = self.date.weekday()
+		self.special_day = any([day == self.date.date() for day in settings.special_days])
+		if weekday in [5,6] and not self.special_day:
+			return
+		if self.special_day:
+			tmp = settings.special_days.get(self.date.date())
+			if tmp is None:
+				tmp = settings.default_schedule[weekday]
+		else: 
+			tmp = settings.default_schedule[weekday]
+		for ind, classinfo in enumerate(tmp):
+			self.classes.append(self.ClassData(classinfo, ind, self))
+		print_info("Initialized Schedule class")
 async def update_cycle():
 	async def set_dynamic_size():
 		if root.winfo_width() == separator.winfo_width(): return
@@ -253,13 +325,17 @@ async def update_cycle():
 		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
 		root.update()
 	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
-	prev_day:int = (await get_rn()).day
+	prev_day:datetime = (await get_rn()).date()
+	schedule:Schedule = await Schedule()
 	while True:
 		_start = perf_counter()
-		if prev_day != (await get_rn()).day:
-			prev_day = (await get_rn()).day
+		if prev_day != schedule.date:
+			prev_day = (await get_rn()).date()
 			if settings.debug: print("Day changed since last cycle")
-			# TODO: Generate new schedule
+			schedule = await Schedule()
+			if len(schedule.classes) == 0: await asyncio.sleep(60*30)
+		for num, _class in enumerate(schedule):
+			...
 		...
 		update_delay = await is_battery_saver_on(5, 1)
 		delay = max(0, update_delay - (perf_counter() - _start))
