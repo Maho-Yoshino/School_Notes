@@ -326,13 +326,13 @@ async def update_cycle():
 		root.update()
 	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
 	prev_day:datetime = (await get_rn()).date()
-	schedule:Schedule = await Schedule()
+	schedule:Schedule = Schedule()
 	while True:
 		_start = perf_counter()
 		if prev_day != schedule.date:
 			prev_day = (await get_rn()).date()
 			if settings.debug: print("Day changed since last cycle")
-			schedule = await Schedule()
+			schedule = Schedule()
 			if len(schedule.classes) == 0: await asyncio.sleep(60*30)
 		for num, _class in enumerate(schedule):
 			...
