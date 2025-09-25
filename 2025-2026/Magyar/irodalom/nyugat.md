@@ -38,3 +38,7 @@
 	- Kassák Lajos: Tett, Ma  
 	- Németh László: Válasz  
 	- Móricz Zsigmond: Kelet Népe  
+## Ady Endre  
+- Tétel: Ady Endre szerelmi költészete (Léda és Csinszka versek)  
+### Élete (Tk. 171-172)  
+- Szilágyság, Érmindszenten született, 1877  

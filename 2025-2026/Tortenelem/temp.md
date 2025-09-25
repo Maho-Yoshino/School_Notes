@@ -340,10 +340,26 @@
 	- Hindenburg (a köztársasági elnök) először elzárkózott attól, hogy Hitler kormányt alakítson  
 	- Viszont a Hindenburg által javasolt kormányok gyorsan elbuktak  
 	- A politikai válság eredményeként a kommunisták is növelték népszerűségüket  
-	- A kommunista veszéltől megrémült jobboldal egyes csoportjai hajlottak a Hitlerrel való együttműködésre  
+	- A kommunista veszélytől megrémült jobboldal egyes csoportjai hajlottak a Hitlerrel való együttműködésre  
 	- Hindenburg hosszas egyezkedés után **Kancellárrá (kormányfővé) nevezte Hitlert** (1933. Jan. 30.) -> Alkotmányosan koalíciós kormány vezetőjeként került hatalomra  
 	- csalódtak, akik kézben akarták tartani Hitlert, aki a szélsőséges csoportokra jellemző gátlástalansággal minden politikai eszközt megengedhetőnek tartott a hatalomszerzésre és megerősítésére -> A demokrácia szabályait kihasználva került kancellári székbe, és számolta fel az alkotmányosságot  
 - A hatalommal új választásokat írt ki (1933. Március)  
 	- A választások előtt **Leégették a Reichstagot** (Birodalmi gyűlés épülete) -> evvel kizárták a kommunistákat a választásokból  
 	- Az NSDAP jelentős győzelmet aratott (43.9%)  
-	- Nyereség után új törvényhozással megszavazta a felhatalmazási törvényt (lehetővé tette, hogy törvényhozás nélkül, rendeletekkel kormányozzon <span style="font-size:0.6em;">(II. József flashback 😱)</span>)  
+	- Nyereség után új törvényhozással megszavazta a **felhatalmazási törvényt** (lehetővé tette, hogy törvényhozás nélkül, rendeletekkel kormányozzon <span style="font-size:0.6em;">(II. József flashback 😱)</span>)  
+### Mit csinált Hitler a hatalomra kerülése után?  
+- Felszámolt egyes alkotmányos intézményeket  
+- A kommunisták után a többi pártot is szétverte  
+	- Képviselőik jelentős részét koncentrációs táborokba záratta  
+- Megszüntette a társadalom önszerveződésű csoportjait  
+	- Szakszervezeteket  
+	- Diákszervezeteket  
+	- de még egyszerű egyleteket is  
+- Minden hatalom a Führer kezében összpontosult (1934ben, Hindenburg halála után egyesítették az elnöki és kancellári hatalmat, Hitler lett a "vezér és kancellár")  
+- Az SA egy idő után veszélyeztette a hatalmát  
+	- Hitler leszámolt az SA-val  
+	- Veszélyeztette a náci demagógiát, a hatalom megragadása után követelte a  
+		- "második forradalmat"  
+		- nagytőke korlátozását  
+	- 1934, Hosszú kések éjszakája, SA vezetőségét megöli az SS (Schutzstaffel, "védőosztag")  
+### Hf: 174, 175  
