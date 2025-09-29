@@ -70,6 +70,7 @@ class Settings:
 			with open(self.filename, "x", encoding=self.encoding) as f:
 				f.write(r"""{
 	"classlist": {},
+	"teacherlist": {},
 	"default_schedule": [
 		[],
 		[],
@@ -84,13 +85,14 @@ class Settings:
 	"special_breaktimes": {},
 	"special_begintimes": {},
 	"classes_begin":8,
-    "delay":0
+	"delay":0
 }
 """
 					)
 			with open(self.filename, "r", encoding=self.encoding) as f:
 				self._data = jload(f)
 		# Set default values if missing
+		self._data.setdefault("teacherlist", {})
 		self._data.setdefault("special_days", None)
 		self._data.setdefault("debug", False)
 		self._data.setdefault("special_classtimes", {})
@@ -99,77 +101,87 @@ class Settings:
 	def save(self):
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)
-	@property
+	@property # classlist
 	def classlist(self) -> Dict[str, List[str]]:
 		return self._data["classlist"]
 	@classlist.setter
 	def classlist(self, value: Dict[str, List[str]]):
 		self._data["classlist"] = value
 		self.save()
-	@property
+	@property # default_schedule
 	def default_schedule(self) -> List[List[str]]:
 		return self._data["default_schedule"]
 	@default_schedule.setter
 	def default_schedule(self, value: List[List[str]]):
 		self._data["default_schedule"] = value
 		self.save()
-	@property
+	@property # teacherlist
+	def teacherlist(self) -> Dict[str, str]:
+		return self._data["teacherlist"]
+	@teacherlist.setter
+	def teacherlist(self, key: str, value: str):
+		if self._data["teacherlist"].get(key, None) is not None:
+			self._data["teacherlist"][key] = value
+		else:
+			self._data["teacherlist"].update({key:value})
+		self.save()
+	@property # special_days
 	def special_days(self) -> Optional[Dict[str, List[str]]]:
 		return self._data["special_days"]
 	@special_days.setter
 	def special_days(self, value: Optional[Dict[str, List[str]]]):
 		self._data["special_days"] = value
 		self.save()
-	@property
+	@property # debug
 	def debug(self) -> bool:
 		return self._data["debug"]
 	@debug.setter
 	def debug(self, value: bool):
 		self._data["debug"] = value
 		self.save()
-	@property
+	@property # classtimes
 	def classtimes(self) -> list[int]:
 		return self._data["classtimes"]
 	@classtimes.setter
 	def classtimes(self, value: list[int]):
 		self._data["classtimes"] = value
 		self.save()
-	@property
+	@property # breaktimes
 	def breaktimes(self) -> list[int]:
 		return self._data["breaktimes"]
 	@breaktimes.setter
 	def breaktimes(self, value: list[int]):
 		self._data["breaktimes"] = value
 		self.save()
-	@property
+	@property # special_classtimes
 	def special_classtimes(self) -> dict[str, int]:
 		return self._data["special_classtimes"]
 	@special_classtimes.setter
 	def special_classtimes(self, value: dict[str, int]):
 		self._data["breaktimes"] = value
 		self.save()
-	@property
+	@property # special_breaktimes
 	def special_breaktimes(self) -> dict[str, int]:
 		return self._data["special_breaktimes"]
 	@special_breaktimes.setter
 	def special_breaktimes(self, value: dict[str, int]):
 		self._data["special_breaktimes"] = value
 		self.save()
-	@property
+	@property # special_begintimes
 	def special_begintimes(self) -> dict[str, int]:
 		return self._data["special_begintimes"]
 	@special_begintimes.setter
 	def special_begintimes(self, value: dict[str, int]):
 		self._data["special_begintimes"] = value
 		self.save()
-	@property
+	@property # classes_begin
 	def classes_begin(self) -> list[int]:
 		return self._data["classes_begin"]
 	@classes_begin.setter
 	def classes_begin(self, value: list[int]):
 		self._data["classes_begin"] = value
 		self.save()
-	@property
+	@property # delay
 	def delay(self) -> list[int]:
 		return self._data["delay"]
 	@delay.setter
@@ -286,25 +298,27 @@ async def startup(root:Tk):
 	print_info("Startup complete")
 
 class Schedule:
-	classes:list["ClassData"] = []
-	date:datetime = (datetime.now() if dummy_date is None else dummy_date)
+	classes:list["ClassData", list["ClassData"]] = []
+	date:datetime = None
 	special_day:bool = False
 	class ClassData:
 		begin:time
 		end:time
-		classname:str
-		room:str
-		def __init__(self, _class:str, index:int, parent:"Schedule"):
-			tmp = settings.classlist.get(_class)
+		classname:str = None 
+		room:str = None 
+		def __init__(self, _class:str|None, index:int, parent:"Schedule"):
+			tmp = settings.classlist.get(_class, [])
 			if len(parent.classes) > 0:
-				self.begin = parent.classes[-1].end + timedelta(minutes=(settings.breaktimes if parent.special_day else settings.special_breaktimes)[index])
+					self.begin = (parent.classes[-1].end if not isinstance(parent.classes[-1], list) else parent.classes[-1][0].end) + timedelta(minutes=(settings.special_breaktimes if parent.special_day else settings.breaktimes)[index-1])
 			else:
 				temp = (settings.special_begintimes.get(parent.date) if parent.special_day else settings.classes_begin)
-				self.begin = datetime.strptime(f"{temp//100}:{temp%100}", "%H:%M") + timedelta(seconds=settings.delay)
+				self.begin = datetime.strptime(f"{parent.date.strftime("%Y.%m.%d")} {temp//100}:{temp%100}", "%Y.%m.%d %H:%M")
 			self.end = self.begin + timedelta(minutes=(settings.special_classtimes if parent.special_day else settings.classtimes)[index])
-			self.classname = tmp[0]
-			self.room = tmp[1]
+			if tmp:
+				self.classname = tmp[0]
+				self.room = tmp[1]
 	def __init__(self):
+		self.date = (datetime.now() if dummy_date is None else dummy_date).date()
 		weekday = self.date.weekday()
 		self.special_day = any([day == self.date.date() for day in settings.special_days])
 		if weekday in [5,6] and not self.special_day:
@@ -316,59 +330,44 @@ class Schedule:
 		else: 
 			tmp = settings.default_schedule[weekday]
 		for ind, classinfo in enumerate(tmp):
-			self.classes.append(self.ClassData(classinfo, ind, self))
-		print_info("Initialized Schedule class")
+			if classinfo is not None and len(classinfo.split("/")) > 1:
+				self.classes.append([self.ClassData(_classinfo if _classinfo != "None" else None, ind, self) for _classinfo in classinfo.split("/")])
+			else:
+				self.classes.append(self.ClassData(classinfo, ind, self))
+		print_debug("Initialized Schedule class")
 async def update_cycle():
 	async def set_dynamic_size():
 		if root.winfo_width() == separator.winfo_width(): return
 		if settings.debug: print(f"setting dynamic size")
 		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
 		root.update()
-	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
+	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator
 	prev_day:datetime = (await get_rn()).date()
 	schedule:Schedule = Schedule()
 	while True:
 		_start = perf_counter()
 		if prev_day != schedule.date:
 			prev_day = (await get_rn()).date()
-			if settings.debug: print("Day changed since last cycle")
+			print_debug("Day changed since last cycle")
 			schedule = Schedule()
 			if len(schedule.classes) == 0: await asyncio.sleep(60*30)
-		for num, _class in enumerate(schedule):
-			...
-		...
-		update_delay = await is_battery_saver_on(5, 1)
-		delay = max(0, update_delay - (perf_counter() - _start))
-		await asyncio.sleep(delay)
-async def update_cycle_old():
-	async def set_dynamic_size():
-		if root.winfo_width() == separator.winfo_width(): return
-		if settings.debug: print(f"setting dynamic size")
-		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
-		root.update()
-	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator
-	prev_day:int = (await get_rn()).day
-	while True:
-		_start = perf_counter()
-		if prev_day != (await get_rn()).day:
-			prev_day = (await get_rn()).day
-			if settings.debug: print("Day changed, generating new csengetes")
-			# TODO: Generate new schedule
-		for num, tmp in enumerate(csengetes):
-			start, end, ora = tmp
-			start:time; end:time; ora:tuple[str]|tuple[tuple[str]]|None
-			now = (await get_rn()).time()
-			if (start > now and ora is not None):
-				tmp = datetime.combine((await get_rn()), start) - datetime.combine((await get_rn()), now)
+		now = (await get_rn())
+		for num, _class in enumerate(schedule.classes):
+			tmp_class:Schedule.ClassData|None = None
+			if isinstance(_class, list):
+				tmp_class = _class[1]
+				_class = _class[0]
+			if (_class.begin > now and _class.classname is not None):
+				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now)
 				mainlabel.config(text=f"Szünet végéig")
 				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
-				class1label.config(text=f"{ora[0]}" if not isinstance(ora[0], tuple) else f"{ora[0][0]}", anchor="center")
-				if isinstance(ora[0], tuple):
+				class1label.config(text=f"{_class.classname}", anchor="center")
+				if tmp_class is not None:
 					await set_dynamic_size()
-					class2label.config(text=f"{ora[1][0]}", anchor="center", wraplength=class2label.winfo_width())
+					class2label.config(text=f"{tmp_class.classname}", anchor="center", wraplength=class2label.winfo_width())
 					class1label.grid_configure(columnspan=1)
-					loc1label.config(text=f"{ora[0][1]}", wraplength=loc1label.winfo_width())
-					loc2label.config(text=f"{ora[1][1]}", wraplength=loc2label.winfo_width())
+					loc1label.config(text=f"{_class.room}", wraplength=loc1label.winfo_width())
+					loc2label.config(text=f"{tmp_class.room}", wraplength=loc2label.winfo_width())
 					loc1label.grid_configure(columnspan=1)
 					if vert_separator is None:
 						vert_separator = Separator(root, orient="vertical")
@@ -381,37 +380,41 @@ async def update_cycle_old():
 					class2label.config(text="", wraplength=class2label.winfo_width())
 					class1label.grid_configure(columnspan=3)
 					class1label.config(wraplength=class1label.winfo_width())
-					loc1label.config(text=f"{ora[1]}", wraplength=loc1label.winfo_width())
+					loc1label.config(text=_class.room, wraplength=loc1label.winfo_width())
 					loc2label.config(text="", wraplength=loc2label.winfo_width())
 					loc1label.grid_configure(columnspan=3)
+				if separator is None:
+					separator = Separator(root, orient="horizontal")
+					separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
 				class1label.config(wraplength=class1label.winfo_width())
-				break
-			elif (end > now and ora is not None):
-				tmp = datetime.combine((await get_rn()), end) - datetime.combine((await get_rn()), now)
-				mainlabel.config(text=f"{num+1}. Óra végéig")
-				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
-				class1label.config(text=f"{ora[0]}" if not isinstance(ora[0], tuple) else f"{ora[0][0]}", anchor="center")
-				if isinstance(ora[0], tuple):
+			elif (_class.end > now and _class.classname is not None):
+					tmp = datetime.combine((await get_rn()), _class.end.time()) - datetime.combine((await get_rn()), now.time())
+					mainlabel.config(text=f"{num+1}. Óra végéig")
+					timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
+					class1label.config(text=f"{_class.classname}", anchor="center")
+					if tmp_class is not None:
+						class2label.config(text=f"{tmp_class.classname}", anchor="center")
+						class1label.grid_configure(columnspan=1)
+						loc1label.config(text=f"{_class.room}")
+						loc2label.config(text=f"{tmp_class.room}")
+						loc1label.grid_configure(columnspan=1)
+						if vert_separator is None:
+							vert_separator = Separator(root, orient="vertical")
+							vert_separator.grid(row=3, column=1, sticky="ns", padx=5, pady=5, rowspan=2)
+					else:
+						class2label.config(text="")
+						class1label.grid_configure(columnspan=3)
+						class1label.config(wraplength=class1label.winfo_width())
+						loc1label.config(text=f"{_class.room}")
+						loc2label.config(text="")
+						loc1label.grid_configure(columnspan=3)
+						if vert_separator is not None:
+							vert_separator = vert_separator.destroy()
+					if separator is None:
+						separator = Separator(root, orient="horizontal")
+						separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
 					await set_dynamic_size()
-					class2label.config(text=f"{ora[1][0]}", anchor="center")
-					class1label.grid_configure(columnspan=1)
-					loc1label.config(text=f"{ora[0][1]}")
-					loc2label.config(text=f"{ora[1][1]}")
-					loc1label.grid_configure(columnspan=1)
-					if vert_separator is None:
-						vert_separator = Separator(root, orient="vertical")
-						vert_separator.grid(row=3, column=1, sticky="ns", padx=5, pady=5, rowspan=2)
-				else:
-					await set_dynamic_size()
-					class2label.config(text="")
-					class1label.grid_configure(columnspan=3)
-					class1label.config(wraplength=class1label.winfo_width())
-					loc1label.config(text=f"{ora[1]}")
-					loc2label.config(text="")
-					loc1label.grid_configure(columnspan=3)
-					if vert_separator is not None:
-						vert_separator = vert_separator.destroy()
-				break
+					break
 		else:
 			mainlabel.config(text="A napnak vége")
 			timelabel.config(text="")
@@ -422,6 +425,11 @@ async def update_cycle_old():
 			if vert_separator is not None:
 				vert_separator.destroy()
 				vert_separator = None
+			if separator is not None:
+				separator.destroy()
+				separator = None
+			root.geometry(f"{mainlabel.winfo_width()}x{mainlabel.winfo_height()//8}+{root.winfo_screenwidth()-(mainlabel.winfo_width())}+0")
+			root.update()
 			await asyncio.sleep(60)
 			continue
 		root.update()
@@ -431,7 +439,11 @@ async def update_cycle_old():
 
 
 MAX_LOGS:int=5
-def main():
+def main(_dummy_date:datetime|None = None):
+	if _dummy_date is not None:
+		global dummy_date
+		dummy_date = _dummy_date
+		del _dummy_date
 	def cleanup_old_logs(log_folder: str = "logs", prefix: str = "timer_"):
 		"""Delete old log files, keeping only the last MAX_LOGS."""
 		folder = Path(log_folder)
@@ -459,5 +471,5 @@ def main():
 	runtime.run_forever()
 	runtime.close()
 
-dummy_date = datetime(2025, 9, 2, 9, 15)
+#main(datetime(2025, 9, 30, 9, 15))
 main()
