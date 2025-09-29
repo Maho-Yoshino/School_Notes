@@ -363,3 +363,52 @@
 		- nagytőke korlátozását  
 	- 1934, Hosszú kések éjszakája, SA vezetőségét megöli az SS (Schutzstaffel, "védőosztag")  
 ### Hf: 174, 175  
+#### Gazdaságpolitika  
+- A világválság nyomora tette lehetővé hatalomra jutásukat  
+- Nem szüntethették meg a magántulajdont, viszont megerősítették az állam irányító szerepét  
+	- Az állam rendelőként lépett fel (pl. autópályák építése)  
+	- Szociális engedményekre kényszerítették a tőkét  
+		- Társadalombiztosítás  
+		- Fizetett szabadság  
+	- Közmunkaprogramot indítottak  
+- "Neuer Plan" (Új terv)  
+	- Devizagazdálkodás korlátozása  
+	- Import-Exportokat állami ellenőrzés alá vették  
+	- Nőtt az aranytartalék -> Fejlesztették az infrastruktúrát  
+	- Viszont az államadósság egyre nagyobb volt, aminek a kiutat egyre inkább a háború jelentett  
+- A mezőgazdaságban a paraszti birtokok védelmében megerősítették a régi német öröklődési rendet  
+	- Csak az elsőszülött fiú örökölte a gazdaságot  
+	- A többi számára  
+		- munkát ajánlottak (pl. SS)  
+		- Földet ígértek a jövőben megszerzendő "keleti élettérben"  
+#### Az engedmények politikája  
+- Hitler egyből a haderőt erősítette  
+	- Ez a Versailles-i békének ellent mond -> Kilépett a győzes béke felett őrködő Népszövetségből (1933)  
+	- Ismét bevezette az általános hadkötelezettséget  
+	- Elrendelte a modern fegyvernemek fejlesztését (1935)  
+- A békeszerződés értelmében a Saar-vidéken a lakosság szavazott, hogy hova kíván tartozni  
+	- A németek Németország mellett álltak  
+	- Kezdetben Hitler a nemzeti sérelmeket hangoztatta, hogy igazolja a törekvéseit és aggresszív külpolitikáját  
+		- A németek nem érzékelték  
+		- A nyugati hatalmak sem léptek fel ellene  
+- A nyugat hatalmak (főként a britek) a háború elkerülése érdekében az engedmények politikáját választotta  
+	- Azt remélték, Hitler majd kelet felé fordul majd, mint a Mein Kampfban hangoztatta  
+	- Ezért lehetett remilitarizálni a Rajna vidéket (1936)  
+		- A Versailles-i béke szerint fegyvermentes övezet volt  
+		- A nyugatiak nem léptek fel ellene  
+	- A külpolitikai sikerek megerősítették Hitler helyzetét Németországban  
+#### Hatalmi átrendezés  
+- A náci Németország megerősödése megváltoztatta európában az erőviszonyokat  
+	- Franciaország közeledett a Szovjetunióhoz  
+		- Együttműködési egyezményt kötöttek (1935)  
+		- A kommunistákkal és szélsőjobboldali szervezetekkel szenvedő Franciaország viszont nem bízott a Szovjetunióban -> Az egyezményt gyakorlatilag nem tartották be  
+	- A fasiszta veszélyre hivatozva a Komintern (Szovjet irányítású nemzetközi kommunista szervezet) meghírdette a népfrontpolitikát  
+		- A kommunista pártok szövetséget köthettek a szociáldemokratákkal (akik korábban "a munkáspárt árulói"nak voltak nevezve)  
+	- Az Olaszoknál  
+		- A harmincas évek közepéig szembenállt Hitler Duna-völgyi terjeszkedésével  
+		- Az Anschluss után beavatkozással fenyegetőzött  
+		- Viszont gyarmatbirodalmi tervei szembefordultak a Brit és Francia politikával  
+		- 1936ban szövetséget kötöttek a náci Németországgal -> Létrejött a "Berlin-Róma tengely", innen jön a későbbi "tengelyhatalmak" elnevezés  
+		- 1937ben csatalkozott az "Antikomintern paktumhoz"  
+			- Elméletben a nemzetközi kommunista szervezet ellen volt  
+			- Valóságban a szovjetek elleni szövetség volt  
