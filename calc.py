@@ -10,7 +10,8 @@ replace_dict = {
 	"e+":"*10^",
 	";":",",
 	"〗":"",
-	"〖":""
+	"〖":"",
+	"±":"+-"
 }
 def root(x:int|float,n:int|float=2): return x**(1/n)
 def sind(degrees:int|float): return sin(d2r(degrees))

@@ -42,3 +42,48 @@
 - Tétel: Ady Endre szerelmi költészete (Léda és Csinszka versek)  
 ### Élete (Tk. 171-172)  
 - Szilágyság, Érmindszenten született, 1877  
+- Református vallású elszegényedett nemesi család  
+- Iskolái:  
+	- Nagykárolyi Gimnázium  
+	- Zilahi református kollégium  
+	- Jogi tanulmányait nem fejezte be  
+- Újságírói pályája  
+	- Debrecen  
+		- Versek c. kötete, 1905  
+	- Nagyvárad  
+		- Szabadság c. újság  
+		- Nagyváradi Naplónál lesz ismertté  
+		- Csatlakozik a Holnap című irodalmi társasághoz (antológia)  
+- Ady és Léda (Diósyné Brüll Adél)  
+	- Botrányos kapcsolat  
+	- A szerelmi költészet megújítását eredményezi  
+- Párizsba utaznak többször is  
+	- Megismeri a francia szimbolista költőket  
+		- Verlaina Rimbaud  
+		- Baudalaire  
+- Budapesten újságíró  
+	- Budapesti Napló  
+	- Nyugat (1908tól)  
+- 1912: Lédával szakít, 1914: WW1 -> Háborúellenes versek  
+- Ady és Csinszka (Boncza Berta)  
+	- 1915: Házasságot kötnek  
+	- Csinszkát levelezésen keresztül ismerte meg  
+- 1918: Őszi rózsás forradalom  
+- Meghalt: 1919, Január  
+### 9 Főbb kötetei  
+1. Az új versek (1906)  
+	- Ez hozza el a sikert  
+	- A magyar modern költészet megteremtése  
+	- Az első magyar szimbolista költő  
+2. Vér és Arany (1907)  
+3. Illeo szekerén (1908)  
+4. Szeretném, ha szeretnének (1909)  
+5. stb Halottak élén (1918)  
+### Ady verseinek témái  
+1. Ars Poetica (Költői hitvallás)  
+2. Magyarság  
+3. Szerelem  
+4. Háborúellenesség  
+5. Kuruc-versek  
+6. Istenes-versek  
+### Új Versek kötet  
