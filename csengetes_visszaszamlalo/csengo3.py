@@ -4,13 +4,13 @@ from tkinter.ttk import Separator
 from sys import platform, executable, argv
 from tkinter.font import Font
 from ctypes import windll, c_byte, byref, Structure
-from datetime import datetime, time, timedelta
+from datetime import datetime, time, timedelta, date
 from time import perf_counter
 from os import path, chdir, mkdir, environ
 from threading import Thread
 from PIL import Image
 from json import load as jload, dump as jdump
-from typing import Optional, Dict, List, Any
+from typing import Optional, Any
 from pathlib import Path
 logger = logging.getLogger(__name__)
 
@@ -40,16 +40,31 @@ def print_critical(text):
 
 # Settings window
 async def setup_tray(root:Tk):
-	def create_image():
-		return Image.open("icon.ico")
 	def on_quit(icon, item):
 		print_info("Closing application")
 		icon.stop()
 		root.quit()
+	def increase_delay(icon, item): settings.delay += 1
+	def decrease_delay(icon, item): settings.delay -= 1
+	def show_delay(icon, item): return f"Delay: {settings.delay}"
 	def settings_callback():
 		runtime.create_task(open_settings(root))
-	icon = pystray.Icon("Csengetés időzítő", create_image(), menu=pystray.Menu(
-		pystray.MenuItem("Show Overlay", lambda: root.deiconify()),
+	def setDelayWindow(icon, item):
+		def saveValue():
+			settings.delay = ...
+			_root.destroy()
+		_root = tk.Tk("Delay Time Input")
+		_root.geometry("200x200+0+0")
+		_root.resizable(False, False)
+		_root.grid(50, 50, 3, 4)
+		tk.Entry(_root, )
+		tk.Button(_root, text="Save", sticky="ew", command=saveValue()).grid(row=4, column=0, columnspan=3)
+		_root.mainloop()
+		...
+	icon = pystray.Icon("Csengetés időzítő", Image.open("icon.ico"), menu=pystray.Menu(
+		pystray.MenuItem("Delay +", increase_delay),
+		pystray.MenuItem(lambda item: f"Delay: {settings.delay}", setDelayWindow),
+		pystray.MenuItem("Delay -", decrease_delay),
 		pystray.MenuItem("Settings", settings_callback),
 		pystray.MenuItem("Quit", lambda icon, item: on_quit(icon, item))
 	))
@@ -58,7 +73,7 @@ class Settings:
 	def __init__(self, filename: str = "settings.json", encoding:str="utf-8"):
 		self.filename = filename
 		self.encoding = encoding
-		self._data: Dict[str, Any] = {}
+		self._data: dict[str, Any] = {}
 		self.load_settings()
 	def load_settings(self):
 		try:
@@ -102,21 +117,21 @@ class Settings:
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)
 	@property # classlist
-	def classlist(self) -> Dict[str, List[str]]:
+	def classlist(self) -> dict[str, list[str]]:
 		return self._data["classlist"]
 	@classlist.setter
-	def classlist(self, value: Dict[str, List[str]]):
+	def classlist(self, value: dict[str, list[str]]):
 		self._data["classlist"] = value
 		self.save()
 	@property # default_schedule
-	def default_schedule(self) -> List[List[str]]:
+	def default_schedule(self) -> list[list[str]]:
 		return self._data["default_schedule"]
 	@default_schedule.setter
-	def default_schedule(self, value: List[List[str]]):
+	def default_schedule(self, value: list[list[str]]):
 		self._data["default_schedule"] = value
 		self.save()
 	@property # teacherlist
-	def teacherlist(self) -> Dict[str, str]:
+	def teacherlist(self) -> dict[str, str]:
 		return self._data["teacherlist"]
 	@teacherlist.setter
 	def teacherlist(self, key: str, value: str):
@@ -126,10 +141,10 @@ class Settings:
 			self._data["teacherlist"].update({key:value})
 		self.save()
 	@property # special_days
-	def special_days(self) -> Optional[Dict[str, List[str]]]:
+	def special_days(self) -> Optional[dict[str, list[str]]]:
 		return self._data["special_days"]
 	@special_days.setter
-	def special_days(self, value: Optional[Dict[str, List[str]]]):
+	def special_days(self, value: Optional[dict[str, list[str]]]):
 		self._data["special_days"] = value
 		self.save()
 	@property # debug
@@ -154,25 +169,43 @@ class Settings:
 		self._data["breaktimes"] = value
 		self.save()
 	@property # special_classtimes
-	def special_classtimes(self) -> dict[str, int]:
-		return self._data["special_classtimes"]
+	def special_classtimes(self) -> dict[date, list[int]]:
+		return {
+			datetime.strptime(_date, "%Y-%m-%d").date(): values
+			for _date, values in self._data["special_classtimes"].items()
+   		}
 	@special_classtimes.setter
-	def special_classtimes(self, value: dict[str, int]):
-		self._data["breaktimes"] = value
+	def special_classtimes(self, value: dict[date, list[int]]):
+		serializable: dict[str, list[int]] = {
+			d.strftime("%Y-%m-%d"): values for d, values in value.items()
+		}
+		self._data["special_classtimes"] = serializable
 		self.save()
 	@property # special_breaktimes
-	def special_breaktimes(self) -> dict[str, int]:
-		return self._data["special_breaktimes"]
+	def special_breaktimes(self) -> dict[date, list[int]]:
+		return {
+			datetime.strptime(_date, "%Y-%m-%d").date(): values
+			for _date, values in self._data["special_breaktimes"].items()
+   		}
 	@special_breaktimes.setter
-	def special_breaktimes(self, value: dict[str, int]):
-		self._data["special_breaktimes"] = value
+	def special_breaktimes(self, value: dict[date, list[int]]):
+		serializable: dict[str, list[int]] = {
+			d.strftime("%Y-%m-%d"): values for d, values in value.items()
+		}
+		self._data["special_breaktimes"] = serializable
 		self.save()
 	@property # special_begintimes
-	def special_begintimes(self) -> dict[str, int]:
-		return self._data["special_begintimes"]
+	def special_begintimes(self) -> dict[date, list[int]]:
+		return {
+			datetime.strptime(_date, "%Y-%m-%d").date(): values
+			for _date, values in self._data["special_begintimes"].items()
+   		}
 	@special_begintimes.setter
-	def special_begintimes(self, value: dict[str, int]):
-		self._data["special_begintimes"] = value
+	def special_begintimes(self, value: dict[date, list[int]]):
+		serializable: dict[str, list[int]] = {
+			d.strftime("%Y-%m-%d"): values for d, values in value.items()
+		}
+		self._data["special_begintimes"] = serializable
 		self.save()
 	@property # classes_begin
 	def classes_begin(self) -> list[int]:
@@ -299,32 +332,34 @@ async def startup(root:Tk):
 
 class Schedule:
 	classes:list["ClassData", list["ClassData"]] = []
-	date:datetime = None
+	_date:date = None
 	special_day:bool = False
 	class ClassData:
 		begin:time
 		end:time
 		classname:str = None 
 		room:str = None 
+		teacher:str = None
 		def __init__(self, _class:str|None, index:int, parent:"Schedule"):
 			tmp = settings.classlist.get(_class, [])
 			if len(parent.classes) > 0:
-					self.begin = (parent.classes[-1].end if not isinstance(parent.classes[-1], list) else parent.classes[-1][0].end) + timedelta(minutes=(settings.special_breaktimes if parent.special_day else settings.breaktimes)[index-1])
+				self.begin = (parent.classes[-1].end if not isinstance(parent.classes[-1], list) else parent.classes[-1][0].end) + timedelta(minutes=(settings.special_breaktimes[parent.date] if parent.special_day else settings.breaktimes)[index-1])
 			else:
-				temp = (settings.special_begintimes.get(parent.date) if parent.special_day else settings.classes_begin)
-				self.begin = datetime.strptime(f"{parent.date.strftime("%Y.%m.%d")} {temp//100}:{temp%100}", "%Y.%m.%d %H:%M")
+				temp = (settings.special_begintimes.get(parent._date) if parent.special_day else settings.classes_begin)
+				self.begin = datetime.strptime(f"{parent._date.strftime("%Y.%m.%d")} {temp//100}:{temp%100}", "%Y.%m.%d %H:%M")
 			self.end = self.begin + timedelta(minutes=(settings.special_classtimes if parent.special_day else settings.classtimes)[index])
 			if tmp:
 				self.classname = tmp[0]
 				self.room = tmp[1]
+				self.teacher = settings.teacherlist.get(_class, None)
 	def __init__(self):
-		self.date = (datetime.now() if dummy_date is None else dummy_date).date()
-		weekday = self.date.weekday()
-		self.special_day = any([day == self.date.date() for day in settings.special_days])
+		self._date = (datetime.now() if dummy_date is None else dummy_date).date()
+		weekday = self._date.weekday()
+		self.special_day = any([day == self._date for day in settings.special_days])
 		if weekday in [5,6] and not self.special_day:
 			return
 		if self.special_day:
-			tmp = settings.special_days.get(self.date.date())
+			tmp = settings.special_days.get(self._date)
 			if tmp is None:
 				tmp = settings.default_schedule[weekday]
 		else: 
@@ -348,7 +383,7 @@ async def update_cycle():
 	while True:
 		_start = perf_counter()
 		delay = settings.delay
-		if prev_day != schedule.date:
+		if prev_day != schedule._date:
 			prev_day = (await get_rn()).date()
 			print_debug("Day changed since last cycle")
 			schedule = Schedule()
@@ -473,5 +508,5 @@ def main(_dummy_date:datetime|None = None):
 	runtime.run_forever()
 	runtime.close()
 
-#main(datetime(2025, 9, 30, 9, 15))
-main()
+main(datetime(2025, 9, 30, 9, 15))
+#main()
