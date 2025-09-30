@@ -1,0 +1,55 @@
+{
+    "classlist": {
+        "ANG":["Angol", "A06"],
+        "TOR":["Történelem","206"],
+        "TORs1":["Történelem", "210"],
+        "IRO":["Irodalom","206"],
+        "NYT":["Nyelvtan","206"],
+        "MAT":["Matematika","206"],
+        "SZK":["Szakmai Angol","206"],
+        "WEB":["Webprogramozás","M115"],
+        "WEB2":["Webprogramozás", "M118"],
+        "ASZ":["Aszali Alkalmazások","M114"],
+        "IKT":["IKT Projekt","M114"],
+        "IKT2":["IKT Projekt","M012"],
+        "SZT":["Szoftvertesztelés", "M012"],
+        "TES":["Testnevelés","Tesiterem"],
+        "OFO":["Osztályfőnöki", "206"],
+        "ALL":["Állampolgári Ismeretek", "206"]
+    },
+    "teacherlist": {
+        "ANG":"Posch Monika",
+        "TOR":"Csongrádi Ákos Máté",
+        "TORs1":"Csongrádi Ákos Máté",
+        "IRO": "Várkonyi Csaba",
+        "NYT": "Várkonyi Csaba",
+        "MAT": "Petersen-Szováti Éva",
+        "SZK": "Tóth Gyöngyi",
+        "WEB": "Kovács László",
+        "WEB2": "Reucov Dávid",
+        "ASZ": "Kiss Mazák Csilla",
+        "IKT": "Kiss Mazák Csilla",
+        "IKT2": "Dománné Telek Andrea Ágnes",
+        "SZT": "Dománné Telek Andrea Ágnes",
+        "TES": "Törő László",
+        "OFO": "Várkonyi Csaba",
+        "ALL": "Csongrádi Ákos Máté"
+    },
+    "default_schedule": [
+        [null, "TOR", "IRO", "IRO", "SZK", "MAT", "ANG", "ANG"],
+        ["IKT/None", "IKT/WEB2", "SZK", "ANG", "MAT", "ALL", "TES", "OFO"], 
+        [null, "TOR", "MAT", "TES", "IKT2/WEB", "IKT2/IKT", "WEB/IKT", "NYT"],
+        ["None/ASZ", "WEB2/ASZ", "MAT", "IRO", "SZT", "TORs1", "IKT"],
+        ["ANG", "TES", "SZT", "ASZ/IKT2", "ASZ/IKT2", "ASZ"]
+    ],
+    "special_days": { 
+    },
+    "debug":false,
+    "classtimes": [45, 45, 45, 45, 45, 40, 40, 40],
+    "breaktimes": [10, 10, 10, 10, 20, 10, 5],
+    "special_classtimes": {},
+    "special_breaktimes": {},
+    "special_begintimes": {},
+    "classes_begin":800,
+    "delay":0
+}
