@@ -412,3 +412,11 @@
 		- 1937ben csatalkozott az "Antikomintern paktumhoz"  
 			- Elméletben a nemzetközi kommunista szervezet ellen volt  
 			- Valóságban a szovjetek elleni szövetség volt  
+## Fő Dolgozat kérdések  
+- Mutasd be a sztálini szovjetunió gazdaságpolitikáját (8-10p kérdés)  
+- Totális diktatúra fogalma (2p)  
+- "Mi történt egy kulák figurával"  
+- Mutasd be a Mein Kampfot (mit ígért kinek, antiszemitizmus, fajelmélet)  
+- Hogyan szerezte meg Hitler a totális hatalmat (Felhatalmazási törvény, propaganda, SA, SS)  
+- Ismersz e híres náci éjszakát?  
+- Miért volt népszerű Hitler  
