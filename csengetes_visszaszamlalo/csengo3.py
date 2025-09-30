@@ -182,10 +182,10 @@ class Settings:
 		self._data["classes_begin"] = value
 		self.save()
 	@property # delay
-	def delay(self) -> list[int]:
+	def delay(self) -> int:
 		return self._data["delay"]
 	@delay.setter
-	def delay(self, value: list[int]):
+	def delay(self, value: int):
 		self._data["delay"] = value
 		self.save()
 settings = Settings()
@@ -335,17 +335,19 @@ class Schedule:
 			else:
 				self.classes.append(self.ClassData(classinfo, ind, self))
 		print_debug("Initialized Schedule class")
+schedule:Schedule|None = None
 async def update_cycle():
 	async def set_dynamic_size():
 		if root.winfo_width() == separator.winfo_width(): return
 		if settings.debug: print(f"setting dynamic size")
 		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
 		root.update()
-	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator
+	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator, schedule
 	prev_day:datetime = (await get_rn()).date()
-	schedule:Schedule = Schedule()
+	schedule = Schedule()
 	while True:
 		_start = perf_counter()
+		delay = settings.delay
 		if prev_day != schedule.date:
 			prev_day = (await get_rn()).date()
 			print_debug("Day changed since last cycle")
@@ -358,7 +360,7 @@ async def update_cycle():
 				tmp_class = _class[1]
 				_class = _class[0]
 			if (_class.begin > now and _class.classname is not None):
-				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now)
+				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now) + timedelta(seconds=delay)
 				mainlabel.config(text=f"Szünet végéig")
 				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
 				class1label.config(text=f"{_class.classname}", anchor="center")
@@ -388,7 +390,7 @@ async def update_cycle():
 					separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
 				class1label.config(wraplength=class1label.winfo_width())
 			elif (_class.end > now and _class.classname is not None):
-					tmp = datetime.combine((await get_rn()), _class.end.time()) - datetime.combine((await get_rn()), now.time())
+					tmp = datetime.combine((await get_rn()), _class.end.time()) - datetime.combine((await get_rn()), now.time())  + timedelta(seconds=delay)
 					mainlabel.config(text=f"{num+1}. Óra végéig")
 					timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
 					class1label.config(text=f"{_class.classname}", anchor="center")
