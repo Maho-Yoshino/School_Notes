@@ -38,6 +38,7 @@ def print_critical(text):
 	print(text)
 	logger.critical(text)
 
+_root:Tk|None = None
 # Settings window
 async def setup_tray(root:Tk):
 	def on_quit(icon, item):
@@ -46,21 +47,26 @@ async def setup_tray(root:Tk):
 		root.quit()
 	def increase_delay(icon, item): settings.delay += 1
 	def decrease_delay(icon, item): settings.delay -= 1
-	def show_delay(icon, item): return f"Delay: {settings.delay}"
 	def settings_callback():
 		runtime.create_task(open_settings(root))
 	def setDelayWindow(icon, item):
-		def saveValue():
-			settings.delay = ...
-			_root.destroy()
-		_root = tk.Tk("Delay Time Input")
-		_root.geometry("200x200+0+0")
-		_root.resizable(False, False)
-		_root.grid(50, 50, 3, 4)
-		tk.Entry(_root, )
-		tk.Button(_root, text="Save", sticky="ew", command=saveValue()).grid(row=4, column=0, columnspan=3)
-		_root.mainloop()
-		...
+		global _root
+		async def CreateWindow():
+			def saveValue():
+				settings.delay = int(val.get())
+				_root.destroy()
+			_root = tk.Toplevel(root)
+			_root.title("Delay Time Input")
+			_root.geometry(f"50x50+{_root.winfo_screenwidth()//2-25}+{_root.winfo_screenheight()//2-25}")
+			_root.resizable(False, False)
+			_root.grid(50, 50, 3, 4)
+			tk.Label(_root, text="Set Delay Time (in seconds)").grid(row=0, column=0, columnspan=3)
+			val = tk.Entry(_root, textvariable=tk.IntVar(value=settings.delay))
+			val.grid(row=1, column=0, columnspan=3)
+			tk.Button(_root, text="Save", command=saveValue).grid(row=2, column=0, columnspan=3)
+			_root.focus_force()
+		runtime.create_task(CreateWindow())
+
 	icon = pystray.Icon("Csengetés időzítő", Image.open("icon.ico"), menu=pystray.Menu(
 		pystray.MenuItem("Delay +", increase_delay),
 		pystray.MenuItem(lambda item: f"Delay: {settings.delay}", setDelayWindow),
@@ -113,6 +119,8 @@ class Settings:
 		self._data.setdefault("special_classtimes", {})
 		self._data.setdefault("special_breaktimes", {})
 		self._data.setdefault("special_begintimes", {})
+		self._data.setdefault("delay", 0)
+		self._data.setdefault("classes_begin", 800)
 	def save(self):
 		with open(self.filename, "w", encoding="utf-8") as f:
 			jdump(self._data, f, indent=4, ensure_ascii=False)
@@ -150,10 +158,6 @@ class Settings:
 	@property # debug
 	def debug(self) -> bool:
 		return self._data["debug"]
-	@debug.setter
-	def debug(self, value: bool):
-		self._data["debug"] = value
-		self.save()
 	@property # classtimes
 	def classtimes(self) -> list[int]:
 		return self._data["classtimes"]
@@ -337,17 +341,22 @@ class Schedule:
 	class ClassData:
 		begin:time
 		end:time
+		begin_datetime:datetime
+		end_datetime:datetime
 		classname:str = None 
 		room:str = None 
 		teacher:str = None
 		def __init__(self, _class:str|None, index:int, parent:"Schedule"):
 			tmp = settings.classlist.get(_class, [])
 			if len(parent.classes) > 0:
-				self.begin = (parent.classes[-1].end if not isinstance(parent.classes[-1], list) else parent.classes[-1][0].end) + timedelta(minutes=(settings.special_breaktimes[parent.date] if parent.special_day else settings.breaktimes)[index-1])
+				self.begin_datetime = (parent.classes[-1].end_datetime if not isinstance(parent.classes[-1], list) else parent.classes[-1][0].end_datetime) + timedelta(minutes=(settings.special_breaktimes[parent._date] if parent.special_day else settings.breaktimes)[index-1])
+				self.begin = self.begin_datetime.time()
 			else:
 				temp = (settings.special_begintimes.get(parent._date) if parent.special_day else settings.classes_begin)
-				self.begin = datetime.strptime(f"{parent._date.strftime("%Y.%m.%d")} {temp//100}:{temp%100}", "%Y.%m.%d %H:%M")
-			self.end = self.begin + timedelta(minutes=(settings.special_classtimes if parent.special_day else settings.classtimes)[index])
+				self.begin_datetime = datetime.strptime(f"{parent._date.strftime("%Y.%m.%d")} {temp//100}:{temp%100}", "%Y.%m.%d %H:%M")
+				self.begin = self.begin_datetime.time()
+			self.end_datetime = (self.begin_datetime + timedelta(minutes=(settings.special_classtimes if parent.special_day else settings.classtimes)[index]))
+			self.end = self.end_datetime.time()
 			if tmp:
 				self.classname = tmp[0]
 				self.room = tmp[1]
@@ -377,7 +386,7 @@ async def update_cycle():
 		if settings.debug: print(f"setting dynamic size")
 		root.geometry(f"{separator.winfo_width()//2}x{mainlabel.winfo_height()-10}+{root.winfo_screenwidth()-(separator.winfo_width())-50}+0")
 		root.update()
-	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator, schedule
+	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator, schedule, _root
 	prev_day:datetime = (await get_rn()).date()
 	schedule = Schedule()
 	while True:
@@ -389,12 +398,13 @@ async def update_cycle():
 			schedule = Schedule()
 			if len(schedule.classes) == 0: await asyncio.sleep(60*30)
 		now = (await get_rn())
+		now_time = now.time()
 		for num, _class in enumerate(schedule.classes):
 			tmp_class:Schedule.ClassData|None = None
 			if isinstance(_class, list):
 				tmp_class = _class[1]
 				_class = _class[0]
-			if (_class.begin > now and _class.classname is not None):
+			if (_class.begin > now_time and _class.classname is not None):
 				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now) + timedelta(seconds=delay)
 				mainlabel.config(text=f"Szünet végéig")
 				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
@@ -424,8 +434,8 @@ async def update_cycle():
 					separator = Separator(root, orient="horizontal")
 					separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
 				class1label.config(wraplength=class1label.winfo_width())
-			elif (_class.end > now and _class.classname is not None):
-					tmp = datetime.combine((await get_rn()), _class.end.time()) - datetime.combine((await get_rn()), now.time())  + timedelta(seconds=delay)
+			elif (_class.end > now_time and _class.classname is not None):
+					tmp = datetime.combine((await get_rn()), _class.end) - datetime.combine((await get_rn()).date(), now_time) + timedelta(seconds=delay)
 					mainlabel.config(text=f"{num+1}. Óra végéig")
 					timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
 					class1label.config(text=f"{_class.classname}", anchor="center")
@@ -470,6 +480,8 @@ async def update_cycle():
 			await asyncio.sleep(60)
 			continue
 		root.update()
+		if _root is not None:
+			_root.update()
 		update_delay = await is_battery_saver_on(5, 1)
 		delay = max(0, update_delay - (perf_counter() - _start))
 		await asyncio.sleep(delay)
@@ -508,5 +520,5 @@ def main(_dummy_date:datetime|None = None):
 	runtime.run_forever()
 	runtime.close()
 
-main(datetime(2025, 9, 30, 9, 15))
-#main()
+#main(datetime(2025, 9, 30, 9, 15))
+main()
