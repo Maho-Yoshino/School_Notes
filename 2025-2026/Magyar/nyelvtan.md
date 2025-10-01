@@ -12,3 +12,24 @@
 5. A szöveg (3)  
 6. Retorika (2)  
 7. Stílus és jelentése (3)  
+## 6. Tétel: Nyelvváltozatok  
+1. A magyar nyelvnek különböző rétegződései vannak, vagyis nyelvváltozatai. Két nagy csoportja van:  
+	1. Társadalmi ("függőleges") rétegei  
+		1. korok szerinti nyelvhasználat  
+			- "dajkanyelv"  
+			- csecsemők/kisbabák megszólítása  
+			- A gagyogás  
+			- első szavak:  
+				- Mama  
+				- papa  
+				- baba  
+		2. Ifjúsági vagy diáknyelv  
+			- Föci, töri, doga, diri, igi  
+			- Jellemzők: Tréfásak, rövidített szavak  
+		3. Argó/Tolvajnyelv  
+			- mackó = páncélszekrény  
+		4. Szleng  
+			- Laza, városi szóhasználat  
+			- Sok a tolvajnyelvből eredő szó  
+			- Csaj, pia, csóró, zsé, lóvé, zsaru  
+	2. A nyelv területi/földrajzi ("vízszintes") rétegei -> nyelvjárások (dialektusok)  
