@@ -44,11 +44,12 @@ async def setup_tray(root:Tk):
 	def on_quit(icon, item):
 		print_info("Closing application")
 		icon.stop()
+		global root
 		root.quit()
+		runtime.stop()
 	def increase_delay(icon, item): settings.delay += 1
 	def decrease_delay(icon, item): settings.delay -= 1
-	def settings_callback():
-		runtime.create_task(open_settings(root))
+	def settings_callback(): runtime.create_task(open_settings(root))
 	def setDelayWindow(icon, item):
 		global _root
 		async def CreateWindow():
@@ -231,13 +232,60 @@ async def open_settings(root:Tk):
 	def exit_seq():
 		root.destroy()
 		runtime.stop()
+	def OpenClasslist():
+		for widget in _settings.winfo_children():
+			widget.destroy()
+		tk.Label(_settings, text="Class List Settings").grid(row=0, column=0, columnspan=20)
+		...
+		_settings.config(menu=menu)
+
+		_settings.update()
+	def OpenTeacherList():
+		for widget in _settings.winfo_children():
+			widget.destroy()
+		tk.Label(_settings, text="Teacher List Settings").grid(row=0, column=0, columnspan=20)
+		...
+		_settings.config(menu=menu)
+
+		_settings.update()
+	def OpenSchedule():
+		for widget in _settings.winfo_children():
+			widget.destroy()
+		tk.Label(_settings, text="Schedule Settings").grid(row=0, column=0, columnspan=20)
+		...
+		_settings.config(menu=menu)
+
+		_settings.update()
+	def OpenSpecialDays():
+		for widget in _settings.winfo_children():
+			widget.destroy()
+		tk.Label(_settings, text="Special Day Settings").grid(row=0, column=0, columnspan=20)
+		...
+		_settings.config(menu=menu)
+
+		_settings.update()
+	def OpenClassesBegin():
+		for widget in _settings.winfo_children():
+			widget.destroy()
+		tk.Label(_settings, text="Classes beginning Settings").grid(row=0, column=0, columnspan=20)
+		...
+		_settings.config(menu=menu)
+
+		_settings.update()
 	global _settings
+	menu = tk.Menu(_settings)
+	menu.add_command(label="Class List", command=OpenClasslist)
+	menu.add_command(label="Teacher List", command=OpenTeacherList)
+	menu.add_command(label="Default Schedule", command=OpenSchedule)
+	menu.add_command(label="Special days", command=OpenSpecialDays)
+	menu.add_command(label="Classes beginning", command=OpenClassesBegin)
 	_settings = tk.Toplevel(root)
 	_settings.title("Timer Settings")
-	_settings.resizable(False, False)
-	_settings.grid(20, 20, 200, 200)
+	#_settings.resizable(False, False)
+	_settings.grid(5, 5, 50, 25)
 	_settings.grid_propagate(False)
-	tk.Button(_settings, text="Exit Program", command=exit_seq).grid(column=19, row=0)
+	_settings.config(menu=menu)
+	tk.Label(_settings, text="Settings window").grid(row=0, column=0, columnspan=5)
 	_settings.update()
 
 # Clock Window
@@ -404,7 +452,7 @@ async def update_cycle():
 			if isinstance(_class, list):
 				tmp_class = _class[1]
 				_class = _class[0]
-			if (_class.begin > now_time and _class.classname is not None):
+			if ((_class.begin_datetime + timedelta(seconds=delay)).time() > now_time and _class.classname is not None):
 				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now) + timedelta(seconds=delay)
 				mainlabel.config(text=f"Szünet végéig")
 				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
@@ -434,7 +482,7 @@ async def update_cycle():
 					separator = Separator(root, orient="horizontal")
 					separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
 				class1label.config(wraplength=class1label.winfo_width())
-			elif (_class.end > now_time and _class.classname is not None):
+			elif ((_class.end_datetime + timedelta(seconds=delay)).time() > now_time and _class.classname is not None):
 					tmp = datetime.combine((await get_rn()), _class.end) - datetime.combine((await get_rn()).date(), now_time) + timedelta(seconds=delay)
 					mainlabel.config(text=f"{num+1}. Óra végéig")
 					timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
@@ -507,18 +555,13 @@ def main(_dummy_date:datetime|None = None):
 	log_format = "%(asctime)s::%(levelname)-8s:%(message)s"
 	logging.basicConfig(filename=filename, encoding='utf-8', level=logging.DEBUG if environ.get('TERM_PROGRAM') == 'vscode' else logging.WARNING, format=log_format, datefmt="%H:%M:%S")
 	print_info("Application Starting up")
-	async def tk_update_loop(root, interval=0.1):
-		while True:
-			root.update()
-			await asyncio.sleep(interval)
 	global root, runtime
 	root = Tk()
 	runtime = asyncio.new_event_loop()
 	asyncio.set_event_loop(runtime)
-	runtime.create_task(tk_update_loop(root))
 	runtime.create_task(startup(root))
 	runtime.run_forever()
 	runtime.close()
 
-#main(datetime(2025, 9, 30, 9, 15))
-main()
+main(datetime(2025, 10, 1, 9, 15))
+#main()
