@@ -420,3 +420,45 @@
 - Hogyan szerezte meg Hitler a totális hatalmat (Felhatalmazási törvény, propaganda, SA, SS)  
 - Ismersz e híres náci éjszakát?  
 - Miért volt népszerű Hitler  
+# 30-as évek Magyarországa  
+## Előzmény?  
+- A Bethlen kormány elbukik (1931-ben mond le Bethlen, a nagy gazdasági világválság miatt)  
+- Őt követi Károlyi Gyula  
+## Károlyi Gyula  
+- Állami költségeket csökkentették  
+	- Állami alkalmazottak Fizetését és Nyugíját csökkentik  
+	- Létszámcsökkentést alkalmaz  
+- Adóemelést is végrehajtottak  
+- Itt ér véget a Bethlen-Peyer paktum  
+	- A szociáldemokraták tüntetnek, sztrájkolnak  
+### Biatorbágyi Merénylet (1931)  
+- A Biatorbágyi Viaduktot felrobbantották  
+- Matuska Szilveszter a merénylő (legalábbis rá lett fogva)  
+- A kommunista veszélyre hivatkozva statáriumot (rögtönítélő bíráskodást) vezettek be  
+	- Korlátozták a szabadságjogokat (sajtó, gyülekezés)  
+	- A bíróság 1932-ben halálra ítélt két elfogott kommunista vezetőt  
+		- Sallai Imre  
+		- Fürst Sándor  
+		- Kivégzésük nemzetközi tiltakozást váltott ki, rontotta az ország megítélését  
+- Károlyi le is mondott  
+## Gömbös Gyula (1932-1936)  
+- Szélsőjobboldal  
+- Közeledett olaszországhoz  
+- Németországgal is felveszi a kapcsolatot  
+	- Revízió támogatását is kérte  
+- Szovjetunióvl is diplomáciai kapcsolatot  
+### 95 pontos Nemzeti Munkaterv  
+- Minden politikai irányzatnak akart kedvezni  
+- Nem tudta viszont megvalósítani  
+### Hf.: Minek hívjuk azokat akik nagymagyarországot akarják  
+### Jajj Gömbössel baj van  
+- 95 pontos ígéretből kiderült, hogy nem lehet megvalósítani  
+- 1935:  
+	- Gömbös átszervezte az egységes pártot  
+	- Elragadta a pártvezetést Bethlentől  
+	- Erőszakot is alkalmazott a választásokon  
+	- Bejuttatja a saját embereit  
+	- Következménye Németország felé sodródni  
+- Meghal betegségbe (1936)  
+## Darányi Kálmán (1936-1938)  
+Hf: Darányi Kálmánhoz tartozó dolgok kijegyzése, Imrédi Béla és Teleki Pál (39-41, 205. o.)  
