@@ -480,9 +480,6 @@ async def update_cycle():
 						loc2label.config(text="")
 						loc1label.grid_configure(columnspan=3)
 						aux_label.config(text="")
-						if vert_separator is None:
-							vert_separator = Separator(root, orient="vertical")
-							vert_separator.grid(row=3, column=1, sticky="ns", padx=5, pady=5, rowspan=2)
 					else:
 						if isinstance(next_class := schedule.classes[num+1], list) and len(next_class) > 1:
 							class1label.config(text=f"{next_class[0].classname}", anchor="center", wraplength=class1label.winfo_width())
