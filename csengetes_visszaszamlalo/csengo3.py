@@ -105,7 +105,7 @@ class Settings:
 						"default":0.75, 
 						"onHover":0.25
 					}
-				}, f)
+				}, f, indent=4)
 			with open(self.filename, "r", encoding=self.encoding) as f:
 				self._data = jload(f)
 		# Set default values if missing
