@@ -47,6 +47,9 @@ async def setup_tray(root:Tk):
 		global root
 		root.quit()
 		runtime.stop()
+	def updateFast(root:Tk):
+		root.update()
+		root.after(50, updateFast) 
 	def settings_callback(): runtime.create_task(open_settings(root))
 	def setDelayWindow(icon, item):
 		global _root
@@ -65,6 +68,7 @@ async def setup_tray(root:Tk):
 			tk.Button(_root, text="Save", command=saveValue).grid(row=2, column=0, columnspan=3)
 			_root.focus_force()
 			_root.bind('<Return>', saveValue)
+			updateFast(_root)
 		runtime.create_task(CreateWindow())
 	def ScheduleWindow(icon, item):
 		... # TODO: Fullscreen Schedule display
@@ -233,13 +237,13 @@ _settings:tk.Toplevel|None = None
 async def open_settings(root:Tk):
 	global _settings
 	_settings = tk.Toplevel(root)
-	_settings.title("Timer Settings")
+	_settings.title("Settings")
 	_settings.grid(10, 10, 50, 25)
 	menu = tk.Menu(_settings)
 	# TODO: Finish implementing the settings menu
 	menu.add_command(label="Not implemented yet")
 	_settings.config(menu=menu)
-	tk.Label(_settings, text="Settings window").grid(row=0, column=0, columnspan=5)
+	tk.Label(_settings, text="Settings window", font=font_size(20)).grid(row=0, column=0, columnspan=10)
 	_settings.update()
 
 # Clock Window
@@ -251,7 +255,6 @@ loc1label:tk.Label|None = None
 loc2label:tk.Label|None = None
 vert_separator:Separator|None = None
 separator:Separator|None = None
-aux_label:tk.Label|None = None
 runtime:asyncio.AbstractEventLoop|None = None
 dummy_date:None|datetime = None
 root:Tk
@@ -295,7 +298,7 @@ async def transparency_check(root:Tk):
 async def get_rn():
 	return datetime.now() if dummy_date is None else dummy_date
 async def startup(root:Tk):
-	global mainlabel, timelabel, loc1label, loc2label, class1label, class2label, separator, vert_separator, aux_label
+	global mainlabel, timelabel, loc1label, loc2label, class1label, class2label, separator, vert_separator
 	root.configure(background="black")
 	root.attributes("-topmost", True)
 	root.title("Csengetés időzítő")
@@ -328,8 +331,6 @@ async def startup(root:Tk):
 	loc2label.grid(row=4, column=2, sticky="nsew")
 	loc1label = tk.Label(root, init_data, font=font_size(10), padx=5)
 	loc1label.grid(row=4, column=0, sticky="nsew")
-	aux_label = tk.Label(root, init_data, font=font_size(10))
-	aux_label.grid(row=5, column=0, sticky="nsew", columnspan=3)
 	asyncio.create_task(set_click_through())
 	asyncio.create_task(transparency_check(root))
 	del init_data
@@ -389,7 +390,8 @@ async def update_cycle():
 	async def set_dynamic_size():
 		root.geometry(f"+{root.winfo_screenwidth()-root.winfo_width()}+0")
 		root.update()
-	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator, schedule, _root, aux_label
+	global mainlabel, timelabel, class1label, class2label, loc1label, loc2label, root, vert_separator, separator, schedule, _root
+	aux_label:tk.Label|None = None
 	prev_day:datetime = (await get_rn()).date()
 	schedule = Schedule()
 	while True:
@@ -412,6 +414,9 @@ async def update_cycle():
 				mainlabel.config(text=f"Szünet végéig")
 				timelabel.config(text=f"{f"{tmp.seconds//3600:02}:" if tmp.seconds//3600 != 0 else ""}{(tmp.seconds//60)%60:02}:{tmp.seconds%60:02}")
 				class1label.config(text=f"{_class.classname}", anchor="center")
+				if aux_label is not None:
+					aux_label = aux_label.destroy()
+					root.grid(3, 4, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
 				if tmp_class is not None:
 					class2label.config(text=f"{tmp_class.classname}", anchor="center", wraplength=class2label.winfo_width())
 					class1label.grid_configure(columnspan=1)
@@ -444,6 +449,9 @@ async def update_cycle():
 				class1label.config(text=f"{_class.classname}", anchor="center")
 				if tmp_class is not None:
 					if (tmp.seconds > 60*10):
+						if aux_label.winfo_ismapped():
+							aux_label = aux_label.destroy()
+							root.grid(3, 4, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
 						class2label.config(text=f"{tmp_class.classname}", anchor="center")
 						class1label.grid_configure(columnspan=1)
 						loc1label.config(text=f"{_class.room}")
@@ -454,6 +462,10 @@ async def update_cycle():
 							vert_separator = Separator(root, orient="vertical")
 							vert_separator.grid(row=3, column=1, sticky="ns", padx=5, pady=5, rowspan=2)
 					else:
+						if aux_label is None:
+							root.grid(3, 5, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
+							aux_label = tk.Label(root, {"text":"", "bg":"black", "fg":"white"}, font=font_size(10), text="Következő óra")
+							aux_label.grid(row=5, column=0, sticky="nsew", columnspan=3)
 						if isinstance(next_class := schedule.classes[num+1], list) and len(next_class) > 1:
 							class1label.config(text=f"{next_class[0].classname}", anchor="center", wraplength=class1label.winfo_width())
 							class2label.config(text=f"{next_class[1].classname}", anchor="center", wraplength=class2label.winfo_width())
@@ -471,7 +483,6 @@ async def update_cycle():
 							loc1label.grid_configure(columnspan=3)
 							if vert_separator is not None:
 								vert_separator = vert_separator.destroy()
-						aux_label.config(text="Következő óra")
 				else:
 					if (tmp.seconds > 60*10):
 						class1label.config(text=f"{_class.classname}", anchor="center")
@@ -479,7 +490,9 @@ async def update_cycle():
 						loc1label.config(text=f"{_class.room}")
 						loc2label.config(text="")
 						loc1label.grid_configure(columnspan=3)
-						aux_label.config(text="")
+						if aux_label is not None:
+							aux_label = aux_label.destroy()
+							root.grid(3, 4, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
 					else:
 						if isinstance(next_class := schedule.classes[num+1], list) and len(next_class) > 1:
 							class1label.config(text=f"{next_class[0].classname}", anchor="center", wraplength=class1label.winfo_width())
@@ -498,7 +511,10 @@ async def update_cycle():
 							loc1label.grid_configure(columnspan=3)
 							if vert_separator is not None:
 								vert_separator = vert_separator.destroy()
-						aux_label.config(text="Következő óra")
+						if aux_label is None:
+							root.grid(3, 5, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
+							aux_label = tk.Label(root, {"text":"", "bg":"black", "fg":"white"}, font=font_size(10), text="Következő óra")
+							aux_label.grid(row=5, column=0, sticky="nsew", columnspan=3)
 				if separator is None:
 					separator = Separator(root, orient="horizontal")
 					separator.grid(row=2, column=0, sticky="ew", padx=5, pady=5, columnspan=3, ipadx=100)
@@ -511,7 +527,8 @@ async def update_cycle():
 			class2label.config(text="")
 			loc1label.config(text="")
 			loc2label.config(text="")
-			aux_label.config(text="")
+			if aux_label is not None:
+				aux_label = aux_label.destroy()
 			if vert_separator is not None:
 				vert_separator.destroy()
 				vert_separator = None
