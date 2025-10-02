@@ -66,8 +66,11 @@ async def setup_tray(root:Tk):
 			_root.focus_force()
 			_root.bind('<Return>', saveValue)
 		runtime.create_task(CreateWindow())
+	def ScheduleWindow(icon, item):
+		... # TODO: Fullscreen Schedule display
 	icon = pystray.Icon("Csengetés időzítő", Image.open("icon.ico"), menu=pystray.Menu(
 		pystray.MenuItem(lambda item: f"Delay: {settings.delay}", setDelayWindow),
+		pystray.MenuItem("Fullscreen Schedule", ScheduleWindow),
 		pystray.MenuItem("Settings", settings_callback),
 		pystray.MenuItem("Quit", lambda icon, item: on_quit(icon, item))
 	))
@@ -228,53 +231,13 @@ class Settings:
 settings = Settings()
 _settings:tk.Toplevel|None = None
 async def open_settings(root:Tk):
-	def OpenClasslist():
-		for widget in _settings.winfo_children():
-			widget.destroy()
-		tk.Label(_settings, text="Class List Settings").grid(row=0, column=0, columnspan=20)
-		...
-		_settings.config(menu=menu)
-		_settings.update()
-	def OpenTeacherList():
-		for widget in _settings.winfo_children():
-			widget.destroy()
-		tk.Label(_settings, text="Teacher List Settings").grid(row=0, column=0, columnspan=20)
-		...
-		_settings.config(menu=menu)
-		_settings.update()
-	def OpenSchedule():
-		for widget in _settings.winfo_children():
-			widget.destroy()
-		tk.Label(_settings, text="Schedule Settings").grid(row=0, column=0, columnspan=20)
-		...
-		_settings.config(menu=menu)
-		_settings.update()
-	def OpenSpecialDays():
-		for widget in _settings.winfo_children():
-			widget.destroy()
-		tk.Label(_settings, text="Special Day Settings").grid(row=0, column=0, columnspan=20)
-		...
-		_settings.config(menu=menu)
-		_settings.update()
-	def OpenClassesBegin():
-		for widget in _settings.winfo_children():
-			widget.destroy()
-		tk.Label(_settings, text="Classes beginning Settings").grid(row=0, column=0, columnspan=20)
-		...
-		_settings.config(menu=menu)
-		_settings.update()
 	global _settings
-	menu = tk.Menu(_settings)
-	menu.add_command(label="Class List", command=OpenClasslist)
-	menu.add_command(label="Teacher List", command=OpenTeacherList)
-	menu.add_command(label="Default Schedule", command=OpenSchedule)
-	menu.add_command(label="Special days", command=OpenSpecialDays)
-	menu.add_command(label="Classes beginning", command=OpenClassesBegin)
 	_settings = tk.Toplevel(root)
 	_settings.title("Timer Settings")
-	#_settings.resizable(False, False)
-	_settings.grid(5, 5, 50, 25)
-	_settings.grid_propagate(False)
+	_settings.grid(10, 10, 50, 25)
+	menu = tk.Menu(_settings)
+	# TODO: Finish implementing the settings menu
+	menu.add_command(label="Not implemented yet")
 	_settings.config(menu=menu)
 	tk.Label(_settings, text="Settings window").grid(row=0, column=0, columnspan=5)
 	_settings.update()
