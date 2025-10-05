@@ -212,13 +212,12 @@
 - Stálin nyer, Trotsky megmenekül Mexikóba, de jégcsákányt beleállítottak szovjet bérgyilkosok  
 - Totális diktatúra: **A törvényhozás, a magán és állami élet minden szinten a párt irányítása alatt áll**  
 - Minden komcsi rendszer első tevékenysége az államosítás  
-## HF: Jegyzet a Tk. 152-158. oldalak szövegéből  
-### Tervgazdálkodás  
-#### Előzmények  
+## Tervgazdálkodás  
+### Előzmények  
 - Szovjetek elzárták magukat a külföldi tőkétől, technológiától és piaci viszonyok ösztönző hatásától  
 - A kívánt ipari fejlődést más ágazatok (mezőgazdaság, infrastruktúra, könnyűipar) rovására lehetett elindítani  
 - Emellett a gazdaságuk jelentős károkat szenvedett a polgárháború alatt  
-#### A tervgazdálkodás  
+### A tervgazdálkodás  
 - Az iparosítást (nehézipart főleg) tűzték ki célként  
 	- Alapvetőnek tartották a:  
 		- Katonai erő fokozásához  
@@ -238,7 +237,7 @@
 - Ezek után a szovjet ipar alkalmassá vált egy erős hadsereg ellátására  
 - Viszont ezért fizettek: Éhezés, nyomor, félelem a hatóságoktól  
 - Sztahanovisták: Munkamániásak  
-### Kollektivizálás  
+## Kollektivizálás  
 - Az iparosítás külterjes szakaszban volt, folyton nőtt  
 - Folytonosan növelték a szükséges munkaerőt, viszont nem volt elég gyári munkás  
 - Ahhoz, hogy a parasztok egy része ipari munkás legyen, át kellett szervezni a mezőgazdaságot  
@@ -249,7 +248,7 @@
 - Majd a parasztság többi része jött, embertelen módszereket alkalmaztak ellenük  
 	- Milliók haltak éhen, miközben az állam exportálta a gabonát a hiányzó pénzért  
 	- Ukrajnában elvették a parasztoktól a megtermelt élelmet (Ott is éheztek, "Holodomor")  
-### Sztálin diktatúra jellemzői  
+## Sztálin diktatúra jellemzői  
 - Sztálin személyéhez feltétlenül hű embereket állított hatalomba  
 - A hatalom, céljai megvalósítása érdekében megfélemlítette a társadalmat  
 	- Volt akit meggyilkoltak, másokat koholt (hamis) vádak alapján ítéltek halálra  
@@ -461,4 +460,63 @@
 	- Következménye Németország felé sodródni  
 - Meghal betegségbe (1936)  
 ## Darányi Kálmán (1936-1938)  
-Hf: Darányi Kálmánhoz tartozó dolgok kijegyzése, Imrédi Béla és Teleki Pál (39-41, 205. o.)  
+- Gömbös halála után feladatul kapta új miniszterelnökként, hogy jó viszonyt tartson  
+	- Németországgal  
+	- a Nyugattal  
+	- Olaszországgal  
+- Szakított Gömbös tervével -> Szabadabb teret nyitott a baloldali mozgalmaknak  
+- Fellépett az erősödő szélsőjobboldallal, a Nyilasokkal szemben  
+- Háborús veszély egyre jelentősebb volt -> Kihírdetett egy hadseregfejlesztési programot, a Győri programot (1938. Március)  
+	- Az utódállamok ezt, és az Anschluss-t látva elfogadták a helyzet megváltozását és a Nyugat tehetetlenségét  
+	- Így hajlandónak mutatkoztak tárgyalni -> M.O. lemondott az erőszakról, így elismerték a fegyverkezési jogunkat  
+- Darányi nem tudta fenntartani a Horthy és köre által meghatározott irányt  
+	- Egyre közeledett németországhoz  
+	- Engedni kényszerült a szélsőjobboldalnak  
+- A kormány mozgásterét leszűkítette, miután a Németek határosak lettek velünk  
+- A Német sikerek növelték a nemzetiszocialisták tekintélyét M.O.-n  
+- A vezető réteg (Konzervatív) a kormányozói jogkör erősítését tartották kívánatosnak ->  
+	- Kormányzót nem lehetett felelősségre vonni  
+	- Törvények elfogadásánál a halasztó vétójogát kiterjesztették kétszer 6 hónapra (1937)  
+- Miután Darányi nem váltotta be a reményeket, Horthy az angolbarátnak tartott pénzügyi szakembert, Imrédy Bélát nevezte ki Miniszterelnöknek  
+## Imrédy Béla (1938-1939)  
+- Feladata szintén lehetetlen: Közeledni a Németektől elnyomott Nyugathoz, de felhasználni a Németeket a revízió támogatására  
+- Horthy és Imrédy elutasították Hitler felszólítását egy Csehszlovákia elleni kalandorakcióra  
+	- Ezután még erőteljesebb német orientációra tért át, mint a térség többi állama  
+- A német befolyás és erősödő domesztikus antiszemitizmus következménye volt a Zsidótörvény (1938, Május)  
+	- Darányi idejében kidolgozták, Imrédy idejében elfogadták  
+	- Zsidónak minősülő Magyar állampolgárok jogait korlátozza  
+		- Eszerint az zsidó, akik izraelita vallásúak  
+	- Az első zsidótörvény (subtle foreshadowing?) a zsidók számarányát korlátozta értelmiségi pályákon (pl. ügyvéd, orvos) 20%-ra  
+- A nemzetiszocializmus terjedésével két ellentétes folyamat bontakozott ki:  
+	- Felmelték a szavukat a Náci veszéllyel szemben álló erők  
+	- Megerősödött a szélsőjobboldal  
+- Létre jött a Népi mozgalom (1937)  
+	- A baloldali értelmiségek részvételével a "Márciusi Front"  
+	- 1848-as hagyományokból kiemelte a demokráciát és függetlenséget  
+	- Követelte a nagybirtokok felosztását, nagytőke korlátozását  
+	- Felhívta a figyelmet a Náci veszélyre  
+	- A kormányzat rövidesen lehetetlenné tette működését, de szellemileg később is jelentős lett  
+- Több szélsőjobbos párt egyesült -> Nemzet Akaratának Pártja (1935), be lett tiltva -> később (1939-ben) Nyilaskeresztes Párt néven alakult újjá, Vezetője Szálasi Ferenc lett  
+	- Katonatisztként kezdte pályáját  
+	- Politizálása miatt Nyugállományba helyezését kérte  
+	- A kormányzat szélsőjobb-ellenes fellépések alatt kétszer is börtönbe került  
+	- Kialakította a Hungarista ideológiát, mely  
+		- Zavaros történelmi fejtegetésekre épült  
+		- Faji alapon állt  
+		- Keverte a Nemzeti és Szociális demagógát  
+	- WW2 előtti utolsó országgyűlési választáson (1939) a mandátumok 19%-át szerezték meg  
+- A Német sikerekre Imrédy is a szélsőjobboldali eszmék és módszerek felé nyitott  
+- Amikor rendeleti kormányzást kívánt Imrédy bevezetni, az O.Gy. leszavazta -> Lemondott, Horthy nem fogadta el lemondását  
+	- A gyengülő Parlamenti ellensúlyozására Imrédy "Csodálatos forradalmat" hírdetett, híveit a "Magyar Élet Mozgalomba" szervezve tömegpártot kívánt indítani  
+	- Horthy és a vezetőréteg többsége ellene fordult  
+	- Horthy kinevezte Teleki Pált  
+## Teleki Pál 2  
+### Az első Bécsi döntés  
+- A Müncheni konferencia (1938. Szeptember)  
+	- A Csehszlovákiával szembeni Magyar és Lengyel területi igények eldöntését kétoldalú tárgyalásokra bízták  
+	- Megegyezés nem született  
+	- A Lengyelek megegyezés nélkül elfoglalták Teschen környékét  
+	- M.O. tárgyalásokba kezdett a Csehszlovák vezetőkkel Komáromban  
+		- A Csehszlovákok rendkívül kevés területet kívántak átadni  
+		- Emiatt Nagyhatalmi döntés született, az Első Bécsi döntés  
+- Németország és Olaszország (Mivel a Franciák és Angolok távol maradtak) Magyarországnak ítélte Csehszlovákia magyarlakta területeinek többségét (1938. Nov. 2.)  
