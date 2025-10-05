@@ -409,6 +409,8 @@ async def update_cycle():
 			if isinstance(_class, list):
 				tmp_class = _class[1]
 				_class = _class[0]
+			elif _class.classname is None:
+				continue
 			if ((_class.begin_datetime + timedelta(seconds=delay)).time() > now_time):
 				tmp = datetime.combine((await get_rn()), _class.begin) - datetime.combine((await get_rn()), now_time) + timedelta(seconds=delay)
 				mainlabel.config(text=f"Szünet végéig")
@@ -449,7 +451,7 @@ async def update_cycle():
 				class1label.config(text=f"{_class.classname}", anchor="center")
 				if tmp_class is not None:
 					if (tmp.seconds > 60*10):
-						if aux_label.winfo_ismapped():
+						if aux_label is not None:
 							aux_label = aux_label.destroy()
 							root.grid(3, 4, root.winfo_screenwidth()//4, root.winfo_screenheight()//8)
 						class2label.config(text=f"{tmp_class.classname}", anchor="center")
@@ -457,7 +459,6 @@ async def update_cycle():
 						loc1label.config(text=f"{_class.room}")
 						loc2label.config(text=f"{tmp_class.room}")
 						loc1label.grid_configure(columnspan=1)
-						aux_label.config(text="")
 						if vert_separator is None:
 							vert_separator = Separator(root, orient="vertical")
 							vert_separator.grid(row=3, column=1, sticky="ns", padx=5, pady=5, rowspan=2)
@@ -575,5 +576,5 @@ def main(_dummy_date:datetime|None = None):
 	runtime.run_forever()
 	runtime.close()
 
-#main(datetime(2025, 10, 1, 9, 15))
-main()
+main(datetime(2025, 9, 29, 11, 15))
+#main()
