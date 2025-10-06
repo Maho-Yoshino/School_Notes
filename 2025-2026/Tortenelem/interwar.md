@@ -458,12 +458,37 @@
 		- A Csehszlovákok rendkívül kevés területet kívántak átadni  
 		- Emiatt Nagyhatalmi döntés született, az Első Bécsi döntés  
 - Németország és Olaszország (Mivel a Franciák és Angolok távol maradtak) Magyarországnak ítélte Csehszlovákia magyarlakta területeinek többségét (1938. Nov. 2.)  
-# Revízió, Oktatás és kisebbségi lét
-- Revízió: Felülvizsgálat
-	- A trianoni határok felülvizsgálata
-	- Többségi magyar etnikum területeket vissza
-- Irredentizmus: Összes területét vissza
-- Revansizmus: Bosszút állni
-## Oktatás fejlesztése
-- Okatási Miniszter: Klebelsberg Kunó 
-Hf: 190-192 jegyzet
+# Revízió, Oktatás és kisebbségi lét  
+- Revízió: Felülvizsgálat  
+	- A trianoni határok felülvizsgálata  
+	- Többségi magyar etnikum területeket vissza  
+- Irredentizmus: Összes területét vissza  
+- Revansizmus: Bosszút állni  
+## Oktatás fejlesztése  
+- Okatási Miniszter: Klebelsberg Kunó  
+- A társadalmi változások a modernizáció felé mutattak  
+- A legtöbb embernek a felemelkedés lehetőségét a magasabb iskolázottság és műveltség megszerzését biztosító oktatás jelentette  
+	- Emiatt az értelmiségi, kispolgári és paraszti családok mindent megtettek gyerekeik taníttatásáért  
+	- Az érettségi megszerzése az alkalmazotti állások betöltéséhez kellett  
+	- Felsőfokú diploma a középrétegekhez tartozást biztosította, származástól függetlenül  
+- A korszakban jelentősen nőtt a magasabb iskolai végzettségűek száma  
+	- Viszont még mindig le voltunk maradva a nyugat európai szinthez képest  
+- Az állam a Dualizmus alatt elkezdett oktatási infrastruktúra építést priorizálta, folytatta  
+	- A Gazdasági helyzet ellenére is a 20-as években növelték az oktatásra szánt összegeket: abszolút mértékben, a nemzeti jövedelem arányában  
+- Kunó el tudta fogadtatni a politikában, hogy a magyarság felemelése, régi szerepének visszaszerzése csak a kultúrális szint emelésével történhet  
+- Az oktatásban sok jelentős fejlesztésre került sor:  
+	- Elemi iskolai tantermek és tanítói lakások építésével javították a kistelepülések oktatási lehetőségeit  
+		- Az analfabetizmus 1/3-ára esett, a fiatalságban teljesen visszaszorult  
+		- A korszak végén elkezdték a kötelező 8 osztályos általános iskola bevezetését  
+	- A középfokú oktatás számára új iskolaépületek létesültek, korszerűsítették a tananyagot (modern nyelvek és természettudomány szerepének növelése)  
+	- Az egyetemi oktatásban otthont biztosítottak a határváltozások miatt áttelepülő egyetemeknek  
+		- A Pozsonyi egyetem Pécsre költözött  
+		- A Kolozsvári egyetem Szegedre  
+- Ennek sikerességét jelentette az, hogy sok tanuló került a világ műszaki és tudományos életébe, többen Nóbel-díjasak  
+- Voltak olyan iskolatípusok, amik zsákutcák voltak továbbtanulási nézőpontból  
+	- A tehetséges, alkalmazkodni képes, szorgalmas diákokat ösztöndíjrendszerrel biztosították a továbbtanulás lehetőségét  
+	- Pl. hadiárvák részére  
+- Sokan az oktatás fejlődését a Trianonra fogják, mert a pénz amit a hadseregre költöttünk volna, az az oktatásra ment (ez végül kiderült, hogy nem biztos)  
+- Kunó úgy vélte, a Bolsevik eszmék terjedését megakadályozni úgy lehet a leghatékonyabban, ha a munkásréteg ifjúságát nemzeti és keresztény szellemben nevelik  
+	- Emiatt mondta, hogy a nemzeteszmének nyílni kell a szegényebb rétegek felé (újnacionalizmus)  
+	- Ez korszerűbb volt, szélesebb rétegek tudtak azonosulni a régihez képest  
