@@ -87,3 +87,25 @@
 5. Kuruc-versek  
 6. Istenes-versek  
 ### Új Versek kötet  
+#### 1. - A kötet felépítése  
+- Nyitó vers: Góg és Magóg fia vagyok én  
+	- Műfaj: Ars Poetica/Költői hitvallás  
+- Záró vers: Új vizeken járok  
+	- Műfaj: Ars Poetica  
+- A két vers között 4 versciklus található  
+	1. Léda asszony zsoltárai  
+		- Pl. Héja-nász az Avaron  
+	2. A magyar Ugaron  
+		- Ady a nagybetűs szavakat szimbólumként használja, pl.  
+			- A magyar Ugaron  
+			- A Tisza-parton  
+			- A Hortobágy poétája  
+	3. A daloló Páris  
+		- A Szajna partján  
+	4. Szűz ormok vándora  
+#### 2. - Ady Szimbolizmusa  
+- Költői irányzat (XIX. Század 2. fele, Francia eredet)  
+	- Pl Baudalaire, Verlaine, Rimbaud  
+- Ady szintén szimbolista költő  
+##### Az Új versek szimbólumai  
+###### Góg és Magóg fia vagyok én...  
