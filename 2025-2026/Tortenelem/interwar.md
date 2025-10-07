@@ -477,7 +477,7 @@
 	- A Gazdasági helyzet ellenére is a 20-as években növelték az oktatásra szánt összegeket: abszolút mértékben, a nemzeti jövedelem arányában  
 - Kunó el tudta fogadtatni a politikában, hogy a magyarság felemelése, régi szerepének visszaszerzése csak a kultúrális szint emelésével történhet  
 - Az oktatásban sok jelentős fejlesztésre került sor:  
-	- Elemi iskolai tantermek és tanítói lakások építésével javították a kistelepülések oktatási lehetőségeit  
+	- Elemi iskolai tantermek (5000+) és tanítói lakások építésével javították a kistelepülések oktatási lehetőségeit  
 		- Az analfabetizmus 1/3-ára esett, a fiatalságban teljesen visszaszorult  
 		- A korszak végén elkezdték a kötelező 8 osztályos általános iskola bevezetését  
 	- A középfokú oktatás számára új iskolaépületek létesültek, korszerűsítették a tananyagot (modern nyelvek és természettudomány szerepének növelése)  
@@ -489,6 +489,6 @@
 	- A tehetséges, alkalmazkodni képes, szorgalmas diákokat ösztöndíjrendszerrel biztosították a továbbtanulás lehetőségét  
 	- Pl. hadiárvák részére  
 - Sokan az oktatás fejlődését a Trianonra fogják, mert a pénz amit a hadseregre költöttünk volna, az az oktatásra ment (ez végül kiderült, hogy nem biztos)  
-- Kunó úgy vélte, a Bolsevik eszmék terjedését megakadályozni úgy lehet a leghatékonyabban, ha a munkásréteg ifjúságát nemzeti és keresztény szellemben nevelik  
+- Kunó úgy vélte, a Bolsevik eszmék terjedését megakadályozni úgy lehet a leghatékonyabban, ha a munkásréteg ifjúságát nemzeti és keresztény szellemben nevelik (Keresztény nemzeti kurzus)  
 	- Emiatt mondta, hogy a nemzeteszmének nyílni kell a szegényebb rétegek felé (újnacionalizmus)  
 	- Ez korszerűbb volt, szélesebb rétegek tudtak azonosulni a régihez képest  
