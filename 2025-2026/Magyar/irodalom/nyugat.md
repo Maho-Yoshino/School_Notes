@@ -109,3 +109,6 @@
 - Ady szintén szimbolista költő  
 ##### Az Új versek szimbólumai  
 ###### Góg és Magóg fia vagyok én...  
+### Csinszka-versek (Tk. 182-183. o.)
+#### Őrizem a szemed (Szgy. 238. o.)
+- Rímképlet: abab (keresztrím) + tiszta rímek	

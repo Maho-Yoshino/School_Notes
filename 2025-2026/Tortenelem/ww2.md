@@ -69,3 +69,16 @@
 - A nem várt ellenállás, rossz utak következtében egyre kevésbé részesült a német haderő technikai és kiképzési fölénye  
 - A téli hidegben a német technológia gyakran csődöt mondott  
 - A vörös hadsereg Moszkva alatt megállította a németeket (1941. November-December)  
+## Mi az az izolacionizmus (Tk. 215)
+## Az USA belép (Tk. 216-217)
+## Mi történt Sztálingrádnál? (Tk. 218-219)
+## Mi az az El Alamein-i csata (Tk. 220)
+## Mi az a Midwayi csata? (Tk. 220)
+## Mikor és hogyan zajlott a Szicíliai partraszállás? Következményei? (Tk. 220)
+## Atlanti csata (Tk. 221)
+## Mi az az Atlanti charta (Tk. 221)
+## Mi az a Teherányi csúcstalálkozó (Tk. 222)
+## Mi történt 1944. Június 6-án? Következmények? (Tk. 222)
+## Hogyan kapitulálnak a németek? (Tk. 224)
+## Mi az a Yaltai és Potsdami konferencia? (Tk. 224-225)
+## Hogyan ér véget a háború? (Tk. )
