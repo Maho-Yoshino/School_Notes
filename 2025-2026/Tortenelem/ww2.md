@@ -83,7 +83,7 @@
 	- A japánok emiatt az USAban látták a fő ellenséget  
 	- A szovjetekkel nemmegtámadási szerződést kötöttek, hogy teljes erővel az USA ellen fordulhassanak  
 - Pearl Harbor  
-	- 1941. December 7.  
+	- **1941. December 7.**  
 	- Japán hadüzenet nélkül megtámadta az USA csendes óceáni támaszpontját, Pearl Harbort -> **Belépett az USA**  
 ## Mi történt Sztálingrádnál? (Tk. 218-219)  
 - 1942, Sztálingrád irányába összpontosult a Német támadás  
@@ -113,6 +113,7 @@
 - WW1 megismétlődött: Először konvojokkal és vízibombákkal védekeztek  
 - Majd megtalálták az új ellenszert, a repülőgépeket -> A német tengeralattjárókat visszavonták  
 - 1943-ra eldőlt a csata  
+## Kurszki tankcsata (1943)  
 ## Mi az az Atlanti charta (Tk. 221)  
 - 1941. Augusztus  
 - A háború után kialakítandó világrend alapelveit leírták  
@@ -157,7 +158,7 @@
 	- Konkretizálták a háborús bűnösök felelősségre vonásának módját (nemzetközi bíróság)  
 - Már ekkor kezdett az USA és Szovjetunió közti szembenállás erősödni, de még hittek az együttműködésben  
 - A háború utáni rendezést szolgálta a győztes hatalmak által San Franciscóbsan tartott konferencia, ahol az Atlanti Charta alapelveiből kiindulva, a béke fenntartására létrehozták az ENSZ-t (1945. Június, Egyesült Nemzetek Szervezete)  
-# Hogyan ér véget a háború?  
+## Hogyan ér véget a háború?  
 - 1944 közepére a japán hadiflotta súlyos veszteségeket szenvedett, viszont hadseregük Kínában és Japánban még jelentős erővel bírt (2M+ katona)  
 - Az amerikai haditengerészet ellen bevetették az öngyilkos repülőket (kamikazék) és élő torpedókat  
 - Az amerikai tengeralattjárók 1944 végére lehetetlenné tették a japán szigetekről való kihajózást  
@@ -165,3 +166,4 @@
 - Az atomtámadást a Szovjetuniónak figyelmeztetésnek is szánták  
 - A szovjetek felmondták a japánokkal kötött nemmegtámadási szerződést, Mandzsúriában támadni kezdtek  
 - Az atomtámadás és szovjet hadsereg előretörése fegyverletételre kényszerítette a japánokat, **1945. Szeptember 2.**  
+## Jövőhét doga  

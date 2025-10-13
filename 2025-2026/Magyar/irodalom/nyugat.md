@@ -109,6 +109,21 @@
 - Ady szintén szimbolista költő  
 ##### Az Új versek szimbólumai  
 ###### Góg és Magóg fia vagyok én...  
-### Csinszka-versek (Tk. 182-183. o.)
-#### Őrizem a szemed (Szgy. 238. o.)
-- Rímképlet: abab (keresztrím) + tiszta rímek	
+### Csinszka-versek (Tk. 182-183. o.)  
+#### Őrizem a szemed (Szgy. 238. o.)  
+- Rímképlet: abab (keresztrím) + tiszta rímek  
+## Témák és versek Ady költészetében  
+### Harc a Nagyúrral (1905)  
+- Új versek c. kötet utolsó ciklusában  
+- Témája: Létharc-vers  
+- A nagyúr egy szimbólum: az arany a pénznek felel meg, amit a disznófejű nagyúr szimbolizál  
+- A lírai én vágyainak beteljesüléséhez  
+### Istenes versei  
+- Adynál az Isten megtapasztalása és tagadása is jelen van ezekben a versekben, pl. Az Úr érkezése Sion-hegy alatt  
+### Magyarság-téma Adynál  
+- Pl. A magyar Ugaron - Új versek kötet ciklusában  
+- Ugar: Megműveletlen, pihentetett föld  
+- Mit jelent a magyar Ugar átvitt értelemben  
+	- Idk  
+### Halál, elmúlás témája  
+- pl. Párisban járt az Ősz  
