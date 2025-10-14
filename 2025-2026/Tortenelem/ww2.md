@@ -132,13 +132,13 @@
 - 1944. Június 6. - Overlord Operáció  
 - Normandiában partra szálltak a szövetségesek, megnyitva a második frontot  
 - A szövetséges haderő gyorsan előrenyomult, segítve őket a francia ellenállás  
-- 1944 első felében a VÖrös hadsereg átlépte a szovjet határt és folytatta előretörését  
+- 1944 első felében a Vörös hadsereg átlépte a szovjet határt és folytatta előretörését  
 ## Hogyan kapitulálnak a németek? (Tk. 224)  
 - 1945 tavaszára a szovjetek kiszorították a Balkánról és Magyarországról a Német csapatokat, közeledtek Berlinhez  
 - A brit és amerikai erők gyorsan hatoltak kelet felé Németországban, és kissé lassabban haladtak észak felé Olaszországban  
 - A szovjet és nyugati szövetséges csapatok német földön, az Elbánál találkoztak (1945. Április 25.)  
 - Berlint a szovjet hadsereg ostromolta, s Hitler még a város eleste előtt öngyilkos lett (Április 30.)  
-	- Ez után pár nappal Németország feltétel nélkül megadta magát (Május 8.)  
+	- Ez után pár nappal Németország feltétel nélkül megadta magát (**Május 8.**)  
 	- 1945. Május 9. - A háború utáni első békés nap Európában  
 ## Mi az a Jaltai és Potsdami konferencia? (Tk. 224-225)  
 ### Jalta  
