@@ -33,3 +33,4 @@
 			- Sok a tolvajnyelvből eredő szó  
 			- Csaj, pia, csóró, zsé, lóvé, zsaru  
 	2. A nyelv területi/földrajzi ("vízszintes") rétegei -> nyelvjárások (dialektusok)  
+		1. A magyar nyelvjárások I. (Kárpát-medence) (11.Tk. 93-97.)  

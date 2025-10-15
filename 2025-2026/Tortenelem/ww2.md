@@ -167,3 +167,24 @@
 - A szovjetek felmondták a japánokkal kötött nemmegtámadási szerződést, Mandzsúriában támadni kezdtek  
 - Az atomtámadás és szovjet hadsereg előretörése fegyverletételre kényszerítette a japánokat, **1945. Szeptember 2.**  
 ## Jövőhét doga  
+## Hogyan zajlott a holokauszt?  
+- Megnevezések  
+	- Holokauszt = Égő áldozat  
+	- Héberül "Soa", avagy "Katasztrófa"  
+- Szervezett népírtás, "Genocídium"  
+- Nem csak a zsidókra vonatkozott, csak ők voltak a fő cél, viszont voltak testi/lelki fogyatékosok és más, alsóbbrendű fajok is  
+- Lépések  
+	1. Jogsértések (Politikai/Gazdasági, szabadságjogok korlátozása, Nürnbergi törvények (1935))  
+	2. Pogromok (pl. Kristályéjszaka, 1938. Nov.)  
+	3. Zsidók számára kötelezővé tették a sárga csillag viselését (1941. Szeptember)  
+	4. Gettókba tették őket  
+	5. Munkatáborok  
+	6. Deportáció, 2 módja volt  
+		1. Vasúti marha vagonokban  
+		2. Sétálva  
+	7. Koncentrációs táborok  
+- Wannsee konferencia  
+	- A végső megoldás terv létrejött  
+- Holokauszt tagadása bűncselekmény  
+- 6 Millió+ halott (elvileg)  
+## Hf: Roma Holokauszt rész (Tk. 242) elolvasása  
