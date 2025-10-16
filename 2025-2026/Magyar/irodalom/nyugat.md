@@ -127,3 +127,29 @@
 	- Idk  
 ### Halál, elmúlás témája  
 - pl. Párisban járt az Ősz  
+## Babits Mihály  
+1. Szekszárd 1883-1841 Elpolgárosodott katolikus családba született  
+2. Katolikus vallású költő/író/újságíró/irodalomtudós (poéta doctus)  
+3. Budapesti Pázmány Péter Egyetem: Latin nyelv négyessy professzor óráin ismeri meg Kosztolányi Dezsőt  
+4. Nyugat 1908 alapítója és 1920as évektől szerkesztője 1941-ig  
+5. I.VH. háborúellenes versei az elsők között voltak  
+6. A tanácsköztársaság idején csatlakozott az Írói Direktóriumhoz -> "Száműzik" fogaras nevű erdélyi településre  
+7. Feleség Tanner Ilona, művészneve: Török Sophie  
+8. 1924-től a nyarakat Esztergomi házukban töltik  
+	1. Ma is látható a ház falán sok író/költő aláírása, "Autogramfal"  
+### Kötetei  
+1. Levelek Iris koszorújáról (1909)  
+2. Herceg, hátha megjön a tél is (1911)  
+3. Gólyakalifa (1913)  
+4. Recitativ (1916)  
+	1. Háborúellenes versek  
+### Példák korai költészetéből  
+1. Levelek Irisz koszorújából (1909)  
+	1.  Fő jellemzői:  
+		- Műfaji sokszínűség  
+	2. Stílusirányzatok gazdagsága  
+### Babits Főbb versei  
+#### In Horatium - "Horatiusra gondolva"  
+#### Lírikus epilógja  
+#### Messze, messze  
+#### Fekete ország  

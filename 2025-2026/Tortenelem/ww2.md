@@ -188,3 +188,20 @@
 - Holokauszt tagadása bűncselekmény  
 - 6 Millió+ halott (elvileg)  
 ## Hf: Roma Holokauszt rész (Tk. 242) elolvasása  
+## https://classroom.google.com/u/2/c/NDg5NDI1MTgyMjcz  
+1. Hamis, nem franciák hanem németek  
+2. Hamis, 1939. Szeptember 1.  
+3. Hamis, a lengyelek, nem a franciák  
+4. Igaz  
+5. Hamis, nem voltak problémák Quisling-el  
+6. Igaz  
+7. Igaz  
+8. Hamis, a görögöknél és afrikában volt hadjárat  
+9. Hamis, Vörös nem zöld  
+10. Hamis, a japánok hadüzenet nélkül támadtak  
+11. Igaz  
+12. Hamis, Truman helyett Roosevelt, és észak európai  
+13. Igaz  
+14. Hamis, Felosztották a németeket megszállási övezetekre  
+15. Hamis, letették addigra a fegyvert  
+16. Igaz  
