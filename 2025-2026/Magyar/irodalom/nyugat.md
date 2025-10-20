@@ -150,6 +150,22 @@
 	2. Stílusirányzatok gazdagsága  
 ### Babits Főbb versei  
 #### In Horatium - "Horatiusra gondolva"  
-#### Lírikus epilógja  
+#### Lírikus epilógja (Szgy. 247.)  
+- Ars Poetica = Költői hitvallás (Költemény a költészetről)  
+- Műfaj: Szonett -> Nem csak műfaj, hanem versforma is  
+- Tk. 197-98 - Értelmezés  
+	- Cím: A költő "utószavai" költészetét nézve  
+- Babits egyik témája a gondolati költészet -> pl. a megismerés korlátai  
+#### Esti Kérdés (Tk. 199-202, Szgy. 248.)  
+- Egyéb témák és versek Babitsnál:  
+	- Szembenézés a halállal téma, pl. Ősz és tavasz között, Balázsolás (Szgy. 272.)  
 #### Messze, messze  
 #### Fekete ország  
+### Tétel: Prófétikus magatartás Babits költészetében  
+#### Jónás könyve, Jónás unája  
+1. Prófétikus költői magatartás:  
+	1. Jónás a költő alteregója/hasonmása  
+	2. Mit jelent a költői szerepvállalás Babits számára az 1930as években?  
+	3. Erkölcsi kérdést vet föl a mű:  
+		- Miről kell szólnia a költőnek Európa jövőjét sejtve  
+		- "Vétkesek közt cinkos aki néma" -> A költőnek erkölcsi kötelessége felemelni a hangját a rossz ellen  
