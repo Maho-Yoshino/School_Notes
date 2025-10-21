@@ -216,16 +216,17 @@
 	1. Oktatás fejlesztése  
 	2. Zsidótörvények  
 6. Teleki 2  
-## Milyen elvárások voltak teleki felé?  
+## Teleki Pál  
+### Milyen elvárások voltak teleki felé?  
 - Visszaszorítani a szélsőjobbot  
 - Fékezni a német befolyás növekedését  
 - Felhasználni a németeket a magyar revíziós célok elérésére  
 - Közeledni a nyugati nagyhatalmakhoz  
-## Kárpátalja visszaszerzése  
+### Kárpátalja visszaszerzése  
 - Demokratikusan, 1939  
 - 1939 Márciusában Hitler annektálta Csehországot és létrejött az önálló szlovák állam  
 - Némi rosszállással megengedte Hitler, hogy a magyar csapatok bevonuljanak a Kárpátaljára  
-## Milyen módon áll Teleki a háborúhoz  
+### Milyen módon áll Teleki a háborúhoz  
 - El kell kerülni az összeomlást a háború végén  
 - Szerinte Németország nem győzhet  
 - Háborúba nem szabad belépni  
@@ -234,13 +235,13 @@
 	- Megnyitotta a határt a lengyel politikai és katonai menekülteknek  
 	- A menekülteket nem szolgáltattuk ki a németeknek  
 	- A menekültek nagy része Frnaciaországba és Nagy-Britanniába távozott, másoknak továbbá menedéket nyújtott az ország  
-## II. Bécsi döntés  
+### II. Bécsi döntés  
 - 1940. Augusztus 30.  
 - Magyarországnak ítélte Észak-Erdélyt és Székelyföldet  
 - Sok magyar román területen maradt  
 - Sok román magyar területre került  
 - Hitler ítélte ez meg, közeledünk a Németekhez  
-## Miért lett öngyilkos Teleki?  
+### Miért lett öngyilkos Teleki?  
 - Teleki a Jugoszláv kormányhoz közeledett, ellensúly miatt a németek ellen  
 	- A kormányok 1940. végén barátsági szerződést írtak alá  
 	- 1941 tavaszán viszont katonai puccsal megdöntötték a jugoszláv kormányt az angolbarát tisztek  
@@ -249,3 +250,52 @@
 	- Ennek elfogadésa a nyugattól elszakadást, visszautasítása a németekkel szakítást jelentette  
 	- Teleki nem látott kiútat ebből, öngyilkos lett (1941. Április 3.)  
 	- Hf.: Bárdossy László, Kálai Miklós  
+## Bárdossy László  
+- Miniszterelnök: 1941. Április - 1942. Március  
+- Volt külügyminiszterünk  
+- A Magyar csapatok bevonultak délvidékre 1941. Áprilisában, de csak a jugoszláv állam szétesése után  
+- Az országhoz csatolták Muraközt, a Muravidéket, a baranyai háromszöget és Bácskát  
+- Ezt követően az angolok megszakították a diplomáciai kapcsolatokat, még a magyar csapatok délvidéki hadműveleteinek megkezdése előtt  
+### Hadba lépés a Szovjetunió ellen  
+- Bárdossynak a belpolitikai helyzet az elődeinél mégrosszabbul állt  
+	- A szélsőjobb megerősödött  
+	- Német iskerek tetőfokán a honvéd tisztikarának jelentős része hinni kezdett a Német győzelemben  
+- 1941. Június 22. - Németek megtámadták a Szovjetuniót  
+	- Románia nagy erőkkel csatlakozott  
+	- Megindultak a finn és szlovák haderő alakulatok is  
+- A Magyar vezetés félt, hogy romániának Hitler jobban fog kedvezni az "új európai rend" kialakítása során  
+- Horthy és a tisztikar nem akart kimaradni a bolsevizmus elleni hadjáratból  
+- A Honvéd Vezérkar főnöke úgy vélte, a Németek 6 hét alatt győznek a szovjetek ellen  
+- 1941. Június 26. - Kassa bombázása (a vezérkar szovjet támadásként vette)  
+- 1941. Június 27. - Beléptünk a szovjetellenes hadjáratba  
+### Bárdossy megmenekül?  
+- Sztálin kérésére az angolok hadüzenetet küldtek (1941 végére)  
+- Pearl harbor után M.O. az USA-val is hadiállapotba került  
+	- Ezennel teljes mértékben német szövetségessé váltunk  
+- A Németek 1942-ben egy 200k fős hadsereget kértek keleti hadműveleti területekre  
+- A Moszkvai vereség után felerősítette a Bethlen féle irányzat hatását a politikai életre és kormányzóra  
+	- Aki 1942 Tavaszán menesztette a németeknek engedékeny Bárdossy Lászlót  
+	- Helyére jött Kállay Miklós (1942. március - 1944. március)  
+## Kállay Miklós  
+- Elvárták tőle a Németországhoz fűződő szálak lazítását  
+### Az ellenállás fokozódása  
+- A Magyar társadalomban a német sikerek és a németek által elért revíziós eredmények növelték Németország népszerűségét  
+- Viszont több tényező (Frontról halálhírek, moszkvai vereség, ország függetlenségének veszélyeztetése) cselekvésre buzdított sokakat  
+	- Nemzeti és baloldali érzelmű fiatalok tüntettek a háború és az erősödő náci veszély ellen  
+		- A Battyhyány-örökmécsesnél (1941. Október 6., Aradi vértanúk emléknapja)  
+		- Teleki Pál sírjánál (1941. November 1., Halottak napja)  
+	- Széles népfront volt a Népszava karácsonyi száma (1941)  
+	- Komoly eredménynek számított a szintén népfront jellegű Magyar Történelmi Emlékbizottság létrehozása (1942. február)  
+		- Megszervezték a legjelentősebb háborúellenes tüntetést az 1848-as forradalom emléknapján (1942. március 15.)  
+	- Végül nem sok embert hatottak meg, sikertelenek voltak a tüntetések  
+### Politikája  
+- Igyekezett új irányt adni a Magyar politikának, de a német befolyás ezt nem tette lehetővé  
+- Eközbe folyt a háború  
+	- A kor követelményeihez képest elmaradtak volt a hadseregünk  
+	- A 2. sereg a Sztálingrád felé támadó német hadsereg bal szárnyán tört előre  
+	- Majd a Don kanyarulatnál védelemre rendezkedtek be  
+	- A Sztálingrádnál induló ellentámadást nem tudtuk visszatartani, 1943. január-február - Hatalmas veszteségek  
+- Kállay már a doni katasztrófa előtt elkezdte a háborúból való kilépés előkészítését  
+	- Elhatározását ebben megerősítette a doni katasztrófa és a németek sztálingrádi veresége  
+- Szent-Györgyi Albert részvételével Isztambulban megkezdődtek a tárgyalások az angolokkal, majd előzetes fegyverszüneti egyezményt kötöttek (1943. szeptember-október)  
+	- Közben a kormány megtagadta Hitler kérését, hogy újabb seregeket küldjünk a frontra, majd Horthy kiállt emellett, akinek leváltását Hitler egyre jobban követelte  
