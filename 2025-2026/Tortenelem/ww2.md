@@ -205,3 +205,47 @@
 14. Hamis, Felosztották a németeket megszállási övezetekre  
 15. Hamis, letették addigra a fegyvert  
 16. Igaz  
+# Magyarország a WW2-ban  
+## Előzmény  
+### Vezetőink  
+1. Bethlen  
+2. Károlyi Gyula  
+3. Gömbös Gyula (1932-36)  
+4. Darányi (1936-38)  
+5. Imrédy  
+	1. Oktatás fejlesztése  
+	2. Zsidótörvények  
+6. Teleki 2  
+## Milyen elvárások voltak teleki felé?  
+- Visszaszorítani a szélsőjobbot  
+- Fékezni a német befolyás növekedését  
+- Felhasználni a németeket a magyar revíziós célok elérésére  
+- Közeledni a nyugati nagyhatalmakhoz  
+## Kárpátalja visszaszerzése  
+- Demokratikusan, 1939  
+- 1939 Márciusában Hitler annektálta Csehországot és létrejött az önálló szlovák állam  
+- Némi rosszállással megengedte Hitler, hogy a magyar csapatok bevonuljanak a Kárpátaljára  
+## Milyen módon áll Teleki a háborúhoz  
+- El kell kerülni az összeomlást a háború végén  
+- Szerinte Németország nem győzhet  
+- Háborúba nem szabad belépni  
+- A háború kitört -> **Fegyveres semlegesség**  
+	- Nem engedélyezte a német csapatok átvonulását  
+	- Megnyitotta a határt a lengyel politikai és katonai menekülteknek  
+	- A menekülteket nem szolgáltattuk ki a németeknek  
+	- A menekültek nagy része Frnaciaországba és Nagy-Britanniába távozott, másoknak továbbá menedéket nyújtott az ország  
+## II. Bécsi döntés  
+- 1940. Augusztus 30.  
+- Magyarországnak ítélte Észak-Erdélyt és Székelyföldet  
+- Sok magyar román területen maradt  
+- Sok román magyar területre került  
+- Hitler ítélte ez meg, közeledünk a Németekhez  
+## Miért lett öngyilkos Teleki?  
+- Teleki a Jugoszláv kormányhoz közeledett, ellensúly miatt a németek ellen  
+	- A kormányok 1940. végén barátsági szerződést írtak alá  
+	- 1941 tavaszán viszont katonai puccsal megdöntötték a jugoszláv kormányt az angolbarát tisztek  
+- Hitler elhatározta hogy jugoszláviát letámadja, nem akar bizonytalan helyzetet a területen  
+	- Felajánlották a katonai együttműködésért és részvételért cserébe területeinket  
+	- Ennek elfogadésa a nyugattól elszakadást, visszautasítása a németekkel szakítást jelentette  
+	- Teleki nem látott kiútat ebből, öngyilkos lett (1941. Április 3.)  
+	- Hf.: Bárdossy László, Kálai Miklós  
