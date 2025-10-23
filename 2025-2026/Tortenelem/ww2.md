@@ -295,7 +295,20 @@
 	- A 2. sereg a Sztálingrád felé támadó német hadsereg bal szárnyán tört előre  
 	- Majd a Don kanyarulatnál védelemre rendezkedtek be  
 	- A Sztálingrádnál induló ellentámadást nem tudtuk visszatartani, 1943. január-február - Hatalmas veszteségek  
+		- Akadozó utánpótlás  
+		- Olaszok elmenekülése  
+		- Fegyverek lefagyása  
+		- Közlekedési problémák  
+		- Visszavonulás megtiltása  
+		- Túlterjeszkedés  
 - Kállay már a doni katasztrófa előtt elkezdte a háborúból való kilépés előkészítését  
 	- Elhatározását ebben megerősítette a doni katasztrófa és a németek sztálingrádi veresége  
 - Szent-Györgyi Albert részvételével Isztambulban megkezdődtek a tárgyalások az angolokkal, majd előzetes fegyverszüneti egyezményt kötöttek (1943. szeptember-október)  
-	- Közben a kormány megtagadta Hitler kérését, hogy újabb seregeket küldjünk a frontra, majd Horthy kiállt emellett, akinek leváltását Hitler egyre jobban követelte  
+	- Közben a kormány megtagadta Hitler kérését, hogy újabb seregeket küldjünk a frontra, majd Horthy kiállt emellett, és Kállay leváltását Hitler egyre jobban követelte  
+## Német Megszállás  
+- "Margaréta hadművelet"  
+	- Náci bábállam készítése Magyarországból  
+- Horthyt Berlinbe hívták  
+	- Együttműködést rendelt el, legalizálva a német megszállást  
+	- Így a nyugatnak még inkább ellenség lettünk  
+- Hf: Befejezni az M.O. a WW2ben témát (Szovjet bevonulás)  
