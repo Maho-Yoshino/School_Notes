@@ -311,4 +311,78 @@
 - Horthyt Berlinbe hívták  
 	- Együttműködést rendelt el, legalizálva a német megszállást  
 	- Így a nyugatnak még inkább ellenség lettünk  
-- Hf: Befejezni az M.O. a WW2ben témát (Szovjet bevonulás)  
+- Hazatérés után Horthynak el kellett fogadnia, hogy Edmund Veesenmayer (Hitler megbízottja) irányítsa az országot  
+- Korábbi berlini követet, Sztójay Dömét kellett kineveznie miniszterelnökké (1944. Március-Augusztus)  
+- Ezek után mozgósították az egész honvédséget, haborúba küldték  
+- Az ország erőforrásait teljes mértékben németek rendelkezésére bocsájtották  
+	- A németek ekkor nem fizettek a kiszállított árúért  
+	- Fokozódott az ország kirablása  
+- A nagy rakás német botrány és a deportáltakkal történt szörnyűségek egyértelművé válása után  
+	- Horthy menesztette Sztójay Dömét (1944. Augusztus) és a szélsőjobboldali politikusok egy részét  
+	- Leállíttatta a zsidóság deportálását  
+		- Ekkorra a vidéki zsidóság elszállítása már szinte befejeződött  
+		- Budapesti zsidóság egyenlőre megmenekült  
+- A román átállás után (1944. Augusztus) megnőtt a lehetősége a magyar kiugrásnak is  
+	- A magyar vezetőknek is világossá vált, hogy az országnak minél gyorsabban ki kell lépnie a háborúból  
+	- A Vörös Hadsereg már betört a Kárpát-Medencébe  
+- Az Árpád-vonal tartotta magát, biztosította a Kárpátok előterében szétvert német egységek visszavonulását  
+	- Szerepe lecsökkent, mivel a szovjetek az átállt román királyi haderővel együtt átkelt a Déli-Kárpátok hágóin  
+	- Szeptemberre eljutottak az alföldre  
+	- A Magyar és Német csapatok megpróbálták útjukat állni Dél-Erdélyben (Sikertelen volt)  
+	- 1944. Október első napjai, nagyszámú harckocsival és rohamtüzérséggel Debrecen térségében ellentámadást kíséreltek meg  
+		- Átmenetileg eredményes volt, lehetőséget adott a visszavonulásra a Keleti-Kárpátokban állomásozó erőknek  
+		- A csata elhúzódott a hónap második feléig, de csak lassítani tudta a szovjeteket  
+- A kormányzó nehezen szánta el magát a tárgyalásra a szovjetekkel  
+	- Csak azután küldte el követeit Moszkvába (1944. Szeptember vége), hogy a nyugati szövetségesek jelezék, a "helyzet kulcsa" a szovjeteknél van  
+	- Molotov átadta a szovjet feltételeket, amelynek lényege az 1937-es határok visszaállítása és a németeknek szóló hadüzenet volt.  
+		- Horthy elfogadta  
+- A helyzetett rontotta, hogy a kormányzó nem számíthatott teljesen a honvédség tisztikarára  
+	- Jelentős részét németbarátnak vagy szélsőjobboldallal szimpazitánsnak tekintették  
+	- Kénytelen volt bevonni rokonait, akik nem értettek a szervezéshez  
+	- A németek a tervről tudomást szereztek, a végsőkig való kitartást hirdető nyilasokkal szimpatizáló tisztek pedig szabotáltak  
+	- A rosszul tervezett kiugrási kísérlet 1944. Október 15.-én gyorsan összeomlott  
+- A szélsőjobboldali tisztek és nácik tudatosan gyengítették a kormányzó befolyását  
+	- A hozzá hű egységeket szétszórták a fronton  
+	- Budapestre küldték Skorzenyt, egy SS tisztet  
+		- Gátlástalanul bevetett mindent, hogy megakadályozza a kiugrást  
+		- Elraboltatta a kiugrási kísérlet egyik kulcsfiguráját (BP-i Magyar királyi I. Honvédhadtest parancsnokát), majd Horthy fiát is  
+- A kiugrást Horthy a rádióban jelentette be, és a csapatok is csak innen értesültek erről  
+	- Nagy hibának számított, hogy a többek javaslata ellenére nem ment ki a Kárpátokban harcoló magyar királyi 1. honvédhadsereghez  
+		- A kormányzó jelenlétében feltehetően léptek volna  
+	- A kormányzó a Várban passzívan, a magyar hadseregtől elzárva várta a fejleményeket  
+	- A német erőket szabadon felhasználhatták ellenük, csak Miklós Béla (1. hadsereg parancsnoka) ment át a szovjetekhez, követte őt 20k magyar katona, akiket a szovjetek hadifogolyként kezelték  
+	- A kiugrási kísérlet 1 nap alatt elbukott  
+- Horthy idősebb fia még 42ben hősi halált halt a keleti fronton, most pedig másik fiát a németek elrabolták, és vele zsarolták Horthyt, aki megadta magát  
+	- Lemondott az államfői tisztségről, hosszas rábeszélés és burkolt fenyegetések hatására aláírta Szálasi Ferenc miniszterelnöki kinevezését, aki egyben az államfői jogok gyakorlója lett  
+	- Horthyt családjával együtt németországba vitték (1944. Október 17.)  
+## Nyilas rémuralom  
+- Horthy lemondása miatt az O.Gy. jóváhagyta, hogy Szálasi Ferenc a miniszterelnöki tisztség mellett az államfői teendőket is ellássa, nemzetvezető címmel  
+- A nemzetiszocialista kisebbség megszerezte a magyar államapparátust, a nyilasok ellenállás nélkül áldohatták fel az ország emberi és anyagi erőforrásait  
+- A nyilasok kísérletet tettek a budapesti zsidóság megsemmisítésére  
+	- Deportálni már nem volt mód  
+	- elhagyatott bányákban, téglagyárakban, a Duna-parton több ezer embert gyilkoltak le  
+	- Fokozódott a lakosság és egyházak ellenállása  
+		- Tízezreket bújtattak a városban  
+		- Megjelent egy kis létszámú zsidó ellenállási csoport is  
+		- Angelo Rotta pápai nuncius és Raoul Wallenberg svéd diplomata menlevelek kiadásával emberek ezreit mentették meg  
+		- Gyerekek ezteinek életét védte meg társaival Sztehlo Gábor evangélikus lelkész  
+		- A nyilasterror áldozatául esett a gyógyszergyárát munkatársain keresztül titokban irányító Richter Gedeon  
+			- Vagyona segítségével svájcba menekülhetett volna, de nem hagyta el hazáját  
+	- A nyilasok keményen felléptek minden ellenállással szemben  
+		- A nyilasok és a németek elleni fegyveres fellépés megszervezésére 1944. november elején megalakult a népfront jellegű Magyar Nemzeti Felkelés Felszabadító bízottsága  
+		- Vezetőjét, Bajcsy-Zsilinszky Endrét és a katonai vezetők közül többeket árulás miatt elfogták, egyeseket kivégeztek  
+- A nyilasok miatt az ország hadszíntérré vált, lakossága elszenvedte a harcok pusztításait és a katonák kegyetlenkedéseit  
+- A nyilas-hungarista hatalom alatt a honvédség a háború utolsó pillanatáig harcolt a németek oldalán  
+- A nyilasok kiszolgáltatták a háborúnak Budapestet is, közel 2 hónapos ostrommal foglalták el a szovjetek  
+	- Amikor a szovjetek körbezárták Budapestet, Hitler nem engedélyezte a kitörést -> egy hosszú, véres orstromra került sor  
+- A visszavonuló német hadsereg Székesfehérvár környékén sikertelen ellentámadást kísérelt meg (1945. Március)  
+- 1945. Április közepére a harcok véget értek Magyarországon, keleten már új hatalom szerveződött  
+## Szovjet megszállás  
+- Megszállás után a szovjet csapatok számolták fel a nemzetiszocialista és nyilasuralmat  
+- Nem a szabadság szándékával érkeztek, hanem a szovjet érdekszféra kiterjesztésének céljából  
+- A szovjet vezetés a nyugati szövetségesekre való tekintettel, és a kommunista pártok alacsony támogatottsága miatt a hatalomátvétel többéves folyamatként valósította meg  
+	- Kezdetben demokratikusnak álcázott intézkedésekkel valósította meg  
+	- Viszont a kezdetektől fogva kész helyzetet kívántak teremteni, amit  
+		- A szovjet haderő jelenzéte  
+		- Az állami erőszakszervezetek (rendőrség, belügyminisztérium) kommunista kézbe adásával biztosítottak  
+- A szovjet bűnök megtorlatlanul maradtak, nem lehetett róluk évtizedeken át beszélni  
