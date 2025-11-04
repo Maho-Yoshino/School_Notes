@@ -306,13 +306,14 @@
 - Szent-Györgyi Albert részvételével Isztambulban megkezdődtek a tárgyalások az angolokkal, majd előzetes fegyverszüneti egyezményt kötöttek (1943. szeptember-október)  
 	- Közben a kormány megtagadta Hitler kérését, hogy újabb seregeket küldjünk a frontra, majd Horthy kiállt emellett, és Kállay leváltását Hitler egyre jobban követelte  
 ## Német Megszállás  
-- "Margaréta hadművelet"  
+- "Margaréta hadművelet", 1944. Március 19.  
 	- Náci bábállam készítése Magyarországból  
 - Horthyt Berlinbe hívták  
 	- Együttműködést rendelt el, legalizálva a német megszállást  
 	- Így a nyugatnak még inkább ellenség lettünk  
 - Hazatérés után Horthynak el kellett fogadnia, hogy Edmund Veesenmayer (Hitler megbízottja) irányítsa az országot  
 - Korábbi berlini követet, Sztójay Dömét kellett kineveznie miniszterelnökké (1944. Március-Augusztus)  
+- Szabadságjogokat felfüggesztik  
 - Ezek után mozgósították az egész honvédséget, haborúba küldték  
 - Az ország erőforrásait teljes mértékben németek rendelkezésére bocsájtották  
 	- A németek ekkor nem fizettek a kiszállított árúért  
@@ -357,7 +358,7 @@
 	- Horthyt családjával együtt németországba vitték (1944. Október 17.)  
 ## Nyilas rémuralom  
 - Horthy lemondása miatt az O.Gy. jóváhagyta, hogy Szálasi Ferenc a miniszterelnöki tisztség mellett az államfői teendőket is ellássa, nemzetvezető címmel  
-- A nemzetiszocialista kisebbség megszerezte a magyar államapparátust, a nyilasok ellenállás nélkül áldohatták fel az ország emberi és anyagi erőforrásait  
+- A nemzetiszocialista kisebbség megszerezte a magyar államapparátust, a nyilasok ellenállás nélkül áldozhatták fel az ország emberi és anyagi erőforrásait  
 - A nyilasok kísérletet tettek a budapesti zsidóság megsemmisítésére  
 	- Deportálni már nem volt mód  
 	- elhagyatott bányákban, téglagyárakban, a Duna-parton több ezer embert gyilkoltak le  
@@ -365,7 +366,7 @@
 		- Tízezreket bújtattak a városban  
 		- Megjelent egy kis létszámú zsidó ellenállási csoport is  
 		- Angelo Rotta pápai nuncius és Raoul Wallenberg svéd diplomata menlevelek kiadásával emberek ezreit mentették meg  
-		- Gyerekek ezteinek életét védte meg társaival Sztehlo Gábor evangélikus lelkész  
+		- Gyerekek ezreinek életét védte meg társaival Sztehlo Gábor evangélikus lelkész  
 		- A nyilasterror áldozatául esett a gyógyszergyárát munkatársain keresztül titokban irányító Richter Gedeon  
 			- Vagyona segítségével svájcba menekülhetett volna, de nem hagyta el hazáját  
 	- A nyilasok keményen felléptek minden ellenállással szemben  
@@ -386,3 +387,4 @@
 		- A szovjet haderő jelenzéte  
 		- Az állami erőszakszervezetek (rendőrség, belügyminisztérium) kommunista kézbe adásával biztosítottak  
 - A szovjet bűnök megtorlatlanul maradtak, nem lehetett róluk évtizedeken át beszélni  
+# HF: Tételkidolgozás - WW2  

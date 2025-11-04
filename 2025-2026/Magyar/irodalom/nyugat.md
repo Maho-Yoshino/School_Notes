@@ -169,3 +169,35 @@
 	3. Erkölcsi kérdést vet föl a mű:  
 		- Miről kell szólnia a költőnek Európa jövőjét sejtve  
 		- "Vétkesek közt cinkos aki néma" -> A költőnek erkölcsi kötelessége felemelni a hangját a rossz ellen  
+2. Két különbség az ószövetséghez képest  
+	1.  
+	2.  
+3. Szerkezet  
+	1. Rímképlet: AABB (Páros rím)  
+#### Jónás Imája  
+## Kosztolányi Dezső  
+### Élete, pályája, Tk. 218-219.  
+1. A Nyugat első nemzedékének tagja, a Nyugat alapítója is egyben  
+2. Kiváló újságíró, költő, regény- és novellaíró, drámaíró és műfordító is  
+3. Szabadkán született (1885), meghalt 1936-ban, Budapesten  
+4. Polgárcsaládba született, apja gimnázium tanár  
+5. Egyetemi tanulmányok: Budapest, Magyar-Német szak  
+6. Pszcihológiai és filozófiai előadásokat hallgat Bécsben, Freud tanításait beépíti műveibe  
+7. Legendás barátság: Karinthy Frigyes  
+8. Újságírói tevékenysége:  
+	- Budapesti Napló  
+	- A Hét  
+	- Nyugat  
+9. Házassága Harmos Ilonával (1913), egy fiuk, K. Ádám  
+10. 1930, A Magyar PEN Klub elnökének választották  
+### Művei  
+1. Első verseskötete: Négy fal között; a szecesszió hatása érződik a kötetet -> művészeti irányzat a 19. századvégén, jellemző:  
+	- Növényi ornamentika  
+	- hullámozás  
+	- élénk színek	  
+2. Szegény kisgyermek panaszai  
+	- Megjelenik a lélektani ismeretek  
+3. Kenyér és bor c. kötete  
+	- Polgári értékek  
+	- pl.: boldog/szomorú dal  
+4. Meztelenül  
