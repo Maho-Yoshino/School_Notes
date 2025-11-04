@@ -388,3 +388,12 @@
 		- Az állami erőszakszervezetek (rendőrség, belügyminisztérium) kommunista kézbe adásával biztosítottak  
 - A szovjet bűnök megtorlatlanul maradtak, nem lehetett róluk évtizedeken át beszélni  
 # HF: Tételkidolgozás - WW2  
+# Dolgozat kérdések  
+- Teleki Pál 2. Miniszterelnöksége  
+- Hogyan léptünk be a háborúba? (Románok + Casus Belli)  
+- Milyen hadseregeket küldtünk keletre, Doni katasztrófa  
+- Kállay kiugrás kísérlete, Margaréta hadművelet  
+- Sztójay Döme  
+- Horthy kiugrási kísérlete  
+- Nyilas rémuralom, következménye  
+- Magyarország háborúból való kilépése  
