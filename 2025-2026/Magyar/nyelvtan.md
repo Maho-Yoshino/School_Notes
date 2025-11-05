@@ -12,7 +12,7 @@
 5. A szöveg (3)  
 6. Retorika (2)  
 7. Stílus és jelentése (3)  
-## 6. Tétel: Nyelvváltozatok  
+# 6. Tétel: Nyelvváltozatok  
 1. A magyar nyelvnek különböző rétegződései vannak, vagyis nyelvváltozatai. Két nagy csoportja van:  
 	1. Társadalmi ("függőleges") rétegei  
 		1. korok szerinti nyelvhasználat  
@@ -33,4 +33,34 @@
 			- Sok a tolvajnyelvből eredő szó  
 			- Csaj, pia, csóró, zsé, lóvé, zsaru  
 	2. A nyelv területi/földrajzi ("vízszintes") rétegei -> nyelvjárások (dialektusok)  
-		1. A magyar nyelvjárások I. (Kárpát-medence) (11.Tk. 93-97.)  
+		1. Nyelvjárás: A magyar nyelv változatai földrajzi területeket tekintve a Kárpát-medencében  
+		2. A XVII. századig sak nyelvjárásokról beszálhetünk, köznyelv még nem volt  
+		3. Csoportjai (térkép, 11.Tk. 93-97.)  
+			1. Nyugat-dunántúli  
+				- Vas megye  
+			2. Közép-dunántúli, Kisalföld  
+				- pl. Rábaköz/Győr  
+			3. Dél-dunántúl  
+				- Somogy, Baranya, Murvavidék  
+				- Mostan -> Mastan  
+			4. Dél-alföld (Szeged, Kecskemét)  
+				- Ő-zős nyelvhasználat (Ettem kenyeret meggyel -> öttem könyeret möggyel)  
+			5. Palóc nyelvjárás  
+				- Felvidék, Mátra, Nógrád  
+				- Á helyett rövid ă-t mondanak  
+					- Bălăton  
+					- măgă  
+				- é -> ë  
+					- Tërasz  
+			6. Tisza - Körösök vidéke  
+			7. Felső-Tisza vidéke  
+				- Bodrogköz, Debrecen  
+				- Északkeleti nyelvjárás (hivatalosan)  
+				- é helyett sokszor i  
+					- Szép -> Szíp  
+					- Volt -> vót (vaut)  
+					- Lesz -> Leszen  
+			8. Mezőségi nyelvjárás  
+				- Kolozsvár  
+			9. Székely nyelvjárás  
+			10. Csákók nyelvjárás (Gyimesek, Mordva)  
