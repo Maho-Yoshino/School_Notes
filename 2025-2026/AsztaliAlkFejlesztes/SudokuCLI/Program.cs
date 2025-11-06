@@ -67,10 +67,10 @@ namespace SudokuCLI
             Console.WriteLine($"3. feladat: Beolvasva {feladvanyok.Length} feladvány");
             // 4. Feladat
             int meret = TryInput<int>("\n4. feladat: Kérem a feladvány méretét [4..9]: ", x => x <= 9 && x >= 4);
-            Console.WriteLine($"{meret}x{meret} méretű feladványból {feladvanyok.Count(x => x.Kezdo.Length == meret*meret)} darab van tárolva");
+            Console.WriteLine($"{meret}x{meret} méretű feladványból {feladvanyok.Count(x => x.Meret == meret)} darab van tárolva");
             // 5. Feladat
             Random rnd = new Random();
-            Feladvany[] tmp = feladvanyok.Where(x => x.Kezdo.Length == meret * meret).ToArray();
+            Feladvany[] tmp = feladvanyok.Where(x => x.Meret == meret).ToArray();
             Feladvany rnd_fel = tmp[rnd.Next(0, tmp.Length)-1];
             Console.WriteLine($"\n5. feladat: A kiválasztott feladvány:\n{rnd_fel.Kezdo}");
             // 6. Feladat
@@ -79,8 +79,8 @@ namespace SudokuCLI
             Console.WriteLine("\n7. feladat: A feladvány kirajzolva:");
             rnd_fel.Kirajzol();
             // 8. Feladat
-            File.WriteAllLines($"sudoku{meret}.txt", feladvanyok.Where(x=> x.Kezdo.Length == meret*meret).ToList().ConvertAll(x=>x.Kezdo));
-            Console.WriteLine($"\n8. feladat: sudoku{meret}.txt állomány {feladvanyok.Count(x => x.Kezdo.Length == meret * meret)} darab feladvánnyal létrehozva");
+            File.WriteAllLines($"sudoku{meret}.txt", feladvanyok.Where(x=> x.Meret == meret).ToList().ConvertAll(x=>x.Kezdo));
+            Console.WriteLine($"\n8. feladat: sudoku{meret}.txt állomány {feladvanyok.Count(x => x.Meret == meret)} darab feladvánnyal létrehozva");
             Console.ReadKey();
         }
     }
