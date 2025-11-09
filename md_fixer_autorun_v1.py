@@ -1,4 +1,4 @@
-from os import chdir, path, getcwd
+from os import chdir, path
 from sys import argv, exit
 
 chdir(path.dirname(path.abspath(__file__)))
