@@ -43,7 +43,8 @@ namespace SudokuCLI
             {
                 try
                 {
-                    T[] tmp = new T[1] { (T)Convert.ChangeType(Input(text, "").Replace('.',','), typeof(T)) };
+                    Console.Write(text);
+                    T[] tmp = new T[1] { (T)Convert.ChangeType(Console.ReadLine().Replace('.',','), typeof(T)) };
                     if (tmp.Any(predicate))
                     {
                         return tmp[0];

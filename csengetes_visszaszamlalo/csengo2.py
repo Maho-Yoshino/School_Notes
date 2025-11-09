@@ -39,8 +39,8 @@ orarend = [
 	[None,	TOR, IRO, IRO, SZK, MAT, ANG, ANG], # Hétfő
 	[None, WEB2, SZK, ANG, MAT, ALL, TES, OFO], # Kedd
 	[None, TOR, MAT, TES, WEB, IKT, IKT, NYT], # Szerda
-	[ASZ, ASZ, MAT, IRO, SZT, SZT, IKT], # Csütörtök
-	[ANG, TES, TOR, IKT2, IKT2, ASZ], # Péntek
+	[ASZ, ASZ, MAT, IRO, SZT, TOR, IKT], # Csütörtök
+	[ANG, TES, SZT, IKT2, IKT2, ASZ], # Péntek
 ]
 csengetes:tuple[tuple[time, tuple[str,tuple,None]]]
 async def generate_csengetes(day:"special_day" = None):
