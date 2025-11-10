@@ -200,4 +200,23 @@
 3. Kenyér és bor c. kötete  
 	- Polgári értékek  
 	- pl.: boldog/szomorú dal  
-4. Meztelenül  
+4. Meztelenül (1928)  
+5. Számadás (1935)  
+### Regényei  
+- Főleg Lélektani regények  
+- Pl.  
+	1. Néró a véres költő (1921)  
+	2. Pacsirta (1924)  
+	3. Aranysárkány (1925)  
+	4. Édes Anna (1926)  
+- Novellás kötetei is erős lélektani jellegűek  
+	- Tengerszem (1936)  
+	- Esti Kornél (1933)  
+### Versek  
+- Szegény kis gyermek panaszai c. kötet  
+	- Mint aki a sínek közé esett (Szgy. 274.o.)  
+	- Azon az éjjel (Szgy. 274. o.)  
+		- Nagyapja halálához kapcsolódik  
+- Boldog, szomorú dal (Szgy. 276.o.)  
+- Őszi reggeli (1929)  
+- Halotti beszéd (1933, Szgy. 277.o.)  

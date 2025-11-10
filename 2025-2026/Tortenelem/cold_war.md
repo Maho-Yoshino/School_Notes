@@ -5,6 +5,12 @@
 	- Szovjet irányítású  
 	- Minden "szabadított" területen létrejött  
 - A szuverinitást elvesztő államokban a hatalom az ő kezükbe került	  
+- Jogai  
+	- Pártok szabályozása  
+	- Ellenőrizhette a pártok működését  
+	- Állampolgárokat letartóztathattak  
+	- Törvényeket eltörölni, elfogadtatni  
+	- Miniszteri pozíciók kiosztása  
 ## Mivel biztosítják a kommunisták hatalmát?  
 - A nemzetiszocialista és nyilasuradalmat felszámolták a SZEB segítségével  
 - Eleinte demokratikusnak kinéző folyamattal, több éves program  
@@ -27,6 +33,7 @@
 ## Felépülése  
 ![Az ENSZ felépülése](media/ensz.png)  
 ### Biztonsági tanács  
+- Röviden BT  
 - A lényeges kérdések itt dőlnek el  
 - 7 igen szavazat kell  
 - Öt állandó + 6 évente változó  
@@ -45,13 +52,36 @@
 	- a Biztonsági Tanács tagjainak száma tizenötre emelkedett  
 	- Nem jelentett lényegi változást a tanács múködésében  
 ## Védnökség alatti szakirányú szervezetek  
-- Példák  
-	- UNESCO - Oktatás  
+- Példák (tudni kell)  
+	- UNESCO - Oktatás és kultúra  
 	- FAO - Élelmezés és mezőgazdaság  
 	- WHO - Egészségügy  
 	- IMF - Nemzetközi valutaalap  
 - Egyeztetnek a problémák megoldásában  
 - Közbelépnek katasztrófáknál  
+## Békefenntartók  
+## Nemzetközi bíróság  
+- Hága  
+- ENSZ pereli az embereket itt  
+	- Legtöbbször háborús bűncselekményeket, vagy emberi jogok megszegéséért  
+## Közgyűlés  
+- Évente ülésezik  
+- Minden tagállam részt vesz  
+- Minden államnak 1 szavazat  
+	- Fontos kérdésekben 2/3os többség  
+	- Egyébként egyszerű  
+## Bretton Woods-i konferencia  
+- 1944 nyara  
+- 44 ország képviselésével  
+- A világ döntő pénzügyeire ekkor döntő mértékben volt hatással az USA, ők irányították az eseményeket  
+- A jövő világában a szabadkereskedelmet biztosították, és ennek pénzügyi alapjait meg kívánták teremteni  
+- Az egyezmény aláírói vállalták, hogy  
+	- Egyeztetik pénzügyi politikájuk  
+	- valutájuk átváltási arányait az aranyhoz mérve rögzítik, csak kis mértékben térhetnek el (1%)  
+- Közvetítő valutává vált a dollár  
+- Létrehozták a nehézségek "áthidalására" a Nemzetközi Újjáépítési és Fejlesztési Bankot (Világbank) és Nemzeti Valutaalapot (IMF)  
+# A Bipoláris (kétpólusú) világ kialakulása  
+- WW2 után 2db szuperhatalom emelkedik ki  
 ## Szuperhatalmak létrejötte  
 ### Az Egyesült kiráyság  
 - Gazdaságuk teljesen megrendült, eladósodott az USA felé  
@@ -65,19 +95,19 @@
 - A háború indította meg a gazdasági világválság utáni valódi fellendülést  
 - Az atombomba birtoklásával egyértelműen a föld vezető nagyhatalma lett  
 ### Szovjetunió  
-- Óriási veszteségek  
+- Óriási veszteségek WW2-ben  
 - A 12 milliós hadseregük miatt a második nagyhatalommá emelkedett  
 - Ezennel kétpúlusú lett a világ  
 	- Az USA és SzU kiemelkedett  
 	- Csak ők tudták előteremteni békében is a hadseregfejlesztéshez szükséges összegeket  
 	- A jövőben a két szuperhatalom állása döntött a jelentős kérdésekben  
-## Bretton Woods-i konferencia  
-- 1944 nyara  
-- 44 ország képviselésével  
-- A világ döntő pénzügyeire ekkor döntő mértékben volt hatással az USA, ők irányították az eseményeket  
-- A jövő világában a szabadkereskedelmet biztosították, és ennek pénzügyi alapjait meg kívánták teremteni  
-- Az egyezmény aláírói vállalták, hogy  
-	- Egyeztetik pénzügyi politikájuk  
-	- valutájuk átváltási arányait az aranyhoz mérve rögzítik, csak kis mértékben térhetnek el (1%)  
-- Közvetítő valutává vált a dollár  
-- Létrehozták a nehézségek "áthidalására" a Nemzetközi Újjáépítési és Fejlesztési Bankot (Világbank) és Nemzeti Valutaalapot (IMF)  
+# Churchill Fultoni beszéde (1946)  
+- Nem volt eddigre Churchill hivatalban, szabadabban fogalmazhatott  
+- Vázolta  
+	- A folyamatos szovjet előretörést  
+	- A köztes-európa szovjetizálását  
+	- A szovjezek által megszállt országokat elzáró vasfüggöny kialakulását  
+- Kijelentette, hogy amennyire lehet kerülni kell a háborút, ehhez fegyverkezni kell, mert a szovjeteket csak az elrettentő erő fogja megállítani  
+- Sztálin nyíltan reagált  
+- Sokan innen számítják a hidegháború kezdetét  
+# HF: 268-271. o. jegyzet  
