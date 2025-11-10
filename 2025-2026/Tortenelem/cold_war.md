@@ -110,4 +110,42 @@
 - Kijelentette, hogy amennyire lehet kerülni kell a háborút, ehhez fegyverkezni kell, mert a szovjeteket csak az elrettentő erő fogja megállítani  
 - Sztálin nyíltan reagált  
 - Sokan innen számítják a hidegháború kezdetét  
-# HF: 268-271. o. jegyzet  
+# Feltartóztatási politika  
+- 1946 után felgyorsultak az események
+- 1947 - Truman megfogalmazta az USA külpolitika irányait és a feltartóztatási politika alapjait
+- A szovjetek 1947es előretöréseit tudomásul vették, de parancsolták a megállást, nem tűrtek el több területnyerést
+- Fokozták az USA katonai jelenlétét
+- Támogatták a polgári erőket a veszélyeztetett harcokban
+- Fontos volt a szovjet behatolás által veszélyeztetett államokat támogatni, hogy visszaszorítsák a nyomort
+## Marshall terv
+- Fontos eleme volt a feltartóztatási politikának
+- Segélyprogram
+- A kommunista veszélyt felidéző nyugat-európai nyomort akarta felszámolni
+- Működőképessé kívánta tenni a térség gazdaságát
+- Biztosítani akarta az amerikai áruk piacát, az USA gazdaságának is fenntartását
+- Feltételekhez kötötték
+	- Az európai feleknek együtt kell működni, meg kell nyitniuk a piacukat egymás felé
+- A szovjetek ettől távol tartották magukat
+	- Nem voltak hajlandóak együttműködésre, az USA befolyás erősödését látta benne
+	- A szovjet befolyás alá került kelet-európai államokat is erre kényszerítette
+	- A Csehszlovákok eleinte elfogadták, de Sztálin nyomására visszahátráltak
+# Párizsi béke
+- A vesztes országok fegyverszüneti egyezményeikben elismerték a győztesek akaratát
+	- Erre példa: SZEB korlátozta a szuverinitást
+- Németországgal nem is kötöttek békét
+- A többi vesztessel (Bulgária, Finnország, Olaszország, Magyarország, Románia) 1947 februárjában, Párizsban megkötötték
+- A béke nem tartalmazta a Németországtól elcsatolt területek kérdését
+- A vesztes országoknak nagyrészt az 1937es határokat visszaállították
+	- Bulgária megtarthatta Dél-Dobrudzsát, de elvesztette Kelet-Trákiát (Görög terület lett)
+	- Románia visszakapta Erdélyt tőlünk, de elvesztette Besszarábiát
+	- Olaszország kénytelen volt átadni a dalmáciai területeit (Isztria, Spalato, Zára, Fiume) Jugoszláviának
+## A Németkérdés
+- Németországnak nem volt ilyenkor politikai szervezete (nácik kisajátították)
+- Németországot 4 megszállási övezetre osztották
+	- Szovjet
+	- Brit
+	- Amerikai
+	- Francia
+- Nem egyezett a felosztás a megszállások alatt tartott területekkel
+- Berlint kiemelték, azt is 4 részre osztották
+- Ausztria esetében ugyan ez történt
