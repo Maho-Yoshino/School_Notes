@@ -111,41 +111,76 @@
 - Sztálin nyíltan reagált  
 - Sokan innen számítják a hidegháború kezdetét  
 # Feltartóztatási politika  
-- 1946 után felgyorsultak az események
-- 1947 - Truman megfogalmazta az USA külpolitika irányait és a feltartóztatási politika alapjait
-- A szovjetek 1947es előretöréseit tudomásul vették, de parancsolták a megállást, nem tűrtek el több területnyerést
-- Fokozták az USA katonai jelenlétét
-- Támogatták a polgári erőket a veszélyeztetett harcokban
-- Fontos volt a szovjet behatolás által veszélyeztetett államokat támogatni, hogy visszaszorítsák a nyomort
-## Marshall terv
-- Fontos eleme volt a feltartóztatási politikának
-- Segélyprogram
-- A kommunista veszélyt felidéző nyugat-európai nyomort akarta felszámolni
-- Működőképessé kívánta tenni a térség gazdaságát
-- Biztosítani akarta az amerikai áruk piacát, az USA gazdaságának is fenntartását
-- Feltételekhez kötötték
-	- Az európai feleknek együtt kell működni, meg kell nyitniuk a piacukat egymás felé
-- A szovjetek ettől távol tartották magukat
-	- Nem voltak hajlandóak együttműködésre, az USA befolyás erősödését látta benne
-	- A szovjet befolyás alá került kelet-európai államokat is erre kényszerítette
-	- A Csehszlovákok eleinte elfogadták, de Sztálin nyomására visszahátráltak
-# Párizsi béke
-- A vesztes országok fegyverszüneti egyezményeikben elismerték a győztesek akaratát
-	- Erre példa: SZEB korlátozta a szuverinitást
-- Németországgal nem is kötöttek békét
-- A többi vesztessel (Bulgária, Finnország, Olaszország, Magyarország, Románia) 1947 februárjában, Párizsban megkötötték
-- A béke nem tartalmazta a Németországtól elcsatolt területek kérdését
-- A vesztes országoknak nagyrészt az 1937es határokat visszaállították
-	- Bulgária megtarthatta Dél-Dobrudzsát, de elvesztette Kelet-Trákiát (Görög terület lett)
-	- Románia visszakapta Erdélyt tőlünk, de elvesztette Besszarábiát
-	- Olaszország kénytelen volt átadni a dalmáciai területeit (Isztria, Spalato, Zára, Fiume) Jugoszláviának
-## A Németkérdés
-- Németországnak nem volt ilyenkor politikai szervezete (nácik kisajátították)
-- Németországot 4 megszállási övezetre osztották
-	- Szovjet
-	- Brit
-	- Amerikai
-	- Francia
-- Nem egyezett a felosztás a megszállások alatt tartott területekkel
-- Berlint kiemelték, azt is 4 részre osztották
-- Ausztria esetében ugyan ez történt
+- 1946 után felgyorsultak az események  
+- 1947 - Truman megfogalmazta az USA külpolitika irányait és a feltartóztatási politika alapjait  
+- A szovjetek 1947es előretöréseit tudomásul vették, de parancsolták a megállást, nem tűrtek el több területnyerést  
+- Fokozták az USA katonai jelenlétét  
+- Támogatták a polgári erőket a veszélyeztetett harcokban  
+- Fontos volt a szovjet behatolás által veszélyeztetett államokat támogatni, hogy visszaszorítsák a nyomort  
+## Marshall terv  
+- Fontos eleme volt a feltartóztatási politikának  
+- Segélyprogram  
+- A kommunista veszélyt felidéző nyugat-európai nyomort akarta felszámolni  
+- Működőképessé kívánta tenni a térség gazdaságát  
+- Biztosítani akarta az amerikai áruk piacát, az USA gazdaságának is fenntartását  
+- Feltételekhez kötötték  
+	- Az európai feleknek együtt kell működni, meg kell nyitniuk a piacukat egymás felé  
+- A szovjetek ettől távol tartották magukat  
+	- Nem voltak hajlandóak együttműködésre, az USA befolyás erősödését látta benne  
+	- A szovjet befolyás alá került kelet-európai államokat is erre kényszerítette  
+	- A Csehszlovákok eleinte elfogadták, de Sztálin nyomására visszahátráltak  
+# Párizsi béke  
+- A vesztes országok fegyverszüneti egyezményeikben elismerték a győztesek akaratát  
+	- Erre példa: SZEB korlátozta a szuverinitást  
+- Németországgal nem is kötöttek békét  
+- A többi vesztessel (Bulgária, Finnország, Olaszország, Magyarország, Románia) 1947 februárjában, Párizsban megkötötték  
+- A béke nem tartalmazta a Németországtól elcsatolt területek kérdését  
+- A vesztes országoknak nagyrészt az 1937es határokat visszaállították  
+	- Bulgária megtarthatta Dél-Dobrudzsát, de elvesztette Kelet-Trákiát (Görög terület lett)  
+	- Románia visszakapta Erdélyt tőlünk, de elvesztette Besszarábiát  
+	- Olaszország kénytelen volt átadni a dalmáciai területeit (Isztria, Spalato, Zára, Fiume) Jugoszláviának  
+- Jóvátételi terheket megbeszélték  
+## A Németkérdés  
+- 10 millió német kitelepítése  
+- Németországnak nem volt ilyenkor politikai szervezete (nácik kisajátították)  
+- Németországot 4 megszállási övezetre osztották  
+	- Szovjet  
+	- Brit  
+	- Amerikai  
+	- Francia  
+- Nem egyezett a felosztás a megszállások alatt tartott területekkel  
+- Berlint kiemelték, azt is 4 részre osztották  
+- Ausztria esetében ugyan ez történt  
+# Berlini blokkád  
+- 1948 Június - 1949 Május  
+- Mindenben hiányt szenvedtek a berliniek  
+- Elzárták a forgalmat  
+- A Nyugat Légi-hidat hozott létre az áruk szállítására  
+# A 2 német állam  
+- Két állam jött létre:  
+	- NSZK  
+		- Nyugat-Németország  
+		- Német Szövetségi Köztársaság  
+		- Demokrácia  
+		- Konrad Adenauer  
+			- Francia-Német békélést sürgetett  
+			- Aláírta a Schuman tervet  
+				- Francia-Német gazdasági együttműködés  
+	- NDK  
+		- Kelet-Németország  
+		- Német Demokratikus Köztársaság  
+		- Szovjetek által támogatott diktatórikus rendszer  
+- NDK -> NSzK  
+	- Berlinen keresztül  
+	- A szovjetek ezt nem akarták -> Berlini fal megépítéséről döntöttek (1961)  
+- 1949 Május  
+# NATO  
+- Észak-atlanti Szerződés Szervezete  
+- Katonai Szervezet  
+- 1949, San Francisco  
+# HF: Miért "Hideg" háború a megnevezés?  
+- A szuperhatalmak között nem volt  
+# HF: Feltartóztatási politika működését bizonyítani (Koreai háború, Vietnam, Kubai rakétaválság)  
+# HF: Mi az a McArthizmus?  
+# HF: Mi az a Varsói szerződés?  
+# HF: Mi az a KGST? (Lehet netről kell)  

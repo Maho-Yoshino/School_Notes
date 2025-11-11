@@ -61,6 +61,7 @@
 - Metoikosz (Polgárjog nélküli bevándorlók)  
 - Polgárok családja  
 - Polgárok (Démosz és arisztokrácia)  
+# Károly Róbert  
 # Nagy földrajzi feldezések  
 ## I. Előzmények  
 - Portugál hajósok már fedeztek fel  

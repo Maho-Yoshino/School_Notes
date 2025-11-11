@@ -63,4 +63,4 @@
 			8. Mezőségi nyelvjárás  
 				- Kolozsvár  
 			9. Székely nyelvjárás  
-			10. Csákók nyelvjárás (Gyimesek, Mordva)  
+			10. Csángók nyelvjárás (Gyimesek, Mordva)  
