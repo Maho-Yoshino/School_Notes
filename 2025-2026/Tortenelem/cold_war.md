@@ -115,7 +115,7 @@
 - 1947 - Truman megfogalmazta az USA külpolitika irányait és a feltartóztatási politika alapjait  
 - A szovjetek 1947es előretöréseit tudomásul vették, de parancsolták a megállást, nem tűrtek el több területnyerést  
 - Fokozták az USA katonai jelenlétét  
-- Támogatták a polgári erőket a veszélyeztetett harcokban  
+- Támogatták a polgári erőket a veszélyeztetett országokban  
 - Fontos volt a szovjet behatolás által veszélyeztetett államokat támogatni, hogy visszaszorítsák a nyomort  
 ## Marshall terv  
 - Fontos eleme volt a feltartóztatási politikának  
@@ -178,85 +178,88 @@
 - Észak-atlanti Szerződés Szervezete  
 - Katonai Szervezet  
 - 1949, San Francisco  
-# HF: Miért "Hideg" háború a megnevezés?  
+# Miért "Hideg" háború a megnevezés?  
 - A szuperhatalmak között nem volt közvetlen háború  
 # Feltartóztatási politika működésének bizonyítása  
-## Koreai háború
-- Sztálin terjeszkedni akart
-- Sztálin állította, hogy közel álltak a WW3-hoz
-- A legközelebb a WW3hoz a Koreai konfliktus alatt voltak
-- A Japánok kiűzése után (1945) az Amerikai és Szovjet megszállást követően 2 korea jött létre:
-	- Kommunisták északon
-	- Kapitalisták délen
-- 1950 - Sztálin és Mao Ce-tung jóváhagyásával a felfegyverkezett északi kommunista hadsereg váratlanul megtámadta dél koreát, majdnem az egész országot elfoglalták
-- Az USA azonban kihasználta az ENSZ felhatalmazást, 1950 végén már a kínai határ végén folytak a harcok
-	- Sztálin kérésére a kínaiak "önkéntesekként" beléptek a harcokba, visszaszorították az ENSZ erőket
-- Végül nem volt béke, csak fegyverszünet (1953), ami ma is érvényben van
-## Vietnám
-- 1945, Vietnám
-- Vietnámban kommunista partizánok Ho Si Minh (felvett név, "felvilágosult") vezetésével kijelentették északon, Hanoiban a függetlenséget
-- A franciák nem ismerték el függetlenségüket, csapatokat küldtek a terület visszaszerzésére -> Indokínai háború kezdete
-- A francia lakosság nem akart se emberi, se anyagi veszteségeket
-	- A franciák csak amerikai pénzügyi támogatásokkal és fegyverszállításokkal bírták a harcot
-- 1954-es vereség után tárgyalóasztalhoz ültek a franciák
-- Genf, 1954
-	- Vietnámot ketté osztották
-		- Északi, Kommunista állam
-		- Déli, Kapitalista állam
-	- A kommunisták evvel nem értettek egyet, tovább folytatódtak a harcok
-- A kommunisták visszafoglalását a Szovjetek és kínaiak támogatták
-- Az USA a déli rész függetlenségéért küzdött, amit az észak nem akart
-- 1972 - Az Amerikai és észak-vietnámi küldöttség a dél-vietnámi küldöttség tudta nélkül megállapodott
-	- Az USA már eldöntötte 1968-ban, hogy kivonul a területről, a legkisebb presztízsvesztéssel ha lehet
-	- Kivonult az USA az 1973-ban harcoló erőivel az országból
-	- A Dél-Vietnám rezsimet továbbra is óriási katonai-anyagi támogatásban részesítette
-- Ennek ellenére dél-vietnám ereje megtört, az északiak a békeszerződést megszegve megtámadták dél-vietnámot, elfoglalták Saigont (később Ho Si Minh-város)
-- Egyesült a két ország 1976-ban Vietnámi Szocialista Köztársaság néven
-## Kubai rakétaválság
-- 1962, Kuba
-- Kubában forradalom
-	- nyomor és az amerikaiakat kiszolgáló diktatúra ellen felléptek
-	- Fidel Castro vezetésével
-	- Győztek (1959)
-- A szovjetek támogatták Castro rendszerét, az egyre inkább kommunista jelleget öltött
-- Az USA a kubai emigránsokat akarta használni a Castro rendszer megdöntésére
-	- A szovjetunió válaszul atomrakétákat telepített Kubába, 1962-ben
-	- Az USA válaszul blokád alá tette Kubát
-- A két vezetőnek kompromisszumot kellett kötni
-	- A szovjetek kivonták a rakétát kubából
-	- Az USA lemondott Kuba lerohanásáról
-- Ezután rövidesen leszerelte az USA a törökországi atomrakétáikat is
-# HF: Mi az a McCarthyzmus?  
-- Az USA-ban megjelent az ellenségeskedés, McCarthy szenátor a kommunista és baloldali értelmiség ellen lépett fel
-- Az embereknek maguknak kellett bizonyítani az ártatlanságukat
-- A mccarthyzmus sok ember életét ellehetetlenítette
-- A polgári demokrácia vissza tudta szorítani
-# HF: Mi az a Varsói szerződés?  
-- 1955, Varsó
-- Az NSzK felvétele Hruscsovot (Sztálin halála utáni szovjet vezető) egy szocialista NATO készítésére erőltette
-- A szovjetunió csatlós államait tartalmazó katonai tömb
-# HF: Mi az a KGST? (Lehet netről kell)  
-- Kölcsönös Gazdasági Segítség Tanácsa
-- 1949. Január 25., Moszkva
-- Tagjai
-	- Szovjetunió
-	- Bulgária
-	- Csehszlovákia
-	- Lengyelország
-	- Magyarország
-	- Románia
-	- Albánia (1949, 1961 Felfüggesztette tagságát, 1987 - Kiléptek)
-	- NDK (1950)
-	- Mongólia (1962)
-	- Kuba (1972)
-	- Vietnámi Demokratikus Köztársaság (1978)
-	- Jugoszlávia
-- Feladatul tűzte ki 
-	- A szocialista országok közti gazdasági együttműködés erősítését
-	- A gyengébb tagállamok felzárkóztatást (Munkamegosztás, specializálódás)
-		- Magyarország - autóbuszok gyártására szakosodás
-			- Az Ikarusz így jutott mindenhova a szocialista világban
-		- Csehszlovákia - a Tatra villamosok gyártására szakosodás
-		- NDK - halfeldolgozó halászhajók
-		- Bulgária - Ipari Targoncákra szakosodás
-- Fennállása alatt magyarországon és csehszlovákiában volt a legnagyobb az egy főre jutó GDP
+## Koreai háború  
+- Sztálin terjeszkedni akart  
+- Sztálin állította, hogy közel álltak a WW3-hoz  
+- A legközelebb a WW3hoz a Koreai konfliktus alatt voltak  
+- A Japánok kiűzése után (1945) az Amerikai és Szovjet megszállást követően 2 korea jött létre:  
+	- Kommunisták északon  
+	- Kapitalisták délen  
+- 1950 - Sztálin és Mao Ce-tung jóváhagyásával a felfegyverkezett északi kommunista hadsereg váratlanul megtámadta dél koreát, majdnem az egész országot elfoglalták  
+- Az USA azonban kihasználta az ENSZ felhatalmazást, 1950 végén már a kínai határ végén folytak a harcok  
+	- Sztálin kérésére a kínaiak "önkéntesekként" beléptek a harcokba, visszaszorították az ENSZ erőket  
+- Végül nem volt béke, csak fegyverszünet (1953), ami ma is érvényben van  
+## Vietnám  
+- 1945, Vietnám  
+- Vietnámban kommunista partizánok Ho Si Minh (felvett név, "felvilágosult") vezetésével kijelentették északon, Hanoiban a függetlenséget  
+- A franciák nem ismerték el függetlenségüket, csapatokat küldtek a terület visszaszerzésére -> Indokínai háború kezdete  
+- A francia lakosság nem akart se emberi, se anyagi veszteségeket  
+	- A franciák csak amerikai pénzügyi támogatásokkal és fegyverszállításokkal bírták a harcot  
+- 1954-es vereség után tárgyalóasztalhoz ültek a franciák  
+- Genf, 1954  
+	- Vietnámot ketté osztották  
+		- Északi, Kommunista állam  
+		- Déli, Kapitalista állam  
+	- A kommunisták evvel nem értettek egyet, tovább folytatódtak a harcok  
+- A kommunisták visszafoglalását a Szovjetek és kínaiak támogatták  
+- Az USA a déli rész függetlenségéért küzdött, amit az észak nem akart  
+- 1972 - Az Amerikai és észak-vietnámi küldöttség a dél-vietnámi küldöttség tudta nélkül megállapodott  
+	- Az USA már eldöntötte 1968-ban, hogy kivonul a területről, a legkisebb presztízsvesztéssel ha lehet  
+	- Kivonult az USA az 1973-ban harcoló erőivel az országból  
+	- A Dél-Vietnám rezsimet továbbra is óriási katonai-anyagi támogatásban részesítette  
+- Ennek ellenére dél-vietnám ereje megtört, az északiak a békeszerződést megszegve megtámadták dél-vietnámot, elfoglalták Saigont (később Ho Si Minh-város)  
+- Egyesült a két ország 1976-ban Vietnámi Szocialista Köztársaság néven  
+## Kubai rakétaválság  
+- 1962, Kuba  
+- Kubában forradalom  
+	- nyomor és az amerikaiakat kiszolgáló diktatúra ellen felléptek  
+	- Fidel Castro vezetésével  
+	- Győztek (1959)  
+- A szovjetek támogatták Castro rendszerét, az egyre inkább kommunista jelleget öltött  
+- Az USA a kubai emigránsokat akarta használni a Castro rendszer megdöntésére  
+	- A szovjetunió válaszul atomrakétákat telepített Kubába, 1962-ben  
+	- Az USA válaszul blokád alá tette Kubát  
+- A két vezetőnek kompromisszumot kellett kötni  
+	- A szovjetek kivonták a rakétát kubából  
+	- Az USA lemondott Kuba lerohanásáról  
+- Ezután rövidesen leszerelte az USA a törökországi atomrakétáikat is  
+- Létrejött a "forródrót"  
+## Afganisztán  
+- Meg kéne csinálni  
+# Mi az a McCarthyzmus?  
+- Az USA-ban megjelent az ellenségeskedés, McCarthy szenátor a kommunista és baloldali értelmiség ellen lépett fel  
+- Az embereknek maguknak kellett bizonyítani az ártatlanságukat  
+- A mccarthyzmus sok ember életét ellehetetlenítette  
+- A polgári demokrácia vissza tudta szorítani  
+# Mi az a Varsói szerződés?  
+- 1955, Varsó  
+- Az NSzK felvétele a NATOba Hruscsovot (Sztálin halála utáni szovjet vezető) egy szocialista NATO készítésére erőltette  
+- A szovjetunió csatlós államait tartalmazó katonai tömb  
+# Mi az a KGST?  
+- Kölcsönös Gazdasági Segítség Tanácsa  
+- 1949. Január 25., Moszkva  
+- Tagjai  
+	- Szovjetunió  
+	- Bulgária  
+	- Csehszlovákia  
+	- Lengyelország  
+	- Magyarország  
+	- Románia  
+	- Albánia (1949, 1961 Felfüggesztette tagságát, 1987 - Kiléptek)  
+	- NDK (1950)  
+	- Mongólia (1962)  
+	- Kuba (1972)  
+	- Vietnámi Demokratikus Köztársaság (1978)  
+	- Jugoszlávia  
+- Feladatul tűzte ki  
+	- A szocialista országok közti gazdasági együttműködés erősítését  
+	- A gyengébb tagállamok felzárkóztatást (Munkamegosztás, specializálódás)  
+		- Magyarország - autóbuszok gyártására szakosodás  
+			- Az Ikarusz így jutott mindenhova a szocialista világban  
+		- Csehszlovákia - a Tatra villamosok gyártására szakosodás  
+		- NDK - halfeldolgozó halászhajók  
+		- Bulgária - Ipari Targoncákra szakosodás  
+- Fennállása alatt magyarországon és csehszlovákiában volt a legnagyobb az egy főre jutó GDP  

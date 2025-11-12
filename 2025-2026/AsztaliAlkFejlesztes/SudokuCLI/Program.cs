@@ -71,11 +71,11 @@ namespace SudokuCLI
             Console.WriteLine($"{meret}x{meret} méretű feladványból {feladvanyok.Count(x => x.Meret == meret)} darab van tárolva");
             // 5. Feladat
             Random rnd = new Random();
-            Feladvany[] tmp = feladvanyok.Where(x => x.Meret == meret).ToArray();
+            Feladvany[] tmp = feladvanyok.Where(x => x.Meret == meret).DefaultIfEmpty(feladvanyok.First(x => x.Meret == meret)).ToArray();
             Feladvany rnd_fel = tmp[rnd.Next(0, tmp.Length)-1];
             Console.WriteLine($"\n5. feladat: A kiválasztott feladvány:\n{rnd_fel.Kezdo}");
             // 6. Feladat
-            Console.WriteLine($"\n6. feladat: A feladvány kitöltöttsége: {Math.Round(((rnd_fel.Kezdo.Length-rnd_fel.Kezdo.Count(x=>x=='0'))/Convert.ToDouble(rnd_fel.Kezdo.Length))*100)}%");
+            Console.WriteLine($"\n6. feladat: A feladvány kitöltöttsége: {Math.Round((rnd_fel.Kezdo.Length-rnd_fel.Kezdo.Count(x=>x=='0'))/Convert.ToDouble(rnd_fel.Kezdo.Length)*100, 0)}%");
             // 7. Feladat
             Console.WriteLine("\n7. feladat: A feladvány kirajzolva:");
             rnd_fel.Kirajzol();
