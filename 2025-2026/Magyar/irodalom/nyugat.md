@@ -220,3 +220,17 @@
 - Boldog, szomorú dal (Szgy. 276.o.)  
 - Őszi reggeli (1929)  
 - Halotti beszéd (1933, Szgy. 277.o.)  
+## Novellaművészete  
+### Bevezetés (Tk. 236. o.)  
+- "Kosztolányi Novellisztikája"  
+- Fő jellemzői: a lélektaniság  
+	- pszichológiai tanulmányait építette bele műveibe  
+	- pl. Freud (Osztrák pszichológus) felfedezéseit  
+		- A tudatalatti szerepéről  
+		- Az ösztönök szerepéről  
+		- A szexualitás szerepéről  
+	- Novelláinak jelentős hatása van az évszázad 2. felének íróira  
+### Esti Kornél kötet (Tk. 239. o.)  
+- 1933  
+- A főhős az író alter egója (Személyiségének bizonyos oldalát formálja)  
+#### 18. fejezet: Egy közönséges villamos utazás (Szgy. 290. o.)  

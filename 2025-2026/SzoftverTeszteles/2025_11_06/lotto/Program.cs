@@ -5,27 +5,6 @@ namespace lotto
 {
     internal class Program
     {
-        public static T TryInput<T>(string text, Func<T, bool> predicate)
-        {
-            static bool NoFilter<G>(G item) => true;
-            predicate = predicate == null ? NoFilter : predicate;
-            while (true)
-            {
-                try
-                {
-                    Console.Write(text);
-                    T[] tmp = new T[1] { (T)Convert.ChangeType((Console.ReadLine() ?? "").Replace('.', ','), typeof(T)) };
-                    if (tmp.Any(predicate))
-                    {
-                        return tmp[0];
-                    }
-                }
-                catch
-                {
-                    continue;
-                }
-            }
-        }
         public static void Main(string[] args)
         {
             Random rnd = new Random();
@@ -34,17 +13,39 @@ namespace lotto
             byte i;
             for (i=0; i < 5; i++)
             {
-                usedNumbers[i] = TryInput<byte>($"Adja meg a {i+1}. számot: ", x=>x>=1&&x<=90);
+                byte num = 91;
+                do
+                {
+                    Console.Write($"Adja meg a {i + 1}. számot: ");
+                    try
+                    {
+                        num = byte.Parse(Console.ReadLine() ?? "");
+                    }
+                    catch
+                    {
+                        Console.WriteLine("A megadott adat nem egész szám (vagy túl nagy)");
+                    }
+                    if (num < 1 || num > 90)
+                    {
+                        Console.WriteLine("A megadott szám nem felel meg a feltételeknek ([1..90] intervallum)");
+                    }
+                    else if (usedNumbers.Contains(num))
+                    {
+                        Console.WriteLine("A megadott szám nem felel meg a feltételeknek (Különböző számok)");
+                    }
+                    else
+                    {
+                        usedNumbers[i] = num;
+                    }
+                }
+                while (num < 1 && num > 90 && !usedNumbers.Contains(num));
             }
             for (i=0; i<5;i++)
             {
                 do
                 {
-                    byte rnd_num = Convert.ToByte(rnd.Next(1, 90));
-                    if (winningNumbers.Contains(rnd_num))
-                    {
-                        continue;
-                    }
+                    byte rnd_num = Convert.ToByte(rnd.Next(1, 91));
+                    if (winningNumbers.Contains(rnd_num)) {continue;}
                     winningNumbers[i] = rnd_num;
                     i++;
                 }

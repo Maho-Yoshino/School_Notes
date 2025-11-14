@@ -236,7 +236,7 @@
 - A polgári demokrácia vissza tudta szorítani  
 # Mi az a Varsói szerződés?  
 - 1955, Varsó  
-- Az NSzK felvétele a NATOba Hruscsovot (Sztálin halála utáni szovjet vezető) egy szocialista NATO készítésére erőltette  
+- Az NSzK felvétele a NATOba Hruscsovot (Sztálin halála utáni **(1953)** szovjet vezető) egy szocialista NATO készítésére erőltette  
 - A szovjetunió csatlós államait tartalmazó katonai tömb  
 # Mi az a KGST?  
 - Kölcsönös Gazdasági Segítség Tanácsa  
@@ -263,3 +263,18 @@
 		- NDK - halfeldolgozó halászhajók  
 		- Bulgária - Ipari Targoncákra szakosodás  
 - Fennállása alatt magyarországon és csehszlovákiában volt a legnagyobb az egy főre jutó GDP  
+# Classroom  
+## Olajválság  
+## Helsinki értekezlet  
+## Kishidegháború  
+## Carter-doktrína  
+## Szovjet válság  
+## Csillagháborús terv  
+## Peresztrojka  
+## Glásznoszty  
+## Német egyesülés  
+## Szocialista tömb és szovjetunió összeesése  
+## Kennedy végzete  
+## Ki az a Martin Luther King  
+## Watergate botrány  
+## Apartheid  
