@@ -62,6 +62,24 @@
 - Polgárok családja  
 - Polgárok (Démosz és arisztokrácia)  
 # Károly Róbert  
+- Az utolsó Árpád-házi király halála után (1301) 3 trónkövetelő is volt  
+	- A hatalmi harcból végül Károly Róbert került ki győztesen  
+- 1310 - Megkoronázták (harmadjára), viszont mostmár minden feltételnek megfelelve  
+- Áttette székhelyét Temesvárról Budára  
+	- Hozzákezdett az ország és királyi hatalom megerősítéséhez  
+	- Tisztségekhez kötötte az adományozásokat  
+	- Az átruházott hatalom nem öröklődött, és visszavonható volt  
+	- A nagybirtokosok familiárisaikat (Szolgálatukban álló köznemesek) saját zászlójuk (bandéria) alatt vezették a királyi seregbe  
+	- A bandériumokon alapuló hadsereg az az úgy nevezett banderiális hadsereg  
+	- Mivel a királyi birtokok jelentős része a főurak magántulajdonába került, bevételeit a királyi jogon szedett egyéb jövedelemekre (ú.n. Regálé) alapozta  
+		- Harmincadvám: Kivitt és behozott áruk után értékuk 30-ad részét kellett fizetni a kincstárnak  
+		- A kibányászott nemesfémet be kellett szolgáltatni a kamarának, viszont egy részét visszakapta a bánya tulajdonosa pénz formájában  
+			- Megtiltotta a nyers arany és ezüst kivitelét az országból  
+		- Firenzei mintára új Aranyforintot veretett, amely értékálló és állandó volt  
+			- Már nem cserélgethették évente, ezért a bevétel pótlására behozta az első állami adót, a kapuadót  
+	- 1335 - Visegrádi királytalálkozó  
+		- A Lengyel és Cseh királlyal szövetséget kötött  
+		- Új kereskedelmi utat jelöltek ki Brünnön keresztül, elkerülve Bécset, aki árumegállító jogával megállított minden nyugat felé irányuló magyar árut, és lefölözte hasznát  
 # Nagy földrajzi feldezések  
 ## I. Előzmények  
 - Portugál hajósok már fedeztek fel  
