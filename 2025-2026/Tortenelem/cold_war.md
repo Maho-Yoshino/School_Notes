@@ -263,18 +263,64 @@
 		- NDK - halfeldolgozó halászhajók  
 		- Bulgária - Ipari Targoncákra szakosodás  
 - Fennállása alatt magyarországon és csehszlovákiában volt a legnagyobb az egy főre jutó GDP  
-# Classroom  
-## Olajválság  
-## Helsinki értekezlet  
-## Kishidegháború  
-## Carter-doktrína  
-## Szovjet válság  
-## Csillagháborús terv  
-## Peresztrojka  
-## Glásznoszty  
-## Német egyesülés  
-## Szocialista tömb és szovjetunió összeesése  
-## Kennedy végzete  
-## Ki az a Martin Luther King  
-## Watergate botrány  
-## Apartheid  
+# SALT-1  
+- 1972  
+- A szuperhatalmak maximalizálták a rakétafegyvereket  
+# Olajválság  
+- 1973-1974  
+- Arab-Izraeli háborúk 1973-as Jóm Kippuri háborújában Izrael megvédte az általa megszállt területeket -> Az olajtermelésbe beavatkoztak, négyszeresére emelték az olaj árát  
+# Helsinki értekezlet  
+- 1975  
+- Kimondták, hogy törekszenek  
+	- A békés, egymás mellett élésről  
+	- A határok sértetlenségéről  
+	- Alapvető emberi jogokról  
+# Kishidegháború  
+- A szovjetunió növelni akarta befolyását  
+	- Afganisztánt megszállták  
+	- Viszont az afrikában történő események megakasztották az enyhülés, békülés időszakát  
+	- A szovjetek olajforrások felé indultak meg az olajválság miatt  
+- Az amerikaiak az afgán gerillákat támogatták  
+- Végül annyira költséges lett az afgán megszállás, hogy 1988-ban kivonultak a szovjetek  
+# Carter-doktrína  
+- USA megmondta, hogy fegyverrel is megvédik az olajforrásokat  
+# Szovjet válság  
+- Az olajárrobbanás után új világ köszöntött be  
+	- Az a hatalom kerekedett fel, amely technológiában képes alkalmazkodni  
+	- Ehhez a szovjet rendszer nem volt alkalmas  
+		- Egyre jobban adósodtak, hogy hatalmukat fenntartsák  
+# Csillagháborús terv  
+- Ronald Reagan idején indult  
+- Világűrbe telepített átfogó rakétavédelmi rendszer  
+- A szovjetuniót a gazdasági válságuk miatt ez felbillenéssel fenyegette  
+# Peresztrojka  
+- "Átalakítás"  
+- Gorbacsov reformprogramja  
+- Életminőség romlásának megakadályozása  
+	- Akár a fegyverkezés visszafogása által  
+- Új külpolitikai hozzáállást követelt  
+	- Területekről mondtak le  
+	- Fegyverkorlátozásokról állapodtak meg az USA-val  
+# Glásznoszty  
+- Belső politikai változások része volt  
+- "Nyilvánosság"  
+- Az eddig politikából kizárt embereknek ekkortól lehetett hangot adni az elégedettlenségről  
+# Német egyesülés  
+- 1990. Október 3.  
+- A győztes hatalmaknak le kellett mondani minden megszálló jogukról (Sz.U.-nak is)  
+# Szocialista tömb és szovjetunió összeesése  
+- Gorbacsov nem avatkozott be a szétesésbe  
+	- A balti államok ellen fegyveresen próbáltak fellépni  
+	- A régi kommunista Szovjetuniót feltámasztani vágyók sikertelen katonai puccskísérlete után abba is maradt  
+- 1991. December - Megszűnt a szovjetunió  
+- Létrehozták a FÁK-ét  
+	- Nem csatlakozott minden Szovjet tagállam  
+# Kennedy végzete  
+- Merénylet áldozata lett  
+# Ki az a Martin Luther King  
+- A feketék egyenlőségéért küzdő polgárjogi aktivista  
+# Watergate botrány  
+- Nixon elnök lehallgatási botránya  
+- Sikertelenül megpróbálták eltusolni  
+# Apartheid  
+- Szegregációs politika 1994-ig Dél-Afrikában  
