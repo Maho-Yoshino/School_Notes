@@ -64,3 +64,10 @@
 				- Kolozsvár  
 			9. Székely nyelvjárás  
 			10. Csángók nyelvjárás (Gyimesek, Mordva)  
+# Témakör: Ember és nyelvhasználat  
+## Tétel: Nyelvünk helyzete a Kárpát-medencében  
+- Classroom: Word  
+	- 2 Térkép  
+		- A nemzetiségek/nyelvek megjelenítése  
+	- Táblázat:  
+		- A magyar nyelvet beszélők aránya/létszáma az anyaországban és az elcsatolt területeken  
