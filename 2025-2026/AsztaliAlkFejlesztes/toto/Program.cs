@@ -1,155 +1,102 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.IO;
+using System.Collections.Generic;
 
 namespace Toto
 {
-    class EredmenyElemzo
+    internal class Program
     {
-        private string Eredmenyek;
-
-        private int DontetlenekSzama
+        class EredmenyElemzo
         {
-            get
+            private string Eredmenyek;
+
+            private int DontetlenekSzama
             {
-                return Megszamol('X');
-            }
-        }
-
-        // Megszámolja az eredményeket
-        private int Megszamol(char kimenet)
-        {
-            int darab = 0;
-            foreach (var i in Eredmenyek)
-            {
-                if (i == kimenet) darab++;
-            }
-            return darab;
-        }
-
-        public bool NemvoltDontetlenMerkozes
-        {
-            get
-            {
-                return DontetlenekSzama == 0;
-            }
-        }
-
-        public EredmenyElemzo(string eredmenyek) // konstruktor
-        {
-            Eredmenyek = eredmenyek;
-        }
-    }
-    class FogadasiFordulo
-    {
-        public int Év { get; private set; }
-        public int Hét { get; private set; }
-        public int Forduló { get; private set; }
-        public int TelitalálatDarab { get; private set; }
-        public int TelitalálatNyeremény { get; private set; }
-        public string Eredmények { get; private set; }
-
-        public int NyereményÖsszeg => TelitalálatDarab * TelitalálatNyeremény;
-
-        public FogadasiFordulo(string sor) // Konstruktor
-        {
-            string[] m = sor.Split(';');
-            Év = int.Parse(m[0]);
-            Hét = int.Parse(m[1]);
-            Forduló = int.Parse(m[2]);
-            TelitalálatDarab = int.Parse(m[3]);
-            TelitalálatNyeremény = int.Parse(m[4]);
-            Eredmények = m[5];
-        }
-
-        // Kiírja az összes adatot tárolva az osztályban
-        public void EredménytKiír()
-        {
-            Console.WriteLine($"\tÉv: {Év}");
-            Console.WriteLine($"\tHét: {Hét}.");
-            Console.WriteLine($"\tForduló: {Forduló}.");
-            Console.WriteLine($"\tTelitalálat: {TelitalálatDarab} db");
-            Console.WriteLine($"\tNyeremény: {TelitalálatNyeremény} Ft");
-            Console.WriteLine($"\tEredmények: {Eredmények}");
-        }
-    }
-    class Toto
-    {
-        static void Main()
-        {
-            List<FogadasiFordulo> fordulók = new List<FogadasiFordulo>();
-            // Beolvassa az adatokat a fájlból, és inicializálja a FogadasiFordulo konstruktorával
-            foreach (var i in File.ReadAllLines("toto.txt").Skip(1))
-            {
-                fordulók.Add(new FogadasiFordulo(i));
-            }
-
-            // Kiírja a fordulók számát
-            Console.WriteLine($"3. feladat: Fordulók száma: {fordulók.Count}");
-
-            // 4. feladat:
-            // Összesíti a telitalálatos szelvényeket
-            int szelvény13p1Db = 0;
-            foreach (var i in fordulók)
-            {
-                szelvény13p1Db += i.TelitalálatDarab;
-            }
-            Console.WriteLine($"4. feladat: Telitalálatos szelvények száma: {szelvény13p1Db} db");
-
-            // 5. feladat:
-            // Megadja az átlag nyereményt
-            double nyereményekÖsszege = 0;
-            int telitalálatosFordulóDb = 0;
-            foreach (var i in fordulók)
-            {
-                checked
+                get
                 {
-                    nyereményekÖsszege += i.NyereményÖsszeg;
-                    telitalálatosFordulóDb++;
+                    return Megszamol('X');
                 }
             }
-            Console.WriteLine($"5. feladat: Átlag: {nyereményekÖsszege / telitalálatosFordulóDb:F0} Ft");
 
-            // Megadja a legnagyobb és legkisebb eredményt
-            Console.WriteLine("6. feladat:");
-            int maxi = -1;
-            int mini = -1;
-            for (int i = 1; i < fordulók.Count; i++)
+            private int Megszamol(char kimenet)
             {
-                if (fordulók[i].TelitalálatDarab > 0)
+                int darab = 0;
+                foreach (var i in Eredmenyek)
                 {
-                    if (maxi == -1) maxi = i;
-                    if (mini == -1) mini = i;
-                    if (fordulók[i].TelitalálatNyeremény > fordulók[maxi].TelitalálatNyeremény)
-                    {
-                        maxi = i;
-                    }
-                    if (fordulók[i].TelitalálatNyeremény < fordulók[mini].TelitalálatNyeremény)
-                    {
-                        mini = i;
-                    }
+                    if (i == kimenet) darab++;
+                }
+                return darab;
+            }
+
+            public bool NemvoltDontetlenMerkozes
+            {
+                get
+                {
+                    return DontetlenekSzama == 0;
                 }
             }
+
+            public EredmenyElemzo(string eredmenyek) // konstruktor
+            {
+                Eredmenyek = eredmenyek;
+            }
+        }
+        class FogadasiFordulo
+        {
+            public int Ev { get; private set; }
+            public int Het { get; private set; }
+            public int Fordulo { get; private set; }
+            public int TelitalalatDarab { get; private set; }
+            public int TelitalalatNyeremeny { get; private set; }
+            public string Eredmenyek { get; private set; }
+
+            public int NyeremenyOsszeg => TelitalalatDarab * TelitalalatNyeremeny;
+
+            public FogadasiFordulo(string sor)
+            {
+                string[] m = sor.Split(';');
+                Ev = int.Parse(m[0]);
+                Het = int.Parse(m[1]);
+                Fordulo = int.Parse(m[2]);
+                TelitalalatDarab = int.Parse(m[3]);
+                TelitalalatNyeremeny = int.Parse(m[4]);
+                Eredmenyek = m[5];
+            }
+
+            public void EredmenytKiir()
+            {
+                Console.WriteLine($"\tÉv: {Ev}");
+                Console.WriteLine($"\tHét: {Het}.");
+                Console.WriteLine($"\tForduló: {Fordulo}.");
+                Console.WriteLine($"\tTelitalálat: {TelitalalatDarab} db");
+                Console.WriteLine($"\tNyeremény: {TelitalalatNyeremeny} Ft");
+                Console.WriteLine($"\tEredmények: {Eredmenyek}");
+            }
+        }
+        static void Main(string[] args)
+        {
+            FogadasiFordulo[] fordulok = File.ReadAllLines("toto.txt")
+                .Skip(1)
+                .ToList()
+                .ConvertAll(x => new FogadasiFordulo(x))
+                .ToArray();
+            // 3. Feladat
+            Console.WriteLine($"3. feladat: Fordulók száma: {fordulok.Length}");
+            // 4. Feladat
+            Console.WriteLine($"4. feladat: Telitalálatos szelvények száma: {fordulok.Sum(x => x.TelitalalatDarab)} db");
+            // 5. Feladat
+            Console.WriteLine($"5. feladat: Átlag: {Math.Round(fordulok.Average(x => x.NyeremenyOsszeg))} Ft");
+            // 6. Feladat
+            FogadasiFordulo legnagyobb = fordulok.Where(x => x.TelitalalatDarab > 0).OrderBy(x => x.TelitalalatNyeremeny).Last();
+            FogadasiFordulo legkisebb = fordulok.Where(x => x.TelitalalatDarab > 0).OrderBy(x => x.TelitalalatNyeremeny).First();
+            Console.WriteLine($"6. feladat: ");
             Console.WriteLine("\tLegnagyobb:");
-            fordulók[maxi].EredménytKiír();
+            legnagyobb.EredmenytKiir();
             Console.WriteLine("\n\tLegkisebb:");
-            fordulók[mini].EredménytKiír();
-
-            // 8. feladat:
-            // Lineáris keresés: Megadja, hogy volt e döntetlen mérkőzés
-            bool voltDöntetlenNélküliForduló = false;
-            foreach (var i in fordulók)
-            {
-                EredmenyElemzo ee = new EredmenyElemzo(i.Eredmények);
-                if (ee.NemvoltDontetlenMerkozes)
-                {
-                    voltDöntetlenNélküliForduló = true;
-                    break;
-                }
-            }
-            Console.WriteLine($"8. feladat: {(voltDöntetlenNélküliForduló ? "Volt" : "Nem volt")} döntetlen nélküli forduló!");
-
+            legkisebb.EredmenytKiir();
+            // 8. Feladat
+            Console.WriteLine($"8. feladat: {(fordulok.ToList().ConvertAll(x => new EredmenyElemzo(x.Eredmenyek)).Any(x => x.NemvoltDontetlenMerkozes) ? "Volt":"Nem volt")} döntetlen nélküli forduló");
             Console.ReadKey();
         }
     }

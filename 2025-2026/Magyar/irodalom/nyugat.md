@@ -234,3 +234,9 @@
 - 1933  
 - A főhős az író alter egója (Személyiségének bizonyos oldalát formálja)  
 #### 18. fejezet: Egy közönséges villamos utazás (Szgy. 290. o.)  
+#### Halotti beszéd  
+- "Látjátok feleim" -> evokáció-felidézés, az eredeti Halotti Beszéd szavai  
+- Intertextualitás  
+	- Szövegek kapcsolatba kerülnek egymással  
+#### Fürdés  
+-  

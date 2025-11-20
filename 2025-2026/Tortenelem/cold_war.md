@@ -228,7 +228,9 @@
 - Ezután rövidesen leszerelte az USA a törökországi atomrakétáikat is  
 - Létrejött a "forródrót"  
 ## Afganisztán  
-- Meg kéne csinálni  
+- A szovjetek megindultak az Olajválság miatt a közel-kelet irányába  
+- Az USA a afgán guerillákat támogatta  
+- A szovjeteknek annyira sok erőforrásba került volna elfoglalni őket, hogy inkább feladták  
 # Mi az a McCarthyzmus?  
 - Az USA-ban megjelent az ellenségeskedés, McCarthy szenátor a kommunista és baloldali értelmiség ellen lépett fel  
 - Az embereknek maguknak kellett bizonyítani az ártatlanságukat  

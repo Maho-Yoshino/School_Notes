@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8489160B-5FE4-4568-BCA4-8A2925FDAEE1}</ProjectGuid>
+    <ProjectGuid>{E3765F7B-39EF-4F7D-8C70-590AAA05AB92}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>toto</RootNamespace>
-    <AssemblyName>toto</AssemblyName>
+    <RootNamespace>Toto</RootNamespace>
+    <AssemblyName>Toto</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
