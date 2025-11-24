@@ -326,3 +326,47 @@
 - Sikertelenül megpróbálták eltusolni  
 # Apartheid  
 - Szegregációs politika 1994-ig Dél-Afrikában  
+# Kommunista Magyarország  
+## A SZEB szerepe  
+- Engedélyezték az ellenzéki pártok működését  
+	- FKgP (Független Kisgazda Párt)  
+	- NPP (Nemzeti Parasztpárt)  
+	- SzDP (Szociáldemokrata Párt)  
+	- PDP (Polgári Demokrata Párt)  
+	- MKP (Magyar Kommunista Párt)  
+		- Rákosi Mátyás  
+		- Nagy Imre  
+		- Gerő Ernő  
+		- Révai József  
+## 1945ös választások  
+- Minden 20 év feletti férfi és nő szavazhatott  
+	- Kivéve háborús bűnösök  
+- Pártlistás szavazás volt, nem egyéni  
+- az FKgP volt a legnagyobb ellenzék  
+- 57.03%-os FKgP nyereség  
+	- Egyértelmű többség  
+	- Viszont a SZEB beavatkozott  
+		- A Kormányt kényszeríti, hogy kommunistákat rakjanak a pártba (Belügy)  
+## Mi az, hogy Szalámi taktika?  
+- Kikiáltották, hogy M.O. köztársaság legyen (1946. Február 1.)  
+- Az államformától eltekintve minden kérdésben harc volt az FKgP és MKP között  
+- A kommunisták még több hatalomhoz akartak jutni  
+	- Felhasználták a tömegeket, a demagógia és megfélemlítés eszközeit  
+	- Kis lépésekben történő térnyerés  
+	- Kihasználták a Vörös Hadsereg által biztosított erőfölényt  
+		- Visszaszorították a számukra veszélyes csoportokat a rivális pártokról, "felszeletelve" őket (Szalámitaktika)  
+		- A pártokon belül kommunista baloldali csoportok létrehozásán ügyködtek, hogy megosszák e a pártokat  
+## Kommunista agitáció, a "Földet vissza nem adunk" rígmus  
+- Volt Földosztás, elvették a kisebb területeket is  
+	- az FKgP szót emelt róla  
+	- MKP: "A kisgazdák veszik el az emberektől a földet"  
+	- Nép be like: "GRRRRR"  
+## Baloldali blokk  
+- az MKP kezdeményezte a baloldali blokk megalakítását  
+	- Résztvevők  
+		- MKP  
+		- SzDP  
+		- NPP  
+	- 1946 Március  
+	- Támadást indítottak a kisgazdák ellen  
+		- A párt polgári vonalát jobboldalinak minősítették (A korszakban a demokrácia tagadása)  
