@@ -370,3 +370,62 @@
 	- 1946 Március  
 	- Támadást indítottak a kisgazdák ellen  
 		- A párt polgári vonalát jobboldalinak minősítették (A korszakban a demokrácia tagadása)  
+## Mi az a "B" listázás?  
+- Állandósultak a támadások a kisgazdák ellen  
+- "B" listázást hajtot az MKP végre a közigazgatásban  
+	- Politikai megbízhatóság szempontjából vizsgálták felül az alkalmazottakat  
+	- 1946 nyarán, egy szovjet katona lelövése után Rajk László 1500+ egyházi és társadalmi szervezetet, egyesületet tiltott be  
+		- Katolikus Legényegylet  
+		- Magyar Cserkészszövetség  
+		- Bélyeggyűjtő egyletek  
+## Mi történt a magyarországi németekkel? Mi az a lakosságcsere?  
+- Ki lettek zárva a 45-ös választásokból  
+- Háborús bűnösöknek lettek tekintve  
+- A Potsdami értekezlet döntött kitelepítésükről  
+	- A döntést a magyar Ideiglenes Nemzeti Kormány és a politikai pártok többsége támogatta  
+- Javaiktól megfosztott svábok -> Free föld -> Osztják a földet mint a cukorkát  
+- Szlovák-Magyar Lakosságcsere  
+	- A felvidéki magyaroknak az 1946-os egyezmény jelentős veszteséget jelentett, sok szenvedést eredményezett  
+	- Viszont a magyarországi Szlovákság is jelentősen csökkent  
+## Mire hivatkozva maradtak szovjet csapatok az országban a párizsi béke után?  
+-  
+## Hogyan számoltak le végleg a kisgazdákkal?  
+- 1947-től gyorsítani akarták a kommunisták a hatalomátvételt  
+- A kommunisták kezében lévő ÁVO a tények torzításával, a veszély felnagyításával államellenes összeesküvést "leplezett le"  
+	- 1947 Január  
+	- Belekeverték a kisgazda politikusok egy részét  
+	- "Köztársaságellenes összeesküvés"  
+	- Többeket letartóztattak  
+		- Kovács Bélát nem sikerült megfélemlíteni, a szovjet hatóságok elhurcolták (1947. Február 25.)  
+	- Szabadságát Svájcban töltő Nagy Ferencet megvádolták az összesküvésben való érintettséggel  
+		- Családját is fenyegetve érezte  
+		- Lemondott miniszterelnöki tisztségéről  
+		- Emigrált  
+## Sikerült parlamenti többséget szereznie a kommunistáknak?  
+### Miért kékcédulás választás a megnevezése az 1947-es választásoknak?  
+![Kékcédula](media/kekcedula.png)  
+- A nem lakóhelyén szavazni kívánó állampolgárok igazolása, hogy szerepelnek a választói jegyzékben  
+- Az MKP irányította a Belügyminisztériumot, a szociáldemokraták az Igazságügyi minisztériumot  
+	- Megszerezhették a kék cédulákat  
+	- Elkenhették a csalás kivizsgálását  
+	- Több tízezer hamis szavazatot könyvelhettek el  
+- Elért az MKP 22%-ot a szavazásokon, evvel a legnagyobb párttá válva  
+- Kizárták a Magyar Függetlenségi Párt eredményeit a szavazásból  
+	- Választási csalás ürügyén megsemmisítettek 670k szavazatot  
+- Az FKgP nem mert kiválni a jelenlegi kormánykoalícióból  
+	- ismételten az MKP, SzDP, FKgP és NPP alakított kormányt  
+	- Most az MKP vezetésével  
+## Hogyan jön létre a totális diktatúra?  
+- A hatalom megszerzésében fontos volt, hogy a munkásosztálynak egy pártja legyen  
+	- Ennek a nevében kényszerültek az egyeduralomra  
+	- Így a parlamenti arányok is alátámasztják egyeduralmukat  
+	- Kierőszakolták az MKP és SzDP egyesülését  
+		- Ezt megelőzte az SzDP-ből az MKP-vel való együttműködést ellenző, jobboldalinak tekintett vezetőket  
+			- Peyer Károly  
+			- Kéthly Anna  
+		- Megalakult az MDP (Magyar Dolgozók Pártja, 1948)  
+### Melyik év a fordulat éve és miért az?  
+- 1948  
+- Az MDP felszámolta a többpártrendszert  
+	- Megvalósultak a proletárdiktatúra feltételei  
+- A kommunisták ezért ezt az évet tekintik a "fordulat évének"  
