@@ -459,4 +459,74 @@
 	- Átlátta a kommunisták céljait, és hogy nem célravezető az engedmények politikája  
 	- Koholt vádak alapján perelték  
 		- Börtönbüntetést kapott  
-### Hf: Mutasd be a Rákosi korszak gazdaságpolitikáját (**Brutális részletességgel**, 10 pontos)  
+### Rákosi korszak gazdaságpolitikája  
+- Rákosi mellett Gerő Ernő irányítása alatt állt  
+- A kitűzött célok nem voltak észszerűek  
+	- "Magyarország a vas és acél országa lesz"  
+	- Természeti adottságok miatt  
+	- Fejlettség miatt  
+#### Ipar  
+- Mivel mi gazdaságilag fejlettebbek voltunk, ezért nálunk célszerű volt a célirányos modernizálás  
+	- Termelékenység növelése, nem a mennyiségi fejlesztés jelentett volna nekünk fejlődést  
+	- Ennek ellenére az MDP szovjet példára az önellátást és a nehézipar fejleszését tűzte ki célnak  
+	- Hadiipari és haderőfejleszésbe is bele kellett kezdenünk  
+- A fejlesztés forrásait a mezőgazdaság, az infrastruktúra és életszínvonal rovására teremtették meg  
+	- Óriási áldozatok árán  
+	- Korszerűtlenül  
+		- Magas költségek  
+		- Alacsony hatékonyság  
+- A nehézipar fejlesztése a háborúra felkészülés és a szovjet példa követése miatt párosult az önellátásra törekvéssel  
+	- Nyitottak bányákat, gyárakat  
+		- Költséges beruházásokkal  
+		- Olyan nyersanyagok és termékek előállítására, amit külföldről olcsóbban és jobb minőséggel megszerezhettek volna  
+		- Mindezt  
+			- A világgazdaságtól, tőkeáramlástól elzárva  
+			- Kizárólag belső forrásokból finanszírozva  
+- A magángazdaság felszámolásával párhuzamosan elkezdtek tervgazdálkodni  
+	- 1950-ben kezdődött az első ötéves terv  
+		- A piaci igényeket ignorálva  
+		- Az erre létesített Tervhivatal határozta meg a számokat a vállalatoknak  
+		- <s style="font-size:0.7em;">A pénzéhes zsidók a kormányba</s> A kormány az alapból irreális számokat mégmagasabbra emelte  
+		- Az észszerűtlen célok miatt 1952-re a termelés visszaesett, eközben az életszínvonal folyton romlott  
+			- Alig épültek lakások  
+			- A közszükségleti cikkek eltűntek az üzletekből  
+			- Állandósult az élelmiszerhiány  
+	- Hivatalosan a KGST-ben voltunk, de az együttműködés alacsony szinten volt  
+- Az MDP vezetése már 1949-ben elhatározta, hogy új nehézipari várost hoznak létre  
+	- Az Iparosítás sikerét, az új rendszer erejét bizonyítja  
+	- Az elképzelés: a Dunán érkező szovjet vasérc feldolgozására épül -> Déli országhatár közelébe tervezték (Mohács)  
+	- A Szovjet-Jugoszláv viszony romlása miatt a Magyar-Jugoszláv viszony is romlott  
+		- Ezért északabbra tolták a helyszínt, Dunapentele község határába  
+		- Ez lett Sztálinváros (mai Dunaújváros)  
+	- Hatalmas erőforrásokat kötött le az építés  
+		- Munkaerő az önkéntesektől a kitelepítettekig mindenkit mozgósítottak  
+- Az emberektől lelkesedést, annak kifejezését és egyre nagyobb teljesítményt vártak el  
+	- A tervet teljesíteni kellett, mert az elmaradás törvényszegésnek minősült, ami fegyelmi és büntető eljárásokkal járt  
+	- Nálunk is alkalmazták a Szovjetunióból honosított munkaversenyeket  
+	- A Munkahelyi dicsőségtábla és a pártsajtó túlteljesítésekről tudósított, viszont a mindennapi valóság része lettek a  
+		- Rossz gyártmányok  
+		- Selejtes szerszámok  
+		- Hibás alkatrészek  
+#### Mezőgazdaság  
+- Az MDP a hatalom birtokában kijelentette a TSz-ek (Termelő szövetkezetek) megszervezését (avagy kollektivizálást)  
+	- Magyarországon is ideológiai, politikai és gazdasági célokat szolgált  
+		- Megakarták törni a megmaradó parasztság ellenálló erejét  
+		- Uralkodóvá kívánták tenni a fejlettebbnek tekintett állami tulajdont  
+		- Megkönnyítette az erőforrások kivonását a mezőgazdaságból -> Iparosodás elősegítése  
+	- Erre a propaganda nem hatott a parasztok jelentős részére, ezért gazdasági és politikai eszközöket kellett alkalmazniuk  
+		- Parasztság adóinak emelése  
+		- Növelték a beszolgálás mennyiségi előírásait  
+			- Voltak olyan évek, amikor adóelmaradás miatt elvették a paraszok vetőmagjait is (padlássöprés)  
+		- A tekintélyes és sikeres gazdáknál szovjet taktikát alkalmaztak  
+			- Kuláknak ("osztályellenségnek") nevezték őket  
+			- Adóikat és beszolgáltatási kötelezettségeiket teljesíthetetlen mértékűre emelték  
+				- Nem teljesítés esetén rendőri erőt is alkalmaztak  
+			- Engedélyhez kötötték az állatok levágását, alig maradt akármi a gazdának  
+	- Ezek után se hatották meg a paraszti társadalom jelentős részét, ragaszkodtak a földjeikhez  
+		- Erőszakkal is csak a parasztok harmadát tudták szövetkezetekbe kényszeríteni  
+		- Elsősorban a törpebirtokosok hoztak létre termelőszövetkezeteket  
+		- A módos gazdák közül sokan felhagytak a termeléssel  
+			- elhagyták a falut  
+		- Az agrártermelés jelentősen visszaesett  
+- Nem akarta a Rákosi féle rendszer a program kudarcát vállalni  
+	- Még akkor se, amikor az ország élelmiszerellátása veszélybe került  
