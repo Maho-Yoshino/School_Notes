@@ -370,6 +370,9 @@
 	- 1946 Március  
 	- Támadást indítottak a kisgazdák ellen  
 		- A párt polgári vonalát jobboldalinak minősítették (A korszakban a demokrácia tagadása)  
+## Hogyan alkalmazták a szalámi taktikát kisgazda párton az MKP?  
+- 20 képviselőt kizártak  
+- Vádemelések  
 ## Mi az a "B" listázás?  
 - Állandósultak a támadások a kisgazdák ellen  
 - "B" listázást hajtot az MKP végre a közigazgatásban  
@@ -381,6 +384,7 @@
 ## Mi történt a magyarországi németekkel? Mi az a lakosságcsere?  
 - Ki lettek zárva a 45-ös választásokból  
 - Háborús bűnösöknek lettek tekintve  
+- 200k+ kitelepítve Németországba  
 - A Potsdami értekezlet döntött kitelepítésükről  
 	- A döntést a magyar Ideiglenes Nemzeti Kormány és a politikai pártok többsége támogatta  
 - Javaiktól megfosztott svábok -> Free föld -> Osztják a földet mint a cukorkát  
@@ -388,7 +392,9 @@
 	- A felvidéki magyaroknak az 1946-os egyezmény jelentős veszteséget jelentett, sok szenvedést eredményezett  
 	- Viszont a magyarországi Szlovákság is jelentősen csökkent  
 ## Mire hivatkozva maradtak szovjet csapatok az országban a párizsi béke után?  
--  
+- A németek elleni háború lezárása  
+- 1947es Párizsi békeszerződés  
+	- Addig tarthatták a katonáikat az országban, amíg ausztriában vannak csapatok  
 ## Hogyan számoltak le végleg a kisgazdákkal?  
 - 1947-től gyorsítani akarták a kommunisták a hatalomátvételt  
 - A kommunisták kezében lévő ÁVO a tények torzításával, a veszély felnagyításával államellenes összeesküvést "leplezett le"  
@@ -402,6 +408,12 @@
 		- Lemondott miniszterelnöki tisztségéről  
 		- Emigrált  
 ## Sikerült parlamenti többséget szereznie a kommunistáknak?  
+- Elért az MKP **22%**-ot a szavazásokon, evvel a legnagyobb párttá válva  
+- Kizárták a Magyar Függetlenségi Párt eredményeit a szavazásból  
+	- Választási csalás ürügyén megsemmisítettek 670k szavazatot  
+- Az FKgP nem mert kiválni a jelenlegi kormánykoalícióból  
+	- ismételten az MKP, SzDP, FKgP és NPP alakított kormányt  
+	- Most az MKP vezetésével  
 ### Miért kékcédulás választás a megnevezése az 1947-es választásoknak?  
 ![Kékcédula](media/kekcedula.png)  
 - A nem lakóhelyén szavazni kívánó állampolgárok igazolása, hogy szerepelnek a választói jegyzékben  
@@ -409,23 +421,42 @@
 	- Megszerezhették a kék cédulákat  
 	- Elkenhették a csalás kivizsgálását  
 	- Több tízezer hamis szavazatot könyvelhettek el  
-- Elért az MKP 22%-ot a szavazásokon, evvel a legnagyobb párttá válva  
-- Kizárták a Magyar Függetlenségi Párt eredményeit a szavazásból  
-	- Választási csalás ürügyén megsemmisítettek 670k szavazatot  
-- Az FKgP nem mert kiválni a jelenlegi kormánykoalícióból  
-	- ismételten az MKP, SzDP, FKgP és NPP alakított kormányt  
-	- Most az MKP vezetésével  
 ## Hogyan jön létre a totális diktatúra?  
 - A hatalom megszerzésében fontos volt, hogy a munkásosztálynak egy pártja legyen  
 	- Ennek a nevében kényszerültek az egyeduralomra  
 	- Így a parlamenti arányok is alátámasztják egyeduralmukat  
 	- Kierőszakolták az MKP és SzDP egyesülését  
-		- Ezt megelőzte az SzDP-ből az MKP-vel való együttműködést ellenző, jobboldalinak tekintett vezetőket  
+		- Ezt megelőzte az SzDP-ből az MKP-vel való együttműködést ellenző, jobboldalinak tekintett vezetők letartóztatása  
 			- Peyer Károly  
 			- Kéthly Anna  
-		- Megalakult az MDP (Magyar Dolgozók Pártja, 1948)  
+		- Megalakult az **MDP** (**Magyar Dolgozók Pártja**, 1948)  
 ### Melyik év a fordulat éve és miért az?  
 - 1948  
 - Az MDP felszámolta a többpártrendszert  
 	- Megvalósultak a proletárdiktatúra feltételei  
 - A kommunisták ezért ezt az évet tekintik a "fordulat évének"  
+## Mi lesz magyarország államformája 1949-ben?  
+- Népköztársaság  
+## Mit fogadtak még el 1949-ben  
+- Új alkotmány  
+	- Rögzítette a kommunista párt hatalmát  
+	- Államforma = népköztársaság  
+	- Önkormányzatok -> Tanácsrendszer  
+- "Első titkár"  
+- Elnöki tanács  
+	- Köztársasági elnök szerepét átvette  
+- Ez pártállam, mivel az állami élet az MDP kezében volt  
+## Rákosi Korszak (1949-1953, 1956)  
+### Hogyan viszonyultak a korszakban az egyházhoz?  
+- Az MKP majd MDP számára fontos része volt a politikai és ideológiai harcnak az egyház visszaszorítása  
+	- Ők jelentették az egyetlen szervezett erőt  
+	- Ideológiailag ellenpólusa lehetett a totális diktatúrának  
+	- Ezért a vagyonuk után az iskolákat vették el  
+- 1948 Nyár - Iskolák államosítása (csak néhány iskola maradt az egyházak kezén)  
+	- Képzett szerzetes tanárok százait bocsátották el  
+- Legjelentősebb ellenállás: Római katolikus egyház  
+	- Mindszenty József Esztergomi érsek vezetésével  
+	- Átlátta a kommunisták céljait, és hogy nem célravezető az engedmények politikája  
+	- Koholt vádak alapján perelték  
+		- Börtönbüntetést kapott  
+### Hf: Mutasd be a Rákosi korszak gazdaságpolitikáját (**Brutális részletességgel**, 10 pontos)  
