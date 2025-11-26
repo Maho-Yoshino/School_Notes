@@ -459,13 +459,20 @@
 	- Átlátta a kommunisták céljait, és hogy nem célravezető az engedmények politikája  
 	- Koholt vádak alapján perelték  
 		- Börtönbüntetést kapott  
+- Ravasz László  
+	- Püspök  
+	- Református egyháznak a Mindszenty-je  
+- Szerzetesek  
+	- Feloszlatták őket  
+- Állami Egyházi Hivatal (1951)  
 ### Rákosi korszak gazdaságpolitikája  
 - Rákosi mellett Gerő Ernő irányítása alatt állt  
+- Államosítással kezdtek (1946 - Szénbányák)  
+#### Ipar  
 - A kitűzött célok nem voltak észszerűek  
 	- "Magyarország a vas és acél országa lesz"  
 	- Természeti adottságok miatt  
 	- Fejlettség miatt  
-#### Ipar  
 - Mivel mi gazdaságilag fejlettebbek voltunk, ezért nálunk célszerű volt a célirányos modernizálás  
 	- Termelékenység növelése, nem a mennyiségi fejlesztés jelentett volna nekünk fejlődést  
 	- Ennek ellenére az MDP szovjet példára az önellátást és a nehézipar fejleszését tűzte ki célnak  
@@ -475,6 +482,7 @@
 	- Korszerűtlenül  
 		- Magas költségek  
 		- Alacsony hatékonyság  
+	- Erőltetett iparosítás  
 - A nehézipar fejlesztése a háborúra felkészülés és a szovjet példa követése miatt párosult az önellátásra törekvéssel  
 	- Nyitottak bányákat, gyárakat  
 		- Költséges beruházásokkal  
@@ -482,7 +490,7 @@
 		- Mindezt  
 			- A világgazdaságtól, tőkeáramlástól elzárva  
 			- Kizárólag belső forrásokból finanszírozva  
-- A magángazdaság felszámolásával párhuzamosan elkezdtek tervgazdálkodni  
+- A magángazdaság felszámolásával párhuzamosan elkezdtek tervgazdálkodni (piacgazdaság helyett)  
 	- 1950-ben kezdődött az első ötéves terv  
 		- A piaci igényeket ignorálva  
 		- Az erre létesített Tervhivatal határozta meg a számokat a vállalatoknak  
@@ -530,3 +538,4 @@
 		- Az agrártermelés jelentősen visszaesett  
 - Nem akarta a Rákosi féle rendszer a program kudarcát vállalni  
 	- Még akkor se, amikor az ország élelmiszerellátása veszélybe került  
+#### HF: 23,25,26. o. jegyzet  
