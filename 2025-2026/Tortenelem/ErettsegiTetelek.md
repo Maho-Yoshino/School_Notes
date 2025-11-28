@@ -80,6 +80,7 @@
 	- 1335 - Visegrádi királytalálkozó  
 		- A Lengyel és Cseh királlyal szövetséget kötött  
 		- Új kereskedelmi utat jelöltek ki Brünnön keresztül, elkerülve Bécset, aki árumegállító jogával megállított minden nyugat felé irányuló magyar árut, és lefölözte hasznát  
+# Rákóczi szabadságharc (Fejlesztő)  
 # Nagy földrajzi feldezések  
 ## I. Előzmények  
 - Portugál hajósok már fedeztek fel  

@@ -538,4 +538,98 @@
 		- Az agrártermelés jelentősen visszaesett  
 - Nem akarta a Rákosi féle rendszer a program kudarcát vállalni  
 	- Még akkor se, amikor az ország élelmiszerellátása veszélybe került  
-#### HF: 23,25,26. o. jegyzet  
+#### Koncepciós perek és az ÁVH szerepe  
+- Vezető: Péter Gábor  
+- "Csengőfrász"  
+- Internáló tábor, Bűntető munkatábor  
+	- Recsk  
+- Tisztogatás  
+- Ratkó Anna  
+	- Abortusz betiltása (1951-1955)  
+##### Miért voltak fontosak a koncepciós perek a kommunista hatalom számára?  
+- A kommunista rendszer a terrorra és a félelem fenntartására épült  
+	- A lakosság megfélemlítése → a rendszer stabilizálása  
+	- A politikai ellenfelek, „osztályellenségek” eltávolítása  
+- A perek koncepció alapján zajlottak  
+	- Előre megírt vádirat  
+	- Kikényszerített „beismerő vallomások”  
+	- Hamis tanúk, előre megállapított ítéletek  
+##### ÁVH – a kommunista diktatúra legfontosabb erőszakszerve  
+- 1948-tól a Belügyminisztériumtól függetlenül működött  
+- A párt vezetése irányította  
+- Feladatai:  
+	- Letartóztatások, kínvallatások, megfigyelések  
+	- Koholt vádak gyártása  
+	- A lakosság folyamatos félelemben tartása  
+- Hírhedt módszerek:  
+	- „Fekete autók” hajnali elhurcolásai  
+	- Titkos börtönök, internálótáborok (pl. Kőbánya mellett)  
+##### A tisztogatás a hadseregben  
+- 1951-től a honvédség is célkeresztbe került  
+- Számos magas rangú tisztet tartóztattak le (koholt összeesküvési vádakkal)  
+- Kínvallatás után aláíratott önvádoló nyilatkozatok  
+- Cél:  
+	- a hadsereg teljes politikai ellenőrzése  
+	- a vezetésbe csak a párthoz lojális emberek maradjanak  
+#### A Rákosi-diktatúra és a személyi kultusz  
+##### Mi volt a személyi kultusz lényege?  
+- A szovjet mintára Rákosit „Sztálin legjobb magyar tanítványaként” ábrázolták  
+- A vezető személyét túlzó, hamis dicsőítéssel vették körül  
+- A propaganda lényege:  
+	- Rákosi tévedhetetlen és kivételes vezető  
+	- A nép hálás neki  
+	- A fejlődés kizárólag neki köszönhető  
+- A kultusz részét képezte:  
+	- Ünnepségek (Rákosi 60. születésnapja)  
+	- Kötelező jellegű rendezvények  
+	- Verses, képi, filmes propaganda  
+##### A művészetek és a tudomány teljes államosítása  
+- A kultúra irányítását a párt vette át  
+- A művészet kötelező stílusa: szocialista realizmus  
+- A szocialista realizmus célja:  
+	- a rendszer sikereinek bemutatása  
+	- a munkásosztály dicsőítése  
+	- a vezető idealizált ábrázolása  
+- A művészeket és tudósokat:  
+	- politikailag megbízhatósági szempontok alapján értékelték  
+	- állásokból távolították el  
+	- „átnevelték” vagy háttérbe szorították  
+- Aki nem alkalmazkodott → nem jelenhetett meg, állását elvesztette  
+##### A propaganda képi világa  
+- A Rákosiról készült festmények valósághamisítóak  
+	- Pl. Lenin és Rákosi sosem találkoztak, mégis együtt szerepelnek a képeken  
+- A képek célja:  
+	- a „bölcs vezető” képének megerősítése  
+	- a lakosság manipulálása  
+#### A kultúra és a művészet szerepe a diktatúrában  
+##### Hogyan gyakorolt nyomást a párt a művészekre?  
+- „Megbízások” → valójában kötelező politikai feladatok  
+- Aki nem volt hajlandó a propagandaművészetre, azt:  
+	- elhallgattatták  
+	- félreállították  
+	- ellehetetlenítették  
+- Sok művész a túlélés miatt teljesítette a megrendeléseket  
+##### A szocialista realizmus jellemzői (építészet, szobrászat)  
+- Monumentalitás → a rendszer erejét hivatott tükrözni  
+- Díszítő elemek: vörös csillag, munkásmotívumok  
+- Példa: Sztálinváros építése (később Dunaújváros)  
+- A cél:  
+	- bizonyítani a rendszer „haladó” jellegét  
+	- látványos, politikailag értelmezhető beruházások létrehozása  
+#### Sztálinváros és a szocialista realizmus építészeti programja  
+##### Miért jött létre Sztálinváros?  
+- A nehézipar fejlesztésének látványos példája – propaganda cél  
+- A Duna mellett fekvő modern iparvárosként épült  
+- A rendszer erejét hivatott bemutatni  
+- Óriási erőforrásokat kötött le → önkéntes, kényszerített és kitelepített munkaerő  
+##### A város és a gyár szerepe  
+- A rendszer szimbolikus központja  
+- A szocialista munkás ideáltípusának megteremtése  
+- Politikai példaértékű beruházás → a valóságban gazdaságtalan  
+#### Összefoglaló kulcspontok a témához  
+- A kommunista hatalomgyakorlás alapeleme a terror, az ÁVH, a koncepciós perek.  
+- A diktatúra fenntartásába bevonták a művészetet, oktatást, tudományt.  
+- A személyi kultusz a rendszer legitimációjának eszköze volt.  
+- A szocialista realizmus minden alkotást politikai céloknak rendelt alá.  
+- Sztálinváros és más nagy projektek propagandaelemként működtek, nem a gazdasági racionalitás szerint.  
+## Dolgozat: 2025.12.02.  

@@ -1,13 +1,21 @@
-*/Konyvek
-*/Konyvek/*
+# Ignore Book PDFs
+Konyvek
+# Ignore temporary files
 *~*
 *.drawio.bkp
-/2024-2025/AdatbazisKezeles/20*.docx
-*.ggb
 *.cache
-.vs/
-obj/
-Properties/
-csengetes_visszaszamlalo/settings.json
-/csengetes_visszaszamlalo/logs
-2025-2026/SzoftverTeszteles/Szoftverteszteles.docx
+# Ignore application-specific files
+*.ggb
+## Visual Studio files
+.vs
+obj
+Properties
+*.exe
+*.pdb
+
+# Ignore Adatbázis kezelés and Szoftver tesztelés documents
+*/AdatbazisKezeles/20*.docx
+Szoftverteszteles.docx
+# Archive files
+*.zip
+*.7z
