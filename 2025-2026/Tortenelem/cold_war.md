@@ -633,3 +633,23 @@
 - A szocialista realizmus minden alkotást politikai céloknak rendelt alá.  
 - Sztálinváros és más nagy projektek propagandaelemként működtek, nem a gazdasági racionalitás szerint.  
 ## Dolgozat: 2025.12.02.  
+## Ténymegállapítások  
+### Tk. 10/9. ábra  
+- Ténymegállapítás: Az FKgP nyerte meg az 1945-ös választást 57%-al  
+- Hozzáfűzés: A nép nem akart kommunista kormányt, viszont az MKP így is sikeresen kormányba jutott a SZEB miatt, ők irányították a belügyet  
+### Tk. 16/2. ábra  
+- Ténymegállapítás: Az MKP a SZEB és az ÁVO használatával az ellenzéki pártokat tönkretették, 1945-től kezdődően, egyik módszerjük a "B" listázás, ami a megbízhatatlan hivatalnokokról lista  
+- Hozzáfűzés: A kommunisták egyénuralomra tudtak szert tenni, mivel a legtöbb párt nem volt képes indulni az 1949-es választásokon, megfelelő erővel  
+### Tk. 25/Zöld keret  
+- Ténymegállapítás: Rákosit annyira kellett tisztelni, hogy versek születtek róla  
+- Hozzáfűzés: Rákosi személyi kultusza annyira nagy volt, hogy a képeit kirakták még a bölcsödékbe is  
+### Tk. 27/9. forrás  
+- Ténymegállapítás: a Szovjetunió mintáját követve az országot a "vas és acél" országának akarták nevezni, nehézipart fejleszteni  
+- Hozzáfűzés: Az országnak adottságai ellenére erőltetett iparosítást folytattak, és Sztálinvárost létrehozták  
+### Tk. 30/19. ábra  
+- Ténymegállapítás: A kommunisták elkezdték a földbirtokosoktól a földet elvenni különböző taktikák használatával, a mezőgazdaság államosítását  
+- Hozzáfűzés: A magyar földbirtokosok jelentős része ellenkezett, akár erőszak ellenére is, éveken át sikertelen volt a TSz-ekbe erőltetés  
+### Tk. 31/22. forrás  
+- Ténymegállapítás: A kollektivizálás eléggé lassan történt, 1949 és 1953 között a kisparaszti gazdaság körülbelül 1/3-részét sikerült csak államosítani  
+- Hozzáfűzés: A magyar földbirtokosok ellenkeztek a kollektivizálásnak  
+

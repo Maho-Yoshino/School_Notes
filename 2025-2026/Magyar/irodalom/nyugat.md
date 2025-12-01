@@ -239,4 +239,10 @@
 - Intertextualitás  
 	- Szövegek kapcsolatba kerülnek egymással  
 #### Fürdés  
--  
+- Megjelent a Tengerszem című kötetben  
+- Íródott 1925  
+- A mű előzményények is tekinthető a Kulcs c. novella  
+	- Ebben a műben a Suhajda család szerepel  
+	- A főszereplő a 10 év körüli János  
+- Elemzés: Classroom  
+- Jövő hétfő (2025.12.08.) - Dolgozat  
