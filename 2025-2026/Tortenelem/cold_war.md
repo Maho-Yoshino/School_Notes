@@ -652,4 +652,43 @@
 ### Tk. 31/22. forrás  
 - Ténymegállapítás: A kollektivizálás eléggé lassan történt, 1949 és 1953 között a kisparaszti gazdaság körülbelül 1/3-részét sikerült csak államosítani  
 - Hozzáfűzés: A magyar földbirtokosok ellenkeztek a kollektivizálásnak  
-
+## 1956-os Forradalom  
+### Előzmények  
+- 1953 - Sztálin halála  
+	- Mostantól Sztálin rósz -> Rákosi Korszak vége  
+- Változások történnek a Szovjetunióban, és ezért a keleti tömb országaiban is  
+	- Lemondatták Rákosit, Nagy Imre lett a miniszterelnök  
+		- Viszont Rákosi marad a párt élén -> Belharcok a MDP-ben  
+- Nagy Imre "Reformkommunista" volt, reformokat elkezdett bevezetni  
+	- Nehézipari fejlesztések visszafogása  
+	- Erőszakos Tsz-esítés visszafogása  
+	- Törvénytelenségek megfékezése  
+	- Országgyűlés szerepének növelése  
+	- Internálások megszűntetése  
+	- Korábbi koncepciós perek felülvizsgálata  
+		- Kádár János ilyenkor szabadult meg  
+	- Béremelés, árcsökkentés  
+	- Próbálták észszerűsíteni a nagy beruházásokat  
+- Nagy Imrét 1955-ben menesztették  
+	- Kizárták a pártból  
+	- A hatalom ismét Rákosi kezébe került  
+	- Az SZKP (Szovjetunió Kommunista Pártja) 20. kongresszusán (1956 Február) kimondták, hogy a Sztálin idején elkövetett hibákat ki kell javítani  
+- Leváltják Rákosit (1956 Július)  
+	- Gyógykezelésre a Szovjetunióba távozott, sose jött vissza  
+	- Helyette jött Gerő Ernő  
+- Gerő Ernő pont olyan volt mint Rákosi  
+	- Nem hozott változásokat  
+### Mi az a MEFESZ?  
+- "Magyar Egyetemisták és Főiskolai Egyesületek Szövetsége"	  
+### Mit tartalmaz a 16 pont? (Általánosságba véve)  
+### Hogyan tört ki a forradalom?  
+### Mi történt Október 23-án?  
+### Mi történt Október 24-én?  
+### Mi történt Október 25-én?  
+### Mi volt a hatalom reakciója a tüntetésekre (sortüzek)?  
+### Mit tartalmaz Nagy Imre Október 28-ai rádió beszéde?  
+### Mi lett az ÁVH-sokkal?  
+### Hogyan harcoltak a szovjetekkel (46-47. oldal)  
+### Mik voltak a szovjet tervek a forradalommal?  
+### Mi az a Forgószél hadművelet?  
+### Miért nem segített a nyugat?  
