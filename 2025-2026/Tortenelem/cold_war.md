@@ -679,16 +679,160 @@
 - Gerő Ernő pont olyan volt mint Rákosi  
 	- Nem hozott változásokat  
 ### Mi az a MEFESZ?  
-- "Magyar Egyetemisták és Főiskolai Egyesületek Szövetsége"	  
+- 1956. október második felében az egyetemi ifjúság szervezetei sorra kiváltak a kommunista ifjúsági szervezetből (DISZ), és független mozgalmat alapítottak Szegeden, a MEFESZt  
+- "Magyar Egyetemisták és Főiskolai Egyesületek Szövetsége"  
+- A hatalom nem lépett fel ellene, így az események felgyorsultak  
+	- A fővárosban és a vidéki egyetemi központokban létrejövő MEFESZ-szervezetek határozott követeléseket fogalmaztak meg, ezek tartalmazták többek között  
+		- A demokratikus viszonyok és a szabadságjogok helyreállítását  
+		- A tervgazdaság felülvizsgálatát  
+		- A munkások bérének emelését  
+		- Az ország politikai rendszerének megújítását  
+		- A nemzeti jelképek visszaállítását  
+		- A szovjet–magyar viszony kölcsönösségi alapokra helyezését  
+		- A szovjet csapatok kivonulását Magyarországról  
+	- A diákság a tánárokkal együtt az éjszakába nyúló nagygyűlést tartott  
+		- 1956. október 22.  
+		- Pontokba szedték a követeléseiket  
+		- Azonban a diákság ekkor már ennél többet akart:  
+			- Valódi demokráciát  
+			- Többpártrendszert  
+			- Rákosiék bíróság elé állítását  
+			- A szovjet befolyás megszüntetését  
+			- Függetlenséget  
+			- A Lengyelországban is megjelent ellenállással való szolidaritást  
 ### Mit tartalmaz a 16 pont? (Általánosságba véve)  
+- Szovjet kivonulás  
+- Általános, egyenlő, titkos választások (demokrácia)  
+- Gazdaság átszervezése  
+- A cenzúra eltörlése  
+- Kultúra megtartása (Kossuth-címer, honvédeknek hagyományőrző egyenruha)  
 ### Hogyan tört ki a forradalom?  
-### Mi történt Október 23-án?  
-### Mi történt Október 24-én?  
-### Mi történt Október 25-én?  
-### Mi volt a hatalom reakciója a tüntetésekre (sortüzek)?  
-### Mit tartalmaz Nagy Imre Október 28-ai rádió beszéde?  
-### Mi lett az ÁVH-sokkal?  
-### Hogyan harcoltak a szovjetekkel (46-47. oldal)  
-### Mik voltak a szovjet tervek a forradalommal?  
+- 1953. Október 23.  
+- Az egyetemi ifjúság a Petőfi kör támogatásával tüntetést hírdetett  
+	- A lengyelekkel való szolidaritás kifejezésére a budapesti Bem térre  
+- A tüntetést először betiltotta a pártvezetés  
+	- Többségük éppen Titoval tárgyalt Jugoszláviában  
+	- Később engedélyezték  
+- A felvonulás  
+	- A szolidaritáson kívül belpolitikai tartalommal is bírt  
+	- A demokratizálás melletti kiállást jelentette  
+- Az út  
+	- A Budapesti Műszaki Egyetemtől és az Eötvös Loránd Tudományegyetem mellől indult - 3 órakor  
+	- Elvonultak a Bem térre,  
+		- kb. 50 ezer ember részvételével  
+		- Követeléseik:  
+			- Szabadság  
+			- Demokratikus viszonyok helyreállítása  
+			- Magyar önállóság  
+			- Nagy Imre miniszterelnöki kinevezése  
+		- Késő délután a munkásság is nagy számban csatlakozott  
+	- Elvonultak a Bem térről az Országház felé  
+		- Nagy Imre személyes megjelenését és beszédét követelték  
+		- A Kossuth téren összegyűlt több tízezer ember még Nagy Imre csillapító szavai ellenére se tértek haza  
+	- Jelentős részük a Dózsa György úti Sztálin-szoborhoz vonult  
+		- Le akarták dönteni  
+	- A tüntetők másik fele a Magyar Rádió épületéhez ment  
+		- Azt akarták, hogy követeléseiket nyilvánosságra hozzák  
+		- A hatalom a Rádiónál nem engedélyezte a követelések beolvasztását, helyzette Gerő Ernő beszédét közvetítették  
+		- Gerő Ernő az eddig történteket ellenforradalomnak tekintette  
+			- A szovjetek mellé állt, így beszéde olaj volt a tűzre  
+		- Ekkor a Rádió ÁVH-s védői közül valaki a tömeg közé lőtt  
+			- **Kitört a fegyveres felkelés, a forradalom**  
+### A forradalom  
+- A felkelők a fegyverraktárakból, rendőröktől, kivezényelt katonáktól szereztek fegyvereket  
+- A harc a főváros több pontján fellángolt  
+- Budapesti rendőrök zöme nem fordult a nép ellen  
+- A megmozdulásokat a hajnalban gyalogsági kíséret nélkül érkező szovjet páncélosok sem tudták leverni (Október 24. hajnal)  
+	- Megjelenésük csak tovább bőszítette a tömeget -> a harcok kiszélesedtek  
+	- Kezdetét vette a szabadságharc  
+### A szabadságharc  
+#### Október 24.  
+- A fővárosban történtekkel egy időben több vidéki, főként egyetemi, városban zajlott hasonló megmozdulás, demonstráció  
+- A pártvezetés Nagy Imrét a Minisztertanács élére helyzete a reményben, hogy elcsendesítse az ellenállást  
+	- A fegyveres felkelők már nem csak kormányváltást akart, hanem "gyökeres" változást  
+	- A pártvezetés kezéből így teljesen kicsúszott az események irányítása  
+- Mivel nem volt egy központi vezető/irányító alak, ezért a nép hangadói hol fiatal munkások, hol diákok és értelmiségiek lettek, és egyben az események meghatározói  
+#### Október 25.  
+- A Nagy Imre vezette kormány statáriumot hírdetett  
+	- Felszólított a tűzszünetre, fegyverletételre  
+	- Hatástalan volt, a fiatalság felvette a küzdelmet a szovjet katonasággal  
+- A főváros közlekedési-stratégiai pontjain szerveződtek fegyveres felkelés jelentősebb bázisai  
+- Látványos gyorsasággal omlott össze a pártállam igazgatási rendszere  
+- Általánossá vált a sztrájkolás, gyárakban és üzemekben munkástanácsok, más intézményekben és egyes településeken forradalmi bizottságok jöttek létre  
+- 25-én a város több pontjáról békés tűntetők jöttek a Kossuth térre, az Országgyűlés épülete elé, ahol Szovjet páncélosok álltak  
+	- A tüntetők és a szovjet katonák békésen beszélgettek, amikor az újonnan érkező szovjet páncélosokból és a környező épületekből az ÁVH emberei a tömegbe lőttek  
+- A szovjet követek nyomására az MDP központi vezetősége eltávolította Gerő Ernőt a párt éléről  
+	- Ezzel párhuzamosan kiszorultak Rákosi követői a pártból  
+	- Ekkor lett Kádár János a párt élére téve  
+	- Ezen változások bekövetkezte után Nagy Imre kijelentette a felkelőkkel való megegyezést, hitet tett a forradalmi követelmények végrehajtása mellett  
+#### Október 26.  
+- Mosonmagyaróváron 26-án a diákok, tanárok és a lakosság kinyilvánította csatlakozását a forradalomhoz  
+	- Felvonultak  
+	- Eltávolították a kommunista hatalom jelképeit (pl. vörös csillagok)  
+	- A tömeg nagy része határőrlaktanya elé vonult  
+		- A laktanya parancsnoka azt a parancsot kapta, hogy akadályozza meg a lakosság behatolását  
+		- Ahogy a nép közeledett, sortüzet nyitottak a fegyvertelen emberekre, a sebesültek közé még kézigránátot is dobtak  
+- Ezek nem voltak egyedi esetek, a hatalom több helyen is sortüzet nyitott a fegyvertelen lakosságra  
+	- Október 26 - Nagykanizsa  
+	- Október 27 - Baj és Kalocsa, Tiszakécskén repülőgépből lőttek a tömegbe  
+	- Október 29 - Szabadszállás  
+#### Október 28.  
+- Nagy Imre Rádió beszéde  
+	- Az eddig "ellenforradalmi felkelésnek" nevezett eseményeket nemzeti demokratikus forradalomnak nyilvánította  
+	- Bejelentette az ÁVH megszűntetétét  
+	- Ígéretet tett  
+		- A többpártrendszer visszaállítására  
+		- Szovjet csapatok Budapestről való kivonására  
+- Eközben feloszlatták az MDP-t, helyette jött az MSzMP  
+	- Magyar Szocialista Munkáspárt  
+- Nagy Imre kormánya tűzszünetre törekedett, és megkezdődött az új politikai arculatot ígérő rendszer legfontosabb elemeinek kiépítése  
+	- Ismét megvalósult a sajtószabadság, újjáalakultak az egykori pártok  
+	- Számos korábbi koncepciós per elítéltje kiszabadult a börtönből, Mindszenty József bíboros érsek pedig a házi őrizetből  
+	- A politikai változások betetézéseként Nagy Imre bejelentette, hogy november 1-től új, koalíciós alapon szerveződő nemzeti kormány veszi át az ország irányítását  
+#### Október 30.  
+- Hamis hírek azt mondták, a megszűntetett ÁVH fegyveresei a kormányházban bujkálnak és föld alatti börtönökben kínoznak forradalmárokat  
+	- A tömeg megostromolta a pártszékházat  
+	- Miután a székház védelmére kirendelt páncélosok átálltak a tömeg oldalára, a védők megadták magukat  
+	- A tömeg meglincselt néhány ÁVH-s védőt  
+	- Ezt a forradalmárok többsége elítélte  
+		- A rend biztosítására egy önkéntes fegyveres, rendfenntartó Nemzetőrséget megszervezték  
+#### Hogyan harcoltak a szovjetekkel (46-47. oldal)  
+- A felkelők egy-egy térhez vagy háztömbhöz kötődve szerveződtek fegyveres csoportokká, a környék lakóiból  
+	- Nagy volt a fiatalok aránya  
+	- Nagyon sok fiatal, pesti srác is részt vett a küzdelmekben, közük 12-13 évesek is  
+- Páncélosok ellen Molotov Koktél-t kellett használniuk  
+	- A neve a Szovjet-Finn háborúból ered  
+	- benzinnel feltöltött palack, melynek szájába rongyot csavartak, és azt meggyújtva dobták a harckocsikra  
+- A számos ellenállási góc közül a legismertebb a legendás Corvin köz  
+	- Itt is főként fiatalemberek, munkások  
+	- Felvették a harcot az Üllői út felől betörő szovjet csapatok ellen  
+	- Többször visszaverték a szovjet páncélos csapatok támadását  
+	- Vezetőjük eleinte Iván Kovács László, majd Pongrácz Gergely lett  
+#### Mik voltak a szovjet tervek a forradalommal?  
+- A „válság megoldására” 1956 nyarán egy magas rangú szovjet politikus, Anasztáz Mikoján jött Magyarországra  
+	- Közölte Rákosival, hogy leváltották, és Gerő Ernőt nevezték ki az MDP élére  
+	- Úgy ítélte meg Mikojan, hogy a helyzet nem veszélyes  
+- A forradalom kitörését követő napon ismét Budapestre küldték a kegyetlen katonai megbízott (komisszár) és ideológus Mihail Szuszlovval együtt  
+	- Többször tárgyaltak Nagy Imrével, s amíg a kormány nem azonosult a forradalommal, támogatták  
+	- Félrevezetésül tárgyalásokat folytattak a magyar vezetéssel a csapatkivonások előkészítéséről, miközben megszervezték a forradalom leverését  
+		- Megkezdődött az újabb szovjet csapatok bevonulása az országba, és a kollaboráns magyar kommunisták kiválasztása  
+		- Kádár Jánost vagy Münnich Ferencet szemelték ki az új magyar kormány élére, amely hivatalosan kérhette a szovjet beavatkozást, ezért őket Moszkvába vitték  
+		- Más pártvezetőket (pl. Marosán György) és egykori ÁVH-sokat a szovjet katonaság védelmébe helyezték  
+- A forradalom leverésére vonatkozó szovjet elhatározás kialakulását több tényező is befolyásolta  
+	- Egyrészt a szocialista országok vezetői erősen támogatták az erőszakos fellépést, mert féltették saját helyzetüket a magyar példától  
+		- Még Tito is ezt az álláspontot képviselte  
 ### Mi az a Forgószél hadművelet?  
+- 1956. november 1  
+- Miközben a koalíciós alapon szerveződő Nagy Imre-kormány munkához látott, megindult a magyarországi szovjet csapatok megerősítése  
+- Konyev marsall vezetésével megkezdték a Magyarország lerohanásának tervét tartalmazó „Forgószél hadművelet” előkészítését  
+- A magyar kormány észlelte a szovjet csapatmozgásokat, kényszerhelyzetbe került, de nem hátrált meg  
+	- Bejelentette Magyarország kilépését a Varsói Szerződésből  
+	- Megkérte az ENSZ főtitkárát, járjon közbe, hogy  
+		- A nagyhatalmak ismerjék el Magyarország semlegességét  
+		- A Biztonsági Tanács tűzze napirendre a magyarkérdés vitáját  
 ### Miért nem segített a nyugat?  
+- Forradalom idején kirobbant szuezi válság elvonta a figyelmet a magyarkérdésről, így Moszkva szabadabban dönthetett  
+- Döntő tényezőnek bizonyult az Amerikai Egyesült Államok állásfoglalása:  
+	- Mind az elnök, Eisenhower, mind a külügyminiszter, Dulles együttérzését fejezte ki a magyar nép iránt  
+	- Viszont Magyarországot a szovjet blokk részének tekintve nem kívántak beavatkozni, és ezt a szovjetek értésére adták  
+	- Diplomáciai bírálatokon túl semmit nem tettek, tehát a szovjetek szabad kezet kaptak Magyarországon  
