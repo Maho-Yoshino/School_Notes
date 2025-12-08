@@ -238,7 +238,7 @@
 - "Látjátok feleim" -> evokáció-felidézés, az eredeti Halotti Beszéd szavai  
 - Intertextualitás  
 	- Szövegek kapcsolatba kerülnek egymással  
-#### Fürdés  
+### Fürdés  
 - Megjelent a Tengerszem című kötetben  
 - Íródott 1925  
 - A mű előzményények is tekinthető a Kulcs c. novella  

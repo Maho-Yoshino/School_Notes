@@ -707,7 +707,7 @@
 - A cenzúra eltörlése  
 - Kultúra megtartása (Kossuth-címer, honvédeknek hagyományőrző egyenruha)  
 ### Hogyan tört ki a forradalom?  
-- 1953. Október 23.  
+#### 1956. Október 23.  
 - Az egyetemi ifjúság a Petőfi kör támogatásával tüntetést hírdetett  
 	- A lengyelekkel való szolidaritás kifejezésére a budapesti Bem térre  
 - A tüntetést először betiltotta a pártvezetés  
