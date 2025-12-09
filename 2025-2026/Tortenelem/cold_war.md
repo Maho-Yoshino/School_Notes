@@ -783,6 +783,7 @@
 	- Ígéretet tett  
 		- A többpártrendszer visszaállítására  
 		- Szovjet csapatok Budapestről való kivonására  
+		- Kossuth címer visszaállítása  
 - Eközben feloszlatták az MDP-t, helyette jött az MSzMP  
 	- Magyar Szocialista Munkáspárt  
 - Nagy Imre kormánya tűzszünetre törekedett, és megkezdődött az új politikai arculatot ígérő rendszer legfontosabb elemeinek kiépítése  
@@ -822,7 +823,7 @@
 	- Egyrészt a szocialista országok vezetői erősen támogatták az erőszakos fellépést, mert féltették saját helyzetüket a magyar példától  
 		- Még Tito is ezt az álláspontot képviselte  
 ### Mi az a Forgószél hadművelet?  
-- 1956. november 1  
+- 1956. november 4.  
 - Miközben a koalíciós alapon szerveződő Nagy Imre-kormány munkához látott, megindult a magyarországi szovjet csapatok megerősítése  
 - Konyev marsall vezetésével megkezdték a Magyarország lerohanásának tervét tartalmazó „Forgószél hadművelet” előkészítését  
 - A magyar kormány észlelte a szovjet csapatmozgásokat, kényszerhelyzetbe került, de nem hátrált meg  
