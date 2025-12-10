@@ -71,3 +71,6 @@
 		- A nemzetiségek/nyelvek megjelenítése  
 	- Táblázat:  
 		- A magyar nyelvet beszélők aránya/létszáma az anyaországban és az elcsatolt területeken  
+# Témakör: A magyar nyelv története  
+## Tétel: Nyelvemlékek  
+1. A nyelvészet családfákat XIX. században Európában megjelent a nemzeti identitás kérdése -> Kutatás  

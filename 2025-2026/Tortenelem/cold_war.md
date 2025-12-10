@@ -831,9 +831,30 @@
 	- Megkérte az ENSZ főtitkárát, járjon közbe, hogy  
 		- A nagyhatalmak ismerjék el Magyarország semlegességét  
 		- A Biztonsági Tanács tűzze napirendre a magyarkérdés vitáját  
+- Vége: 1956. November 12.  
 ### Miért nem segített a nyugat?  
 - Forradalom idején kirobbant szuezi válság elvonta a figyelmet a magyarkérdésről, így Moszkva szabadabban dönthetett  
 - Döntő tényezőnek bizonyult az Amerikai Egyesült Államok állásfoglalása:  
 	- Mind az elnök, Eisenhower, mind a külügyminiszter, Dulles együttérzését fejezte ki a magyar nép iránt  
 	- Viszont Magyarországot a szovjet blokk részének tekintve nem kívántak beavatkozni, és ezt a szovjetek értésére adták  
 	- Diplomáciai bírálatokon túl semmit nem tettek, tehát a szovjetek szabad kezet kaptak Magyarországon  
+### Classroom  
+#### 11. Feladat  
+- a: A, D  
+- b: E  
+- c: Nagy Imre  
+#### 7. Feladat  
+- a: Rákosi rendszer  
+- b: 1956. Október 23.  
+- c: "\[...\] sztálini zsarnokság és politikai elnyomás jelképét \[...\]"  
+#### 21. Feladat  
+- Hármas tagolás  
+	- Bevezetés  
+		- Helyben, időben elhelyezés  
+		- Események előzményei  
+	- Tartalom  
+		- Ténymegállapítás - Hozzáfűzés  
+		- Forrásfelhasználás  
+	- Befejezés  
+		- Pár következménye a történteknek  
+- HF: Befejezni a vázlatot, Esszéírás  
