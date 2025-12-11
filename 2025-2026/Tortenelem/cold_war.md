@@ -847,7 +847,7 @@
 - a: Rákosi rendszer  
 - b: 1956. Október 23.  
 - c: "\[...\] sztálini zsarnokság és politikai elnyomás jelképét \[...\]"  
-#### 21. Feladat  
+#### [21. Feladat](1956essze.docx)  
 - Hármas tagolás  
 	- Bevezetés  
 		- Helyben, időben elhelyezés  
@@ -857,4 +857,3 @@
 		- Forrásfelhasználás  
 	- Befejezés  
 		- Pár következménye a történteknek  
-- HF: Befejezni a vázlatot, Esszéírás  

@@ -73,4 +73,10 @@
 		- A magyar nyelvet beszélők aránya/létszáma az anyaországban és az elcsatolt területeken  
 # Témakör: A magyar nyelv története  
 ## Tétel: Nyelvemlékek  
-1. A nyelvészet családfákat XIX. században Európában megjelent a nemzeti identitás kérdése -> Kutatás  
+1. A nyelvészet családfákat XIX. században Európában megjelent a nemzeti identitás kérdése -> Kutatási területek:  
+	1. Egy nép származása  
+	2. Nyelvének eredete  
+	3. Stb.  
+2. A nyelvtörténeti korszakok:  
+	1. Ősmagyar nyelv  
+		- Kezdetektől kb. Kr.e. 1000-ig  

@@ -246,3 +246,13 @@
 	- A főszereplő a 10 év körüli János  
 - Elemzés: Classroom  
 - Jövő hétfő (2025.12.08.) - Dolgozat  
+## Juhász Gyula (Tk. 256-58; Szgy. 320-321)  
+### Versek  
+- Tiszai csönd  
+- Anna örök  
+- Milyen volt szőkesége  
+## Tóth Árpád (Tk. 259-261; Szgy. 322-327)  
+### Versek  
+- Esti sugárkoszorú  
+### Esti sugárkoszorú  
+- Színesztézia - Érzékszervek összekeverése, pl. "halk sugárkoszorú" (hallás, látás)  
