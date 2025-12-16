@@ -256,3 +256,28 @@
 - Esti sugárkoszorú  
 ### Esti sugárkoszorú  
 - Színesztézia - Érzékszervek összekeverése, pl. "halk sugárkoszorú" (hallás, látás)  
+## Móricz Zsigmond  
+- 1879-1942  
+### Élete, munkái (Tk. 245.)  
+1. Tiszacsécse  
+	- Paraszti család  
+	- Szegénység  
+2. Debreceni Református Kollégium  
+3. 1908  
+	- Hét krajcár c. novelláskötete  
+	- Nyugat (alapító, később szerkesztő)  
+4. Kelet Népe címmel saját újságot alapít  
+5. Irodalmi stílusirányzatai  
+	- Realizmus  
+	- Naturalizmus  
+6. Főbb regényei  
+	- Árvácska  
+	- Erdély (trilógia)  
+		- \1. kötet: Tündérkert  
+	- Dzsentri-téma  
+		- Úri muri  
+		- Rokonok  
+	- Híres novellái  
+		- Tragédia  
+		- Barbárok (Hf. elolvasni)  
+### Tragédia (Szgy. 300)  
