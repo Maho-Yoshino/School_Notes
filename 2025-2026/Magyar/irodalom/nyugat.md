@@ -279,5 +279,27 @@
 		- Rokonok  
 	- Híres novellái  
 		- Tragédia  
-		- Barbárok (Hf. elolvasni)  
+		- Barbárok  
 ### Tragédia (Szgy. 300)  
+## Karinthy Frigyes (Tk. 262-264)  
+1. Nyugat első nemzedékébe tartozik  
+2. Író, költő  
+	- Magas szintre emelte a humort az irodalomban: "a humorban nem ismerek tréfát"  
+3. Művei  
+	1. Így írtok ti  
+		- Novellák  
+		- Stílus paródiák  
+		- Írók, költők műveit parodizálja  
+		- Szgy. 328.  
+	2. Tanár úr, kérem!  
+		- Novelláskötet  
+		- Iskolai jelenetek humorosan, paródiaként  
+			- pl. A Jó tanuló felel, a rossz tanuló felel  
+	3. Találkozás egy fiatalemberrel  
+		- Akrosztikon = "névelrejtés", a verssorok kezdőbetűit függőlegesen összeolvasva kiadják a költő nevét, pl. Villon művei  
+## Krúdy Gyula (Tk. 252-255.)  
+1. Író, a regényei, novellái sajátos világot teremtenek  
+	- A városi polgár élete -> szerelem, éttermek (gasztronómia)  
+2. Fő műve: Szindbád c. regénye  
+	- Az író alteregója Szindbád  
+	- A regény emlékekre épül, emlékeket idéz meg, **nosztalgikusan**  
