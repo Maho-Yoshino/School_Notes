@@ -857,3 +857,209 @@
 		- Forrásfelhasználás  
 	- Befejezés  
 		- Pár következménye a történteknek  
+## Kádár Korszak (1956-1989)  
+### Kádár hatalomra kerülése  
+- Kihírdetéskor Kádár a még csak papíron létező *Forradalmi Munkás-Paraszt Kormány* élén nem rendelkezett tényleges hatalommal  
+- A harcokban résztvevők jelentős része és a demokratikus átalakulás reményében csalódottak Nyugatra indultak  
+	- Több, mint 200 ezer ember elhagyta az országot  
+	- Döntő többség ausztriába távozott  
+		- Menekülttáborokban várták a különböző országokba utazás lehetőségét  
+	- Egyes országok limiteket szabtak ki, hogy mennyi menekültet hajlandóak befogadni  
+- A tényleges hatalmat a Szovjet hadsereg tartotta  
+- A társadalom jelentős része elutasította az új rezsimet  
+	- Aktív poltikai ellenállást a munkástanácsok fejtettek ki, melyek nem bomlottak fel a forradalom után  
+	- A munkástanácsok az egyre fokozódó támadások ellenére kitartottak, szorosabbra vonták kapcsolataikat  
+		- Megalkották a Nagy-budapesti Központi Munkástanácsot  
+		- A hatalom eleinte nem csapott le rájuk  
+		- Befolyásukat növelte, hogy gyárak jelentős része felhívásukra sztrájkba lépett  
+#### Megtorlás  
+- Lassan megszervezték a saját karhatalmi bázisát volt ÁVH-sokból és a forradalomban részt nem vett kommunistákból ("Pufajkások")  
+- 1957 - Párthadsereg, a Munkásőrség megszerveződött a pufajkásokbók  
+	- Az MSZMP 1956. decemberi pártértekezlete ellenforradalomnak minősítette a forradalmat  
+- Rendeletben 1956. decemberben feloszlatták a munkástanácsokat  
+	- Kádár vezetőiket a parlamentbe hívta, ahol letartóztatták őket  
+	- Többségüket szabadságvesztésre ítéltek  
+##### "Mától kezdve lövünk"  
+- Egy sor tüntetést leállított 1956 decemberben a kormány  
+	- Marosán György a pártgyűlésen kimondta, "Mától kezdve lövünk"  
+	- Budapest, Nyugati pályaudvar, December 6.  
+		- Vörös zászlós tüntetés verekedéssé alakult, majd lövöldözéssé  
+	- Salgótarján, December 8.  
+		- Fegyvertelen tömegbe lőttek  
+		- 50+ halál  
+	- Miskolc, December 10.  
+	- Eger, December 11-12.  
+		- Egerben is voltak halálos áldozatok  
+	- Emellett  
+		- Pécsett  
+		- Gyomán  
+		- Kevermesen  
+		- Gyulán  
+		- Tinnyén  
+		- Zalaegerszegen  
+		- Hódmezővásárhelyen  
+	- Volt, ahol repülőgépból lőttek a tüntetőkre  
+		- Barcs  
+		- Csongrád  
+		- Kecskemét  
+		- Keszthely  
+		- Kiskőrös  
+##### Statisztikák (becslés, Tk.53/3)  
+- 20k sebesült  
+- 2.5k halott  
+- 350 Kivégzett  
+- 22k Bebörtönzött  
+- 13k Internált  
+- 200k Menekült  
+##### Kivégzettek életkori megoszlása (Tk.53/4)  
+|Életkor	|Arány	|Mennyiség	|  
+|-----------|-------|-----------|  
+|55+		|2.2%	|~8 fő		|  
+|45-55		|5.7%	|~20 fő		|  
+|35-44		|17.5%	|~61 fő		|  
+|25-34		|42.8%	|~150 fő	|  
+|15-24		|31.8%	|~111 fő	|  
+#### Koncepciós perek  
+- 1957-től megkezdődtek a forradalmárok résztvevői elleni perek  
+##### Nagy Imre és társai  
+- Nagy Imre nem mondott le, de közvetlen munkatársaival együtt Jugoszlávia budapesti követségére menekült  
+- Őket csak később állították bíróság elé, pereiket teljes titoktartás mellett folytatták le  
+	- 1958  
+	- Nagy Imrét, Maléter Pált, Gimes Miklóst és Szilágyi Józsefet kivégezték, és Losonczy Géza a per előtt fogságban, kényszertáplálás következtében meghalt  
+	- Társaik több éves börtönbűntetést kaptak  
+##### 1963-as amnesztia  
+- A perbe fogottak hozzátartozói diszkriminálva lettek, még akkor is, ha megszűntek az eljárások  
+	- Pl. gyerekek 1963-ig nem nyerhettek felvételt főiskolákra és egyetemekre  
+- Az elítéltek aránya  
+
+| Származás					| Arány	|  
+|---------------------------|-------|  
+| Ipari Munkás				| 35.6%	|  
+| Mezőgazdasági munkás		| 7.4%	|  
+| Kulák						| 1%	|  
+| Termelőszövetkezeti tag	| 1.1%	|  
+| Kis-, Középparaszt		| 17%	|  
+| Értelmiségi				| 12%	|  
+| Alkalmazott				| 17.3%	|  
+| Iparos, kereskedő			| 3.9%	|  
+| Volt tőkés				| 4.4%	|  
+| Munkakerülő, csavargó		| 0.3%	|  
+  
+- 1963-ban nemzetközi nyomásra Kádárék itthon amnesztiát hirdettek  
+	- Az 56-os elítéltek zömét szabadon bocsájtották  
+	- Ezzel párhuzamosan az MSZMP-n belül  
+		- Háttérbe szorították a sztálinistákat  
+		- Fenntartották a besúgóhálózatot  
+			- Az egész társadalmat folyamatosan ellenőrizte  
+			- Emberek tömegeit kényszerítettek zsarolással arra, hogy környezetükről jelentéseket készítsenek  
+#### Különbségek a Rákosi korszakhoz képest  
+- Enyhébb diktatúra  
+- Életszínvonal növelése  
+- Hiánygazdaság helyett bővült a választék  
+- Reformok  
+- Mezőgazdasági hozzáállás  
+### Mit szerettek volna elérni a politikai stabilizáció érdekében  
+- Enyhébb, élhetőbb diktatúrát kívántak létrehozni, ezért  
+	- Óvakodtak a  
+		- Személyi kultusz felelevenítésétől  
+		- Látványos és napi politikai aktivitás kikényszerítésétől  
+	- Fokozatosan mérsékelték a terroruralom törvénytelenségeit  
+	- "Aki nincs ellenünk, az velünk van"  
+#### Gazdasági változások  
+- A forradalomból tanulva párt kiemelten kezelte az életszínvonal kérdését  
+	- A stabilizáció miatt alapvetőnek tekintették a mindennapi megélhetés szerény, de folyamatos javítását  
+- A forradalom okozta gazdasági problémák megoldását a szocialista tömb országai által nyújtott jelentős pénz- és áruhitel segítette  
+- A gazdasági tervekben  
+	- Csökkentették a beruházások arányát az életszínvonal emelésére szánt forrásokhoz képest  
+	- Nem erőltették a korábbiakhoz hasonló mértékben az alapanyag-termelő ágazatok (pl. bányászat, kohászat) fejlesztését  
+	- A nehézipar viszont továbbra is elsőbbséget élvezett  
+##### Mezőgazdasági politika  
+- 1956 után rövid ideig biztosította az egyéni parasztgazdaságok működési feltételeit, de a cél továbbra is a teljes kollektivizálás maradt  
+- A mezőgazdaság "szocialista átalakítását" (TSz-esítés) továbbra is erőltették, mert  
+	- A kisgazdaságoknál magasabb rendűnek vélték a mezőgazdasági nagyüzemeket  
+	- A mezőgazdaságból kívántak biztosítani az iparosításhoz szükséges munkaerőt  
+- Ez jelentős szerepet játszott a szovjet és más szocialista országok elvárásának való megfeleléshez  
+- 1959-1961 - Újbóli kollektivizálás  
+	- Ez se volt erőszakmentes  
+	- A kormányzat igyekezett közbe megnyerni a parasztokat  
+		- Kedvezményeket nyújtottak  
+		- Gépeket biztosítottak a gazdálkodáshoz  
+		- Kiterjesztették a társadalombiztosítást a TSz-es parasztokra  
+	- Jelentősen csökkentette az ellenállást, hogy  
+		- Lehetővé vált a háztáji gazdálkodás  
+			- Munkaidő előtt és után a TSz-tagok állatot gondoztak, szántóföldön, kertben, vagy később fóliasátorban dolgoztak  
+		- A kormány leverte az 1956-os forradalmat  
+			- A parasztgazdák számára nyilvánvalóvá vált, hogy a szovjetek által kényszerített rendszer marad  
+- Idővel elfogadottá vált a háztáji magángazdaság  
+	- Elősegítette a gazdatársadalom betagozódását  
+	- Hosszú távon viszont a hagyományos paraszti életforma, és a falu tömeges elhagyásához vezetett  
+#### Miért kapta a "legvidámabb barakk" elnevezést az ország  
+> Magyarország ironikus megnevezése 1968 és a rendszerváltozás, 1990 között [...] fogadtatták el a 'szabad világ' sajtójában a béketábor csapatainak csehszlovákiai bevonulása után (1968. Augusztus 20.) a Kádár-rendszert s annak új gazdasági mechanizmusát, mely a nyugatiak szerint pártkommunizmus helyett 'gulyáskommunizmust' épített.  
+> <span style="font-size:0.6em;">[\[forrás\]](https://lexikon.katolikus.hu/L/legvid%C3%A1mabb%20barakk.html)</span>  
+- 1968-1990  
+- Magyarország ironikus megnevezése  
+- A Kádár rendszer "új gazdasági mechanizmusa" miatt kaptuk a nevet  
+#### Az "élni és élni hagyni" politikája  
+- A 60-as évek elejétől az "osztályharcos szemlélet" háttérbe szorulása határozta meg a Kádár János vezette párt hatalomgyakorlását  
+	- Emiatt ráerőltethette akaratát a társadalomra  
+	- Ennek hiánya miatt másra kellett támaszkodni  
+- A kádári "paktum"  
+	- Egyoldalú volt, de a társadalom elfogadta a párt "kiegyezési" szándékát  
+	- Ha lemondanak a párt nyílt bírálatáról, az ellenzéki politizálásról, akkor magán- és családi életük zaklatásmentes lehet, és még anyagi gyarapodásra is volt esély  
+		- Saját lakáshoz jutás  
+		- 4-5 év várakozás után megvásárolhat egy autót  
+		- 3 évente utazhat Nyugatra  
+		- Vásárolhat kis saját telket  
+- Ez megteremtette a hatalom és a társadalom nagyobb konfliktusok nélküli együttműködését  
+### Gazdasági és Társadalmi változások a 60-70-es években  
+#### Új gazdasági mechanizmus  
+- Az életszínvonal biztosítása megkövetelte a mezőgazdaság mellett az ipar fejlesztését is  
+- Miután a mezőgazdaság átalakítása befejeződött, az ipar számára nem maradt munkaerő-tartalék  
+	- Az ipar extenzív (Régi gyárak bővítése, újak építése) fejlesztésének lehetősége lezárult  
+	- A fejlődés csak a termelékenység fokozásán alapulhatott  
+		- Az 1960-as évek közepére egyre nyilvánvalóbbá vált, hogy az intenzív (termelékenység növelésével való) gazdasági fejlődés a tervgazdaság rendszerében nem valósítható meg  
+- A szükséges reformokhoz az ország megkapta a Szovjetuniótól a beleegyezést  
+	- Létrejött 1968-ban az új gazdasági mechanizmus  
+- Az új gazdasági mechanizmus  
+	- A piacgazdaság elemeit kívánta a gazdaságba beépíteni  
+	- Tágabb keretet biztosított az önálló vállalati kezdeményezéseknek  
+	- Lehetőséget teremtett a "melléküzemágak" létesítésére  
+	- Lépéseket tettek a valós árak és bérek kialakítására is  
+	- A rendszerbe viszont politikai megfontolásból féket építettek  
+		- Alapelv maradt a teljes foglalkoztatás  
+		- Sok terméknél fennmaradt a kötött ár  
+		- Igyekeztek visszafogni a nagyon magas fizetéseket  
+	- A gazdaság fellendült  
+	- Az életszínvonal emelkedett  
+	- Viszont  
+		- A kívánatos hatékonyság nem növekedett  
+		- Nehezítette a reform megvalósítását, hogy M.O. a KGST tagjaként olyan országokkal kereskedett, amelyeknek a merev tervgazdálkodás érvényesült  
+		- Rontotta esélyeit, hogy a Varsói szerződés tagállamai (M.O. is beleértve) katonai erővel fojtotta el a "prágai tavaszt"  
+- A leállítás  
+	- A Brezsnyev-doktrína miatt le lettek állítva a reformok M.O.-n  
+	- 1972 - Félreállították a gazdasági változásokat kidolgozó politikusokat  
+	- 1973 - A reformot leállították  
+	- Kiderült, hogy a szocialista rendszer nem reformálható  
+#### Társadalmi változások  
+- A 60-70-es évek alatt a társadalmi átalakulás folytatódott  
+- Csökkent a mezőgazdaságban dolgozók és nőtt az iparban, és szolgáltatásokban dolgozók száma  
+- Mostmár nem tagadták ki az előző pártvezetést teljes mértékben  
+	- Alacsony életszínvonalra történő leszorítást  
+	- Egyben a kiugrási lehetőségek megszűnését jelentette  
+- Magánvállalkozók csak néhány szolgáltató és javító ágazatban működhettek (pl. cipész)  
+	- Ha nem kényszerítették bele egy KTSzbe (Kisipari TermelőSzövetkezet)  
+	- A nehéz feltételek (adó, adminisztráció) miatt befolyásuk alacsony volt, viszont jövedelmük általában átlag felett álltak  
+#### A gulyáskommunizmus  
+- A társadalom hétköznapjai és a politikai közélet egyre inkább eltávolodott egymástól  
+- A politikából kirekesztett emberek többségének figyelmét a magasabb életszínvonal elérése kötötte le  
+- A korszakban vált általánossá már a közepesen fejlett országokban is a technikai fejlődés következtében  
+	- a televízió  
+	- a háztartási gépek  
+	- Tömegessé vált az utazás a lakosság körében  
+- A gazdasági reform következtében Magyarországon, nőtt a fogyasztás a szocialista államokhoz képest  
+	- Jelentősen javult az életszínvonal  
+	- Lehetővé vált az autó  
+	- Elérhetővé váltak egyes közszükségleti cikk (mosógép, rádió, televízió)  
+	- Javult az élelmiszer-ellátás színvonala  
+- A javuló életkörülmények miatt a Kádár-korszak hetvenes éveit gulyáskommunizmusnak is nevezték  
+	- Nyugatról ered a név  
