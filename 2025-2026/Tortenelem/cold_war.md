@@ -881,7 +881,7 @@
 	- Többségüket szabadságvesztésre ítéltek  
 ##### "Mától kezdve lövünk"  
 - Egy sor tüntetést leállított 1956 decemberben a kormány  
-	- Marosán György a pártgyűlésen kimondta, "Mától kezdve lövünk"  
+	- **Marosán György** a pártgyűlésen kimondta, "Mától kezdve lövünk"  
 	- Budapest, Nyugati pályaudvar, December 6.  
 		- Vörös zászlós tüntetés verekedéssé alakult, majd lövöldözéssé  
 	- Salgótarján, December 8.  
@@ -905,20 +905,14 @@
 		- Keszthely  
 		- Kiskőrös  
 ##### Statisztikák (becslés, Tk.53/3)  
-- 20k sebesült  
-- 2.5k halott  
-- 350 Kivégzett  
-- 22k Bebörtönzött  
-- 13k Internált  
-- 200k Menekült  
-##### Kivégzettek életkori megoszlása (Tk.53/4)  
-|Életkor	|Arány	|Mennyiség	|  
-|-----------|-------|-----------|  
-|55+		|2.2%	|~8 fő		|  
-|45-55		|5.7%	|~20 fő		|  
-|35-44		|17.5%	|~61 fő		|  
-|25-34		|42.8%	|~150 fő	|  
-|15-24		|31.8%	|~111 fő	|  
+| Státusz	  | Mennyiség	|  
+|-------------|-------------|  
+| Sebesült	  | 20k			|  
+| Halott	  | 2.5k		|  
+| Kivégzett	  | 350			|  
+| Bebörtönzött| 22k			|  
+| Internált	  | 13k			|  
+| Menekült	  | 200k		|  
 #### Koncepciós perek  
 - 1957-től megkezdődtek a forradalmárok résztvevői elleni perek  
 ##### Nagy Imre és társai  
@@ -953,11 +947,15 @@
 			- Az egész társadalmat folyamatosan ellenőrizte  
 			- Emberek tömegeit kényszerítettek zsarolással arra, hogy környezetükről jelentéseket készítsenek  
 #### Különbségek a Rákosi korszakhoz képest  
+- Nincs személyi kultusz  
 - Enyhébb diktatúra  
 - Életszínvonal növelése  
-- Hiánygazdaság helyett bővült a választék  
-- Reformok  
-- Mezőgazdasági hozzáállás  
+- Besúgó rendszer helyett besúgóhálózat  
+- "Aki nincs ellenünk, az velünk van"  
+#### Mi az a KISZ  
+- "Kommunista Ifjúsági Szövetség"  
+- forradalomban tömegesen részt vevő ifjúság kommunista nevelését és ellenőrzését  
+- 1957 Tavasz  
 ### Mit szerettek volna elérni a politikai stabilizáció érdekében  
 - Enyhébb, élhetőbb diktatúrát kívántak létrehozni, ezért  
 	- Óvakodtak a  
@@ -994,7 +992,7 @@
 	- Elősegítette a gazdatársadalom betagozódását  
 	- Hosszú távon viszont a hagyományos paraszti életforma, és a falu tömeges elhagyásához vezetett  
 #### Miért kapta a "legvidámabb barakk" elnevezést az ország  
-> Magyarország ironikus megnevezése 1968 és a rendszerváltozás, 1990 között [...] fogadtatták el a 'szabad világ' sajtójában a béketábor csapatainak csehszlovákiai bevonulása után (1968. Augusztus 20.) a Kádár-rendszert s annak új gazdasági mechanizmusát, mely a nyugatiak szerint pártkommunizmus helyett 'gulyáskommunizmust' épített.  
+> Magyarország ironikus megnevezése 1968 és a rendszerváltozás, 1990 között \[...\] fogadtatták el a 'szabad világ' sajtójában a béketábor csapatainak csehszlovákiai bevonulása után (1968. Augusztus 20.) a Kádár-rendszert s annak új gazdasági mechanizmusát, mely a nyugatiak szerint pártkommunizmus helyett 'gulyáskommunizmust' épített.  
 > <span style="font-size:0.6em;">[\[forrás\]](https://lexikon.katolikus.hu/L/legvid%C3%A1mabb%20barakk.html)</span>  
 - 1968-1990  
 - Magyarország ironikus megnevezése  
