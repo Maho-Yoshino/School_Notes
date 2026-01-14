@@ -73,10 +73,32 @@
 		- A magyar nyelvet beszélők aránya/létszáma az anyaországban és az elcsatolt területeken  
 # Témakör: A magyar nyelv története  
 ## Tétel: Nyelvemlékek  
-1. A nyelvészet családfákat XIX. században Európában megjelent a nemzeti identitás kérdése -> Kutatási területek:  
-	1. Egy nép származása  
-	2. Nyelvének eredete  
-	3. Stb.  
-2. A nyelvtörténeti korszakok:  
-	1. Ősmagyar nyelv  
+1. Nyelvünk történetének korszakai:  
+	1. Ősmagyar kor  
 		- Kezdetektől kb. Kr.e. 1000-ig  
+		- Ősi írásunk a rovásírás, a latin betűs írás felváltja  
+	2. Ómagyar kor  
+		- A 11. századtól 16. század elejéig  
+		- Megjelenik a könyvnyomtatás  
+	3. Középmagyar kor  
+		- A 16. századtól a felvilágosodásig  
+		- Kezdete: 1772  
+		- Nyelvújítás kora is  
+	4. Újmagyar kor  
+		- A 20. század elejétől  
+		- Helyesírás szabályozás  
+	5. Legújabb kor  
+		- Internet, digitalizáció  
+2. A nyelvemlék:  
+> Mindaz, ami a nyelvnek a már megelőző **bármely korszakából** felmaradt, **írásos** adat  
+3. A nyelvemlékek típusai példákkal  
+	1. Szórványemlék  
+		> Latin/görög szövegekben elszórtan felbukkannak magyar szavak  
+		- 1055: I. András kiadja a Tihanyi apátság alapítólevelét  
+		- A bencés rend kapta  
+		- Latin nyelvű a szöveg, de 82 magyar szó/helységnév szerepel benne, pl. Tihon=Tihany, Balatin=Balaton  
+		- Ezen kívül tartalmaz egy mondat töredéket:  
+			> Feheruaru rea minek hodu utu rea  
+			- Jelentés:  
+			> Fehérvárra menő hadi útra  
+			- egy-két nyelvi jelenség: A toldalék gyakran önálló szó volt (pl. rea -> -ra)  
