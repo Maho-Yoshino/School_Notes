@@ -43,3 +43,20 @@
 			- Síkok elcsúsztatása  
 ## Világirodalom a XX. század elején  
 ### Apollinaire: A megsebzett galamb és a szökőkút (Szgy. 11)  
+### Federico Garcia Lorca (Tk. 22.o.)  
+#### Cigányrománcok (1928)  
+- Egy példa: Alvajáró románc  
+- A románc műfaja  
+	- Történetet elbeszélő verses műfaj  
+	- Hasonlít a balladához  
+	- Csattanóval, esetleg drámai befejezéssel  
+### Mihail Bulgakov: Mester és Margarita (Tk. 24-26.o.)  
+### Arthur Miller: Az ügynök halála (Tk 26.o.)  
+- Amerikai dráma  
+### Franz Kafka  
+- Német nyelvű prágai zsidó családban született  
+- Regényei  
+	- A per  
+	- A kastély  
+- Hivatalnokvilág:  
+#### Franz Kafka: Az átváltozás  
