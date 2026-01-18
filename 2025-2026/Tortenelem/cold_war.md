@@ -242,7 +242,7 @@
 - A szovjetunió csatlós államait tartalmazó katonai tömb  
 # Mi az a KGST?  
 - Kölcsönös Gazdasági Segítség Tanácsa  
-- 1949. Január 25., Moszkva  
+- 1949\. Január 25\., Moszkva  
 - Tagjai  
 	- Szovjetunió  
 	- Bulgária  
@@ -308,13 +308,13 @@
 - "Nyilvánosság"  
 - Az eddig politikából kizárt embereknek ekkortól lehetett hangot adni az elégedettlenségről  
 # Német egyesülés  
-- 1990. Október 3.  
+- 1990\. Október 3\.  
 - A győztes hatalmaknak le kellett mondani minden megszálló jogukról (Sz.U.-nak is)  
 # Szocialista tömb és szovjetunió összeesése  
 - Gorbacsov nem avatkozott be a szétesésbe  
 	- A balti államok ellen fegyveresen próbáltak fellépni  
 	- A régi kommunista Szovjetuniót feltámasztani vágyók sikertelen katonai puccskísérlete után abba is maradt  
-- 1991. December - Megszűnt a szovjetunió  
+- 1991\. December - Megszűnt a szovjetunió  
 - Létrehozták a FÁK-ét  
 	- Nem csatlakozott minden Szovjet tagállam  
 # Kennedy végzete  
@@ -348,7 +348,7 @@
 	- Viszont a SZEB beavatkozott  
 		- A Kormányt kényszeríti, hogy kommunistákat rakjanak a pártba (Belügy)  
 ## Mi az, hogy Szalámi taktika?  
-- Kikiáltották, hogy M.O. köztársaság legyen (1946. Február 1.)  
+- Kikiáltották, hogy M.O. köztársaság legyen (1946\. Február 1\.)  
 - Az államformától eltekintve minden kérdésben harc volt az FKgP és MKP között  
 - A kommunisták még több hatalomhoz akartak jutni  
 	- Felhasználták a tömegeket, a demagógia és megfélemlítés eszközeit  
@@ -402,7 +402,7 @@
 	- Belekeverték a kisgazda politikusok egy részét  
 	- "Köztársaságellenes összeesküvés"  
 	- Többeket letartóztattak  
-		- Kovács Bélát nem sikerült megfélemlíteni, a szovjet hatóságok elhurcolták (1947. Február 25.)  
+		- Kovács Bélát nem sikerült megfélemlíteni, a szovjet hatóságok elhurcolták (1947\. Február 25\.)  
 	- Szabadságát Svájcban töltő Nagy Ferencet megvádolták az összesküvésben való érintettséggel  
 		- Családját is fenyegetve érezte  
 		- Lemondott miniszterelnöki tisztségéről  
@@ -580,7 +580,7 @@
 	- A nép hálás neki  
 	- A fejlődés kizárólag neki köszönhető  
 - A kultusz részét képezte:  
-	- Ünnepségek (Rákosi 60. születésnapja)  
+	- Ünnepségek (Rákosi 60\. születésnapja)  
 	- Kötelező jellegű rendezvények  
 	- Verses, képi, filmes propaganda  
 ##### A művészetek és a tudomány teljes államosítása  
@@ -632,26 +632,6 @@
 - A személyi kultusz a rendszer legitimációjának eszköze volt.  
 - A szocialista realizmus minden alkotást politikai céloknak rendelt alá.  
 - Sztálinváros és más nagy projektek propagandaelemként működtek, nem a gazdasági racionalitás szerint.  
-## Dolgozat: 2025.12.02.  
-## Ténymegállapítások  
-### Tk. 10/9. ábra  
-- Ténymegállapítás: Az FKgP nyerte meg az 1945-ös választást 57%-al  
-- Hozzáfűzés: A nép nem akart kommunista kormányt, viszont az MKP így is sikeresen kormányba jutott a SZEB miatt, ők irányították a belügyet  
-### Tk. 16/2. ábra  
-- Ténymegállapítás: Az MKP a SZEB és az ÁVO használatával az ellenzéki pártokat tönkretették, 1945-től kezdődően, egyik módszerjük a "B" listázás, ami a megbízhatatlan hivatalnokokról lista  
-- Hozzáfűzés: A kommunisták egyénuralomra tudtak szert tenni, mivel a legtöbb párt nem volt képes indulni az 1949-es választásokon, megfelelő erővel  
-### Tk. 25/Zöld keret  
-- Ténymegállapítás: Rákosit annyira kellett tisztelni, hogy versek születtek róla  
-- Hozzáfűzés: Rákosi személyi kultusza annyira nagy volt, hogy a képeit kirakták még a bölcsödékbe is  
-### Tk. 27/9. forrás  
-- Ténymegállapítás: a Szovjetunió mintáját követve az országot a "vas és acél" országának akarták nevezni, nehézipart fejleszteni  
-- Hozzáfűzés: Az országnak adottságai ellenére erőltetett iparosítást folytattak, és Sztálinvárost létrehozták  
-### Tk. 30/19. ábra  
-- Ténymegállapítás: A kommunisták elkezdték a földbirtokosoktól a földet elvenni különböző taktikák használatával, a mezőgazdaság államosítását  
-- Hozzáfűzés: A magyar földbirtokosok jelentős része ellenkezett, akár erőszak ellenére is, éveken át sikertelen volt a TSz-ekbe erőltetés  
-### Tk. 31/22. forrás  
-- Ténymegállapítás: A kollektivizálás eléggé lassan történt, 1949 és 1953 között a kisparaszti gazdaság körülbelül 1/3-részét sikerült csak államosítani  
-- Hozzáfűzés: A magyar földbirtokosok ellenkeztek a kollektivizálásnak  
 ## 1956-os Forradalom  
 ### Előzmények  
 - 1953 - Sztálin halála  
@@ -672,14 +652,14 @@
 - Nagy Imrét 1955-ben menesztették  
 	- Kizárták a pártból  
 	- A hatalom ismét Rákosi kezébe került  
-	- Az SZKP (Szovjetunió Kommunista Pártja) 20. kongresszusán (1956 Február) kimondták, hogy a Sztálin idején elkövetett hibákat ki kell javítani  
+	- Az SZKP (Szovjetunió Kommunista Pártja) 20\. kongresszusán (1956 Február) kimondták, hogy a Sztálin idején elkövetett hibákat ki kell javítani  
 - Leváltják Rákosit (1956 Július)  
 	- Gyógykezelésre a Szovjetunióba távozott, sose jött vissza  
 	- Helyette jött Gerő Ernő  
 - Gerő Ernő pont olyan volt mint Rákosi  
 	- Nem hozott változásokat  
 ### Mi az a MEFESZ?  
-- 1956. október második felében az egyetemi ifjúság szervezetei sorra kiváltak a kommunista ifjúsági szervezetből (DISZ), és független mozgalmat alapítottak Szegeden, a MEFESZt  
+- 1956\. október második felében az egyetemi ifjúság szervezetei sorra kiváltak a kommunista ifjúsági szervezetből (DISZ), és független mozgalmat alapítottak Szegeden, a MEFESZt  
 - "Magyar Egyetemisták és Főiskolai Egyesületek Szövetsége"  
 - A hatalom nem lépett fel ellene, így az események felgyorsultak  
 	- A fővárosban és a vidéki egyetemi központokban létrejövő MEFESZ-szervezetek határozott követeléseket fogalmaztak meg, ezek tartalmazták többek között  
@@ -691,7 +671,7 @@
 		- A szovjet–magyar viszony kölcsönösségi alapokra helyezését  
 		- A szovjet csapatok kivonulását Magyarországról  
 	- A diákság a tánárokkal együtt az éjszakába nyúló nagygyűlést tartott  
-		- 1956. október 22.  
+		- 1956\. október 22\.  
 		- Pontokba szedték a követeléseiket  
 		- Azonban a diákság ekkor már ennél többet akart:  
 			- Valódi demokráciát  
@@ -707,7 +687,7 @@
 - A cenzúra eltörlése  
 - Kultúra megtartása (Kossuth-címer, honvédeknek hagyományőrző egyenruha)  
 ### Hogyan tört ki a forradalom?  
-#### 1956. Október 23.  
+#### 1956\. Október 23\.  
 - Az egyetemi ifjúság a Petőfi kör támogatásával tüntetést hírdetett  
 	- A lengyelekkel való szolidaritás kifejezésére a budapesti Bem térre  
 - A tüntetést először betiltotta a pártvezetés  
@@ -742,17 +722,17 @@
 - A felkelők a fegyverraktárakból, rendőröktől, kivezényelt katonáktól szereztek fegyvereket  
 - A harc a főváros több pontján fellángolt  
 - Budapesti rendőrök zöme nem fordult a nép ellen  
-- A megmozdulásokat a hajnalban gyalogsági kíséret nélkül érkező szovjet páncélosok sem tudták leverni (Október 24. hajnal)  
+- A megmozdulásokat a hajnalban gyalogsági kíséret nélkül érkező szovjet páncélosok sem tudták leverni (Október 24\. hajnal)  
 	- Megjelenésük csak tovább bőszítette a tömeget -> a harcok kiszélesedtek  
 	- Kezdetét vette a szabadságharc  
 ### A szabadságharc  
-#### Október 24.  
+#### Október 24\.  
 - A fővárosban történtekkel egy időben több vidéki, főként egyetemi, városban zajlott hasonló megmozdulás, demonstráció  
 - A pártvezetés Nagy Imrét a Minisztertanács élére helyzete a reményben, hogy elcsendesítse az ellenállást  
 	- A fegyveres felkelők már nem csak kormányváltást akart, hanem "gyökeres" változást  
 	- A pártvezetés kezéből így teljesen kicsúszott az események irányítása  
 - Mivel nem volt egy központi vezető/irányító alak, ezért a nép hangadói hol fiatal munkások, hol diákok és értelmiségiek lettek, és egyben az események meghatározói  
-#### Október 25.  
+#### Október 25\.  
 - A Nagy Imre vezette kormány statáriumot hírdetett  
 	- Felszólított a tűzszünetre, fegyverletételre  
 	- Hatástalan volt, a fiatalság felvette a küzdelmet a szovjet katonasággal  
@@ -765,7 +745,7 @@
 	- Ezzel párhuzamosan kiszorultak Rákosi követői a pártból  
 	- Ekkor lett Kádár János a párt élére téve  
 	- Ezen változások bekövetkezte után Nagy Imre kijelentette a felkelőkkel való megegyezést, hitet tett a forradalmi követelmények végrehajtása mellett  
-#### Október 26.  
+#### Október 26\.  
 - Mosonmagyaróváron 26-án a diákok, tanárok és a lakosság kinyilvánította csatlakozását a forradalomhoz  
 	- Felvonultak  
 	- Eltávolították a kommunista hatalom jelképeit (pl. vörös csillagok)  
@@ -776,7 +756,7 @@
 	- Október 26 - Nagykanizsa  
 	- Október 27 - Baj és Kalocsa, Tiszakécskén repülőgépből lőttek a tömegbe  
 	- Október 29 - Szabadszállás  
-#### Október 28.  
+#### Október 28\.  
 - Nagy Imre Rádió beszéde  
 	- Az eddig "ellenforradalmi felkelésnek" nevezett eseményeket nemzeti demokratikus forradalomnak nyilvánította  
 	- Bejelentette az ÁVH megszűntetétét  
@@ -790,14 +770,14 @@
 	- Ismét megvalósult a sajtószabadság, újjáalakultak az egykori pártok  
 	- Számos korábbi koncepciós per elítéltje kiszabadult a börtönből, Mindszenty József bíboros érsek pedig a házi őrizetből  
 	- A politikai változások betetézéseként Nagy Imre bejelentette, hogy november 1-től új, koalíciós alapon szerveződő nemzeti kormány veszi át az ország irányítását  
-#### Október 30.  
+#### Október 30\.  
 - Hamis hírek azt mondták, a megszűntetett ÁVH fegyveresei a kormányházban bujkálnak és föld alatti börtönökben kínoznak forradalmárokat  
 	- A tömeg megostromolta a pártszékházat  
 	- Miután a székház védelmére kirendelt páncélosok átálltak a tömeg oldalára, a védők megadták magukat  
 	- A tömeg meglincselt néhány ÁVH-s védőt  
 	- Ezt a forradalmárok többsége elítélte  
 		- A rend biztosítására egy önkéntes fegyveres, rendfenntartó Nemzetőrséget megszervezték  
-#### Hogyan harcoltak a szovjetekkel (46-47. oldal)  
+#### Hogyan harcoltak a szovjetekkel (46-47\. oldal)  
 - A felkelők egy-egy térhez vagy háztömbhöz kötődve szerveződtek fegyveres csoportokká, a környék lakóiból  
 	- Nagy volt a fiatalok aránya  
 	- Nagyon sok fiatal, pesti srác is részt vett a küzdelmekben, közük 12-13 évesek is  
@@ -823,7 +803,7 @@
 	- Egyrészt a szocialista országok vezetői erősen támogatták az erőszakos fellépést, mert féltették saját helyzetüket a magyar példától  
 		- Még Tito is ezt az álláspontot képviselte  
 ### Mi az a Forgószél hadművelet?  
-- 1956. november 4.  
+- 1956\. november 4\.  
 - Miközben a koalíciós alapon szerveződő Nagy Imre-kormány munkához látott, megindult a magyarországi szovjet csapatok megerősítése  
 - Konyev marsall vezetésével megkezdték a Magyarország lerohanásának tervét tartalmazó „Forgószél hadművelet” előkészítését  
 - A magyar kormány észlelte a szovjet csapatmozgásokat, kényszerhelyzetbe került, de nem hátrált meg  
@@ -831,32 +811,13 @@
 	- Megkérte az ENSZ főtitkárát, járjon közbe, hogy  
 		- A nagyhatalmak ismerjék el Magyarország semlegességét  
 		- A Biztonsági Tanács tűzze napirendre a magyarkérdés vitáját  
-- Vége: 1956. November 12.  
+- Vége: 1956\. November 12\.  
 ### Miért nem segített a nyugat?  
 - Forradalom idején kirobbant szuezi válság elvonta a figyelmet a magyarkérdésről, így Moszkva szabadabban dönthetett  
 - Döntő tényezőnek bizonyult az Amerikai Egyesült Államok állásfoglalása:  
 	- Mind az elnök, Eisenhower, mind a külügyminiszter, Dulles együttérzését fejezte ki a magyar nép iránt  
 	- Viszont Magyarországot a szovjet blokk részének tekintve nem kívántak beavatkozni, és ezt a szovjetek értésére adták  
 	- Diplomáciai bírálatokon túl semmit nem tettek, tehát a szovjetek szabad kezet kaptak Magyarországon  
-### Classroom  
-#### 11. Feladat  
-- a: A, D  
-- b: E  
-- c: Nagy Imre  
-#### 7. Feladat  
-- a: Rákosi rendszer  
-- b: 1956. Október 23.  
-- c: "\[...\] sztálini zsarnokság és politikai elnyomás jelképét \[...\]"  
-#### [21. Feladat](1956essze.docx)  
-- Hármas tagolás  
-	- Bevezetés  
-		- Helyben, időben elhelyezés  
-		- Események előzményei  
-	- Tartalom  
-		- Ténymegállapítás - Hozzáfűzés  
-		- Forrásfelhasználás  
-	- Befejezés  
-		- Pár következménye a történteknek  
 ## Kádár Korszak (1956-1989)  
 ### Kádár hatalomra kerülése  
 - Kihírdetéskor Kádár a még csak papíron létező *Forradalmi Munkás-Paraszt Kormány* élén nem rendelkezett tényleges hatalommal  
@@ -875,20 +836,20 @@
 #### Megtorlás  
 - Lassan megszervezték a saját karhatalmi bázisát volt ÁVH-sokból és a forradalomban részt nem vett kommunistákból ("Pufajkások")  
 - 1957 - Párthadsereg, a Munkásőrség megszerveződött a pufajkásokbók  
-	- Az MSZMP 1956. decemberi pártértekezlete ellenforradalomnak minősítette a forradalmat  
-- Rendeletben 1956. decemberben feloszlatták a munkástanácsokat  
+	- Az MSZMP 1956\. decemberi pártértekezlete ellenforradalomnak minősítette a forradalmat  
+- Rendeletben 1956\. decemberben feloszlatták a munkástanácsokat  
 	- Kádár vezetőiket a parlamentbe hívta, ahol letartóztatták őket  
 	- Többségüket szabadságvesztésre ítéltek  
 ##### "Mától kezdve lövünk"  
 - Egy sor tüntetést leállított 1956 decemberben a kormány  
 	- **Marosán György** a pártgyűlésen kimondta, "Mától kezdve lövünk"  
-	- Budapest, Nyugati pályaudvar, December 6.  
+	- Budapest, Nyugati pályaudvar, December 6\.  
 		- Vörös zászlós tüntetés verekedéssé alakult, majd lövöldözéssé  
-	- Salgótarján, December 8.  
+	- Salgótarján, December 8\.  
 		- Fegyvertelen tömegbe lőttek  
 		- 50+ halál  
-	- Miskolc, December 10.  
-	- Eger, December 11-12.  
+	- Miskolc, December 10\.  
+	- Eger, December 11-12\.  
 		- Egerben is voltak halálos áldozatok  
 	- Emellett  
 		- Pécsett  
@@ -992,7 +953,7 @@
 	- Elősegítette a gazdatársadalom betagozódását  
 	- Hosszú távon viszont a hagyományos paraszti életforma, és a falu tömeges elhagyásához vezetett  
 #### Miért kapta a "legvidámabb barakk" elnevezést az ország  
-> Magyarország ironikus megnevezése 1968 és a rendszerváltozás, 1990 között \[...\] fogadtatták el a 'szabad világ' sajtójában a béketábor csapatainak csehszlovákiai bevonulása után (1968. Augusztus 20.) a Kádár-rendszert s annak új gazdasági mechanizmusát, mely a nyugatiak szerint pártkommunizmus helyett 'gulyáskommunizmust' épített.  
+> Magyarország ironikus megnevezése 1968 és a rendszerváltozás, 1990 között \[...\] fogadtatták el a 'szabad világ' sajtójában a béketábor csapatainak csehszlovákiai bevonulása után (1968\. Augusztus 20\.) a Kádár-rendszert s annak új gazdasági mechanizmusát, mely a nyugatiak szerint pártkommunizmus helyett 'gulyáskommunizmust' épített.  
 > <span style="font-size:0.6em;">[\[forrás\]](https://lexikon.katolikus.hu/L/legvid%C3%A1mabb%20barakk.html)</span>  
 - 1968-1990  
 - Magyarország ironikus megnevezése  
@@ -1061,3 +1022,123 @@
 	- Javult az élelmiszer-ellátás színvonala  
 - A javuló életkörülmények miatt a Kádár-korszak hetvenes éveit gulyáskommunizmusnak is nevezték  
 	- Nyugatról ered a név  
+### Válságba kerül a Kádár-rendszer  
+- Egyre nagyobb külföldi hiteleket vettünk fel  
+	- Ebből az életszínvonal fenntartását fizették  
+	- Eladósodtunk  
+- Politikai aktivitás erősödött  
+- Ellenzéki gondolkodás megjelenése  
+#### Szamizdat  
+- Illegálisan sokszorosított kiadványok  
+- Rendszerkritikus írások, ellenzéki gondolatok  
+- Célja a cenzúra megkerülése  
+### Monori találkozó (1985)  
+- Ellenzéki tanácskozás  
+- A pártállam megszüntetésében és a politikai szabadságjogok kiterjesztésének szükségességében minden résztvevő egyetértett  
+### Lakitelki találkozó (1987)  
+- 180 nemzeti gondolkodású értelmiségi jött össze  
+- Megvitatták az ország és nemzet "sorskérdéseit"  
+- A Magyar Demokrata Fórum (MDF) megalakulásának előzménye  
+- Rövidesen ezután megalakult a Szabad Demokraták Szövetsége (SZDSZ), majd 1988-ban a Fiatal Demokraták Szövetsége (Fidesz)  
+### Pártok  
+- Új pártok alakultak  
+	- MDF (Magyar Demokrata Fórum)  
+	- SZDSZ (Szabad Demokraták Szövetsége)  
+	- Fidesz (Fiatal Demokraták Szövetsége)  
+	- Kisgazdapárt  
+- Újra megalakultak a történelmi pártok  
+	- SZDP (Szociáldemokrata párt)  
+	- FKgP (Független Kisgazda-, Földmunkás- és Polgári Párt)  
+	- KDNP (Keresztény Demokrata Néppárt)  
+### Tüntetések  
+- Tömeges, békés demonstrációk  
+- Követelések  
+	- Szabadságjogok  
+	- Többpártrendszer  
+	- Szovjet csapatok kivonása  
+### Kádár leváltása  
+- Pozsgay Imre  
+	- 1989: "’56 népfelkelésnek" nevezi az eseményeket  
+	- Rendszer legitimitásának megingása  
+- Kádár János  
+	- 1988-ban leváltják a párt éléről  
+- Németh Miklós  
+	- Reformokat támogató miniszterelnök  
+	- Békés átmenet híve  
+#### Egyesülési és gyülekezési jogról szóló törvény (1989\. Február)  
+- Törvény a pártalapításról és tüntetésről  
+- Jogilag is lehetővé válik a többpártrendszer  
+### Nagy Imre újratemetése (1989\. Június 16\.)  
+- Politikai fordulópont volt  
+- A kommunista rendszer erkölcsi bukását jelentette  
+### Kádár halála (1989)  
+- Szimbolikus korszaklezárás  
+- A rendszer személyi alapjának megszűnése  
+### Rendszerváltás  
+#### MSZP  
+- "Magyar Szocialista Párt"  
+- Az MSZMP utódpártja  
+	- Örökölte az MSZMP vagyonát és hatalmi pozícióját  
+- Reformkommunistákból alakult  
+- Szociáldemokrata irány  
+#### EKA (Ellenzéki Kerekasztal)  
+- Az ellenzék egységes fellépése érdekében hozták létre  
+- Összefogta a legnagyobb társadalmi támogatottságot élvező ellenzéki pártokat pl.  
+	- MDF  
+	- SZDSZ  
+	- FIDESZ  
+	- SZDP  
+	- KDNP  
+	- FKgP  
+#### Nemzeti kerekasztal  
+- Állampárt, ellenzék és társadalmi szervezetek  
+#### Rendszerváltás  
+- 1989 nyarán kezdődtek meg a békés átmenetet előkészítő tárgyalások  
+	- MSZMP és az ellenzéki erőket képviselő Ellenzéki Kerekasztal (EKA) között  
+	- A tárgyalások a háromoldalú Nemzeti Kerekasztal keretében folytak  
+	- az MSZMP és az EKA képviselői megállapodtak  
+		- A békés átmenet legfontosabb jogszabályairól, a sarkalatos törvényekről  
+		- Az átmenet forgatókönyvéről  
+	- 1989 szeptember  
+	- Az MSZMP beleegyezett  
+		- Az ellenzék által javasolt alkotmánymódosításba  
+		- A többpártrendszeren alapuló szabad választások feltételeinek megteremtésébe  
+		- És garanciát vállalt arra, hogy mindezeket az országgyűlés jóváhagyja  
+- Ezzel párhuzamosan Németh Miklós kormánya (az utolsó kommunista kormány)  
+	- Hozzákezdett a pártállam intézményeinek lebontásához  
+	- Szovjetunióhoz és a többi szocialista országhoz fűződő kapcsolatok átértelmezéséhez  
+	- Tárgyalásokat kezdett a szovjet csapatok magyarországi kivonulásáról  
+- 1989\. október 23:  
+	- Az Országgyűlés módosította a kommunista diktatúra alkotmányát  
+	- Összhangba hozták a rendszerváltoztatással  
+	- Megszűnt a népköztársaság, és kikiáltották hazánkban a köztársaságot  
+#### Első választás  
+- 1990 március és április  
+	- kétfordulós volt  
+	- A szavazásra jogosult polgárok majdnem kétharmada (65,77%) adta le a szavazatát  
+	- A Magyar Demokrata Fórum nyerte meg  
+		- Antall József vezetésével az MDF–FKgP–KDNP koalíciója alakított kormányt  
+- A parlament legerősebb ellenzéki pártja a radikális antikommunista jelszavakat hangoztató SZDSZ lett  
+#### MDF SZDSZ paktum  
+- Az MDF és az SZDSZ politikai megállapodása (1990)  
+- Célja:  
+	- Alkotmányos működés biztosítása  
+	- A kormányozhatóság megteremtése  
+- Tartalma:  
+	- A köztársasági elnököt az Országgyűlés választja  
+	- Az SZDSZ támogatja az MDF-kormányt bizonyos kérdésekben  
+#### 1990 őszi önkormányzati választások  
+- A helyi önkormányzati rendszer kiépítése  
+- Települési és megyei önkormányzatok létrejötte  
+- A demokratikus helyi hatalom megszilárdulása  
+#### Antall kormány nehézségei  
+- Súlyos gazdasági örökség  
+	- Magas államadósság  
+	- Munkanélküliség megjelenése  
+- Társadalmi feszültségek  
+- Rendszerváltás költségei  
+- Tapasztalatlan demokratikus intézményrendszer  
+### Szovjetek végleges kivonulása  
+- Vége: 1991  
+- Az állami szuverenitás visszaállt  
+- A hidegháborús korszak lezárása Magyarországon  

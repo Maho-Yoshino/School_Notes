@@ -1,3 +1,4 @@
+import re
 from os import chdir, path
 from sys import argv, exit
 
@@ -23,13 +24,23 @@ def fix_content(file_dir:str):
 		if " " in line[:first_char]:
 			line = line.replace(" ", "\t", line.count(" ", 0, first_char))
 		return line.removesuffix("\n").removesuffix("\r\n").removesuffix("\t")
-	
+	def escape_numbers(line:str) -> str:
+		m = re.match(r'^(\s{0,3}[0-9]{1,4}\.\s+)', line)
+		if m:
+			prefix = m.group(1)
+			rest = line[len(prefix):]
+		else:
+			prefix = ""
+			rest = line
+		rest = re.sub(r'(^|[^0-9])([0-9]{4})\.(?:([^0-9])|$)', lambda m: m.group(1) + m.group(2) + r'\.' + (m.group(3) or ""), rest)
+		return prefix + rest
 	new_content = ""
 	for line in text:
 		if line in ("\n", "\r\n"):
 			new_content += line
 			continue
 		line = replace_space_tab(line)
+		line = escape_numbers(line)
 		while line[-2:] != "  ":
 			line += " "
 		new_content += line + "\n" 
@@ -49,3 +60,4 @@ if __name__ == "__main__":
 		print("❌ Not a Markdown file.")
 		exit(1)
 	fix_content(file_path)
+	exit(0)

@@ -18,26 +18,26 @@
 	- A lengyelek elutasították  
 	- A nyugati hatalmak még bíztak benne, hogy a két diktatúra egymással kerül szembe  
 	- A szovjetek attól féltek, egyedül kerülnek háborúba Németországgal, a nyugati hatalmakkal szövetségben nem látták biztosítva a nyugati irányú szovjet terjeszkedést -> Hitler ezt belátva egyezséget küldött Sztálinnak  
-- 1939. Augusztus. 23. - Molotov Ribbentrop paktum  
-- 1939. Szeptember 1. - Németország mondva-csinált okokra hivatkozva megtámadták Lengyelországot  
+- 1939\. Augusztus. 23\. - Molotov Ribbentrop paktum  
+- 1939\. Szeptember 1\. - Németország mondva-csinált okokra hivatkozva megtámadták Lengyelországot  
 	- Nagy-Brittania és Franciaország, a lengyelekkel kötött szerződések értelmében válaszul hadat üzentek Németországnak -> **Kitört a háború**  
 ## Mi az a furcsa háború?  
 - Háborúba vannak a Németek a Franciákkal és Britekkel, viszont semmi se történik egy ideig  
 - Viszont: Finnország - Szovjetunió (Téli) háború  
 ## Hitler terjeszkedő lépései  
-- 1940. Április - Dánia és Norvégia elfoglalása  
+- 1940\. Április - Dánia és Norvégia elfoglalása  
 	- Ezzel biztosította a svéd vasércbányák elzárását az angoloktól -> a vasércből német fegyverek lettek  
 	- Bábkormány lesz ezeken a területeken  
 - Az északi sikerek után a Wehrmacht nyugatnak indult, Belgiumon át kikerülték a Maginot-vonalat  
 	- Ekkor kimutatódott, hogy a modern hadviselés a gyorsan mozgó páncélosokon, azokat támogató gépesített egységeken és a velük együttműködő légierőn alapult  
-- 1940. Június - Franciaország kapitulált  
+- 1940\. Június - Franciaország kapitulált  
 	- A német katonák kihúzták a múzeumból azt a vasúti kocsit, amibe 1918-ban a fegyverletételt aláírták, hogy ott írják alá a franciák a kapitulációt  
 	- Létrejön Vichy Franciaország (franciák déli része, együttműködő állam)  
 	- a megadást ellenző francia tisztek Londonba menekültek, onnan megszervezték a "Szabad franciaország" mozgalmat  
 ## Az "Angliai csata"  
 - A németeknek a szovjeteken kívül mostmár csak az angolok jelentethettek veszélyt, mivel az USA nem avatkozott be a háborús eseményekbe  
 - Hitler hitt a kiegyezésben az angolokkal, az új Miniszterelnök, Winston Churchill (1940-1945) viszont az ellenállás mellett döntött -> Hitler célja mostantól anglia elfoglalása  
-- 1940. Július-Szeptember  
+- 1940\. Július-Szeptember  
 - A németek elkezdték bombázni a briteket  
 - Ez viszont nem összeroppantotta az országot, hanem erősebbé tette, elkezdtek az emberek sorakozni Churchill mögött  
 	- Az RAF (Royal Air Force) olyan komoly veszteségeket okozott a németeknek, hogy le kellett állítani a támadást  
@@ -68,13 +68,13 @@
 	- A csapatok amik lecsatoltak partizánokként folytatták, nehezítve az utánpótlást  
 - A nem várt ellenállás, rossz utak következtében egyre kevésbé részesült a német haderő technikai és kiképzési fölénye  
 - A téli hidegben a német technológia gyakran csődöt mondott  
-- A vörös hadsereg Moszkva alatt megállította a németeket (1941. November-December)  
+- A vörös hadsereg Moszkva alatt megállította a németeket (1941\. November-December)  
 ## Mi az az izolacionizmus (Tk. 215)  
 - Az USA távol akart maradni a háborútól  
 	- A flottájukat leszámítva kisebb katonai erővel rendelkezett mint hazánk bármely szomszédja  
 	- Roosevelt felismerte a Német és Japán veszély nagyságát, viszont a háborúellenes hangulat miatt meg volt kötve a keze  
 	- Engedélyezte, hogy az amerikai vállalatok nyersanyagot és hadianyagot szállítsanak a briteknek  
-	- A britek valuta- és aranytartalékai kimerültek -> Kölcsönbérleti törvény (1941. Március)  
+	- A britek valuta- és aranytartalékai kimerültek -> Kölcsönbérleti törvény (1941\. Március)  
 		- Fizetés nélküli szállítások engedélyezése  
 ## Az USA belép (Tk. 216-217)  
 - Japán háborút viselt Kínában a 30as évek eleje óta  
@@ -83,7 +83,7 @@
 	- A japánok emiatt az USAban látták a fő ellenséget  
 	- A szovjetekkel nemmegtámadási szerződést kötöttek, hogy teljes erővel az USA ellen fordulhassanak  
 - Pearl Harbor  
-	- **1941. December 7.**  
+	- **1941\. December 7\.**  
 	- Japán hadüzenet nélkül megtámadta az USA csendes óceáni támaszpontját, Pearl Harbort -> **Belépett az USA**  
 ## Mi történt Sztálingrádnál? (Tk. 218-219)  
 - 1942, Sztálingrád irányába összpontosult a Német támadás  
@@ -91,20 +91,20 @@
 - Sztálin parancsára a Vörös hadseregnek a végsőkig tartani kellett Sztálingrádot  
 	- Október elejére a város nagy része a németek kezére került, a szovjetek nem vonultak vissza  
 	- Rendkívül hideg tél jött, a németeket megállítva  
-- Ez után a szovjetek ellentámadást indítottak, bekerítették Paulus vezette 6. hadsereget, 1943. Február végére az utolsó ellenálló német egységeket is legyőzték  
+- Ez után a szovjetek ellentámadást indítottak, bekerítették Paulus vezette 6\. hadsereget, 1943\. Február végére az utolsó ellenálló német egységeket is legyőzték  
 ## Mi az az El Alamein-i csata (Tk. 220)  
 - Rommel előrenyomuló Afrika hadtestjét az egyiptomi kikötőváros közelében, El-Alameinnél állította meg Montgomery tábornok  
-- 1942. November eleje  
+- 1942\. November eleje  
 - Az amerikaiak Eisenhower tábornok vezetésével Marokkóban az Angolok és Amerikaiak 1943 elejére kiszorították Afrikából a németeket és olaszokat  
 ## Mi az a Midwayi csata? (Tk. 220)  
 - 1942 Nyara  
-- Az USA hadiflotta egységei a Midway-szigeteknél jelentős győzelmet arattak (1942. Június 5.)  
+- Az USA hadiflotta egységei a Midway-szigeteknél jelentős győzelmet arattak (1942\. Június 5\.)  
 - Evvel megállították a japán előrenyomulást  
 - Az ezt követő évben megindult az ellentámadás, az amerikaiak szigetről szigetre szorították vissza a japánokat (békaugrás hadművelet)  
 ## Mikor és hogyan zajlott a Szicíliai partraszállás? Következményei? (Tk. 220)  
 - 1943 Nyarán sikeresen partra szálltak a szövetségesek Szicíliában, majd Dél-itáliában  
-- Az olasz király a katonai vezetőkre támaszkodva leváltotta Mussolinit (1943. Július)  
-- Olaszország kilépett a háborúból (1943. Szeptember)  
+- Az olasz király a katonai vezetőkre támaszkodva leváltotta Mussolinit (1943\. Július)  
+- Olaszország kilépett a háborúból (1943\. Szeptember)  
 - Nem használták ki a szövetségesek a lehetőséget, a németek megszállták Olaszország területének jelentős részét  
 - Ez után az Angol-Amerikai előrenyomulás észak felé lelassult (csigaoffenzíva)  
 ## Atlanti csata (Tk. 221)  
@@ -115,39 +115,39 @@
 - 1943-ra eldőlt a csata  
 ## Kurszki tankcsata (1943)  
 ## Mi az az Atlanti charta (Tk. 221)  
-- 1941. Augusztus  
+- 1941\. Augusztus  
 - A háború után kialakítandó világrend alapelveit leírták  
 	- Demokrácia  
 	- Nemzeti önrendelkezés  
 	- Szabadkereskedelem  
 	- Annexió nélküli béke  
-- A meghírdetett elveket nem tudták teljesen érvényesíteni, miután a Szovjetunió csatlakozott a Chartához 1941. Szeptemberében  
+- A meghírdetett elveket nem tudták teljesen érvényesíteni, miután a Szovjetunió csatlakozott a Chartához 1941\. Szeptemberében  
 ## Mi az a Teherányi csúcstalálkozó (Tk. 222)  
 - 1943 Vége (Nov. 28 - Dec. 1)  
 - Megállapodott Churchill, Sztálin és Roosevelt a második front megnyitásáról Észak-Franciaországban  
 - Sztálin kötelezettséget vállalt, hogy gőztes európai háború után megtámadja Japánt  
 - Már itt felmerült a jövendő határok, elsősorban a Szovjetunió és Lengyelország határainak kérdése  
 - Szertefoszlottak Churchill elképzelései, miszerint a földközi-tengerről támadnák meg németországot, amivel közép-európát nyugati erők szabadították volna fel a német megszállás alól  
-## Mi történt 1944. Június 6-án? Következmények? (Tk. 222)  
-- 1944. Június 6. - Overlord Operáció  
+## Mi történt 1944\. Június 6-án? Következmények? (Tk. 222)  
+- 1944\. Június 6\. - Overlord Operáció  
 - Normandiában partra szálltak a szövetségesek, megnyitva a második frontot  
 - A szövetséges haderő gyorsan előrenyomult, segítve őket a francia ellenállás  
 - 1944 első felében a Vörös hadsereg átlépte a szovjet határt és folytatta előretörését  
 ## Hogyan kapitulálnak a németek? (Tk. 224)  
 - 1945 tavaszára a szovjetek kiszorították a Balkánról és Magyarországról a Német csapatokat, közeledtek Berlinhez  
 - A brit és amerikai erők gyorsan hatoltak kelet felé Németországban, és kissé lassabban haladtak észak felé Olaszországban  
-- A szovjet és nyugati szövetséges csapatok német földön, az Elbánál találkoztak (1945. Április 25.)  
-- Berlint a szovjet hadsereg ostromolta, s Hitler még a város eleste előtt öngyilkos lett (Április 30.)  
-	- Ez után pár nappal Németország feltétel nélkül megadta magát (**Május 8.**)  
-	- 1945. Május 9. - A háború utáni első békés nap Európában  
+- A szovjet és nyugati szövetséges csapatok német földön, az Elbánál találkoztak (1945\. Április 25\.)  
+- Berlint a szovjet hadsereg ostromolta, s Hitler még a város eleste előtt öngyilkos lett (Április 30\.)  
+	- Ez után pár nappal Németország feltétel nélkül megadta magát (**Május 8\.**)  
+	- 1945\. Május 9\. - A háború utáni első békés nap Európában  
 ## Mi az a Jaltai és Potsdami konferencia? (Tk. 224-225)  
 ### Jalta  
-- 1945. Február  
+- 1945\. Február  
 - A háború utáni rendezésről tárgyaltak  
 - Döntöttek Németország megszállási övezetekre bontásáról, gondoskodnak a háborús bűnök megbűntetéséről, nácizmus megsemmisítéséről  
 - Megállapodtak lengyelországról, Elismerték a szovetek háború előtti hódításait, s Lengyelországot nyugaton német területekkel kárpótolták (Lengyelországot nyugatra tolták valójában)  
 ### Potsdam  
-- 1945. Július  
+- 1945\. Július  
 - A résztvevők személye változott:  
 	- Sztálin  
 	- Attlee (Churchill elvesztette a választásokat)  
@@ -157,15 +157,15 @@
 	- Az ország megszállási övezeteit  
 	- Konkretizálták a háborús bűnösök felelősségre vonásának módját (nemzetközi bíróság)  
 - Már ekkor kezdett az USA és Szovjetunió közti szembenállás erősödni, de még hittek az együttműködésben  
-- A háború utáni rendezést szolgálta a győztes hatalmak által San Franciscóbsan tartott konferencia, ahol az Atlanti Charta alapelveiből kiindulva, a béke fenntartására létrehozták az ENSZ-t (1945. Június, Egyesült Nemzetek Szervezete)  
+- A háború utáni rendezést szolgálta a győztes hatalmak által San Franciscóbsan tartott konferencia, ahol az Atlanti Charta alapelveiből kiindulva, a béke fenntartására létrehozták az ENSZ-t (1945\. Június, Egyesült Nemzetek Szervezete)  
 ## Hogyan ér véget a háború?  
 - 1944 közepére a japán hadiflotta súlyos veszteségeket szenvedett, viszont hadseregük Kínában és Japánban még jelentős erővel bírt (2M+ katona)  
 - Az amerikai haditengerészet ellen bevetették az öngyilkos repülőket (kamikazék) és élő torpedókat  
 - Az amerikai tengeralattjárók 1944 végére lehetetlenné tették a japán szigetekről való kihajózást  
-- Az amerikaiak hatalmas emberveszteségeket követelő szárazföldi harcok helyett atombombákat dobtak két japán városra, Hirosimára (Aug. 6.) és Nagaszakira (Aug. 9.)  
+- Az amerikaiak hatalmas emberveszteségeket követelő szárazföldi harcok helyett atombombákat dobtak két japán városra, Hirosimára (Aug. 6\.) és Nagaszakira (Aug. 9\.)  
 - Az atomtámadást a Szovjetuniónak figyelmeztetésnek is szánták  
 - A szovjetek felmondták a japánokkal kötött nemmegtámadási szerződést, Mandzsúriában támadni kezdtek  
-- Az atomtámadás és szovjet hadsereg előretörése fegyverletételre kényszerítette a japánokat, **1945. Szeptember 2.**  
+- Az atomtámadás és szovjet hadsereg előretörése fegyverletételre kényszerítette a japánokat, **1945\. Szeptember 2\.**  
 ## Jövőhét doga  
 ## Hogyan zajlott a holokauszt?  
 - Megnevezések  
@@ -175,8 +175,8 @@
 - Nem csak a zsidókra vonatkozott, csak ők voltak a fő cél, viszont voltak testi/lelki fogyatékosok és más, alsóbbrendű fajok is  
 - Lépések  
 	1. Jogsértések (Politikai/Gazdasági, szabadságjogok korlátozása, Nürnbergi törvények (1935))  
-	2. Pogromok (pl. Kristályéjszaka, 1938. Nov.)  
-	3. Zsidók számára kötelezővé tették a sárga csillag viselését (1941. Szeptember)  
+	2. Pogromok (pl. Kristályéjszaka, 1938\. Nov.)  
+	3. Zsidók számára kötelezővé tették a sárga csillag viselését (1941\. Szeptember)  
 	4. Gettókba tették őket  
 	5. Munkatáborok  
 	6. Deportáció, 2 módja volt  
@@ -190,7 +190,7 @@
 ## Hf: Roma Holokauszt rész (Tk. 242) elolvasása  
 ## https://classroom.google.com/u/2/c/NDg5NDI1MTgyMjcz  
 1. Hamis, nem franciák hanem németek  
-2. Hamis, 1939. Szeptember 1.  
+2. Hamis, 1939\. Szeptember 1\.  
 3. Hamis, a lengyelek, nem a franciák  
 4. Igaz  
 5. Hamis, nem voltak problémák Quisling-el  
@@ -236,38 +236,38 @@
 	- A menekülteket nem szolgáltattuk ki a németeknek  
 	- A menekültek nagy része Frnaciaországba és Nagy-Britanniába távozott, másoknak továbbá menedéket nyújtott az ország  
 ### II. Bécsi döntés  
-- 1940. Augusztus 30.  
+- 1940\. Augusztus 30\.  
 - Magyarországnak ítélte Észak-Erdélyt és Székelyföldet  
 - Sok magyar román területen maradt  
 - Sok román magyar területre került  
 - Hitler ítélte ez meg, közeledünk a Németekhez  
 ### Miért lett öngyilkos Teleki?  
 - Teleki a Jugoszláv kormányhoz közeledett, ellensúly miatt a németek ellen  
-	- A kormányok 1940. végén barátsági szerződést írtak alá  
+	- A kormányok 1940\. végén barátsági szerződést írtak alá  
 	- 1941 tavaszán viszont katonai puccsal megdöntötték a jugoszláv kormányt az angolbarát tisztek  
 - Hitler elhatározta hogy jugoszláviát letámadja, nem akar bizonytalan helyzetet a területen  
 	- Felajánlották a katonai együttműködésért és részvételért cserébe területeinket  
 	- Ennek elfogadésa a nyugattól elszakadást, visszautasítása a németekkel szakítást jelentette  
-	- Teleki nem látott kiútat ebből, öngyilkos lett (1941. Április 3.)  
+	- Teleki nem látott kiútat ebből, öngyilkos lett (1941\. Április 3\.)  
 	- Hf.: Bárdossy László, Kálai Miklós  
 ## Bárdossy László  
-- Miniszterelnök: 1941. Április - 1942. Március  
+- Miniszterelnök: 1941\. Április - 1942\. Március  
 - Volt külügyminiszterünk  
-- A Magyar csapatok bevonultak délvidékre 1941. Áprilisában, de csak a jugoszláv állam szétesése után  
+- A Magyar csapatok bevonultak délvidékre 1941\. Áprilisában, de csak a jugoszláv állam szétesése után  
 - Az országhoz csatolták Muraközt, a Muravidéket, a baranyai háromszöget és Bácskát  
 - Ezt követően az angolok megszakították a diplomáciai kapcsolatokat, még a magyar csapatok délvidéki hadműveleteinek megkezdése előtt  
 ### Hadba lépés a Szovjetunió ellen  
 - Bárdossynak a belpolitikai helyzet az elődeinél mégrosszabbul állt  
 	- A szélsőjobb megerősödött  
 	- Német iskerek tetőfokán a honvéd tisztikarának jelentős része hinni kezdett a Német győzelemben  
-- 1941. Június 22. - Németek megtámadták a Szovjetuniót  
+- 1941\. Június 22\. - Németek megtámadták a Szovjetuniót  
 	- Románia nagy erőkkel csatlakozott  
 	- Megindultak a finn és szlovák haderő alakulatok is  
 - A Magyar vezetés félt, hogy romániának Hitler jobban fog kedvezni az "új európai rend" kialakítása során  
 - Horthy és a tisztikar nem akart kimaradni a bolsevizmus elleni hadjáratból  
 - A Honvéd Vezérkar főnöke úgy vélte, a Németek 6 hét alatt győznek a szovjetek ellen  
-- 1941. Június 26. - Kassa bombázása (a vezérkar szovjet támadásként vette)  
-- 1941. Június 27. - Beléptünk a szovjetellenes hadjáratba  
+- 1941\. Június 26\. - Kassa bombázása (a vezérkar szovjet támadásként vette)  
+- 1941\. Június 27\. - Beléptünk a szovjetellenes hadjáratba  
 ### Bárdossy megmenekül?  
 - Sztálin kérésére az angolok hadüzenetet küldtek (1941 végére)  
 - Pearl harbor után M.O. az USA-val is hadiállapotba került  
@@ -275,26 +275,26 @@
 - A Németek 1942-ben egy 200k fős hadsereget kértek keleti hadműveleti területekre  
 - A Moszkvai vereség után felerősítette a Bethlen féle irányzat hatását a politikai életre és kormányzóra  
 	- Aki 1942 Tavaszán menesztette a németeknek engedékeny Bárdossy Lászlót  
-	- Helyére jött Kállay Miklós (1942. március - 1944. március)  
+	- Helyére jött Kállay Miklós (1942\. március - 1944\. március)  
 ## Kállay Miklós  
 - Elvárták tőle a Németországhoz fűződő szálak lazítását  
 ### Az ellenállás fokozódása  
 - A Magyar társadalomban a német sikerek és a németek által elért revíziós eredmények növelték Németország népszerűségét  
 - Viszont több tényező (Frontról halálhírek, moszkvai vereség, ország függetlenségének veszélyeztetése) cselekvésre buzdított sokakat  
 	- Nemzeti és baloldali érzelmű fiatalok tüntettek a háború és az erősödő náci veszély ellen  
-		- A Battyhyány-örökmécsesnél (1941. Október 6., Aradi vértanúk emléknapja)  
-		- Teleki Pál sírjánál (1941. November 1., Halottak napja)  
+		- A Battyhyány-örökmécsesnél (1941\. Október 6\., Aradi vértanúk emléknapja)  
+		- Teleki Pál sírjánál (1941\. November 1\., Halottak napja)  
 	- Széles népfront volt a Népszava karácsonyi száma (1941)  
-	- Komoly eredménynek számított a szintén népfront jellegű Magyar Történelmi Emlékbizottság létrehozása (1942. február)  
-		- Megszervezték a legjelentősebb háborúellenes tüntetést az 1848-as forradalom emléknapján (1942. március 15.)  
+	- Komoly eredménynek számított a szintén népfront jellegű Magyar Történelmi Emlékbizottság létrehozása (1942\. február)  
+		- Megszervezték a legjelentősebb háborúellenes tüntetést az 1848-as forradalom emléknapján (1942\. március 15\.)  
 	- Végül nem sok embert hatottak meg, sikertelenek voltak a tüntetések  
 ### Politikája  
 - Igyekezett új irányt adni a Magyar politikának, de a német befolyás ezt nem tette lehetővé  
 - Eközbe folyt a háború  
 	- A kor követelményeihez képest elmaradtak volt a hadseregünk  
-	- A 2. sereg a Sztálingrád felé támadó német hadsereg bal szárnyán tört előre  
+	- A 2\. sereg a Sztálingrád felé támadó német hadsereg bal szárnyán tört előre  
 	- Majd a Don kanyarulatnál védelemre rendezkedtek be  
-	- A Sztálingrádnál induló ellentámadást nem tudtuk visszatartani, 1943. január-február - Hatalmas veszteségek  
+	- A Sztálingrádnál induló ellentámadást nem tudtuk visszatartani, 1943\. január-február - Hatalmas veszteségek  
 		- Akadozó utánpótlás  
 		- Olaszok elmenekülése  
 		- Fegyverek lefagyása  
@@ -303,59 +303,59 @@
 		- Túlterjeszkedés  
 - Kállay már a doni katasztrófa előtt elkezdte a háborúból való kilépés előkészítését  
 	- Elhatározását ebben megerősítette a doni katasztrófa és a németek sztálingrádi veresége  
-- Szent-Györgyi Albert részvételével Isztambulban megkezdődtek a tárgyalások az angolokkal, majd előzetes fegyverszüneti egyezményt kötöttek (1943. szeptember-október)  
+- Szent-Györgyi Albert részvételével Isztambulban megkezdődtek a tárgyalások az angolokkal, majd előzetes fegyverszüneti egyezményt kötöttek (1943\. szeptember-október)  
 	- Közben a kormány megtagadta Hitler kérését, hogy újabb seregeket küldjünk a frontra, majd Horthy kiállt emellett, és Kállay leváltását Hitler egyre jobban követelte  
 ## Német Megszállás  
-- "Margaréta hadművelet", 1944. Március 19.  
+- "Margaréta hadművelet", 1944\. Március 19\.  
 	- Náci bábállam készítése Magyarországból  
 - Horthyt Berlinbe hívták  
 	- Együttműködést rendelt el, legalizálva a német megszállást  
 	- Így a nyugatnak még inkább ellenség lettünk  
 - Hazatérés után Horthynak el kellett fogadnia, hogy Edmund Veesenmayer (Hitler megbízottja) irányítsa az országot  
-- Korábbi berlini követet, Sztójay Dömét kellett kineveznie miniszterelnökké (1944. Március-Augusztus)  
+- Korábbi berlini követet, Sztójay Dömét kellett kineveznie miniszterelnökké (1944\. Március-Augusztus)  
 - Szabadságjogokat felfüggesztik  
 - Ezek után mozgósították az egész honvédséget, haborúba küldték  
 - Az ország erőforrásait teljes mértékben németek rendelkezésére bocsájtották  
 	- A németek ekkor nem fizettek a kiszállított árúért  
 	- Fokozódott az ország kirablása  
 - A nagy rakás német botrány és a deportáltakkal történt szörnyűségek egyértelművé válása után  
-	- Horthy menesztette Sztójay Dömét (1944. Augusztus) és a szélsőjobboldali politikusok egy részét  
+	- Horthy menesztette Sztójay Dömét (1944\. Augusztus) és a szélsőjobboldali politikusok egy részét  
 	- Leállíttatta a zsidóság deportálását  
 		- Ekkorra a vidéki zsidóság elszállítása már szinte befejeződött  
 		- Budapesti zsidóság egyenlőre megmenekült  
-- A román átállás után (1944. Augusztus) megnőtt a lehetősége a magyar kiugrásnak is  
+- A román átállás után (1944\. Augusztus) megnőtt a lehetősége a magyar kiugrásnak is  
 	- A magyar vezetőknek is világossá vált, hogy az országnak minél gyorsabban ki kell lépnie a háborúból  
 	- A Vörös Hadsereg már betört a Kárpát-Medencébe  
 - Az Árpád-vonal tartotta magát, biztosította a Kárpátok előterében szétvert német egységek visszavonulását  
 	- Szerepe lecsökkent, mivel a szovjetek az átállt román királyi haderővel együtt átkelt a Déli-Kárpátok hágóin  
 	- Szeptemberre eljutottak az alföldre  
 	- A Magyar és Német csapatok megpróbálták útjukat állni Dél-Erdélyben (Sikertelen volt)  
-	- 1944. Október első napjai, nagyszámú harckocsival és rohamtüzérséggel Debrecen térségében ellentámadást kíséreltek meg  
+	- 1944\. Október első napjai, nagyszámú harckocsival és rohamtüzérséggel Debrecen térségében ellentámadást kíséreltek meg  
 		- Átmenetileg eredményes volt, lehetőséget adott a visszavonulásra a Keleti-Kárpátokban állomásozó erőknek  
 		- A csata elhúzódott a hónap második feléig, de csak lassítani tudta a szovjeteket  
 - A kormányzó nehezen szánta el magát a tárgyalásra a szovjetekkel  
-	- Csak azután küldte el követeit Moszkvába (1944. Szeptember vége), hogy a nyugati szövetségesek jelezék, a "helyzet kulcsa" a szovjeteknél van  
+	- Csak azután küldte el követeit Moszkvába (1944\. Szeptember vége), hogy a nyugati szövetségesek jelezék, a "helyzet kulcsa" a szovjeteknél van  
 	- Molotov átadta a szovjet feltételeket, amelynek lényege az 1937-es határok visszaállítása és a németeknek szóló hadüzenet volt.  
 		- Horthy elfogadta  
 - A helyzetett rontotta, hogy a kormányzó nem számíthatott teljesen a honvédség tisztikarára  
 	- Jelentős részét németbarátnak vagy szélsőjobboldallal szimpazitánsnak tekintették  
 	- Kénytelen volt bevonni rokonait, akik nem értettek a szervezéshez  
 	- A németek a tervről tudomást szereztek, a végsőkig való kitartást hirdető nyilasokkal szimpatizáló tisztek pedig szabotáltak  
-	- A rosszul tervezett kiugrási kísérlet 1944. Október 15.-én gyorsan összeomlott  
+	- A rosszul tervezett kiugrási kísérlet 1944\. Október 15\.-én gyorsan összeomlott  
 - A szélsőjobboldali tisztek és nácik tudatosan gyengítették a kormányzó befolyását  
 	- A hozzá hű egységeket szétszórták a fronton  
 	- Budapestre küldték Skorzenyt, egy SS tisztet  
 		- Gátlástalanul bevetett mindent, hogy megakadályozza a kiugrást  
 		- Elraboltatta a kiugrási kísérlet egyik kulcsfiguráját (BP-i Magyar királyi I. Honvédhadtest parancsnokát), majd Horthy fiát is  
 - A kiugrást Horthy a rádióban jelentette be, és a csapatok is csak innen értesültek erről  
-	- Nagy hibának számított, hogy a többek javaslata ellenére nem ment ki a Kárpátokban harcoló magyar királyi 1. honvédhadsereghez  
+	- Nagy hibának számított, hogy a többek javaslata ellenére nem ment ki a Kárpátokban harcoló magyar királyi 1\. honvédhadsereghez  
 		- A kormányzó jelenlétében feltehetően léptek volna  
 	- A kormányzó a Várban passzívan, a magyar hadseregtől elzárva várta a fejleményeket  
-	- A német erőket szabadon felhasználhatták ellenük, csak Miklós Béla (1. hadsereg parancsnoka) ment át a szovjetekhez, követte őt 20k magyar katona, akiket a szovjetek hadifogolyként kezelték  
+	- A német erőket szabadon felhasználhatták ellenük, csak Miklós Béla (1\. hadsereg parancsnoka) ment át a szovjetekhez, követte őt 20k magyar katona, akiket a szovjetek hadifogolyként kezelték  
 	- A kiugrási kísérlet 1 nap alatt elbukott  
 - Horthy idősebb fia még 42ben hősi halált halt a keleti fronton, most pedig másik fiát a németek elrabolták, és vele zsarolták Horthyt, aki megadta magát  
 	- Lemondott az államfői tisztségről, hosszas rábeszélés és burkolt fenyegetések hatására aláírta Szálasi Ferenc miniszterelnöki kinevezését, aki egyben az államfői jogok gyakorlója lett  
-	- Horthyt családjával együtt németországba vitték (1944. Október 17.)  
+	- Horthyt családjával együtt németországba vitték (1944\. Október 17\.)  
 ## Nyilas rémuralom  
 - Horthy lemondása miatt az O.Gy. jóváhagyta, hogy Szálasi Ferenc a miniszterelnöki tisztség mellett az államfői teendőket is ellássa, nemzetvezető címmel  
 - A nemzetiszocialista kisebbség megszerezte a magyar államapparátust, a nyilasok ellenállás nélkül áldozhatták fel az ország emberi és anyagi erőforrásait  
@@ -370,14 +370,14 @@
 		- A nyilasterror áldozatául esett a gyógyszergyárát munkatársain keresztül titokban irányító Richter Gedeon  
 			- Vagyona segítségével svájcba menekülhetett volna, de nem hagyta el hazáját  
 	- A nyilasok keményen felléptek minden ellenállással szemben  
-		- A nyilasok és a németek elleni fegyveres fellépés megszervezésére 1944. november elején megalakult a népfront jellegű Magyar Nemzeti Felkelés Felszabadító bízottsága  
+		- A nyilasok és a németek elleni fegyveres fellépés megszervezésére 1944\. november elején megalakult a népfront jellegű Magyar Nemzeti Felkelés Felszabadító bízottsága  
 		- Vezetőjét, Bajcsy-Zsilinszky Endrét és a katonai vezetők közül többeket árulás miatt elfogták, egyeseket kivégeztek  
 - A nyilasok miatt az ország hadszíntérré vált, lakossága elszenvedte a harcok pusztításait és a katonák kegyetlenkedéseit  
 - A nyilas-hungarista hatalom alatt a honvédség a háború utolsó pillanatáig harcolt a németek oldalán  
 - A nyilasok kiszolgáltatták a háborúnak Budapestet is, közel 2 hónapos ostrommal foglalták el a szovjetek  
 	- Amikor a szovjetek körbezárták Budapestet, Hitler nem engedélyezte a kitörést -> egy hosszú, véres orstromra került sor  
-- A visszavonuló német hadsereg Székesfehérvár környékén sikertelen ellentámadást kísérelt meg (1945. Március)  
-- 1945. Április közepére a harcok véget értek Magyarországon, keleten már új hatalom szerveződött  
+- A visszavonuló német hadsereg Székesfehérvár környékén sikertelen ellentámadást kísérelt meg (1945\. Március)  
+- 1945\. Április közepére a harcok véget értek Magyarországon, keleten már új hatalom szerveződött  
 ## Szovjet megszállás  
 - Megszállás után a szovjet csapatok számolták fel a nemzetiszocialista és nyilasuralmat  
 - Nem a szabadság szándékával érkeztek, hanem a szovjet érdekszféra kiterjesztésének céljából  
@@ -389,7 +389,7 @@
 - A szovjet bűnök megtorlatlanul maradtak, nem lehetett róluk évtizedeken át beszélni  
 # HF: Tételkidolgozás - WW2  
 # Dolgozat kérdések  
-- Teleki Pál 2. Miniszterelnöksége  
+- Teleki Pál 2\. Miniszterelnöksége  
 - Hogyan léptünk be a háborúba? (Románok + Casus Belli)  
 - Milyen hadseregeket küldtünk keletre, Doni katasztrófa  
 - Kállay kiugrás kísérlete, Margaréta hadművelet  

@@ -1,5 +1,5 @@
 # Horthy Korszak  
-## Teleki Pál 1. miniszterelnöksége  
+## Teleki Pál 1\. miniszterelnöksége  
 - Földrajztudós és politikus  
 - Konszolidáció  
 	- Jelentése: Megszilárdítás  
@@ -27,7 +27,7 @@
 	- A miniszterelnöksége alatt bontakozott ki a konszolidáció, így a megvalósításuk Bethlen nevéhez kötődik  
 ## Bethlen István miniszterelnöksége (1921-1931)  
 - Budaörsi csata  
-	- 1921. Október  
+	- 1921\. Október  
 	- Második királypuccs próbálkozás  
 	- Fegyveres összecsapás  
 	- IV. Károly és támogatói VS Horthyék és támogatóik  
@@ -220,7 +220,6 @@
 		- Felemelkedett az Olasz fasizmushoz hasonlító Nemzetiszocialista mozgalom, Adolf Hitler vezetésével  
 ## Mi az az NSDAP  
 - Nacionalsocialistische Deutche Arbeitpartei -> Nemzetiszocialista német munkáspárt  
-- Hf.: Tanulni, Jegyzetelni az NSDAP programját, írd ki melyik pont melyik eszméhez köthető  
 ### Az NSDAP programjának pontjainak eszméi  
 - 1 - Nacionalizmus  
 - 2 - Nacionalizmus  
@@ -277,9 +276,9 @@
 	- Viszont a Hindenburg által javasolt kormányok gyorsan elbuktak  
 	- A politikai válság eredményeként a kommunisták is növelték népszerűségüket  
 	- A kommunista veszélytől megrémült jobboldal egyes csoportjai hajlottak a Hitlerrel való együttműködésre  
-	- Hindenburg hosszas egyezkedés után **Kancellárrá (kormányfővé) nevezte Hitlert** (1933. Jan. 30.) -> Alkotmányosan koalíciós kormány vezetőjeként került hatalomra  
+	- Hindenburg hosszas egyezkedés után **Kancellárrá (kormányfővé) nevezte Hitlert** (1933\. Jan. 30\.) -> Alkotmányosan koalíciós kormány vezetőjeként került hatalomra  
 	- csalódtak, akik kézben akarták tartani Hitlert, aki a szélsőséges csoportokra jellemző gátlástalansággal minden politikai eszközt megengedhetőnek tartott a hatalomszerzésre és megerősítésére -> A demokrácia szabályait kihasználva került kancellári székbe, és számolta fel az alkotmányosságot  
-- A hatalommal új választásokat írt ki (1933. Március)  
+- A hatalommal új választásokat írt ki (1933\. Március)  
 	- A választások előtt **Leégették a Reichstagot** (Birodalmi gyűlés épülete) -> evvel kizárták a kommunistákat a választásokból  
 	- Az NSDAP jelentős győzelmet aratott (43.9%)  
 	- Nyereség után új törvényhozással megszavazta a **felhatalmazási törvényt** (lehetővé tette, hogy törvényhozás nélkül, rendeletekkel kormányozzon <span style="font-size:0.6em;">(II. József flashback 😱)</span>)  
@@ -298,8 +297,7 @@
 		- "második forradalmat"  
 		- nagytőke korlátozását  
 	- 1934, Hosszú kések éjszakája, SA vezetőségét megöli az SS (Schutzstaffel, "védőosztag")  
-### Hf: 174, 175  
-#### Gazdaságpolitika  
+### Gazdaságpolitika  
 - A világválság nyomora tette lehetővé hatalomra jutásukat  
 - Nem szüntethették meg a magántulajdont, viszont megerősítették az állam irányító szerepét  
 	- Az állam rendelőként lépett fel (pl. autópályák építése)  
@@ -317,7 +315,7 @@
 	- A többi számára  
 		- munkát ajánlottak (pl. SS)  
 		- Földet ígértek a jövőben megszerzendő "keleti élettérben"  
-#### Az engedmények politikája  
+### Az engedmények politikája  
 - Hitler egyből a haderőt erősítette  
 	- Ez a Versailles-i békének ellent mond -> Kilépett a győzes béke felett őrködő Népszövetségből (1933)  
 	- Ismét bevezette az általános hadkötelezettséget  
@@ -333,7 +331,7 @@
 		- A Versailles-i béke szerint fegyvermentes övezet volt  
 		- A nyugatiak nem léptek fel ellene  
 	- A külpolitikai sikerek megerősítették Hitler helyzetét Németországban  
-#### Hatalmi átrendezés  
+### Hatalmi átrendezés  
 - A náci Németország megerősödése megváltoztatta európában az erőviszonyokat  
 	- Franciaország közeledett a Szovjetunióhoz  
 		- Együttműködési egyezményt kötöttek (1935)  
@@ -348,14 +346,6 @@
 		- 1937ben csatalkozott az "Antikomintern paktumhoz"  
 			- Elméletben a nemzetközi kommunista szervezet ellen volt  
 			- Valóságban a szovjetek elleni szövetség volt  
-## Fő Dolgozat kérdések  
-- Mutasd be a sztálini szovjetunió gazdaságpolitikáját (8-10p kérdés)  
-- Totális diktatúra fogalma (2p)  
-- "Mi történt egy kulák figurával"  
-- Mutasd be a Mein Kampfot (mit ígért kinek, antiszemitizmus, fajelmélet)  
-- Hogyan szerezte meg Hitler a totális hatalmat (Felhatalmazási törvény, propaganda, SA, SS)  
-- Ismersz e híres náci éjszakát?  
-- Miért volt népszerű Hitler  
 # 30-as évek Magyarországa  
 ## Előzmény?  
 - A Bethlen kormány elbukik (1931-ben mond le Bethlen, a nagy gazdasági világválság miatt)  
@@ -387,7 +377,6 @@
 ### 95 pontos Nemzeti Munkaterv  
 - Minden politikai irányzatnak akart kedvezni  
 - Nem tudta viszont megvalósítani  
-### Hf.: Minek hívjuk azokat akik nagymagyarországot akarják  
 ### Jajj Gömbössel baj van  
 - 95 pontos ígéretből kiderült, hogy nem lehet megvalósítani  
 - 1935:  
@@ -404,7 +393,7 @@
 	- Olaszországgal  
 - Szakított Gömbös tervével -> Szabadabb teret nyitott a baloldali mozgalmaknak  
 - Fellépett az erősödő szélsőjobboldallal, a Nyilasokkal szemben  
-- Háborús veszély egyre jelentősebb volt -> Kihírdetett egy hadseregfejlesztési programot, a **Győri programot (1938. Március)**  
+- Háborús veszély egyre jelentősebb volt -> Kihírdetett egy hadseregfejlesztési programot, a **Győri programot (1938\. Március)**  
 	- Az utódállamok ezt, és az Anschluss-t látva elfogadták a helyzet megváltozását és a Nyugat tehetetlenségét  
 	- Így hajlandónak mutatkoztak tárgyalni -> M.O. lemondott az erőszakról, így elismerték a fegyverkezési jogunkat  
 - Darányi nem tudta fenntartani a Horthy és köre által meghatározott irányt  
@@ -448,16 +437,16 @@
 	- A gyengülő Parlamenti ellensúlyozására Imrédy "Csodálatos forradalmat" hírdetett, híveit a "Magyar Élet Mozgalomba" szervezve tömegpártot kívánt indítani  
 	- Horthy és a vezetőréteg többsége ellene fordult  
 	- Horthy kinevezte Teleki Pált  
-## Teleki Pál 2 (1939. Feb. - 1941. Ápr.)  
+## Teleki Pál 2 (1939\. Feb. - 1941\. Ápr.)  
 ### Az első Bécsi döntés  
-- A Müncheni konferencia (1938. Szeptember)  
+- A Müncheni konferencia (1938\. Szeptember)  
 	- A Csehszlovákiával szembeni Magyar és Lengyel területi igények eldöntését kétoldalú tárgyalásokra bízták  
 	- Megegyezés nem született  
 	- A Lengyelek megegyezés nélkül elfoglalták Teschen környékét  
 	- M.O. tárgyalásokba kezdett a Csehszlovák vezetőkkel Komáromban  
 		- A Csehszlovákok rendkívül kevés területet kívántak átadni  
 		- Emiatt Nagyhatalmi döntés született, az Első Bécsi döntés  
-- Németország és Olaszország (Mivel a Franciák és Angolok távol maradtak) Magyarországnak ítélte Csehszlovákia magyarlakta területeinek többségét (1938. Nov. 2.)  
+- Németország és Olaszország (Mivel a Franciák és Angolok távol maradtak) Magyarországnak ítélte Csehszlovákia magyarlakta területeinek többségét (1938\. Nov. 2\.)  
 # Revízió, Oktatás és kisebbségi lét  
 - Revízió: Felülvizsgálat  
 	- A trianoni határok felülvizsgálata  
