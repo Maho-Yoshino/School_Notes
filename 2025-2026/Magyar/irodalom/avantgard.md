@@ -60,3 +60,47 @@
 	- A kastély  
 - Hivatalnokvilág:  
 #### Franz Kafka: Az átváltozás  
+- Irodalmi toposz  
+### Thomas Mann  
+- Híres regényei: Varázshegy  
+#### Thomas Mann: Mario és a varázsló  
+- Novella/Elbeszélés  
+### Bertolt Brecht  
+- Drámairodalomban teljesen új fejezet  
+	- Új műfajok, pl. az epikus színház  
+	- Jellemzői  
+		- Nézőt folyamatosan kizökkentik valamilyen váratlan dologgal, pl.  
+			- Hangeffektek  
+			- Oda nem illő dolog  
+			- Transzparensek / Feliratok  
+	- Pl. Kurázsi mama és gyermekei (Tk. 46-48)  
+### Friedrich Dürrenmatt  
+#### Friedrich Dürrenmatt: A fizikusok  
+### Samuel Beckett  
+#### Samuel Beckett: Godot-ra várva  
+- Abszurd dráma  
+	- Cselekméány hiánya  
+	- Párbeszédek, Monológok  
+	- Az emberi nyomorúság gyakori témája  
+## A posztmodern irodalom  
+### Általános jellemzők  
+- A modernség utáni kor az irodalomban (20. század második felétől)  
+- Társadalmi/Gazdasági technológiai változások az emberi életre is kihatnak  
+	- Az emberi humánum háttérbe szorulása  
+	- Jelen- és jövőkép bizonytalansága  
+	- Az emberi személyiség kérdése  
+- Mi jellemzi az irodalmi műveket?  
+	- Meglévő szövegek átírása  
+	- Narrátor hiánya a prózában, helyette megjegyzések, magyarázatok vannak  
+	- A szerzői álláspont: nem akar személyes állásfoglalást a világról adni  
+### Szerzők, művek  
+- Jorge Luis Borges  
+	- Argentín  
+	- Pl. "Az aljasság világtörténete"  
+- Gabriel Gárcia Márques  
+	- Kolumbiai  
+	- "Száz év magány"  
+		- Mágikus Realista regény  
+- Bohumil Hrabal  
+	- Cseh író  
+	- "Sörgyári capriccio"  
