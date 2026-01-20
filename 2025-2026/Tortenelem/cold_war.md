@@ -901,6 +901,7 @@
 | Munkakerülő, csavargó		| 0.3%	|  
   
 - 1963-ban nemzetközi nyomásra Kádárék itthon amnesztiát hirdettek  
+	- Politikai foglyokat engedték csak el  
 	- Az 56-os elítéltek zömét szabadon bocsájtották  
 	- Ezzel párhuzamosan az MSZMP-n belül  
 		- Háttérbe szorították a sztálinistákat  
@@ -924,6 +925,14 @@
 		- Látványos és napi politikai aktivitás kikényszerítésétől  
 	- Fokozatosan mérsékelték a terroruralom törvénytelenségeit  
 	- "Aki nincs ellenünk, az velünk van"  
+- Növekszik az életszínvonal -> Nincs politizálás -> "Kádári alku" / "Kádári paktum"  
+	- Az "élni és élni hagyni" politikája  
+	- Ha lemondanak a párt nyílt bírálatáról, az ellenzéki politizálásról, akkor magán- és családi életük zaklatásmentes lehet, és még anyagi gyarapodásra is volt esély  
+		- Saját lakáshoz jutás  
+		- 4-5 év várakozás után megvásárolhat egy autót  
+		- 3 évente utazhat Nyugatra  
+		- Vásárolhat kis saját telket  
+	- Ez megteremtette a hatalom és a társadalom nagyobb konfliktusok nélküli együttműködését  
 #### Gazdasági változások  
 - A forradalomból tanulva párt kiemelten kezelte az életszínvonal kérdését  
 	- A stabilizáció miatt alapvetőnek tekintették a mindennapi megélhetés szerény, de folyamatos javítását  
@@ -958,18 +967,6 @@
 - 1968-1990  
 - Magyarország ironikus megnevezése  
 - A Kádár rendszer "új gazdasági mechanizmusa" miatt kaptuk a nevet  
-#### Az "élni és élni hagyni" politikája  
-- A 60-as évek elejétől az "osztályharcos szemlélet" háttérbe szorulása határozta meg a Kádár János vezette párt hatalomgyakorlását  
-	- Emiatt ráerőltethette akaratát a társadalomra  
-	- Ennek hiánya miatt másra kellett támaszkodni  
-- A kádári "paktum"  
-	- Egyoldalú volt, de a társadalom elfogadta a párt "kiegyezési" szándékát  
-	- Ha lemondanak a párt nyílt bírálatáról, az ellenzéki politizálásról, akkor magán- és családi életük zaklatásmentes lehet, és még anyagi gyarapodásra is volt esély  
-		- Saját lakáshoz jutás  
-		- 4-5 év várakozás után megvásárolhat egy autót  
-		- 3 évente utazhat Nyugatra  
-		- Vásárolhat kis saját telket  
-- Ez megteremtette a hatalom és a társadalom nagyobb konfliktusok nélküli együttműködését  
 ### Gazdasági és Társadalmi változások a 60-70-es években  
 #### Új gazdasági mechanizmus  
 - Az életszínvonal biztosítása megkövetelte a mezőgazdaság mellett az ipar fejlesztését is  
