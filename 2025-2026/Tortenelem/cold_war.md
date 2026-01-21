@@ -967,6 +967,7 @@
 - 1968-1990  
 - Magyarország ironikus megnevezése  
 - A Kádár rendszer "új gazdasági mechanizmusa" miatt kaptuk a nevet  
+- Gulyáskommunizmus - Viszonylagos jólét  
 ### Gazdasági és Társadalmi változások a 60-70-es években  
 #### Új gazdasági mechanizmus  
 - Az életszínvonal biztosítása megkövetelte a mezőgazdaság mellett az ipar fejlesztését is  
@@ -994,7 +995,7 @@
 - A leállítás  
 	- A Brezsnyev-doktrína miatt le lettek állítva a reformok M.O.-n  
 	- 1972 - Félreállították a gazdasági változásokat kidolgozó politikusokat  
-	- 1973 - A reformot leállították  
+	- **1973 - A reformot leállították**  
 	- Kiderült, hogy a szocialista rendszer nem reformálható  
 #### Társadalmi változások  
 - A 60-70-es évek alatt a társadalmi átalakulás folytatódott  
@@ -1023,6 +1024,7 @@
 - Egyre nagyobb külföldi hiteleket vettünk fel  
 	- Ebből az életszínvonal fenntartását fizették  
 	- Eladósodtunk  
+	- **"Adósságspirál"**  
 - Politikai aktivitás erősödött  
 - Ellenzéki gondolkodás megjelenése  
 #### Szamizdat  
