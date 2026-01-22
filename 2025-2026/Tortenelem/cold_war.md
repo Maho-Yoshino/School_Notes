@@ -1141,3 +1141,5 @@
 - Vége: 1991  
 - Az állami szuverenitás visszaállt  
 - A hidegháborús korszak lezárása Magyarországon  
+## Dolgozat: 2026.01.27  
+## Hf: Classroom  

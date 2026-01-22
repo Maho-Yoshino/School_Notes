@@ -104,3 +104,31 @@
 - Bohumil Hrabal  
 	- Cseh író  
 	- "Sörgyári capriccio"  
+# A magyar irodalom a két világháború között  
+1. Történelmi adottságok  
+	1. I. Vh., őszi rózsás forradalom, tanácsköztársaság, Trianon, Horthy korszak, II. Vh.  
+	2. Budapest központú kulturális élet Trianon után  
+	3. Erős szellemi-kulturális élet Erdélyben megmarad  
+2. Folyóiratok  
+	1. Nyugat 4 nemzedéke  
+	2. Új idők -> Herceg Ferenc alapja (konzervatív)  
+	3. Kelet Népe -> Móricz Zs. lapja, népies irányzat  
+	4. Napkelet (konzervatív)  
+	5. Erdélyi Helikon (erdélyi írók/költők)  
+3. Népi-urbánus vita -> Melyik réteg hivatott a nemzet felemelkedésére?  
+4. Illegális kommunista párt  
+5. Stílusirányzatok az irodalomban  
+	1. Újtárgyiasság  
+		- 1920-30as évek  
+		- Objektív társadalmi kép megfogalmazása  
+		- Kisember sorsa érdekli  
+	2. Újnépiesség  
+		- Népi, paraszti világ áll a középpontban, pl. József Attila  
+	3. Újklasszicizmus  
+		- Klasszikus kultúra és irodalom az értékrendjük fő vonala, pl. Babits  
+6. Új műfajok  
+	1. Szociográfia  
+		- Irodalmi nyelvezettel megírt társadalomkép  
+		- pl. Illyés Gyula: Puszták népe  
+	2. Archaikus-népi költészet  
+		- pl. Sinka István: Fekete bojtár vallomásai  
