@@ -1142,4 +1142,25 @@
 - Az állami szuverenitás visszaállt  
 - A hidegháborús korszak lezárása Magyarországon  
 ## Dolgozat: 2026.01.27  
-## Hf: Classroom  
+
+# Gyak  
+## 21. Feladat  
+a, liszt  
+b, hús  
+c, cukor  
+d, burgonya  
+## 18. Feladat  
+a, D  
+b, C  
+c, A gyárnak rossz nyersanyagellátása  
+d, A "D" forrásrészletben le van írva, hogy fontos a lenini elvet, hogy a földbirtokosok önkéntesen lépjenek be a Termelőszövetkezetbe, viszont zaklatással ráerőltették, hogy belépjenek  
+## 16. Feladat  
+a, C  
+b, A  
+c, B  
+d, Végül nem a magyarok vették a saját sorsukat, a szovjetek irányítása alatt voltunk még  
+## 12. Feladat  
+## 5. Feladat  
+## 2. Feladat  
+## 1. Feladat  
+## Hf. befejezni  

@@ -132,3 +132,18 @@
 		- pl. Illyés Gyula: Puszták népe  
 	2. Archaikus-népi költészet  
 		- pl. Sinka István: Fekete bojtár vallomásai  
+## Erdélyi magyarság szellemi élete  
+1. A transzilvanizmus az erdélyi gondolat  
+	1. Az erdélyi értelmiség összefogása a Trianon utáni nehéz időkben  
+	2. Fő alakja: Kós Károly (író, építész)  
+		- Cél: együttélés, megmaradás, kultúra megtartása  
+		- Eszközök: pl. folyóiratok -> Erdélyi Helikon  
+		- Híres alkotók és műveik  
+			- Kós Károly: Varjú nemzetiség  
+			- Nyíró József: Madéfalvi veszedelem  
+			- Tamási Áron: Ábel a rengetegben  
+			- Reményik Sándor (költő)  
+			- Dzsida Jenő (költő)  
+			- Szabó Dezső: Elsodort falu (regény)  
+## József Attila (1905-1937)  
+1. József Attila: Curriculum Vitae (önéletrajz)  
