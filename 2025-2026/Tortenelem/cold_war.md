@@ -1160,7 +1160,20 @@ b, A
 c, B  
 d, Végül nem a magyarok vették a saját sorsukat, a szovjetek irányítása alatt voltunk még  
 ## 12. Feladat  
+A, Kádár  
+B, Rákosi  
+C, Rákosi  
 ## 5. Feladat  
+a, 1956-1989  
+b, Drágább termékek jobban fogytak (cukor, hús), az olcsók (burgonya, liszt) kevésbé  
+c, tartósítás helyett hűteni lehetett  
+d, Tendencia: növekedik  
+Ok: A kádár korszak alatt egyre többet dolgoztak az emberek, és méghozzá egy világválságon is átmentünk  
 ## 2. Feladat  
+a, A viszonylagos jólétben  
+b, maszek  
+c, A korban jellemző volt a Kádári alku, amely azt mondta, hogy amíg az emberek elfordultak a politikától, a közélettől, addig folyamatosan növelik az életszínvonalat, ami végül a végzete lesz a korszaknak  
 ## 1. Feladat  
-## Hf. befejezni  
+a, Stresszelés  
+b, A megélhetés és személyes gyarapodás érdekében  
+c, Nehezebbé tette az emberek munkáltatását, mivel hivatalosan mindenkinek dolgoznia kellett a korszakban  
