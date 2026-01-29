@@ -1028,27 +1028,28 @@
 - Politikai aktivitás erősödött  
 - Ellenzéki gondolkodás megjelenése  
 #### Szamizdat  
+- Megjelentek: 80-as évek  
 - Illegálisan sokszorosított kiadványok  
 - Rendszerkritikus írások, ellenzéki gondolatok  
 - Célja a cenzúra megkerülése  
 ### Monori találkozó (1985)  
-- Ellenzéki tanácskozás  
-- A pártállam megszüntetésében és a politikai szabadságjogok kiterjesztésének szükségességében minden résztvevő egyetértett  
+- **Ellenzéki** tanácskozás  
+- A pártállam megszüntetésében és a **politikai szabadságjogok kiterjesztésének** szükségességében minden résztvevő egyetértett  
 ### Lakitelki találkozó (1987)  
 - 180 nemzeti gondolkodású értelmiségi jött össze  
 - Megvitatták az ország és nemzet "sorskérdéseit"  
-- A Magyar Demokrata Fórum (MDF) megalakulásának előzménye  
+- A Magyar Demokrata Fórum (MDF) megalakult  
 - Rövidesen ezután megalakult a Szabad Demokraták Szövetsége (SZDSZ), majd 1988-ban a Fiatal Demokraták Szövetsége (Fidesz)  
 ### Pártok  
 - Új pártok alakultak  
 	- MDF (Magyar Demokrata Fórum)  
 	- SZDSZ (Szabad Demokraták Szövetsége)  
 	- Fidesz (Fiatal Demokraták Szövetsége)  
-	- Kisgazdapárt  
 - Újra megalakultak a történelmi pártok  
 	- SZDP (Szociáldemokrata párt)  
 	- FKgP (Független Kisgazda-, Földmunkás- és Polgári Párt)  
 	- KDNP (Keresztény Demokrata Néppárt)  
+- MSZMP (Magyarországi Szocialista Munkáspárt)  
 ### Tüntetések  
 - Tömeges, békés demonstrációk  
 - Követelések  
@@ -1057,10 +1058,12 @@
 	- Szovjet csapatok kivonása  
 ### Kádár leváltása  
 - Pozsgay Imre  
+	- Reformkommunista  
 	- 1989: "’56 népfelkelésnek" nevezi az eseményeket  
 	- Rendszer legitimitásának megingása  
 - Kádár János  
 	- 1988-ban leváltják a párt éléről  
+	- Grósz Károly jött helyette  
 - Németh Miklós  
 	- Reformokat támogató miniszterelnök  
 	- Békés átmenet híve  
