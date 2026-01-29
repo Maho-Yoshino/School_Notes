@@ -1,1 +1,0 @@
-python "%~dp0md_fixer_v3.py"
