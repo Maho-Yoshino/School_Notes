@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "teglalap_ker_ter/1.0.0": {
+        "runtime": {
+          "teglalap_ker_ter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "teglalap_ker_ter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
