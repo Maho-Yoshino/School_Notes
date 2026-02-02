@@ -1070,20 +1070,26 @@
 #### Egyesülési és gyülekezési jogról szóló törvény (1989\. Február)  
 - Törvény a pártalapításról és tüntetésről  
 - Jogilag is lehetővé válik a többpártrendszer  
-### Nagy Imre újratemetése (1989\. Június 16\.)  
+### Nagy Imre újratemetése (**1989\. Június 16\.**)  
 - Politikai fordulópont volt  
+- 150k ember összegyűlt  
 - A kommunista rendszer erkölcsi bukását jelentette  
-### Kádár halála (1989)  
+- Kádár rendszer szimbolikus eltemetése egyben  
+### Kádár halála (1989\. Július)  
 - Szimbolikus korszaklezárás  
 - A rendszer személyi alapjának megszűnése  
-### Rendszerváltás  
-#### MSZP  
+# Rendszerváltás, Rendszerváltoztatás  
+- Rendszerváltás: Hirtelen, gyors változás  
+- **Rendszerváltoztatás**: Békésebb, hosszabb változás  
+- A forradalom tárgyalásos alapú, békés  
+## MSZP  
 - "Magyar Szocialista Párt"  
 - Az MSZMP utódpártja  
 	- Örökölte az MSZMP vagyonát és hatalmi pozícióját  
 - Reformkommunistákból alakult  
 - Szociáldemokrata irány  
-#### EKA (Ellenzéki Kerekasztal)  
+- Horn Gyula  
+## EKA (Ellenzéki Kerekasztal)  
 - Az ellenzék egységes fellépése érdekében hozták létre  
 - Összefogta a legnagyobb társadalmi támogatottságot élvező ellenzéki pártokat pl.  
 	- MDF  
@@ -1092,9 +1098,24 @@
 	- SZDP  
 	- KDNP  
 	- FKgP  
-#### Nemzeti kerekasztal  
+## Nemzeti kerekasztal  
 - Állampárt, ellenzék és társadalmi szervezetek  
-#### Rendszerváltás  
+- A békés átmenet jogszabályait lefektetik  
+	- Alkotmánymódosítás  
+		- 1989\. Október 23.  
+			- Megszűnik a népköztársaság  
+			- Kikiáltják a köztársaságot (Szűrös Mátyás)  
+	- Többpártrendszer  
+	- Külpolitika újradefiniálása  
+		- Megállapodnak a szovjetek kivonulásáról  
+## Négyigenes népszavazás  
+- Négy kérdésre egyszerre szavazott a nép  
+- Kérdések  
+	- Csak az OGy. választások után kerüljön sor a köztársasági elnök megválasztására (50.07%)  
+	- Pártszervek kivonulása a munkahelyről (95.15%)  
+	- MSZMP vagyonának elszámolása (95.37%)  
+	- Munkásőrség feloszlatása (94.93%)  
+## Rendszerváltoztatás  
 - 1989 nyarán kezdődtek meg a békés átmenetet előkészítő tárgyalások  
 	- MSZMP és az ellenzéki erőket képviselő Ellenzéki Kerekasztal (EKA) között  
 	- A tárgyalások a háromoldalú Nemzeti Kerekasztal keretében folytak  
@@ -1114,14 +1135,15 @@
 	- Az Országgyűlés módosította a kommunista diktatúra alkotmányát  
 	- Összhangba hozták a rendszerváltoztatással  
 	- Megszűnt a népköztársaság, és kikiáltották hazánkban a köztársaságot  
-#### Első választás  
-- 1990 március és április  
-	- kétfordulós volt  
-	- A szavazásra jogosult polgárok majdnem kétharmada (65,77%) adta le a szavazatát  
+## Első választás  
+![Szavazási eredmények](media/1990szavazas_eredmeny.png)  
+- **1990 március és április**  
+	- **kétfordulós** volt  
+	- A szavazásra jogosult polgárok majdnem kétharmada (**65,77%**) adta le a szavazatát  
 	- A Magyar Demokrata Fórum nyerte meg  
-		- Antall József vezetésével az MDF–FKgP–KDNP koalíciója alakított kormányt  
+		- Antall József vezetésével az MDF–FKgP–KDNP koalíciója alakított kormányt (összesen 58.3%)  
 - A parlament legerősebb ellenzéki pártja a radikális antikommunista jelszavakat hangoztató SZDSZ lett  
-#### MDF SZDSZ paktum  
+## MDF SZDSZ paktum  
 - Az MDF és az SZDSZ politikai megállapodása (1990)  
 - Célja:  
 	- Alkotmányos működés biztosítása  
@@ -1129,54 +1151,25 @@
 - Tartalma:  
 	- A köztársasági elnököt az Országgyűlés választja  
 	- Az SZDSZ támogatja az MDF-kormányt bizonyos kérdésekben  
-#### 1990 őszi önkormányzati választások  
+- Az SZDSZ azt kapta, hogy Göncz Árpád lesz a köztársasági elnök  
+- Létrehozták a konstruktív bizalmatlansági indítványt  
+	- Csak akkor lehet leváltani a miniszterelnököt, ha megnevezi, hogy kire váltaná le  
+## 1990 őszi önkormányzati választások  
 - A helyi önkormányzati rendszer kiépítése  
 - Települési és megyei önkormányzatok létrejötte  
 - A demokratikus helyi hatalom megszilárdulása  
-#### Antall kormány nehézségei  
+## Antall kormány nehézségei  
 - Súlyos gazdasági örökség  
 	- Magas államadósság  
-	- Munkanélküliség megjelenése  
-- Társadalmi feszültségek  
+	- Magas Munkanélküliség  
+- Felelősségre vonás  
+	- Pl. ügynöklisták  
+	- Sosem lett felelősségre vonva senki  
 - Rendszerváltás költségei  
 - Tapasztalatlan demokratikus intézményrendszer  
-### Szovjetek végleges kivonulása  
+- "Kamikaze kormány"  
+## Szovjetek végleges kivonulása  
 - Vége: 1991  
 - Az állami szuverenitás visszaállt  
 - A hidegháborús korszak lezárása Magyarországon  
-## Dolgozat: 2026.01.27  
-
-# Gyak  
-## 21. Feladat  
-a, liszt  
-b, hús  
-c, cukor  
-d, burgonya  
-## 18. Feladat  
-a, D  
-b, C  
-c, A gyárnak rossz nyersanyagellátása  
-d, A "D" forrásrészletben le van írva, hogy fontos a lenini elvet, hogy a földbirtokosok önkéntesen lépjenek be a Termelőszövetkezetbe, viszont zaklatással ráerőltették, hogy belépjenek  
-## 16. Feladat  
-a, C  
-b, A  
-c, B  
-d, Végül nem a magyarok vették a saját sorsukat, a szovjetek irányítása alatt voltunk még  
-## 12. Feladat  
-A, Kádár  
-B, Rákosi  
-C, Rákosi  
-## 5. Feladat  
-a, 1956-1989  
-b, Drágább termékek jobban fogytak (cukor, hús), az olcsók (burgonya, liszt) kevésbé  
-c, tartósítás helyett hűteni lehetett  
-d, Tendencia: növekedik  
-Ok: A kádár korszak alatt egyre többet dolgoztak az emberek, és méghozzá egy világválságon is átmentünk  
-## 2. Feladat  
-a, A viszonylagos jólétben  
-b, maszek  
-c, A korban jellemző volt a Kádári alku, amely azt mondta, hogy amíg az emberek elfordultak a politikától, a közélettől, addig folyamatosan növelik az életszínvonalat, ami végül a végzete lesz a korszaknak  
-## 1. Feladat  
-a, Stresszelés  
-b, A megélhetés és személyes gyarapodás érdekében  
-c, Nehezebbé tette az emberek munkáltatását, mivel hivatalosan mindenkinek dolgoznia kellett a korszakban  
+# HF: Privatizáció kifejezés jelentése  

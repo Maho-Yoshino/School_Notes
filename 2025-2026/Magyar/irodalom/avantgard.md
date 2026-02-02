@@ -147,3 +147,28 @@
 			- Szabó Dezső: Elsodort falu (regény)  
 ## József Attila (1905-1937)  
 1. József Attila: Curriculum Vitae (önéletrajz)  
+### Költészete  
+1. 1922-27: Pályakezdés, útkeresés  
+	- Újklasszicizmus hatása:  
+		- Az irodalom klasszikus irányvonalai  
+			- Görög-római költészet  
+			- Műfaji sokszinűség  
+			- Klasszikus versformák  
+	- A modern Avantgárd irányzatok hatásai  
+		- Pl. expressionizmus  
+	- Újnépiesség hatása  
+		- Népköltészet, népballadák, mesék, mondák  
+2. 1927-29  
+	- "Tiszta költészet" francia hatás, pl.  
+		- Szürrealizmus  
+3. 1930-31  
+	- Mozgalmi versek az illegális kommunista pártban töltött rövid idő  
+4. 1931-37: a letisztult, kiforrott költészet  
+	- Filozofikus  
+	- Létösszegző  
+	- Önismerettel foglalkozó  
+	- Közösségi léttel foglalkozó  
+### József Attila: Tiszta szívvel (Tk. 104.)  
+### József Attila: Nem én Kiáltok (1924)  
+### József Attila: Medáliák  
+### József Attila: Holt vidék  
