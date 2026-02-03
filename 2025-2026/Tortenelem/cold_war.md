@@ -1172,4 +1172,27 @@
 - Vége: 1991  
 - Az állami szuverenitás visszaállt  
 - A hidegháborús korszak lezárása Magyarországon  
-# HF: Privatizáció kifejezés jelentése  
+## Privatizáció jelentése  
+- "Magánosítás"  
+- Állami tulajdonban lévő vagyon, vállalatok vagy feladatok magánkézbe adása  
+## Taxis blokkád  
+- Iraki háború megdrágítja az olajat  
+- Törvénytelen  
+- A taxisok blokkádot rendeztek az Erzsébet hídon  
+- Az ellenzék buzdítja a taxisokat  
+- Az Antall kormány nem léphetett fel aggresszívan  
+## Címer kérdés  
+- Le kell váltani a Kádár címert  
+- Fő kérdés a Szent korona szerepeltetése volt  
+- Elfogadták a koronával szavazás alapján  
+## MIÉP  
+- "Magyar Igazság és Élet Pártja"  
+- Az MDF-ből kilépett Csurka István és az őt támogató politikusok  
+- "Tetszettek volna forradalmat csinálni!" - Antall József  
+- Boros Péter átveszi a miniszterelnökséget  
+## 1991\. Június 19\.  
+- Szovjet katonák kivonulása megtörtént  
+## Piacgazdaság kialakulása  
+- "Spontán Privatizáció"  
+	- 1987-1990  
+	- Hirtelen inflálódott a forint ára a svájci frankhoz képest  
