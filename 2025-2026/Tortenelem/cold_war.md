@@ -1193,6 +1193,17 @@
 ## 1991\. Június 19\.  
 - Szovjet katonák kivonulása megtörtént  
 ## Piacgazdaság kialakulása  
-- "Spontán Privatizáció"  
+- Spontán Privatizáció  
 	- 1987-1990  
-	- Hirtelen inflálódott a forint ára a svájci frankhoz képest  
+	- Olcsón felvásárolták a kommunista párt tagjai az állami vállalatokat  
+	- 1990: Állami vagyonügynökség létrejött  
+	- 1992: Privatizációs törvény  
+- Szociális piacgazdaság  
+	- Beleszólhat a kormány  
+	- Állami beavatkozás  
+- Privatizáció  
+	- 1992 után  
+	- Feltételek  
+		- Csak külső szakértők értékbecslése  
+		- Nyilvános pályázat  
+		- Versenytárgyalás  
