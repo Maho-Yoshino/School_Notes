@@ -1116,6 +1116,8 @@
 	- MSZMP vagyonának elszámolása (95.37%)  
 	- Munkásőrség feloszlatása (94.93%)  
 ## Rendszerváltoztatás  
+- 1989\. Február  
+	- Egyesülési és gyülekezési jogról szóló törvény  
 - 1989 nyarán kezdődtek meg a békés átmenetet előkészítő tárgyalások  
 	- MSZMP és az ellenzéki erőket képviselő Ellenzéki Kerekasztal (EKA) között  
 	- A tárgyalások a háromoldalú Nemzeti Kerekasztal keretében folytak  
@@ -1131,7 +1133,7 @@
 	- Hozzákezdett a pártállam intézményeinek lebontásához  
 	- Szovjetunióhoz és a többi szocialista országhoz fűződő kapcsolatok átértelmezéséhez  
 	- Tárgyalásokat kezdett a szovjet csapatok magyarországi kivonulásáról  
-- 1989\. október 23:  
+- **1989\. október 23**:  
 	- Az Országgyűlés módosította a kommunista diktatúra alkotmányát  
 	- Összhangba hozták a rendszerváltoztatással  
 	- Megszűnt a népköztársaság, és kikiáltották hazánkban a köztársaságot  
@@ -1207,3 +1209,17 @@
 		- Csak külső szakértők értékbecslése  
 		- Nyilvános pályázat  
 		- Versenytárgyalás  
+- Rengeteg külföldi beruházás  
+	1. Külföldi cégek hatékonyságot kerestek  
+	2. Sok embert kirúgtak a hatékonyság miatt  
+	3. Növekedett a munkanélküliség  
+## Kárpótlás  
+- Államosított vagyonokat újra privatizáltak  
+- Kárpótlási jegyeket adtak ki a volt tulajdonosoknak  
+	- 200k Forintig teljes körű volt  
+	- Felső határ 5 millió Forint  
+	- Beválthatták földre, lakásra és részvényekre  
+### Egyházi kárpótlás  
+- Terv: az egyházak 10 éven belül visszakapják egykori ingatlanjaikat (Nem sikerült)  
+- 40%-át kapta vissza a katolikus egyház  
+	- A többiről éves járulékért lemondott  
