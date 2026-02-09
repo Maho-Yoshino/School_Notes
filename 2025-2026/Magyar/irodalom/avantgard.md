@@ -172,3 +172,5 @@
 ### József Attila: Nem én Kiáltok (1924)  
 ### József Attila: Medáliák  
 ### József Attila: Holt vidék  
+### József Attila: A Dunánál (Szgy. 152., Tk. 121-122.)  
+- 1936  

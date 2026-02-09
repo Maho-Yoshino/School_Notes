@@ -481,9 +481,6 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# Ignore Book PDFs
-Konyvek
-
 # Ignore temporary files
 *~*
 *.drawio.bkp
@@ -491,6 +488,7 @@ Konyvek
 
 # Ignore application-specific files
 *.ggb
+*.pdf
 
 # Ignore Adatbázis kezelés and Szoftver tesztelés documents
 */AdatbazisKezeles/20*.docx
