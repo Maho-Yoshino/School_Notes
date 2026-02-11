@@ -32,10 +32,10 @@
             label2 = new Label();
             label3 = new Label();
             resultLabel = new Label();
-            button1 = new Button();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
+            calcBtn = new Button();
+            ahInput = new TextBox();
+            fhInput = new TextBox();
+            numInput = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -79,46 +79,46 @@
             resultLabel.Text = "Nincs benne az intervallumban";
             resultLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // button1
+            // calcBtn
             // 
-            button1.Location = new Point(174, 108);
-            button1.Name = "button1";
-            button1.Size = new Size(112, 29);
-            button1.TabIndex = 4;
-            button1.Text = "Megállapít";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            calcBtn.Location = new Point(174, 108);
+            calcBtn.Name = "calcBtn";
+            calcBtn.Size = new Size(112, 29);
+            calcBtn.TabIndex = 4;
+            calcBtn.Text = "Megállapít";
+            calcBtn.UseVisualStyleBackColor = true;
+            calcBtn.Click += button1_Click;
             // 
-            // textBox1
+            // fhInput
             // 
-            textBox1.Location = new Point(12, 32);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(79, 27);
-            textBox1.TabIndex = 5;
+            ahInput.Location = new Point(12, 32);
+            ahInput.Name = "fhInput";
+            ahInput.Size = new Size(79, 27);
+            ahInput.TabIndex = 5;
             // 
-            // textBox2
+            // ahInput
             // 
-            textBox2.Location = new Point(202, 32);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(84, 27);
-            textBox2.TabIndex = 6;
+            fhInput.Location = new Point(202, 32);
+            fhInput.Name = "ahInput";
+            fhInput.Size = new Size(84, 27);
+            fhInput.TabIndex = 6;
             // 
-            // textBox3
+            // numInput
             // 
-            textBox3.Location = new Point(12, 110);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(146, 27);
-            textBox3.TabIndex = 7;
+            numInput.Location = new Point(12, 110);
+            numInput.Name = "numInput";
+            numInput.Size = new Size(146, 27);
+            numInput.TabIndex = 7;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(297, 194);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
-            Controls.Add(button1);
+            Controls.Add(numInput);
+            Controls.Add(fhInput);
+            Controls.Add(ahInput);
+            Controls.Add(calcBtn);
             Controls.Add(resultLabel);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -135,9 +135,9 @@
         private Label label2;
         private Label label3;
         private Label resultLabel;
-        private Button button1;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
+        private Button calcBtn;
+        private TextBox ahInput;
+        private TextBox fhInput;
+        private TextBox numInput;
     }
 }

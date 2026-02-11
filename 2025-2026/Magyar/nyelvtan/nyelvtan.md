@@ -102,3 +102,25 @@
 			- Jelentés:  
 			> Fehérvárra menő hadi útra  
 			- egy-két nyelvi jelenség: A toldalék gyakran önálló szó volt (pl. rea -> -ra)  
+	2. Glossza - Széljegyzet  
+		- Kódexek lapjainak szélére írt magyar nyelvű feljegyzések  
+		- pl. Marosvásárhelyi glosszák  
+	3. Szójegyzék  
+		- "Szótár"  
+		- Latin szavak mellé a magyar jelentést is odaírták  
+		- pl. Besztercei szójegyzék  
+	4. Szövegemlékek  
+		- Teljes szövegek magyarul  
+		- pl. Halotti beszéd, Könyörgés  
+			- 1200-as évek elején  
+			- Temetési beszéd és egy rövid ima  
+			- Pray György találta meg (Pray kódex, 1700-as évek vége)  
+			- Összesen 190 szóból áll  
+			- Téma: Papi búcsúztató  
+			- A paradicsom-beli tiltások, a bűnbecslés, az ember halandósága  
+			- Nyelvi jellemzők:  
+				- Latinből fordították  
+				- A latin 22 betűs -> Probléma: több hangunk volt, nehéz volt leírni  
+				- Mai olvasatokat készítettek a nyelvészek  
+					- 1\. sor: "Látjátok feleim, szemetekkel mik vagyunk, bizony (eredetileg "isa", avagy "ős, lélek") por és hamu vagyunk"  
+					- "Halálnak halálával halsz"  

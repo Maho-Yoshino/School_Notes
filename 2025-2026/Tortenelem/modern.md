@@ -1,0 +1,24 @@
+# Muszlim fundamentalizmus  
+- Legjelentősebb terrorista akció: 9/11  
+- Terrorizmus  
+	- Fogalom a Francia forradalomból  
+	- "Terror" latin szóból  
+- Arab Tavasz  
+	- 2011  
+	- Rengeteg arab diktátor elbukott  
+	- Polgárháborúk  
+- Globalizáció  
+	- "A világ egyes részei közötti teljes összefonódás"  
+	- Világszerti kapcsolati háló  
+- Multinacionális cégek  
+	- Nemzetközi tulajdonosi háttér  
+	- Pl. Amazon  
+# M.O. a 21. században  
+- Parlamenti Váltógazdálkodás  
+- Kettős állampolgárság: Határon kívüli magyaroknak megadja a lehetőséget, hogy szavazzanak itthoni problémákban  
+- M.O. NATO-ba:  
+	- 1999\. Március 12.  
+	- Észak Atlanti Katonai Szövetség  
+- Sorkatonaság megszűnése: 2004  
+- 1991 - Visegrádi együttműködés  
+- HF: 159-166. oldal kidolgozás (9. ábra fontos, képeket érdemes nézni)  

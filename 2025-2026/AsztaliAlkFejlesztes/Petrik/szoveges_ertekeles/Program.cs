@@ -1,4 +1,4 @@
-namespace Petrik_Proba1
+namespace szoveges_ertekeles
 {
     internal static class Program
     {

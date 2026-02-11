@@ -2,16 +2,16 @@ from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log1
 import pyperclip, re, traceback
 replace_dict = {
 	"^":"**",
-	"√":"sqrt",
+	r"√(\(|)(.+)(\)|)":r"sqrt({0})",
 	"π":"pi",
 	"=":"==",
 	"≥":">=",
 	"≤":"<=",
-	"e+":"*10^",
 	";":",",
 	"〗":"",
 	"〖":"",
-	"±":"+-"
+	"±":"+-",
+	r"(.+)!":r"fact({0})"
 }
 def root(x:int|float,n:int|float=2): return x**(1/n)
 def sind(degrees:int|float): return sin(d2r(degrees))
@@ -65,17 +65,15 @@ def set_round(num:int):
 while True:
 	try:
 		equation = input("> ").lower().strip()
-		_copy = equation.__contains__("-c")
-		raw = equation.__contains__("-r")
 		if _copy:
-			equation = equation.replace("-c", "")
+			equation = re.sub(r"\b-c\b", "", equation) is not None
 			if not equation and prev_eq:
 				pyperclip.copy(prev_eq)
 				continue
 			elif not equation and not prev_eq:
 				print("No previous equation to copy.")
 				continue
-		if "rep(" in equation:
+		if re.search("rep\((.+)\)", equation) is not None:
 			equation_split = extract_rep_content(equation).split(",")
 			if equation_split[0].count("(") != equation_split[0].count(")"):
 				open_count = equation_split[0].count("(")
@@ -86,9 +84,14 @@ while True:
 			equation = eval(f"rep(\"{equation_split[0]}\",{','.join(equation_split[1:])})")
 		try:
 			for item, replacant in replace_dict.items():
-				equation = equation.replace(item, replacant)
+				_ = re.match(re.escape(item), equation)
+				if _ is not None:
+					if r"{0}" in replacant:
+						equation = equation.replace(item, replacant.replace(r"{0}", _.group(2)))
+					else:
+						equation = equation.replace(item, replacant)
 			if raw:
-				equation = equation.replace("-r", "")
+				equation = re.sub(r"\b-r\b", "", equation)
 				print(finished_eq := str(equation))
 			elif "+-" in equation:
 				print(finished_eq := str(round(eval(equation.replace("+-", "+")), round_val)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)")
