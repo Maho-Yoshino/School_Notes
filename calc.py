@@ -65,6 +65,8 @@ def set_round(num:int):
 while True:
 	try:
 		equation = input("> ").lower().strip()
+		_copy = re.search(r"\b-c\b", equation) is not None
+		raw = re.search(r"\b-r\b", equation) is not None
 		if _copy:
 			equation = re.sub(r"\b-c\b", "", equation) is not None
 			if not equation and prev_eq:

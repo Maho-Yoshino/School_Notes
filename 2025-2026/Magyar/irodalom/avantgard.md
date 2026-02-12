@@ -173,4 +173,25 @@
 ### József Attila: Medáliák  
 ### József Attila: Holt vidék  
 ### József Attila: A Dunánál (Szgy. 152., Tk. 121-122.)  
-- 1936  
+1. Keletkezése: A Szép szó c. irodalmi folyóirat egyik különszámában jelent, mint bevezető vers  
+2. Műfaja: Közösségi óda  
+	- Nemzethez szól  
+	- Ünnepélyes hangvételű, magasztos témájú  
+3. A vers üzenete, lényege: a Duna menti népek összefogásának "meghírdetése", békés együttélés  
+4. A cím utal a vers megírásának helyszínére, amit az 1\. sor is megerősít, "rakodópart"  
+5. Vershelyzet/a vers felütése  
+	- Elhelyezi a Lírai én önmagát a tájban  
+	- Látszólag tájversként indul, valójában gondolati költemény  
+6. Szerkezet  
+	- 3 számozott része van  
+	- 1\. rész: a vers tárgyához, a Dunához való viszonyulását olvassuk  
+		- Ellentétpárok  
+		- "Fecseg a felszín, hallgat a mély"  
+		- Zavaros <=> Bölcs  
+		- Hasonlatok  
+			- A lírai én saját szívéhez is hasonlítja  
+			- "A dolgozó emberekhez, édesanyjához, kisgyermekhez, a temetőhöz"  
+		- Összeségben: Az 1\. részben a Duna összetett szimbólum: Megújulás, bölcsesség, erő, játékosság  
+	- 2\. rész  
+		- Felidézi a múltat: ősök felidézése - Öröm és bánat, múlt és jelen szintjén  
+		- A lírai én az ősök tapasztalatával rendelkezik, benne élnek tovább  
