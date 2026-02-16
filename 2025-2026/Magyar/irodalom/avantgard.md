@@ -194,4 +194,32 @@
 		- Összeségben: Az 1\. részben a Duna összetett szimbólum: Megújulás, bölcsesség, erő, játékosság  
 	- 2\. rész  
 		- Felidézi a múltat: ősök felidézése - Öröm és bánat, múlt és jelen szintjén  
-		- A lírai én az ősök tapasztalatával rendelkezik, benne élnek tovább  
+		- A lírai én az ősök tapasztalatával rendelkezik, benne élnek  
+		- E/1 személyű igék jelzik a költői én "magatartását": nézek, látom, érzek, emlékezem  
+		- "ők fogják ceruzámat" (ősök) -> Jelképe a versírásnak -> A költészetére hatnak az ősei is  
+	- 3\. rész  
+		- Felidézi saját múltját több szinten is:  
+			- Biológiai  
+			- Történelmi  
+			- Nemzeti/Etnikai  
+		- Az emlékezet kulcsszó: Az emlékezés segít megbékélni, feloldani a múlt harcait  
+		- Visszatér a Duna, mint allegórikus kép, többértelmű jelentést kap:  
+			- Eddig: összetartja az itt élő népeket  
+			- Múlt és jelen jelképe (Felszín - Mély)  
+			- A Duna múlt, jelen és jövendő  
+7. Versforma  
+	- Különbözik a 3 rész  
+	- 4,3,4 (versszakok száma)  
+	- Rímképlet:  
+		- 1\. rész: abab cc (abab = kereszt, cc = páros)  
+		- 2\. rész: abab  
+		- 3\. rész: abab cdcd  
+### József Attila szerelmi költészete  
+1. Vágó Márta  
+	1. Medáliák (részlet, Szgy. 144.)  
+	2. Tedd a Kezed  
+2. Márton Márta  
+	1. Óda (Szgy. 147.)  
+3. Kozmutza Flóra  
+	1. Hexaméterek  
+	2. Rejtelmek (Szgy. 154.)  

@@ -112,7 +112,9 @@
 - Ellenőrzi azok végrehajtását  
 - Eljárásokat kezdeményezhet  
 - Fontos szerepe van az Unió költségvetésének elfogadásában  
-- Képviselőit a tagországok közvetlenül választják meg 5 évre  
+- Képviselőit  
+	- A tagországok közvetlenül választják meg  
+	- 5 évre  
 - Meghatározott számú képviselőt küldhetnek a tagállamok  
 	- Lakosságszám figyelembevételével határozzák meg a számot  
 	- Kisebb államok számarányuknál több mandátummal rendelkeznek  
@@ -163,9 +165,10 @@
 	- Málta (?)  
 	- Ciprus (2007)  
 	- Horvátország (2013)  
+## EU Himnusz: Beethoven - Örömóda  
 ## Magyarország az EU-ban  
 - Csatlakozás  
-	- 1994-ben beadtuk a csatlakozási kérelmet  
+	- **1994-ben beadtuk a csatlakozási kérelmet**  
 	- Csatlakozásról tartott népszavazás  
 		- A szavazásra jogosultak közül csak 45.62% jelent meg  
 		- 83.76% Igennel szavazott  

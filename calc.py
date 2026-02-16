@@ -75,7 +75,7 @@ while True:
 			elif not equation and not prev_eq:
 				print("No previous equation to copy.")
 				continue
-		if re.search("rep\((.+)\)", equation) is not None:
+		if re.search(r"rep\((.+)\)", equation) is not None:
 			equation_split = extract_rep_content(equation).split(",")
 			if equation_split[0].count("(") != equation_split[0].count(")"):
 				open_count = equation_split[0].count("(")
