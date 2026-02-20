@@ -124,3 +124,18 @@
 				- Mai olvasatokat készítettek a nyelvészek  
 					- 1\. sor: "Látjátok feleim, szemetekkel mik vagyunk, bizony (eredetileg "isa", avagy "ős, lélek") por és hamu vagyunk"  
 					- "Halálnak halálával halsz"  
+						- Nyelvi alakzat: Figura etymologica - szótőismétlés  
+						- Súlyos, szenvedéssel teli halálod lesz; szerepe: túlzás, fokozás  
+		- Ómagyar Mária siralom  
+			- Az első magyarul fennmaradt verses szöveg  
+			- Műfaja: Planctus siratóének  
+			- Téma: Mária, Jézus anyja, siratja fiát  
+			- 1922-ben találták meg Leuvenben, Belgiumban  
+			- 1980-as években kerül Magyarországra  
+			- Nyelvi jellemzők:  
+				- XIII. század elején íródhatott  
+				- Ómagyar nyelven  
+				> "Világ világa (szótőismétlés, a világ világossága: Jézus)  
+				> Virágnak virága (szótőismétlés, virág: szépség, jóság képe)  
+				> (K)eserűen (k)ínzatul (alliteráció)  
+				> (V)as szegekkel (v)eretül" (alliteráció, "átverik vas szegekkel")  
