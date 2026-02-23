@@ -143,7 +143,7 @@
 	- Dánia (1973)  
 	- Írország (1973)  
 	- Egyesült Királyság (1973)  
-		- Brexit miatt kiléptek  
+		- Brexit miatt kiléptek az EU-ból (2020)  
 	- Görögország (1981)  
 	- Portugália (1986)  
 	- Spanyolország (1986)  
@@ -165,7 +165,11 @@
 	- Málta (?)  
 	- Ciprus (2007)  
 	- Horvátország (2013)  
-## EU Himnusz: Beethoven - Örömóda  
+## Az EU Kulturális jelképei  
+- Himnusz: Beethoven - 9. szimfónia (Örömóda)  
+- Zászló  
+	- 12 arany csillag egy körben  
+	- Sötét két háttér  
 ## Magyarország az EU-ban  
 - Csatlakozás  
 	- **1994-ben beadtuk a csatlakozási kérelmet**  

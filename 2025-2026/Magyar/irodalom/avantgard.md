@@ -223,3 +223,21 @@
 3. Kozmutza Flóra  
 	1. Hexaméterek  
 	2. Rejtelmek (Szgy. 154.)  
+## Radnóti Miklós (Tk. 130-140)  
+- Nyugat 2. nemzedékébe tartozik  
+- Kiváló mű fordító  
+- Klasszikus és modern irányzatok egyaránt jellemzőek  
+- Felesége Gyarmati Fanni / Tétova óda c. szerelmes verse  
+- Szép verse a hazaszeretetről a Nem tudhatom c. költeménye  
+- Idill és halál témája költészetében  
+- Versek:  
+	- Járkálj csak, halálra ítélt  
+	- Hetedik ekloga  
+		- Ekloga műfaja:  
+			- Pásztorköltemény  
+			- Párbeszédes  
+			- A békéről szólnak  
+	- Erőltetett menet  
+	- Razglednicák  
+		- 4 rövid vers  
+		- Jelentése: Képeslapok  
