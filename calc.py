@@ -1,8 +1,8 @@
 from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r, factorial as fact
 import pyperclip, re, traceback
 replace_dict = {
-	"^":"**",
-	r"√(\(|)(.+)(\)|)":r"sqrt({0})",
+	"\\^":"**",
+	r"√\(([^()]+)\)":r"sqrt({0})",
 	"π":"pi",
 	"=":"==",
 	"≥":">=",
@@ -11,7 +11,7 @@ replace_dict = {
 	"〗":"",
 	"〖":"",
 	"±":"+-",
-	r"(.+)!":r"fact({0})"
+	r"(\d+|\([^()]+\))!":r"fact({0})"
 }
 def root(x:int|float,n:int|float=2): return x**(1/n)
 def sind(degrees:int|float): return sin(d2r(degrees))
@@ -65,10 +65,10 @@ def set_round(num:int):
 while True:
 	try:
 		equation = input("> ").lower().strip()
-		_copy = re.search(r"\b-c\b", equation) is not None
-		raw = re.search(r"\b-r\b", equation) is not None
+		_copy = re.search(r"(?:^|\s)-(c|rc|cr)(?:\s|$)", equation, re.IGNORECASE) is not None
+		raw = re.search(r"(?:^|\s)-(r|rc|cr)(?:\s|$)", equation, re.IGNORECASE) is not None
+		equation = re.sub(r"(?:^|\s)-(c|r|rc|cr)(?:\s|$)", "", equation, count=1, flags=re.IGNORECASE)
 		if _copy:
-			equation = re.sub(r"\b-c\b", "", equation) is not None
 			if not equation and prev_eq:
 				pyperclip.copy(prev_eq)
 				continue
@@ -85,13 +85,15 @@ while True:
 				equation_split[0] = eq(int(equation_split[0].split("(")[1].split(")")[0])) if not equation_split[0].__contains__("eq()") else eq()
 			equation = eval(f"rep(\"{equation_split[0]}\",{','.join(equation_split[1:])})")
 		try:
-			for item, replacant in replace_dict.items():
-				_ = re.match(re.escape(item), equation)
-				if _ is not None:
-					if r"{0}" in replacant:
-						equation = equation.replace(item, replacant.replace(r"{0}", _.group(2)))
-					else:
-						equation = equation.replace(item, replacant)
+			for pattern, replacement in replace_dict.items():
+				if r"{0}" in replacement:
+					equation = re.sub(
+						pattern,
+						lambda m: replacement.replace(r"{0}", m.group(2)),
+						equation
+					)
+				else:
+					equation = re.sub(pattern, replacement, equation)
 			if raw:
 				equation = re.sub(r"\b-r\b", "", equation)
 				print(finished_eq := str(equation))
