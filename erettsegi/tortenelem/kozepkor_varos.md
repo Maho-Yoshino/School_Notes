@@ -45,7 +45,8 @@
 - A védelmet a céhek látták el  
 	- A várost felosztották több részre  
 	- Az adott városfal védelem az adott céhet terhelte  
-# Céhek  
+# Gazdaság  
+## Céhek  
 - Iparosok szakmánkénti érdekvédelmi szervezete  
 - Teljes jogú tagjai az önálló műhellyel rendelkező mesterek  
 - Biztosították a tagjaik megélhetését  
@@ -56,9 +57,21 @@
 		- Drágaság  
 		- Így kisebb a verseny  
 			- Minden mester jó minőséget gyárt ugyanannyiért  
-## Mesterré válás  
+### Mesterré válás  
 - Inasként éveket kell dolgozni mester mellett  
 - Legényként bedolgozni évekig egy mesternél  
 - Kötelező vándorút más városok mestereihez  
 - Mestervizsga letétel egy "remekmunka" elkészítésével  
 - Kötelező ünnepi lakoma a mesterré váló részéről (nem biztos, hogy volt rá pénze)  
+## Kontárok  
+- Céhen kívüli iparosok  
+- Illegális tevékenységeket hajtottak végre  
+- Termékeik rosszabb minőségűek voltak, de olcsóbbak  
+	- Ezért volt kereslet rájuk  
+## Kereskedelmi útvonalak  
+### Levantei kereskedelem  
+- Földközi tenger vidékeinek kereskedelmét jelentette  
+- Összekötésben volt a keletről érkező Selyemúttal  
+### Hanza kereskedelem  
+- A Balti-tenger partvidékének városai szövetkeztek  
+- Biztosították az északi kereskedelmi útvonalat  
