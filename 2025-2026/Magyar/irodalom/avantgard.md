@@ -230,14 +230,15 @@
 - Felesége Gyarmati Fanni / Tétova óda c. szerelmes verse  
 - Szép verse a hazaszeretetről a Nem tudhatom c. költeménye  
 - Idill és halál témája költészetében  
+	- 2.VH -> Munkaszolgálat -> Szerbia-kőfejtők
+	- 3 alkalommal volt ott, a 3. után gyalog meneteltek Győrig -> Tömegsír, főbelőtték
 - Versek:  
-	- Járkálj csak, halálra ítélt  
-	- Hetedik ekloga  
+	- Hetedik ecloga  
 		- Ekloga műfaja:  
 			- Pásztorköltemény  
 			- Párbeszédes  
 			- A békéről szólnak  
-	- Erőltetett menet  
 	- Razglednicák  
 		- 4 rövid vers  
 		- Jelentése: Képeslapok  
+	- Erőltetett menet  
