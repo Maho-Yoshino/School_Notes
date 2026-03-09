@@ -42,6 +42,7 @@
 	- Erős ellenállást alakított ki a törzs és nemzetségfők körében  
 	- Istvánnak először a nyílt lázadásokkal kellett foglalkoznia  
 	- Koppányt fegyveres erővel leverte, birtokait elkobozta  
+### Kereszténység befogadása  
 - 1000-ben megkoronázta magát  
 - Koronát kért a pápától  
 	- A korona nem csak a világi, hanem az apostoli hatalmat is jelentette  
@@ -50,13 +51,26 @@
 		- Ezzel jelezte, hogy nem ismer el maga fölött semmilyen világi hatalmat  
 		- A fejedelemség helyébe lépett a feudális királyság  
 	- A királyi hatalom alapja a föld  
-- A lázadók leverésével megszerezte a törzsi szállásterületek 2/3-át  
-	- István a nemzetségfők heléybe saját, megbízható embereit ültette  
-### Vármegyerendszer  
-- Közigazgatási rendszer  
-### Kereszténység befogadása  
 - Hivatalos vallás a kereszténység  
 - Kötelező vasárnapi mise  
+### Vármegyerendszer  
+- A lázadók leverésével megszerezte a törzsi szállásterületek 2/3-át  
+	- István a nemzetségfők helyébe saját, megbízható embereit ültette  
+	- Ezek lettek az "ispánok"  
+	- Felelt a kezében lévő területért és a rajta élő népességért  
+	- Várakat építetett, ezeknek is az élén az ispán állt  
+	- Igazságot és közigazgatást is intézte  
+	- A terület védelmét a várjobbágyakból álló várkatonaság látta el  
+- Új székhely: Székesfehérvár  
+	- 1019-ben megindult jeruzsálemi zarándoklatok elkerülték Esztergomot  
+- A lakosság másik felének az udvarházak ellátása volt  
+	- Ha a király nem a székhelyén tartózkodott, hanem járta az országot, akkor udvarházról udvarházra járt  
+	- Ha az egyikben már az összes élelmet felélte, továbbállt a következőbe  
+	- Így alakult ki a **vármegyerendszer**  
+- A gazdasági és fegyveres erő nagy része közvetlenül a király ellenőrzése alá tartozott  
+	- A vármegye területén kaptak földet azok a külföldi jövevények, akik a kezdeti harcok idején támogatták Istvánt  
+	- Az adománybirtokok miatt méginkább a király mellett harcoltak  
+- Közigazgatási rendszer  
 
 # Forrás  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/allamalapitas/)  
