@@ -230,15 +230,30 @@
 - Felesége Gyarmati Fanni / Tétova óda c. szerelmes verse  
 - Szép verse a hazaszeretetről a Nem tudhatom c. költeménye  
 - Idill és halál témája költészetében  
-	- 2.VH -> Munkaszolgálat -> Szerbia-kőfejtők
-	- 3 alkalommal volt ott, a 3. után gyalog meneteltek Győrig -> Tömegsír, főbelőtték
+	- 2.VH -> Munkaszolgálat -> Szerbia-kőfejtők  
+	- 3 alkalommal volt ott, a 3. után gyalog meneteltek Győrig -> Tömegsír, főbelőtték  
 - Versek:  
 	- Hetedik ecloga  
-		- Ekloga műfaja:  
+		- Ecloga vagy Ekloga  
+		- Ecloga műfaja:  
+			- Verses múfaj  
 			- Pásztorköltemény  
 			- Párbeszédes  
-			- A békéről szólnak  
+			- Hexameterekben íródik  
+				> |És csak az | ész, csak az | ész, az | tudja a | drót feszülését|"  
+				> |-UU|-UU|--|-UU|-UU|--|  
+				- Időmértékes verselés: hosszú(-)-rövid(U) szótagok szabályos váltakozásán alapszik  
+				- Verslábakat alkotnak  
+					- |-UU| - Daktilusz  
+					- |--| - Spondeusz  
+					- |-U| - Trocheusz  
+					- |U-| - Jambusz  
+					- |UU--| - Anapesztusz  
+					- |UU| - Pirrickhiusz  
+				-  
 	- Razglednicák  
 		- 4 rövid vers  
 		- Jelentése: Képeslapok  
 	- Erőltetett menet  
+## Örkény István: Egyperces novellák  
+-  
