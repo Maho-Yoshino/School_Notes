@@ -1,4 +1,8 @@
-# Géza fejedelem  
+# Államalapítás  
+- 972-1038  
+- Kárpát-medence  
+- A magyar nép nemrég letelepedett, abbahagytuk a kalandozásokat és próbálunk beilleszkedni  
+## Géza fejedelem  
 - 972-997  
 - Amikor hatalomra került, az alakuló állam nehéz helyzetben volt  
 	- Növekedtek a belső ellentétek  
@@ -31,9 +35,9 @@
 		- Feladatuk  
 			- Felderítés  
 			- Elő- és Utóvéd alkotása  
-# I. Szent István  
+## I. Szent István  
 - 997-1038  
-## Trónöröklés  
+### Trónöröklés  
 - Géza halála után kérdéses volt  
 	- Pogány szokás szerint szeniorátus (a nemzetiség legidősebb, még nemzőképes férfitagja örököl) volt, így Koppányt illette volna a hatalom  
 	- Géza viszont Istvánt jelölte Primogenitúra (előszülött fiú örököl) elve alapján  
@@ -41,7 +45,7 @@
 	- Erős ellenállást alakított ki a törzs és nemzetségfők körében  
 	- Istvánnak először a nyílt lázadásokkal kellett foglalkoznia  
 	- Koppányt fegyveres erővel leverte, birtokait elkobozta  
-## Kereszténység befogadása  
+### Kereszténység befogadása  
 - 1000-ben megkoronázta magát  
 - Koronát kért a pápától  
 	- A korona nem csak a világi, hanem az apostoli hatalmat is jelentette  
@@ -57,7 +61,7 @@
 - Kötelező vasárnapi mise  
 - Birtokadományok  
 	- A király adott az egyháznak birtokot  
-### Egyházszervezet  
+#### Egyházszervezet  
 - Fő volt a pápa  
 - A pápa felhatalmazta Istvánt egyházszervezésre  
 - Három ága van az egyházszervező munkájának  
@@ -74,7 +78,7 @@
 			- Vasárnapi misén való részvétel  
 		- Adomány alapú  
 			- Templomi felszerelés  
-## Vármegyerendszer  
+### Vármegyerendszer  
 - A lázadók leverésével megszerezte a törzsi szállásterületek 2/3-át  
 	- István a nemzetségfők helyébe saját, megbízható embereit ültette  
 	- Ezek lettek az "ispánok"  
@@ -95,21 +99,21 @@
 - Feloszlás  
 	- 2/3 Királyé  
 	- A mararék el lett osztva, mint egyházi vagy magánbirtok  
-## Törvényei  
+### Törvényei  
 - A törvényeket a királyi tanács írta le  
 - Fontos a magántulajdon védelme  
 - Különbséget tett a szabad és szolga elemek között  
 	- Ha a szabad újra lopást követett el, akkor bűnhődött a szolgák szerint  
 - Ha valakit felszabadítottak szolgaság alól, nem lehetett újra szolgasorba taszítani  
 - A gyilkosság büntetése relatív enyhébb volt, mint a lopásé  
-### Egyházzal kapcsolatos törvények  
+#### Egyházzal kapcsolatos törvények  
 - Minden 10. falu egy templomot építessen  
 - Vasárnapi kötelező mise, kivéve aki a tüzet őrizte  
 - Vasárnapi munka betiltása  
 - Tized bevezetése  
 	- Termény egytizedének beszolgáltatása az egyház részére  
 - Pogány szokások betiltása  
-## Trónutódlás  
+### Trónutódlás  
 - Fia, Imre herceg meghalt  
 - Orseolo Pétert jelölte ki utódjául  
 - Törvényes örököse Vazul volt, aki viszont pogány  
