@@ -139,3 +139,33 @@
 				> Virágnak virága (szótőismétlés, virág: szépség, jóság képe)  
 				> (K)eserűen (k)ínzatul (alliteráció)  
 				> (V)as szegekkel (v)eretül" (alliteráció, "átverik vas szegekkel")  
+## Tétel: Nyelvújítás  
+### Előzmények  
+1. Magyar felvilágosodás időszaka  
+	- Mária Terézia, II. József  
+	- Magyar Testőr gárda - Írók, költők a bécsi udvarban  
+	- Vezetőjük Bessenyei György, 1772: Ágis tragédiája c. drámája a magyar felvilágásodás kezdete  
+	- Magyarság c. röpiratában beszél a magyar nyelv fontosságáról:  
+		> Minden nemzet a maga nyelvén lehet tudós!  
+2. A nyelvújítás célja, állomásai  
+	1. Célok  
+		- idegen szavak helyett lehetőleg magyar  
+		- Újra hivatalos legyen a magyar nyelv  
+		- A tudomány nyelve legyen a magyar  
+		- Nyelvünk "frissítése" új szavakkal  
+	2. Történeti állomások és jeles alakjai  
+		- Nyelvújítók - neológusok  
+			- Kazinczy Ferenc a vezetőjük  
+			- Szemere Pál  
+			- Kölcsey Ferenc  
+			- Jókai Mór  
+			- Vörösmarty Mihály  
+		- Velük szemben álltak az ortológusok ("maradiak")  
+		- 1811: "Tövisek és virágok" versek/epigrammák  
+		- Mondolat: gúnyirat az ortológusoknak, 1813  
+		- Felelet a mondolatra, 1815  
+	3. A nyelvújítás eredményei  
+		- Köznyelv és éirodalmi nyelv kialakulásaű  
+		- 1844 - Hivatalos nyelv a magyar  
+		- Helyesírás szabályozása: 1832  
+		- 3-4 ezer új szó megmaradt a köznyelvben  
