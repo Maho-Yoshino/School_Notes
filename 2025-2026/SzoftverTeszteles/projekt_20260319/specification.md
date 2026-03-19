@@ -1,0 +1,17 @@
+# Pizzarendelő  
+- A program egy pizza rendelése képes felületet nyújt a felhasználónak  
+- A következő opciók elérhetőek lesznek a felhasználónak:  
+	- Méret kiválasztása  
+		- Közepes  
+		- Családi  
+	- Extra feltétek  
+		- Kukorica  
+		- Olívabogyó  
+		- Gomba  
+		- Pepperoni  
+		- Extra sajt  
+- Ha kiválaszt a felhasználó egy extra feltétet, a checkbox mellett írja ki az árat, amit ráad az összegre  
+- A méretből csak egy darab választható egyszerre  
+- Az extra feltétekből akármennyit rakhasson a felhasználó  
+- Rendelés leadásakor írja ki a program, hogy milyen pizzát rendelt az illető  
+	- A program írja ki a pizza árát a méret és plusz feltétek függvényében  
