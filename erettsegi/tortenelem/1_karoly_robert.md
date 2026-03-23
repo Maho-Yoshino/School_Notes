@@ -46,7 +46,7 @@
 #### Harmincadvám  
 - Harmincadvámot bevezette  
 	- Az áru értékének egy harmincadát vámként ki kell fizetni  
-- Támogatta városok fejlődését  
+- Támogatta a városok fejlődését  
 ### Új várostípusok  
 - Szabad királyi városok  
 	- Nagy önállósággal rendelkeztek  
