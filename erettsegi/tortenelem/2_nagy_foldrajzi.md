@@ -16,9 +16,9 @@
 	- Stabilabb  
 	- Jobban kormányozható  
 - Szextáns  
-- A tudat, hogy A föld gömbölyű  
+- A tudat, hogy a Föld gömbölyű  
 - Reneszánsz ember kíváncsisága  
-## Kolombusz felfedezi amerikát  
+## Kolombusz felfedezi Amerikát  
 - 1492  
 - Célja: Afrika elkerülése  
 - Spanyol király támogatásával  

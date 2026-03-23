@@ -256,4 +256,4 @@
 		- Jelentése: Képeslapok  
 	- Erőltetett menet  
 ## Örkény István: Egyperces novellák  
--  
+## Tétel: Kányádi Sándor  
