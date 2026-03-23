@@ -20,7 +20,7 @@
 - Reneszánsz ember kíváncsisága  
 ## Kolombusz felfedezi amerikát  
 - 1492  
-- Célja: Afrika megkerülése  
+- Célja: Afrika elkerülése  
 - Spanyol király támogatásával  
 	- Kasztíliai Izabella és Aragóniai Ferdinánd hajót és pénzt nyújtottak Kolombusznak  
 - Talált új fűszereket, növényeket  
@@ -43,7 +43,7 @@
 	- 1494  
 	- A Spanyolok és Portugálok között elosztja az amerikai területeket  
 	- Nyugat Spanyol, a Kelet Portugál terület  
-## III. Felfedezések hatásai  
+## Felfedezések hatásai  
 ### Társadalmi következmény  
 - Népesség növekedés (kb. 2x)  
 - Gazdagabb ízvilág  
