@@ -164,8 +164,43 @@
 		- 1811: "Tövisek és virágok" versek/epigrammák  
 		- Mondolat: gúnyirat az ortológusoknak, 1813  
 		- Felelet a mondolatra, 1815  
-	3. A nyelvújítás eredményei  
-		- Köznyelv és éirodalmi nyelv kialakulásaű  
-		- 1844 - Hivatalos nyelv a magyar  
-		- Helyesírás szabályozása: 1832  
-		- 3-4 ezer új szó megmaradt a köznyelvben  
+3. A nyelvújítás eredményei  
+	- Köznyelv és éirodalmi nyelv kialakulásaű  
+	- 1844 - Hivatalos nyelv a magyar  
+	- Helyesírás szabályozása: 1832  
+	- 3-4 ezer új szó megmaradt a köznyelvben  
+4. A nyelvújítók módszerei új szavak létrehozására  
+	- Elfelejtett szavak és nevek divatba hozása  
+		- hős  
+		- lomb  
+		- Gyula  
+		- Árpád  
+	- Tájnyelvi kifejezések köznyelvbe emelése  
+		- róna  
+		- betyár  
+	- Képzőkkel alkotott új szavak  
+		- fodr*ász*  
+		- gép*ész*  
+		- óvo*da*  
+		- böldcső*de* (igen, bölcsőde)  
+		- tano*da*  
+		- uszo*da*  
+		- moso*da*  
+	- Németről fordított szavak tükörfordítással  
+		- Kávéház (Kaffeehaus)  
+		- Világirodalom (Welter-literature)  
+	- Németből magyarosított  
+		- Pincér - Kellner (pince)  
+		- Anya|g - Mater|ia (anya latinul a szótő)  
+	- Összetett szavak  
+		- Pénz|tár  
+		- Helyes|írás  
+	- Szórövidítés  
+		- Árnyék -> Árny  
+		- Cikkely -> Cikk  
+	- Szóösszerántás  
+		- Csőr: cső+orr  
+		- Higany: Híg+anyag  
+	- Szóvegyítés  
+		- Csalagút: *Csa*torna+a*lagút*  
+		- Csokréta: *Cso*kor+bo*kréta*  
