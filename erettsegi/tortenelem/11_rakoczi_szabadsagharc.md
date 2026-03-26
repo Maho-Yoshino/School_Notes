@@ -6,6 +6,8 @@
 	- Nemesség  
 		- Szabad királyválasztásról és Aranybulla ellenállási záradékáról lemondtak  
 		- Újszerzeményi bizottság  
+			- Földjüket az emberek akkor kapták vissza, ha felmutattak megfelelő papírokat, és fizettek 10%-os fegyverváltságot (a föld értékének 10%-a)  
+			- Csóróság volt, nem jött össze  
 		- Rendi jogok sérelme (nem hívják össze a vármegyék gyűléseit)  
 	- Végvári vitézek  
 		- Kiváltságaijak megfosztották tőlük, jobbágyok lettek  
@@ -40,11 +42,50 @@
 			- Nagy mennyiségű lovasság  
 			- Kevés tüzérség  
 			- Közepesen sok gyalogosság  
+		- Létszám  
+			- 1703: kb. 0  
+			- 1705: 80k  
 	- Labanc sereg  
 		- A császári sereg, az udvarhoz hű főnemesek és nemesek  
+		- Létszám  
+			- Kb. 20-30k  
 ## A Szabadságharc  
 - Jelmondata: "Cum Deo pro Patria et Libertate!"  
-- TODO: Befejezni  
+- Kuruc Országgyűlések  
+	- Első országos gyűlés: **Szécsény, 1705**  
+	- A béketárgyalások nem voltak eredményesek, ki kellett alakítani a felkelés szervezeti kereteit  
+	- Lengyel példára rendi szövetséget (konföderációt) kötöttek  
+	- Vezérlő fejedelem lett Rákóczi Ferenc  
+- Kevés volt a lóvé  
+	- Új pénzt hoztak: Libertás  
+	- Rézből volt  
+- Ónodi Országgyűlés  
+	- 1707  
+	- Trónfosztás  
+	- Nemeseket is adóztattak új adókkal -> rossz volt a pénzügyi helyzet  
+- Trencséni csata  
+	- 1708  
+	- 80k -> 20k Kuruc  
+- Sárospataki gyűlés  
+	- 1708  
+	- Hajdúszabadságot ígért a jobbágyaknak  
+- Romhányi csata  
+	- 1710  
+	- Vereséget szenvedtünk  
+- Rákóczi orosz cártól kért segítséget  
+	- Lengyelországba ment, találkozni  
+	- Nem sikerült, viszont helyettesítésére megbízta Károlyi Sándort  
+	- Károlyi békét tett a habsburgokkal  
+- Szatmári béke  
+	- Kompromisszumos béke  
+	- Császári ígéretek  
+		- Rendi jogok visszaállítása  
+		- Szabad vallásgyakorlás  
+		- Újszerzeményi bizottság megszüntetése  
+	- A Habsburgoknak jó volt, mert  
+		- Megakadályozták a további felkeléseket  
+		- Erőforrásokat nem kell pazarolni  
+		- Lepusztult országot újra lehet építeni  
 
 # Források  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/a-rakoczi-szabadsagharc-1703-1711-2/)  
