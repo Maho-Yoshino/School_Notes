@@ -25,6 +25,7 @@ namespace projekt_20260319
             {
                 double terulet = a * b;
                 teruletLbl.Text = terulet.ToString();
+                MessageBox.Show($"A téglalap kerülete: {2*(a+b)}", "Téglalap kerület");
             }
             else
             {
@@ -33,12 +34,13 @@ namespace projekt_20260319
         }
         #endregion
         #region Pizza rendelő
-        byte deliveryFeePercent = 10;
+        const byte deliveryFeePercent = 10;
         private void orderBtn_Click(object sender, EventArgs e)
         {
             string msgText = "A következő pizzát rendelte:\n-========================-\n";
             msgText += $"Méret: {(mediumSizeRadio.Checked ? "Közepes":"Családi")}\n";
             msgText += $"Pizza ára: {priceLbl.Text}\n";
+
             HashSet<string> feltetek = new HashSet<string>();
             if (cornChk.Checked) feltetek.Add(cornChk.Text);
             if (oliveChk.Checked) feltetek.Add(oliveChk.Text);
@@ -47,6 +49,7 @@ namespace projekt_20260319
             if (extraCheeseChk.Checked) feltetek.Add(extraCheeseChk.Text);
             if (feltetek.Count > 0)
                 msgText += $"Extra Feltétek:\n\t{string.Join("\n\t", feltetek)}\n";
+            
             msgText += $"Kiszállítási díj: +{deliveryFeePercent}%\n";
             msgText += $"Végösszeg: {getPrice(priceLbl)*(1+deliveryFeePercent/(double)100)} Ft\n";
             msgText += "-========================-\nEz megfelel az elvárásainak?";

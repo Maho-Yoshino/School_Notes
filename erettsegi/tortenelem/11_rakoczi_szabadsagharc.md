@@ -26,7 +26,7 @@
 ## Kitörés folyamata  
 - Kiállítványt adott ki Brezánba Rákóczi  
 - Érdekegyesítés nem sikerült  
-	- A független M.O. megalakításához szükséges volt egy táborban összegyűjteni a nemességet és jobbágyokat, ezt a kiállítványaival sikerült  
+	- A független M.O. megalakításához szükséges volt egy táborban összegyűjteni a nemességet és jobbágyokat, ezt a kiáltványaival sikerült  
 		- Megállította a jobbágyok túlkapásait  
 		- A nemességet meggyőzte  
 	- A katonáknak álló jobbágyoknak hajdúszabadságot ígért  
@@ -50,7 +50,7 @@
 		- Létszám  
 			- Kb. 20-30k  
 ## A Szabadságharc  
-- Jelmondata: "Cum Deo pro Patria et Libertate!"  
+- Jelmondata: "Cum Deo pro Patria et Libertate!" (Istennel a hazáért és szabadságért)  
 - Kuruc Országgyűlések  
 	- Első országos gyűlés: **Szécsény, 1705**  
 	- A béketárgyalások nem voltak eredményesek, ki kellett alakítani a felkelés szervezeti kereteit  

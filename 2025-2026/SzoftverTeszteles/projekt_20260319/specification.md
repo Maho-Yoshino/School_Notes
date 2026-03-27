@@ -1,5 +1,5 @@
 # Pizzarendelő  
-- A program egy pizza rendelése képes felületet nyújt a felhasználónak  
+- A program egy pizza rendelésre képes felületet nyújt a felhasználónak  
 - A következő opciók elérhetőek lesznek a felhasználónak:  
 	- Méret kiválasztása  
 		- Közepes  

@@ -1,0 +1,31 @@
+# 1956-os forradalom  
+- 1956  
+- Szovjet blokk  
+## Előzmény  
+- 1953 - Sztálin meghalt  
+	- Ezzel megkezdődtek a változások az egész szovjet blokkba  
+	- A szovjetunióban megindult a "hruscsovi olvadás" folyamata  
+		- Nemzetközi feszültség enyhítését célozta  
+	- Magyarországon ennek a jele  
+		- Nagy Imre miniszterelnöki kinevezése volt  
+		- Rákosi háttérbe szorítása  
+- 1953-1955 - Nagy Imre a szovjet vezetés támogatásával reformpolitikát folytatott  
+	- "Az új szakasz" időszaka  
+	- Politikai foglyok amnesztiát kaptak  
+	- Visszafogták az erőszakos kollektivizálást és a nehézipar erőltetett fejlesztését  
+	- Nagyobb hangsúlyt kapott az életszínvonal javítása  
+	- A reformpolitikát viszont a moszkvai vezetés túlzottnak ítélte, 1955-ben Nagy Imrét eltávolították a hatalomból  
+- 1955 végén Rajk László ügyét felülvizsgálták  
+	- Rajkot és elítélt társait rehabilitálták  
+	- A pártvezetés ezzel nyilvánosan elismerte, hogy törvénytelen módon járt el  
+- 1956 Februárjában összeült az SZKP 20. kongresszusa  
+	- Desztálinizáció  
+	- A szovjet pártfőtitkár, Hruscsov nyíltan beszélt a sztálini időszak hibáiról és bűneiről, bírálva azokat  
+		- Nem került hivatalosan nyilvánosságra, de a beszéd részei kiszivárogtak  
+- Az új szakasz időszaka után  
+	- Erősödött az ellenzék Magyarországon  
+	- Egyre többen követelték a törvénytelenségek feltárását, a felelősök felelősségre vonását  
+	- Követelték a politikai átalakulást  
+- 1956 - Megalakult a Petőfi kör  
+	- Nyilvános vitákat rendezett  
+	-  
