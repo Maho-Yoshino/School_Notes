@@ -28,4 +28,4 @@
 	- Követelték a politikai átalakulást  
 - 1956 - Megalakult a Petőfi kör  
 	- Nyilvános vitákat rendezett  
-	-  
+	- TODO: Befejezni  
