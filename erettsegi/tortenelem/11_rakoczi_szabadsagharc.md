@@ -1,6 +1,6 @@
-# Rákódzi Szabadságharc  
+# Rákóczi Szabadságharc  
 - 1703-1711  
-- Magyar királyság  
+- Magyar királyság Habsburg fennhatóság alatt  
 ## Előzmények  
 - Különböző társadalmi rétegek különböző problémákkal küzdtek  
 	- Nemesség  
