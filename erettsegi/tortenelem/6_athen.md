@@ -1,3 +1,4 @@
+"Mutassa be az athéni demokrácia megszületését, működését, polgárainak helyzetét"  
 # Athéni Demokrácia kialakulása  
 ## Elhelyezés időben, helyben, kontextusban  
 - Kr. e. 8-6. század  

@@ -1,3 +1,4 @@
+"Mutassa be a középkori városok keletkezését, működését, felépítését"  
 # Városok létrejövetele  
 - Az ókori városok megszűntek különböző okoktól  
 	- Népvándorlás okozta pusztítás  

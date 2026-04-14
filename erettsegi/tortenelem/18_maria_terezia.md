@@ -1,3 +1,4 @@
+"Mutassa be Mária Terézia hatalomra jutásának körülményeit, bel- és külpolitikáját, valamint II. József uralkodását"  
 # Mária Terézia és II. József  
 - 1740-1790  
 - Német-Római Birodalom  
@@ -80,7 +81,7 @@
 - 10 kerületre osztja fel a megyéket  
 ### Halála  
 - Visszavonta legtöbb rendeletét  
-	- 5000 rendeletből 4997 maradt  
+	- 5000 rendeletből 4997 megmaradt  
 		- Türelmi rendelet  
 		- Jobbágyrendelet  
 		- Alsó pappságot érintő rendelet  

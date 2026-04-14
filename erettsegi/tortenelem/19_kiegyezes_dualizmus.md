@@ -1,3 +1,4 @@
+"Mutassa be a kiegyezés létrejöttének körülményeit és a kialakult dualista állam államszervezetét"  
 # Előzmények  
 - 1949\. - Világosi fegyverletétel  
 - 1949\. Október - Haynau megtorlása (Aradi vértanúk)  

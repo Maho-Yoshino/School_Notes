@@ -1,3 +1,4 @@
+"Mutassa be az 1956-os forradalom és szabadságharc célkitűzéseit és főbb eseményeit"  
 # 1956-os forradalom  
 - 1956  
 - Szovjet blokk  

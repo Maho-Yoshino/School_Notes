@@ -1,3 +1,4 @@
+"Mutassa be a Rákóczi- szabadságharc előzményeit, kirobbanásának okait és a szabadságharc menetét"  
 # Rákóczi Szabadságharc  
 - 1703-1711  
 - Magyar királyság Habsburg fennhatóság alatt  

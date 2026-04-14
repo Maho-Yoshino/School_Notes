@@ -29,8 +29,8 @@ Háborús Konjunktúra
 - 1815 Szent szövetség, Bécs  
 # Reformkor  
 - 1830-1848, Reformkor, Széchényi "A hitel"  
-- 1825.MTA megalakítása  
-- 160.o/14. ábra ![A reformkor ideológiai irányzatai kép](reformkor_ideologiai_iranyzatai.png)  
+- 1825\.MTA megalakítása  
+- 160.o/14. ábra ![A reformkor ideológiai irányzatai kép](kep/reformkor_ideologiai_iranyzatai.png)  
 - Libernyák nemesség legjelentősebb alakja Kossuth Lajos  
 ### Politikai Kérdések hazánkban  
 1. Fontolva Haladók  
@@ -85,7 +85,7 @@ Háborús Konjunktúra
 		- Felelős kormány  
 	5. Nemzetiségi kérdés  
 		- Magyarosítás  
-  
+
 ## HF.: MTA működése, értelme  
 - Célja:  
 	- A tudomány művelése  

@@ -1,3 +1,4 @@
+"Mutassa be a reformkor főbb kérdéseit, Széchenyi István politikai programját és gyakorlati alkotásait"  
 # Reformkor  
 - 19\. Század első fele  
 - Habsburg Birodalom  
@@ -53,4 +54,18 @@
 5. Nemzetiségi kérdés  
 	- Magyarosítás  
 ## Széchenyi István  
+- A század legkiemelkedőbb politikusa, gazdasági és társadalmi reformere volt  
+- "A legnagyobb magyar"  
+- A reformkort elindította  
+- Támogatta a mezőgazdaság, ipar és közlekedés (különösen a hajózás és vasút terén) fejlesztését  
+### MTA  
+- Magyar Tudományos Akadémia  
+- Széchenyi István alapította 1825-ben  
+- Célja:  
+	- Tudomány művelése  
+	- Tudományos eredmények terjesztése, alkalmazása  
+	- A Magyar tudomány nemzetközi elismertetése  
+- Feladata:  
+	- Tudományos kutatások támogatása, irányítása  
+	- Minőségi tudományos eredmények biztosítása Magyarországon  
 - TODO: Befejezni  

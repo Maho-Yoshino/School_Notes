@@ -1,3 +1,4 @@
+"Milyen előzményei, okai és következményei voltak a nagy földrajzi felfedezéseknek?"  
 # Nagy földrajzi feldezések  
 - 15. század  
 - Nyugat-Európa  

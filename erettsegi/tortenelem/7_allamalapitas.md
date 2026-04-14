@@ -1,3 +1,4 @@
+"Mutassa be a középkori magyar állam kialakulását, Géza fejedelem és I. Szent István államalapító tevékenységét"  
 # Államalapítás  
 - 972-1038  
 - Kárpát-medence  
