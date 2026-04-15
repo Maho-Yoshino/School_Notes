@@ -1,0 +1,25 @@
+# Az erdélyi fejedelemség  
+- Budától való távolsága miatt a király által kinevezett vajda irányította ezen területeket.  
+- Miután Fráter György sikertelenül próbálta átadni Ferdinándnak a keleti területeket  
+	- A törökök elfoglalták a területeket  
+	- Ideiglenesen Ferdinánd lett a király, de gyorsan visszahívták János Zsigmondot  
+	- Erdélyben viszont nem a török választotta az uralkodót  
+		- Csak megerősítette méltóságukat  
+		- Évi adót rakott rájuk  
+- János Zsigmond a Speyeri szerződésben rendezte viszonyát a habsburgokkal  
+	- Lemondott a választott király címről  
+	- Cserében Erdély fejedelmének elismerték  
+- A kedvező helyzetet János Zsigmond halála (1571) felborítani látszott  
+	- Se a török, se a habsburgok nem akartak háborút  
+	- Az erdélyi rendek által megválasztott Báthory István feltételekkel tölthette be az erdély fejedelmi méltóságát  
+	- Báthory Istvánt később lengyel rendek királlyá választották, viszont erdély helyzetét nem befolyásolta  
+- Erdélyben a fejdelmek jelentős hatalommal bírtak  
+	- A főnemességnek a földjei kicsik voltak  
+	- Az egyházi birtokokat Fráter György szekularizálta  
+	- Az erdélyi rend sokkal tagoltabb volt, ami a politikában megosztottsághoz vezetett  
+- Az erdélyi fejedelmek hatalma kiterjedt a kelet magyarországi vármegyékre is  
+	- Ezt a területet hívtuk Partiumnak  
+	- Az erdélyi fejedelmek központjuknak Gyulafehérvárt választották  
+- Az elpusztított ország fejedelmi székét megint egy Báthory szerezte meg, Bethlen Gábor  
+	- Bethlen az Báthory "kalandor" politikájának ellent mondott  
+	- A Törökökkel jó viszont hozott létre, mivel ha háború kezdődne a törökök és az erdélyi fejedelemség között, az pusztulás lett volna  
