@@ -1,0 +1,16 @@
+rendszam;nev;kor;varos;ertekeles
+ABC-123;Alice;23;Budapest;85
+XYZ-987;Bob;30;Debrecen;92
+DEF-524;Charlie;28;Szeged;76
+AE IQ 999;Diana;22;Pécs;88
+MNO-363;Edward;35;Győr;91
+OAT-503;Fiona;27;Miskolc;79
+1MF4STR;George;31;Nyíregyháza;84
+PER-192;Hannah;26;Kecskemét;90
+RND-512;Ian;29;Székesfehérvár;73
+IRA-385;Julia;24;Szombathely;87
+AO OZ 042;Kevin;33;Sopron;82
+PRT-954;Laura;21;Eger;95
+RET-333;Michael;36;Veszprém;78
+ETG-400;Nina;25;Zalaegerszeg;89
+TZA-653;Oscar;32;Kaposvár;81
