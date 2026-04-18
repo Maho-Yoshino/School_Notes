@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            dataGridView1 = new DataGridView();
+            mainDataGrid = new DataGridView();
             platenumber = new DataGridViewTextBoxColumn();
             name = new DataGridViewTextBoxColumn();
             age = new DataGridViewTextBoxColumn();
             city = new DataGridViewTextBoxColumn();
             score = new DataGridViewTextBoxColumn();
             groupBox1 = new GroupBox();
-            textBox1 = new TextBox();
+            countTextbox = new TextBox();
             label1 = new Label();
             countBtn = new Button();
             countBelowRadio = new RadioButton();
@@ -49,31 +49,32 @@
             plateSearchCombo = new ComboBox();
             groupBox3 = new GroupBox();
             label4 = new Label();
-            textBox2 = new TextBox();
+            searchPlateTextbox = new TextBox();
             searchBtn = new Button();
             groupBox4 = new GroupBox();
             decisionBtn = new Button();
-            radioButton6 = new RadioButton();
-            customPlate = new RadioButton();
             avgLbl = new Label();
-            bindingSource1 = new BindingSource(components);
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            dataGridViewBS = new BindingSource(components);
+            plateSelectBS = new BindingSource(components);
+            ((System.ComponentModel.ISupportInitialize)mainDataGrid).BeginInit();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
             groupBox4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewBS).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)plateSelectBS).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // mainDataGrid
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { platenumber, name, age, city, score });
-            dataGridView1.Location = new Point(12, 12);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(678, 506);
-            dataGridView1.TabIndex = 0;
+            mainDataGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            mainDataGrid.Columns.AddRange(new DataGridViewColumn[] { platenumber, name, age, city, score });
+            mainDataGrid.Location = new Point(12, 12);
+            mainDataGrid.Name = "mainDataGrid";
+            mainDataGrid.RowHeadersWidth = 51;
+            mainDataGrid.Size = new Size(678, 506);
+            mainDataGrid.TabIndex = 0;
+            mainDataGrid.AutoGenerateColumns = false;
             // 
             // platenumber
             // 
@@ -117,7 +118,7 @@
             // 
             // groupBox1
             // 
-            groupBox1.Controls.Add(textBox1);
+            groupBox1.Controls.Add(countTextbox);
             groupBox1.Controls.Add(label1);
             groupBox1.Controls.Add(countBtn);
             groupBox1.Controls.Add(countBelowRadio);
@@ -129,13 +130,13 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Megszámlálás";
             // 
-            // textBox1
+            // countTextbox
             // 
-            textBox1.Enabled = false;
-            textBox1.Location = new Point(182, 86);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
-            textBox1.TabIndex = 4;
+            countTextbox.Enabled = false;
+            countTextbox.Location = new Point(182, 86);
+            countTextbox.Name = "countTextbox";
+            countTextbox.Size = new Size(125, 27);
+            countTextbox.TabIndex = 4;
             // 
             // label1
             // 
@@ -246,7 +247,7 @@
             // groupBox3
             // 
             groupBox3.Controls.Add(label4);
-            groupBox3.Controls.Add(textBox2);
+            groupBox3.Controls.Add(searchPlateTextbox);
             groupBox3.Controls.Add(searchBtn);
             groupBox3.Location = new Point(696, 274);
             groupBox3.Name = "groupBox3";
@@ -264,12 +265,12 @@
             label4.TabIndex = 2;
             label4.Text = "Rendszám";
             // 
-            // textBox2
+            // searchPlateTextbox
             // 
-            textBox2.Location = new Point(6, 46);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(147, 27);
-            textBox2.TabIndex = 1;
+            searchPlateTextbox.Location = new Point(6, 46);
+            searchPlateTextbox.Name = "searchPlateTextbox";
+            searchPlateTextbox.Size = new Size(147, 27);
+            searchPlateTextbox.TabIndex = 1;
             // 
             // searchBtn
             // 
@@ -284,8 +285,6 @@
             // groupBox4
             // 
             groupBox4.Controls.Add(decisionBtn);
-            groupBox4.Controls.Add(radioButton6);
-            groupBox4.Controls.Add(customPlate);
             groupBox4.Location = new Point(696, 367);
             groupBox4.Name = "groupBox4";
             groupBox4.Size = new Size(320, 100);
@@ -295,36 +294,13 @@
             // 
             // decisionBtn
             // 
-            decisionBtn.Location = new Point(187, 21);
+            decisionBtn.Location = new Point(6, 26);
             decisionBtn.Name = "decisionBtn";
-            decisionBtn.Size = new Size(120, 59);
+            decisionBtn.Size = new Size(301, 59);
             decisionBtn.TabIndex = 2;
-            decisionBtn.Text = "Keresés";
+            decisionBtn.Text = "Van egyéni rendszám?";
             decisionBtn.UseVisualStyleBackColor = true;
             decisionBtn.Click += decisionBtn_Click;
-            // 
-            // radioButton6
-            // 
-            radioButton6.AutoSize = true;
-            radioButton6.Location = new Point(6, 56);
-            radioButton6.Name = "radioButton6";
-            radioButton6.Size = new Size(175, 24);
-            radioButton6.TabIndex = 1;
-            radioButton6.TabStop = true;
-            radioButton6.Text = "Nincs 'saját' rendszám";
-            radioButton6.UseVisualStyleBackColor = true;
-            // 
-            // customPlate
-            // 
-            customPlate.AutoSize = true;
-            customPlate.Checked = true;
-            customPlate.Location = new Point(6, 26);
-            customPlate.Name = "customPlate";
-            customPlate.Size = new Size(163, 24);
-            customPlate.TabIndex = 0;
-            customPlate.TabStop = true;
-            customPlate.Text = "Van 'saját' rendszám";
-            customPlate.UseVisualStyleBackColor = true;
             // 
             // avgLbl
             // 
@@ -345,12 +321,12 @@
             Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
-            Controls.Add(dataGridView1);
+            Controls.Add(mainDataGrid);
             MaximizeBox = false;
             Name = "Form1";
             Text = "Városlátogatás kiértékelő";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)mainDataGrid).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -358,22 +334,22 @@
             groupBox3.ResumeLayout(false);
             groupBox3.PerformLayout();
             groupBox4.ResumeLayout(false);
-            groupBox4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewBS).EndInit();
+            ((System.ComponentModel.ISupportInitialize)plateSelectBS).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
+        private DataGridView mainDataGrid;
         private DataGridViewTextBoxColumn platenumber;
         private DataGridViewTextBoxColumn name;
         private DataGridViewTextBoxColumn age;
         private DataGridViewTextBoxColumn city;
         private DataGridViewTextBoxColumn score;
         private GroupBox groupBox1;
-        private TextBox textBox1;
+        private TextBox countTextbox;
         private Label label1;
         private Button countBtn;
         private RadioButton countBelowRadio;
@@ -387,12 +363,11 @@
         private GroupBox groupBox3;
         private Button searchBtn;
         private Label label4;
-        private TextBox textBox2;
+        private TextBox searchPlateTextbox;
         private GroupBox groupBox4;
         private Button decisionBtn;
-        private RadioButton radioButton6;
-        private RadioButton customPlate;
         private Label avgLbl;
-        private BindingSource bindingSource1;
+        private BindingSource dataGridViewBS;
+        private BindingSource plateSelectBS;
     }
 }
