@@ -40,7 +40,7 @@
 		- Ausztria részesedése 70%  
 		- Magyarország részesedése 30%  
 ## Törvényhozás  
-- Mindkétország közös ügyeken kívül önálló, kétkamarás törvényhozással és saját felelős kormánnyal rendelkezett  
+- Mindkét ország közös ügyeken kívül önálló, kétkamarás törvényhozással és saját felelős kormánnyal rendelkezett  
 - Az országgyűlést cenzusos választójog alapján választották  
 - A két ország belpolitikáját egymástól függetlenül irányíthatta  
 	- Közigazgatás  
