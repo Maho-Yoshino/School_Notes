@@ -5,7 +5,7 @@
 ## Főbb politikai kérdések a hazánkban  
 ### Fontolva haladók (Konzervatívizmus)  
 1. Nyelvkérdés  
-	- Magyar legyen  
+	- Magyar legyen (1844-ben megvalósult)  
 2. Jobbágykérdés  
 	- Önkéntes örökváltság  
 3. Ausztriához viszony  

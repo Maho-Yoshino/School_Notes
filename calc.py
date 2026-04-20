@@ -1,8 +1,7 @@
 from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r, factorial as fact
-import pyperclip, re, traceback
-replace_dict = {
+import pyperclip, re
+regular_replace = {
 	"\\^":"**",
-	r"√\(([^()]+)\)":r"sqrt({0})",
 	"π":"pi",
 	"=":"==",
 	"≥":">=",
@@ -11,9 +10,12 @@ replace_dict = {
 	"〗":"",
 	"〖":"",
 	"±":"+-",
-	r"(\d+|\([^()]+\))!":r"fact({0})"
 }
-def root(x:int|float,n:int|float=2): return x**(1/n)
+regex_replace = {
+	r"([0-9]+|)√(\(([^()]+)\)|[0-9]+)":r"root({result:2}, {result:1})",
+	r"(\d+|\([^()]+\))!":r"fact({result:1})"
+}
+def root(x:int|float,n:int|float|None=2): return x**(1/n) if n else sqrt(x)
 def sind(degrees:int|float): return sin(d2r(degrees))
 def cosd(degrees:int|float): return cos(d2r(degrees))
 def tand(degrees:int|float): return tan(d2r(degrees))
@@ -85,15 +87,16 @@ while True:
 				equation_split[0] = eq(int(equation_split[0].split("(")[1].split(")")[0])) if not equation_split[0].__contains__("eq()") else eq()
 			equation = eval(f"rep(\"{equation_split[0]}\",{','.join(equation_split[1:])})")
 		try:
-			for pattern, replacement in replace_dict.items():
-				if r"{0}" in replacement:
-					equation = re.sub(
-						pattern,
-						lambda m: replacement.replace(r"{0}", m.group(2)),
-						equation
-					)
-				else:
-					equation = re.sub(pattern, replacement, equation)
+			for pattern, replacement in regular_replace.items():
+				equation = equation.replace(pattern, replacement)
+			for pattern, replacement in regex_replace.items():
+				group_number = re.search(r"{result:([0-9]+)}", replacement, flags=re.IGNORECASE).group(1)
+				equation = re.sub(
+					pattern=pattern,
+					repl=lambda m: replacement.replace(r"{result:[0-9]+}", m.group(group_number)),
+					string=equation,
+					count=-1
+				)
 			if raw:
 				equation = re.sub(r"\b-r\b", "", equation)
 				print(finished_eq := str(equation))
