@@ -1,0 +1,20 @@
+#cookieAblak {
+	inset-block-start: auto;
+	width: 50%;
+	margin-left: auto;
+	margin-right: 0;
+	height: 300px;
+	animation: robbanas 3s forwards;
+	background: #2A7B9B;
+	background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+@keyframes robbanas {
+	0% {
+		opacity: 0;
+		transform: scale(10);
+	}
+	100% {
+		opacity: 1;
+		transform: scale(1);
+	}
+}

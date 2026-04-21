@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Házi cuccos</title>
+	<style>
+		.box {
+			width: 250px;
+			height: 250px;
+			margin-bottom: 100vh;
+			opacity: 0;
+			transition: opacity 1s, transform 2s;
+			transform: translate(0, 0);
+		}
+		.animation {
+			opacity: 1;
+			transform: translate(200px, 50px);
+		}
+	</style>
+</head>
+<body>
+	<div class="box"><img src="https://picsum.photos/id/1015/600/300" alt="Kép 1"></div>
+	<div class="box"><img src="https://picsum.photos/id/1025/600/300" alt="Kép 2"></div>
+	<div class="box"><img src="https://picsum.photos/id/1035/600/300" alt="Kép 3"></div>
+	<div class="box"><img src="https://picsum.photos/id/1045/600/300" alt="Kép 4"></div>
+	<div class="box"><img src="https://picsum.photos/id/1055/600/300" alt="Kép 5"></div>
+	<script>
+		const dobozok = document.querySelectorAll(".box")
+		const observer = new IntersectionObserver( (elements) => {
+			elements.forEach(element => {
+				if (element.isIntersecting) {
+					element.target.classList.add("animation")
+				}
+				else {
+					element.target.classList.remove("animation")
+				}
+			})
+		}, { threshold: 0.5 })
+		dobozok.forEach( element => {
+			observer.observe(element)
+		})
+	</script>
+</body>
+</html>

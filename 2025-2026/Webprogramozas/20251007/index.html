@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Rólam</title>
+	<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="select-none">
+	<nav class="flex-justify between items-center p-4 bg-gray-300 h-20">
+		<ul id="menu" class="md:flex gap-4 md:static absolute top-20 bg-inherit left-0 md:w-auto">
+			<li><a href="">Kezdőlap</a></li>
+			<li><a href="">GYIK</a></li>
+			<li><a href="">Árlista</a></li>
+			<li><a href="">Kapcsolat</a></li>
+		</ul>
+		<svg xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 640 640"><!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+			<path
+				d="M96 160C96 142.3 110.3 128 128 128L512 128C529.7 128 544 142.3 544 160C544 177.7 529.7 192 512 192L128 192C110.3 192 96 177.7 96 160zM96 320C96 302.3 110.3 288 128 288L512 288C529.7 288 544 302.3 544 320C544 337.7 529.7 352 512 352L128 352C110.3 352 96 337.7 96 320zM544 480C544 497.7 529.7 512 512 512L128 512C110.3 512 96 497.7 96 480C96 462.3 110.3 448 128 448L512 448C529.7 448 544 462.3 544 480z" />
+		</svg>
+	</nav>
+	<script>
+		let isOpen = false
+		let menu = document.getElementById("menu")
+		function openMenu() {
+			if (isOpen) {
+				menu.classList.remove("hidden")
+			}
+			else {
+				menu.classList.add("hidden")
+			}
+			isOpen = !isOpen
+		}
+	</script>
+	<h1 class="text-5xl text-center">Rólam</h1>
+	<img src="image.png" alt="Rólam" class="size-80 m-auto shadow-lg rounded-full pt-15">
+	<p class="m-auto text-center p-15">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat vero eligendi saepe quaerat eum voluptate quod provident excepturi consequuntur ab distinctio doloremque ut quas id consectetur aspernatur, est ratione voluptatibus.</p>
+	<h2 class="text-2xl text-center">Kedvenc Hobbik</h2>
+	<ul class="self-center m-auto p-15 list-disc">
+		<li>Videójátékok játszása</li>
+		<li>Programozás</li>
+		<li>Anyámmal sütés</li>
+	</ul>
+</body>
+</html>

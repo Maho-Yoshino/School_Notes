@@ -1,0 +1,21 @@
+.doboz {
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    margin-bottom: 100vh; /* a képernyő magasságának a 100%-a */
+    opacity: 0;
+    transition: opacity 1.5s, background-color 1.5s, transform 2.5s;
+    transform: translateX(0); /* marad a helyén*/
+}
+
+/* .kek {
+    background-color: blue;
+} */
+.elem {
+    margin-bottom: 100vh;
+}
+.animacio {
+    opacity: 1;
+    background-color: cyan;
+    transform: translateX(200px);
+}

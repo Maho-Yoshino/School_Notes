@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random User</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+    <div id="content" class="p-5 relative flex flex-row">
+        <img class="h-[76px] w-[76px] rounded-sm flex-none shrink-0">
+        <div class="px-15 pt-5 flex flex-col">
+            <h1 id="name" class="font-bold"></h1>
+            <p id="country"></p>
+            <p id="email" class="pt-10"></p>
+            <p id="tel"></p>
+            <p id="location" class="pt-10"></p>
+        </div>
+        <a id="maps" href="" target="_blank" class="absolute right-5 bottom-10">
+            <img src="https://infojegyzet.hu/webszerkesztes/php/restapi/maps.ico" alt="maps">
+        </a>
+    </div>
+    <script>
+        API_URL = "https://randomuser.me/api/"
+        user = fetch(API_URL)
+        .then(data => data.json())
+        .then(data => {main(data)})
+        .catch(e => console.log("Error in fetch: "+e))
+        function main(data) {
+            results = data.results[0]
+            // div bg
+            div = document.getElementById("content")
+            div.style.border = `1px solid ${(results.gender === "female") ? "#600":"#006"}`
+            div.style["background-color"] = (results.gender === "female") ? "#FCC" : "#CCF"
+            div.style.width = "800px"
+            // Image
+            img = document.querySelector("div#content>img")
+            img.src = results.picture.medium
+            img.style.border = `2px solid ${(results.gender === "female") ? "#600":"#006"}`
+            // Name
+            document.getElementById("name").innerText = `${results.name.title} ${results.name.first} ${results.name.last}`
+            // Maps location and country
+            document.getElementById("country").innerText = `from ${results.location.country}`
+            document.getElementById("maps").href = `https://www.google.com/maps/place/${`${results.location.city},%20${results.location.country}`}/`
+            // Email
+            document.getElementById("email").innerText = results.email
+            // Tel
+            document.getElementById("tel").innerText = results.cell  
+            // Location
+            document.getElementById("location").innerText = `${results.location.street.number} ${results.location.street.name}\n${results.location.city}, ${results.location.state}\n${results.location.country}`
+        }
+    </script>
+</body>
+</html>

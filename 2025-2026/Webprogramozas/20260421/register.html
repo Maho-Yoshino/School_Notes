@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<form action="" method="post" style="width: 400px; margin: 0 auto;" id="registerForm">
+		<fieldset style="display: flex; flex-direction: column;">
+			Felhasználónév
+			<input type="text" id="username">
+			Email cím
+			<input type="email" id="email">
+			Jelszó
+			<input type="password" id="password">
+			Jelszó megerősítés
+			<input type="password" id="confirmPassword">
+			
+			<input type="button" value="Regisztrálok" id="submitButton" style="padding: 15px 0; margin-top: 15px;" onclick="register()">
+		</fieldset>
+	</form>
+
+	<script>
+		const selectorRoot = "form#registerForm>fieldset>"
+		function register() {
+
+			const username = CheckItem("input#username")
+			const emailAddr = CheckItem("input#email")
+			const password1 = CheckItem("input#email")
+			const password2 = CheckItem("input#email")
+			if (username == null || emailAddr == null || password1 == null || password2 == null) {
+				return
+			}
+			if (password1 != password2) {
+				alert("A két jelszó nem egyezik meg")
+				return
+			}
+		}
+		function CheckItem(elementQuery) {
+			const element = document.querySelector(selectorRoot + elementQuery)
+			const value = element.value
+			if (value == 0 || value == "") {
+				alert("Nem lehet üres a mező!")
+				return null
+			}
+			return value
+		}
+	</script>
+</body>
+</html>

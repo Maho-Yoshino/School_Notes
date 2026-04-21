@@ -490,9 +490,6 @@ $RECYCLE.BIN/
 *.ggb
 *.pdf
 
-# Ignore Adatbázis kezelés and Szoftver tesztelés documents
-*/AdatbazisKezeles/20*.docx
-Szoftverteszteles.docx
 # Archive files
 *.zip
 *.7z

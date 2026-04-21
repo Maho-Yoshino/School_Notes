@@ -1,0 +1,9 @@
+body {
+	background-color: white;
+	color: black;
+	transition: all 1s ease-in;
+}
+body.sotet {
+	background-color: rgb(50, 50, 50);
+	color: white;
+}

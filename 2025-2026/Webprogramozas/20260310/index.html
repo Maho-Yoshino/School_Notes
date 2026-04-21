@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Document</title>
+</head>
+<body>
+	<dialog id="cookieAblak">
+		<h1>Fogadd el a sütiket!</h1><br>
+
+		<button id="elfogad">Elfogadom</button>
+
+		<button id="elutasit">Nem fogadom el</button>
+
+	</dialog>
+
+	<script>
+		const cookieAblak = document.getElementById("cookieAblak")
+		const cookieElfogadva = document.cookie.split('=')[1]
+		const popupTimeout = setTimeout(() => cookieAblak.showModal(), 3000)
+		if (cookieElfogadva)
+			clearTimeout(popupTimeout)
+		const elfogadGomb = document.getElementById("elfogad")
+		elfogadGomb.onclick = function() {
+			document.cookie = `cookieElfogadva=${true}; max-age=${60 * 60 * 24}; path="/"`
+			cookieAblak.close()
+		}
+		const elutasitGomb = document.getElementById("elutasit");
+		elutasitGomb.onclick = () => cookieAblak.close()
+	</script>
+</body>
+</html>
