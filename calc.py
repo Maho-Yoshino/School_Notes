@@ -1,7 +1,8 @@
 from math import sqrt, sin, cos, tan, log, pi, floor, ceil, degrees as r2d, log10 as lg, asin, acos, atan, radians as d2r, factorial as fact
 import pyperclip, re
 regular_replace = {
-	"\\^":"**",
+	"^":"**",
+	" XOR ": "^",
 	"π":"pi",
 	"=":"==",
 	"≥":">=",
@@ -77,6 +78,8 @@ while True:
 			elif not equation and not prev_eq:
 				print("No previous equation to copy.")
 				continue
+		if prev_eq and "ANS" in equation:
+			equation = equation.replace("ANS", prev_eq)
 		if re.search(r"rep\((.+)\)", equation) is not None:
 			equation_split = extract_rep_content(equation).split(",")
 			if equation_split[0].count("(") != equation_split[0].count(")"):
@@ -91,6 +94,7 @@ while True:
 				equation = equation.replace(pattern, replacement)
 			for pattern, replacement in regex_replace.items():
 				group_number = re.search(r"{result:([0-9]+)}", replacement, flags=re.IGNORECASE).group(1)
+				if not group_number: continue
 				equation = re.sub(
 					pattern=pattern,
 					repl=lambda m: replacement.replace(r"{result:[0-9]+}", m.group(group_number)),
