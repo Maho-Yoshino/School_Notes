@@ -1,3 +1,6 @@
+using System.Reflection.Metadata.Ecma335;
+using System.Runtime.InteropServices.Marshalling;
+
 namespace fel_20260422
 {
     /*
@@ -11,17 +14,38 @@ namespace fel_20260422
     public partial class Form1 : Form
     {
         List<Rekord> osszesRekord = new List<Rekord>();
+        List<Rekord> visibleRecords = new List<Rekord>();
         private bool readMagyarFile = false;
         private bool readMatekFile = false;
         public Form1()
         {
             string projectRootDir = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
             InitializeComponent();
+            inputNameListDialog.InitialDirectory = projectRootDir;
             inputFileMagyarDialog.InitialDirectory = projectRootDir;
             inputFileMatekDialog.InitialDirectory = projectRootDir;
             saveFileDialog.InitialDirectory = projectRootDir;
             saveFileDialog.FileName = "output.txt";
+            mainDataView.DataSource = visibleRecords;
         }
+        #region Helpers
+        private enum SortingMethods { BubbleSort, QuickSort }
+        private IEnumerable<T> sort<T>(IEnumerable<T> obj, Func<T, object> selectBy, SortingMethods method = SortingMethods.BubbleSort)
+        {
+            if (method == SortingMethods.BubbleSort)
+            {
+
+            }
+            else if (method == SortingMethods.QuickSort)
+            {
+
+            }
+            else
+            {
+                throw new ArgumentException($"Invalid sorting algorithm '{method}' given");
+            }
+        }
+        #endregion
         #region Input
         private void inputNameListBtn_Click(object sender, EventArgs e)
         {
@@ -29,7 +53,6 @@ namespace fel_20260422
             if (result != DialogResult.OK) return;
             string filePath = inputNameListDialog.FileName;
             if (!File.Exists(filePath)) return;
-            inputNameListFilename.Text = $"Névlista fájl: {filePath}";
             osszesRekord.Clear();
             foreach (string row in File.ReadAllLines(filePath))
             {
@@ -45,26 +68,23 @@ namespace fel_20260422
             if (result != DialogResult.OK) return;
             string filePath = inputFileMagyarDialog.FileName;
             if (!File.Exists(filePath)) return;
-            inputFileMagyarFilename.Text = $"Magyaros fájl: {filePath}";
+            string[] fileContent = File.ReadAllLines(filePath);
             foreach (Rekord rekord in osszesRekord)
             {
-                if (!File.ReadAllLines(filePath).Contains(rekord.nev)) continue;
-                switch (rekord.resztvetel)
+                if (!fileContent.Contains(rekord.Nev)) continue;
+                switch (rekord.Resztvetel)
                 {
                     case Rekord.ResztvetelEnum.None:
-                        rekord.resztvetel = Rekord.ResztvetelEnum.Magyar;
+                        rekord.Resztvetel = Rekord.ResztvetelEnum.Magyar;
                         break;
                     case Rekord.ResztvetelEnum.Matek:
-                        rekord.resztvetel = Rekord.ResztvetelEnum.Both;
+                        rekord.Resztvetel = Rekord.ResztvetelEnum.Both;
                         break;
                 }
             }
             inputFileMagyarBtn.Enabled = false;
             readMagyarFile = true;
-            if (readMagyarFile && readMatekFile)
-            {
-
-            }
+            tryEnableUI();
         }
         private void inputFileMatekBtn_Click(object sender, EventArgs e)
         {
@@ -72,26 +92,31 @@ namespace fel_20260422
             if (result != DialogResult.OK) return;
             string filePath = inputFileMatekDialog.FileName;
             if (!File.Exists(filePath)) return;
-            inputFileMatekFilename.Text = $"Matekos fájl: {filePath}";
+            string[] fileContent = File.ReadAllLines(filePath);
             foreach (Rekord rekord in osszesRekord)
             {
-                if (!File.ReadAllLines(filePath).Contains(rekord.nev)) continue;
-                switch (rekord.resztvetel)
+                if (!fileContent.Contains(rekord.Nev)) continue;
+                switch (rekord.Resztvetel)
                 {
                     case Rekord.ResztvetelEnum.None:
-                        rekord.resztvetel = Rekord.ResztvetelEnum.Matek;
+                        rekord.Resztvetel = Rekord.ResztvetelEnum.Matek;
                         break;
                     case Rekord.ResztvetelEnum.Magyar:
-                        rekord.resztvetel = Rekord.ResztvetelEnum.Both;
+                        rekord.Resztvetel = Rekord.ResztvetelEnum.Both;
                         break;
                 }
             }
             inputFileMatekBtn.Enabled = false;
             readMatekFile = true;
-            if (readMagyarFile && readMatekFile)
-            {
-
-            }
+            tryEnableUI();
+        }
+        private void tryEnableUI()
+        {
+            if (!readMagyarFile || !readMatekFile) return;
+            filterGB.Enabled = true;
+            searchGB.Enabled = true;
+            outputToFileBtn.Enabled = true;
+            mainDataView.Enabled = true;
         }
         #endregion
         #region Output
@@ -103,31 +128,43 @@ namespace fel_20260422
         #region Search
         private void searchBtn_Click(object sender, EventArgs e)
         {
-
+            List<Rekord> sortedList = new List<Rekord>(); 
+                        
         }
         #endregion
         #region Filter
         private void unionFilterBtn_Click(object sender, EventArgs e)
         {
-
+            unionFilterBtn.Enabled = false;
+            visibleRecords.Clear();
+            visibleRecords = osszesRekord.Where(rekord => rekord.Resztvetel != Rekord.ResztvetelEnum.None).ToList();
+            mainDataView.Refresh();
+            unionFilterBtn.Enabled = true;
         }
 
         private void intersectionFilterBtn_Click(object sender, EventArgs e)
         {
-
+            intersectionFilterBtn.Enabled = false;
+            visibleRecords.Clear();
+            visibleRecords = osszesRekord.Where(rekord => rekord.Resztvetel == Rekord.ResztvetelEnum.Both).ToList();
+            mainDataView.Refresh();
+            intersectionFilterBtn.Enabled = true;
         }
-
+        private void clearFilterBtn_Click(object sender, EventArgs e)
+        {
+            visibleRecords = osszesRekord;
+            mainDataView.Refresh();
+        }
         #endregion
-
     }
     class Rekord
     {
         public enum ResztvetelEnum { None, Magyar, Matek, Both }
-        public string nev;
-        public ResztvetelEnum resztvetel { get; set; } = ResztvetelEnum.None;
+        public string Nev { get; set; }
+        public ResztvetelEnum Resztvetel { get; set; } = ResztvetelEnum.None;
         public Rekord(string name)
         {
-            nev = name;
+            Nev = name;
         }
     }
 }

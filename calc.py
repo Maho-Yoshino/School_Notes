@@ -93,16 +93,11 @@ while True:
 			for pattern, replacement in regular_replace.items():
 				equation = equation.replace(pattern, replacement)
 			for pattern, replacement in regex_replace.items():
-				group_number = re.search(r"{result:([0-9]+)}", replacement, flags=re.IGNORECASE).group(1)
-				if not group_number: continue
-				equation = re.sub(
-					pattern=pattern,
-					repl=lambda m: replacement.replace(r"{result:[0-9]+}", m.group(group_number)),
-					string=equation,
-					count=-1
-				)
+				for result in re.finditer(r"{result:([0-9]+)}", replacement, flags=re.IGNORECASE):
+					group_number = result.group(1)
+					# TODO: Megcsinálni a regexezést
 			if raw:
-				equation = re.sub(r"\b-r\b", "", equation)
+				equation = re.sub(r"\b-(r|rc|cr)\b", "", equation)
 				print(finished_eq := str(equation))
 			elif "+-" in equation:
 				print(finished_eq := str(round(eval(equation.replace("+-", "+")), round_val)) + "(+), " + str(eval(equation.replace("+-", "-"))) + "(-)")

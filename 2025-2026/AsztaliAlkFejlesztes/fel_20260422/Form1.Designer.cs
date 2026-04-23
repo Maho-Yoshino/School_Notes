@@ -30,12 +30,9 @@
         {
             inputFileMagyarDialog = new OpenFileDialog();
             inputFileMatekDialog = new OpenFileDialog();
-            this.inputFileMagyarBtn = new Button();
-            inputFileMagyarFilename = new Label();
+            inputFileMagyarBtn = new Button();
             groupBox1 = new GroupBox();
             inputNameListBtn = new Button();
-            inputNameListFilename = new Label();
-            inputFileMatekFilename = new Label();
             inputFileMatekBtn = new Button();
             mainDataView = new DataGridView();
             name = new DataGridViewTextBoxColumn();
@@ -44,10 +41,10 @@
             unionFilterBtn = new Button();
             intersectionFilterBtn = new Button();
             filterGB = new GroupBox();
+            clearFilterBtn = new Button();
             searchGB = new GroupBox();
             searchBtn = new Button();
             searchNameInput = new TextBox();
-            label1 = new Label();
             saveFileDialog = new SaveFileDialog();
             outputToFileBtn = new Button();
             inputNameListDialog = new OpenFileDialog();
@@ -59,43 +56,31 @@
             // 
             // inputFileMagyarDialog
             // 
-            inputFileMagyarDialog.FileName = "input1.txt";
+            inputFileMagyarDialog.FileName = "magyarSzakkor.txt";
             // 
             // inputFileMatekDialog
             // 
-            inputFileMatekDialog.FileName = "input2.txt";
+            inputFileMatekDialog.FileName = "matekSzakkor.txt";
             // 
             // inputFileMagyarBtn
             // 
-            this.inputFileMagyarBtn.Enabled = false;
-            this.inputFileMagyarBtn.Location = new Point(6, 105);
-            this.inputFileMagyarBtn.Name = "inputFileMagyarBtn";
-            this.inputFileMagyarBtn.Size = new Size(204, 29);
-            this.inputFileMagyarBtn.TabIndex = 0;
-            this.inputFileMagyarBtn.Text = "Magyar fájl kiválasztása";
-            this.inputFileMagyarBtn.UseVisualStyleBackColor = true;
-            this.inputFileMagyarBtn.Click += this.inputFileMagyarBtn_Click;
-            // 
-            // inputFileMagyarFilename
-            // 
-            inputFileMagyarFilename.AutoSize = true;
-            inputFileMagyarFilename.Location = new Point(6, 172);
-            inputFileMagyarFilename.Name = "inputFileMagyarFilename";
-            inputFileMagyarFilename.Size = new Size(112, 20);
-            inputFileMagyarFilename.TabIndex = 1;
-            inputFileMagyarFilename.Text = "Magyaros fájl: -";
+            inputFileMagyarBtn.Enabled = false;
+            inputFileMagyarBtn.Location = new Point(6, 84);
+            inputFileMagyarBtn.Name = "inputFileMagyarBtn";
+            inputFileMagyarBtn.Size = new Size(204, 29);
+            inputFileMagyarBtn.TabIndex = 0;
+            inputFileMagyarBtn.Text = "Magyar fájl kiválasztása";
+            inputFileMagyarBtn.UseVisualStyleBackColor = true;
+            inputFileMagyarBtn.Click += inputFileMagyarBtn_Click;
             // 
             // groupBox1
             // 
             groupBox1.Controls.Add(inputNameListBtn);
-            groupBox1.Controls.Add(inputNameListFilename);
-            groupBox1.Controls.Add(inputFileMatekFilename);
             groupBox1.Controls.Add(inputFileMatekBtn);
-            groupBox1.Controls.Add(this.inputFileMagyarBtn);
-            groupBox1.Controls.Add(inputFileMagyarFilename);
+            groupBox1.Controls.Add(inputFileMagyarBtn);
             groupBox1.Location = new Point(572, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(216, 215);
+            groupBox1.Size = new Size(216, 160);
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
             groupBox1.Text = "Beviteli Adatok";
@@ -110,28 +95,10 @@
             inputNameListBtn.UseVisualStyleBackColor = true;
             inputNameListBtn.Click += inputNameListBtn_Click;
             // 
-            // inputNameListFilename
-            // 
-            inputNameListFilename.AutoSize = true;
-            inputNameListFilename.Location = new Point(6, 58);
-            inputNameListFilename.Name = "inputNameListFilename";
-            inputNameListFilename.Size = new Size(101, 20);
-            inputNameListFilename.TabIndex = 4;
-            inputNameListFilename.Text = "Névlista Fájl: -";
-            // 
-            // inputFileMatekFilename
-            // 
-            inputFileMatekFilename.AutoSize = true;
-            inputFileMatekFilename.Location = new Point(6, 192);
-            inputFileMatekFilename.Name = "inputFileMatekFilename";
-            inputFileMatekFilename.Size = new Size(103, 20);
-            inputFileMatekFilename.TabIndex = 3;
-            inputFileMatekFilename.Text = "Matekos fájl: -";
-            // 
             // inputFileMatekBtn
             // 
             inputFileMatekBtn.Enabled = false;
-            inputFileMatekBtn.Location = new Point(6, 140);
+            inputFileMatekBtn.Location = new Point(6, 119);
             inputFileMatekBtn.Name = "inputFileMatekBtn";
             inputFileMatekBtn.Size = new Size(204, 29);
             inputFileMatekBtn.TabIndex = 2;
@@ -149,10 +116,12 @@
             mainDataView.ColumnHeadersHeight = 29;
             mainDataView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             mainDataView.Columns.AddRange(new DataGridViewColumn[] { name, magyarSzakkor, matekSzakkor });
+            mainDataView.Enabled = false;
             mainDataView.Location = new Point(12, 12);
             mainDataView.Name = "mainDataView";
+            mainDataView.AutoGenerateColumns = false;
             mainDataView.RowHeadersWidth = 51;
-            mainDataView.Size = new Size(554, 418);
+            mainDataView.Size = new Size(554, 383);
             mainDataView.TabIndex = 3;
             // 
             // name
@@ -201,30 +170,42 @@
             // 
             // filterGB
             // 
+            filterGB.Controls.Add(clearFilterBtn);
             filterGB.Controls.Add(unionFilterBtn);
             filterGB.Controls.Add(intersectionFilterBtn);
-            filterGB.Location = new Point(572, 233);
+            filterGB.Enabled = false;
+            filterGB.Location = new Point(572, 178);
             filterGB.Name = "filterGB";
-            filterGB.Size = new Size(216, 101);
+            filterGB.Size = new Size(216, 147);
             filterGB.TabIndex = 6;
             filterGB.TabStop = false;
             filterGB.Text = "Szűrés";
+            // 
+            // clearFilterBtn
+            // 
+            clearFilterBtn.Location = new Point(6, 112);
+            clearFilterBtn.Name = "clearFilterBtn";
+            clearFilterBtn.Size = new Size(204, 29);
+            clearFilterBtn.TabIndex = 6;
+            clearFilterBtn.Text = "Szűrés törlése";
+            clearFilterBtn.UseVisualStyleBackColor = true;
+            clearFilterBtn.Click += clearFilterBtn_Click;
             // 
             // searchGB
             // 
             searchGB.Controls.Add(searchBtn);
             searchGB.Controls.Add(searchNameInput);
-            searchGB.Controls.Add(label1);
-            searchGB.Location = new Point(572, 340);
+            searchGB.Enabled = false;
+            searchGB.Location = new Point(572, 331);
             searchGB.Name = "searchGB";
-            searchGB.Size = new Size(216, 125);
+            searchGB.Size = new Size(216, 99);
             searchGB.TabIndex = 7;
             searchGB.TabStop = false;
             searchGB.Text = "Keresés";
             // 
             // searchBtn
             // 
-            searchBtn.Location = new Point(6, 79);
+            searchBtn.Location = new Point(6, 59);
             searchBtn.Name = "searchBtn";
             searchBtn.Size = new Size(204, 29);
             searchBtn.TabIndex = 2;
@@ -234,23 +215,16 @@
             // 
             // searchNameInput
             // 
-            searchNameInput.Location = new Point(6, 46);
+            searchNameInput.Location = new Point(6, 26);
             searchNameInput.Name = "searchNameInput";
+            searchNameInput.PlaceholderText = "Név";
             searchNameInput.Size = new Size(204, 27);
             searchNameInput.TabIndex = 1;
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(6, 23);
-            label1.Name = "label1";
-            label1.Size = new Size(42, 20);
-            label1.TabIndex = 0;
-            label1.Text = "Érték";
-            // 
             // outputToFileBtn
             // 
-            outputToFileBtn.Location = new Point(12, 436);
+            outputToFileBtn.Enabled = false;
+            outputToFileBtn.Location = new Point(12, 401);
             outputToFileBtn.Name = "outputToFileBtn";
             outputToFileBtn.Size = new Size(554, 29);
             outputToFileBtn.TabIndex = 8;
@@ -266,16 +240,17 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 477);
+            ClientSize = new Size(800, 442);
             Controls.Add(outputToFileBtn);
             Controls.Add(searchGB);
             Controls.Add(filterGB);
             Controls.Add(mainDataView);
             Controls.Add(groupBox1);
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
             Text = "Szakkör részvétel elemző";
             groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)mainDataView).EndInit();
             filterGB.ResumeLayout(false);
             searchGB.ResumeLayout(false);
@@ -308,5 +283,7 @@
         private Button inputNameListBtn;
         private Label inputNameListFilename;
         private OpenFileDialog inputNameListDialog;
+        private Button button1;
+        private Button clearFilterBtn;
     }
 }
