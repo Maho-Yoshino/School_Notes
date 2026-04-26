@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Fehér- és Fekete doboz tesztelés</title>
+	<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+	<div class="flex flex-col">
+		<h1 class="text-center text-3xl">Fekete és Fehér doboz tesztelés</h1>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQK3WN2OePTTV7aDgEhLmbbuHVFBClAx1O9A&amp;s" alt="Fekete és Fehér doboz tesztelés" class="">
+		<h2 id="fekete-doboz">Fekete doboz</h2>
+		<ul>
+			<li>Más néven &quot;Black box&quot;, vagy &quot;Specifikáció alapú&quot; tesztelés</li>
+			<li>A tesztelt alkalmazás belső szerkezete ismeretlen</li>
+			<li>Csak az a lényeg, ami végül történik</li>
+			<li>Nem igényel programozási tudást</li>
+			<li>Főként szoftvertesztelők hajtják végre</li>
+			<li>A magasabb tesztelési szinteket érinti (Teljesítmény teszt és afeletti szintek)</li>
+		</ul>
+		<h2 id="fehér-doboz">Fehér doboz</h2>
+		<ul>
+			<li>Más néven &quot;White box&quot;, &quot;strukturális&quot;, &quot;glass box&quot; vagy &quot;átlátszó doboz&quot; tesztelés</li>
+			<li>Az alkalmazás forráskódjához hozzáféréssel zajlik</li>
+			<li>Az a lényeg, hogy a kód
+				<ul>
+					<li>Helyesen-e működik</li>
+					<li>Mennyire hatékonyan működik</li>
+					<li>Hogyan működik</li>
+				</ul>
+			</li>
+			<li>Szükséges hozzá a programozási tudás
+				<ul>
+					<li>Tudni kell, hogyan működik a program</li>
+					<li>Általában szoftverfejlesztők hajtják végre</li>
+				</ul>
+			</li>
+			<li>Az egység és integrációs teszteket érinti</li>
+		</ul>
+		<h2 id="különbségek">Különbségek</h2>
+		<table>
+			<thead>
+				<tr>
+					<th>Jellemző</th>
+					<th>Fekete doboz</th>
+					<th>Fehér doboz</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Lényeg</td>
+					<td>Követelmények ellenőrzése</td>
+					<td>Kód helyességének vizsgálata</td>
+				</tr>
+				<tr>
+					<td>Tesztelő</td>
+					<td>Általában szoftvertesztelő</td>
+					<td>Általában szoftverfejlesztő</td>
+				</tr>
+				<tr>
+					<td>Kódolás tudás szükséglet</td>
+					<td>Nem kell</td>
+					<td>Kell</td>
+				</tr>
+				<tr>
+					<td>Kód hozzáférés</td>
+					<td>Nincs</td>
+					<td>Van</td>
+				</tr>
+				<tr>
+					<td>Teszteléshez szükséges idő</td>
+					<td>Rövid</td>
+					<td>Hosszú</td>
+				</tr>
+				<tr>
+					<td>Érintett tesztelési szintek</td>
+					<td>Teljesítmény teszttől felfelé</td>
+					<td>Unit és Integration tesztek</td>
+				</tr>
+				<tr>
+					<td>Hátrányok</td>
+					<td>Részek kimaradhatnak</td>
+					<td>Sűrűn kell frissíteni</td>
+				</tr>
+			</tbody>
+		</table>
+		<h1 id="források">Források</h1>
+		<ul>
+			<li><a href="https://en.wikipedia.org/wiki/Black-box_testing">Black box wikipédia oldal</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/White-box_testing">White box wikipédia oldal</a></li>
+			<li><a href="https://www.geeksforgeeks.org/software-testing/differences-between-black-box-testing-vs-white-box-testing/">Fekete és Fehér dobozos tesztelés közötti különbségek</a></li>
+		</ul>
+	</div>
+</body>
+</html>
